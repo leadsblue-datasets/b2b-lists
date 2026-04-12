@@ -107,15 +107,15 @@ validRows.forEach((row) => {
     "@type": "WebPage",
     "name": "Buy " + name + " | " + location + " B2B Email Database",
     "description": "Buy " + name + ". Access verified business contacts in " + location + " for lead generation, sales outreach, and targeted marketing campaigns.",
-    "url": "https://leadsblue.com/data-pages/" + slug + "/",
-    "isPartOf": { "@type": "WebSite", "name": "LeadsBlue", "url": "https://leadsblue.com" },
+    "url": baseUrl + "/data-pages/" + slug + "/",
+    "isPartOf": { "@type": "WebSite", "name": "LeadsBlue", "url": baseUrl },
     "about": {
       "@type": "Dataset",
       "name": name,
       "description": name + " is a B2B database of verified business contacts from " + location + " for marketing and outreach.",
       "keywords": keywords.join(", "),
       "spatialCoverage": location,
-      "publisher": { "@type": "Organization", "name": "LeadsBlue", "url": "https://leadsblue.com" }
+      "publisher": { "@type": "Organization", "name": "LeadsBlue", "url": baseUrl }
     }
   }, null, 2);
 
@@ -123,9 +123,9 @@ validRows.forEach((row) => {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://leadsblue.com/" },
-      { "@type": "ListItem", "position": 2, "name": "All Email Lists", "item": "https://leadsblue.com/data-pages/" },
-      { "@type": "ListItem", "position": 3, "name": name, "item": "https://leadsblue.com/data-pages/" + slug + "/" }
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": baseUrl + "/" },
+      { "@type": "ListItem", "position": 2, "name": "All Email Lists", "item": baseUrl + "/data-pages/" },
+      { "@type": "ListItem", "position": 3, "name": name, "item": baseUrl + "/data-pages/" + slug + "/" }
     ]
   }, null, 2);
 
@@ -137,11 +137,11 @@ validRows.forEach((row) => {
   <title>Buy ${name} | ${location} B2B Email Database | LeadsBlue</title>
   <meta name="description" content="Buy ${name}. Access verified business contacts in ${location} for lead generation, cold email outreach, and targeted B2B marketing campaigns. 95%+ deliverability.">
   <meta name="keywords" content="${keywords.join(", ")}, buy b2b email list, business email database, ${location.toLowerCase()} business leads, company contacts ${location.toLowerCase()}">
-  <link rel="canonical" href="https://leadsblue.com/data-pages/${slug}/">
+  <link rel="canonical" href="${baseUrl}/data-pages/${slug}/">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Buy ${name} | ${location} B2B Email Database">
   <meta property="og:description" content="Verified B2B business contacts in ${location} for cold email, lead generation, and targeted outreach. Download and start prospecting today.">
-  <meta property="og:url" content="https://leadsblue.com/data-pages/${slug}/">
+  <meta property="og:url" content="${baseUrl}/data-pages/${slug}/">
   <meta property="og:site_name" content="LeadsBlue">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Buy ${name} | LeadsBlue">
