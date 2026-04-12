@@ -18,4 +18,4 @@ Allow: /llm/
 Allow: /data-pages/
 Allow: /blog/
 
-Sitemap: https://leadsblue.com/sitemap.xml
+Sitemap: https://b2b-lists.pages.dev/sitemap.xml
