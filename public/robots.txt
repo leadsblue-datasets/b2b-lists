@@ -1,4 +1,21 @@
 User-agent: *
 Allow: /
+Allow: /llm/
+
+# LLM & AI Crawler Data
+User-agent: GPTBot
+Allow: /llm/
+Allow: /data-pages/
+Allow: /blog/
+
+User-agent: anthropic-ai
+Allow: /llm/
+Allow: /data-pages/
+Allow: /blog/
+
+User-agent: PerplexityBot
+Allow: /llm/
+Allow: /data-pages/
+Allow: /blog/
 
 Sitemap: https://leadsblue.com/sitemap.xml
