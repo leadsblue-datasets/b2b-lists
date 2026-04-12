@@ -11,7 +11,7 @@ if (!fs.existsSync(llmDir)) fs.mkdirSync(llmDir, { recursive: true });
 let faqDataset = [];
 let allPages = [];
 
-const baseUrl = "https://leadsblue.com";
+const baseUrl = "https://b2b-lists.pages.dev";
 const today = new Date().toISOString().split("T")[0];
 
 const validRows = rows.slice(1).filter(row => row.trim());
@@ -567,28 +567,176 @@ function tf(btn){
 // -------------------------------------------------------
 // FEATURE 1 — BROWSE INDEX PAGE
 // -------------------------------------------------------
+const browseSchema = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "All B2B Email Lists",
+  "description": "Complete catalog of " + allPages.length + " verified B2B email databases.",
+  "url": baseUrl + "/data-pages/",
+  "publisher": { "@type": "Organization", "name": "LeadsBlue", "url": baseUrl }
+});
+
+const initialShow = Math.min(120, allPages.length);
+const remaining = Math.max(0, allPages.length - 120);
+
+const cardHtml = allPages.map(function(p, i) {
+  return '<a href="/data-pages/' + p.slug + '/"' + (i >= 120 ? ' class="card hidden more-card"' : ' class="card"') + ' data-name="' + p.name.toLowerCase() + '">' +
+    '<span class="card-name">' + p.name + '</span>' +
+    '<div class="card-meta"><span>B2B</span><span class="card-dot">·</span><span>Email List</span></div>' +
+    '</a>';
+}).join("");
+
 const indexHtml = `<!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>All B2B Email Lists | LeadsBlue</title>
-  <meta name="description" content="Browse all available B2B email lists and business contact databases by location. Find targeted leads for your outreach campaigns.">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>All B2B Email Lists & Business Databases | LeadsBlue</title>
+  <meta name="description" content="Browse all ${allPages.length}+ verified B2B email lists and business contact databases by country. Find targeted leads for cold email and lead generation.">
+  <link rel="canonical" href="${baseUrl}/data-pages/">
+  <meta property="og:title" content="All B2B Email Lists | LeadsBlue">
+  <meta property="og:url" content="${baseUrl}/data-pages/">
+  <meta property="og:site_name" content="LeadsBlue">
+  <script type="application/ld+json">${browseSchema}</script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
+    :root{--bg:#0a0f1e;--surf:#111827;--surf2:#1a2235;--bdr:#1e2d45;--acc:#0ea5e9;--acc2:#38bdf8;--txt:#e2e8f0;--muted:#94a3b8;--hf:'DM Serif Display',Georgia,serif;--bf:'IBM Plex Sans','Helvetica Neue',sans-serif;--mf:'IBM Plex Mono',monospace}
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    html{scroll-behavior:smooth}
+    body{background:var(--bg);color:var(--txt);font-family:var(--bf);font-size:16px;line-height:1.7;overflow-x:hidden}
+    a{color:var(--acc2);text-decoration:none}a:hover{color:#fff;text-decoration:underline}
+    .wrap{max-width:1100px;margin:0 auto;padding:0 24px}
+    nav{border-bottom:1px solid var(--bdr);padding:15px 0;position:sticky;top:0;background:rgba(10,15,30,0.93);backdrop-filter:blur(12px);z-index:100}
+    .nav-in{max-width:1100px;margin:0 auto;padding:0 24px;display:flex;align-items:center;justify-content:space-between}
+    .logo{font-family:var(--mf);font-size:17px;font-weight:500;color:#fff;text-decoration:none}.logo span{color:var(--acc)}
+    nav ul{list-style:none;display:flex;gap:24px}
+    nav ul a{color:var(--muted);font-size:13px;font-weight:500}nav ul a:hover{color:#fff;text-decoration:none}
+    .bc{padding:14px 0;font-size:12px;color:var(--muted);font-family:var(--mf)}
+    .bc a{color:var(--muted)}.bc span{margin:0 6px;opacity:.4}
+    .hero{padding:56px 0 44px;position:relative;overflow:hidden}
+    .hero::before{content:'';position:absolute;top:-150px;left:50%;transform:translateX(-50%);width:700px;height:500px;background:radial-gradient(ellipse,rgba(14,165,233,.1) 0%,transparent 70%);pointer-events:none}
+    .tag{display:inline-block;font-family:var(--mf);font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--acc);border:1px solid rgba(14,165,233,.3);padding:4px 11px;border-radius:2px;margin-bottom:20px}
+    h1{font-family:var(--hf);font-size:clamp(30px,5vw,52px);font-weight:400;line-height:1.1;letter-spacing:-.8px;color:#fff;margin-bottom:14px}
+    h1 em{font-style:italic;color:var(--acc2)}
+    .hero-desc{font-size:16px;color:var(--muted);max-width:560px;font-weight:300;margin-bottom:32px}
+    .stats{display:flex;gap:32px;margin-bottom:36px;flex-wrap:wrap}
+    .stat-n{font-family:var(--hf);font-size:28px;color:#fff;display:block}
+    .stat-l{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:1px}
+    .search-wrap{position:relative;max-width:520px;margin-bottom:12px}
+    .search-wrap input{width:100%;background:var(--surf);border:1px solid var(--bdr);border-radius:4px;padding:13px 48px 13px 18px;color:var(--txt);font-family:var(--bf);font-size:14px;outline:none;transition:border-color .2s}
+    .search-wrap input::placeholder{color:var(--muted)}
+    .search-wrap input:focus{border-color:var(--acc)}
+    .s-icon{position:absolute;right:16px;top:50%;transform:translateY(-50%);color:var(--muted);font-size:16px;pointer-events:none}
+    .search-count{font-family:var(--mf);font-size:11px;color:var(--muted);margin-bottom:32px;letter-spacing:.5px}
+    .grid-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:16px;padding-bottom:14px;border-bottom:1px solid var(--bdr)}
+    .grid-head h2{font-family:var(--hf);font-size:24px;font-weight:400;color:#fff;letter-spacing:-.4px}
+    .grid-head span{font-family:var(--mf);font-size:11px;color:var(--muted);letter-spacing:1px}
+    .cards{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:24px}
+    .card{background:var(--surf);border:1px solid var(--bdr);border-radius:4px;padding:16px 18px;transition:border-color .2s,background .2s,transform .15s;display:block}
+    .card:hover{border-color:var(--acc);background:var(--surf2);transform:translateY(-1px);text-decoration:none}
+    .card-name{font-size:13px;font-weight:500;color:var(--txt);line-height:1.4;margin-bottom:5px;display:block}
+    .card:hover .card-name{color:#fff}
+    .card-meta{font-family:var(--mf);font-size:10px;color:var(--muted);display:flex;align-items:center;gap:6px}
+    .card-dot{opacity:.3}
+    .hidden{display:none!important}
+    .load-more{display:block;width:100%;padding:14px;background:var(--surf);border:1px solid var(--bdr);border-radius:4px;color:var(--muted);font-family:var(--bf);font-size:14px;font-weight:500;cursor:pointer;transition:all .2s;margin-bottom:48px;text-align:center}
+    .load-more:hover{border-color:var(--acc);color:var(--acc2);background:var(--surf2)}
+    .cta-b{background:linear-gradient(135deg,var(--surf2),rgba(14,165,233,.07));border:1px solid rgba(14,165,233,.22);border-radius:6px;padding:44px 40px;text-align:center;margin-bottom:64px}
+    .cta-b h2{font-family:var(--hf);font-size:clamp(22px,3vw,32px);font-weight:400;color:#fff;letter-spacing:-.4px;margin-bottom:10px}
+    .cta-b p{color:var(--muted);max-width:440px;margin:0 auto 24px;font-size:14px}
+    .btn-p{background:var(--acc);color:#fff;font-size:14px;font-weight:600;padding:12px 26px;border-radius:3px;display:inline-block;transition:background .2s}
+    .btn-p:hover{background:var(--acc2);color:#fff;text-decoration:none}
+    .btn-g{border:1px solid var(--bdr);color:var(--txt);font-size:14px;padding:11px 22px;border-radius:3px;display:inline-block;margin-left:10px}
+    .btn-g:hover{border-color:var(--acc);color:var(--acc2);text-decoration:none}
+    footer{border-top:1px solid var(--bdr);padding:28px 0}
+    .foot-in{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px}
+    .foot-in p{color:var(--muted);font-size:12px}
+    @media(max-width:900px){.cards{grid-template-columns:repeat(3,1fr)}}
+    @media(max-width:600px){.cards{grid-template-columns:repeat(2,1fr)}.stats{gap:20px}nav ul{display:none}.cta-b{padding:30px 20px}}
+    @media(max-width:380px){.cards{grid-template-columns:1fr}}
+  </style>
 </head>
 <body>
-
-<h1>Browse All Email Lists</h1>
-<p>Explore our full collection of location-targeted B2B email databases for lead generation and outreach.</p>
-
-<ul>
-  ${allPages.map(p => `<li><a href="/data-pages/${p.slug}/">${p.name}</a></li>`).join("\n  ")}
-</ul>
-
+<nav>
+  <div class="nav-in">
+    <a href="/" class="logo">Leads<span>Blue</span></a>
+    <ul>
+      <li><a href="/data-pages/">All Lists</a></li>
+      <li><a href="/blog/">Blog</a></li>
+      <li><a href="/#faq">FAQ</a></li>
+    </ul>
+  </div>
+</nav>
+<div class="wrap">
+  <nav class="bc"><a href="/">Home</a><span>›</span>All Email Lists</nav>
+</div>
+<section class="hero">
+  <div class="wrap">
+    <span class="tag">Complete Catalog</span>
+    <h1>Browse <em>All B2B Email Lists</em></h1>
+    <p class="hero-desc">Every location-targeted business contact database in one place. Search by country, state, or industry to find exactly what you need.</p>
+    <div class="stats">
+      <div class="stat"><span class="stat-n">${allPages.length}</span><span class="stat-l">Total Lists</span></div>
+      <div class="stat"><span class="stat-n">200+</span><span class="stat-l">Countries</span></div>
+      <div class="stat"><span class="stat-n">95%+</span><span class="stat-l">Deliverability</span></div>
+    </div>
+  </div>
+</section>
+<div class="wrap">
+  <div class="search-wrap">
+    <input type="text" id="search" placeholder="Search lists e.g. Alabama, Australia, India..." oninput="filterCards(this.value)" autocomplete="off">
+    <span class="s-icon">⌕</span>
+  </div>
+  <p class="search-count" id="count">Showing ${initialShow} of ${allPages.length} lists</p>
+  <div class="grid-head">
+    <h2>All Email Databases</h2>
+    <span id="grid-count">${allPages.length} LISTS</span>
+  </div>
+  <div class="cards" id="cards">${cardHtml}</div>
+  ${remaining > 0 ? `<button class="load-more" id="load-more" onclick="loadMore()">Show All ${allPages.length} Lists — ${remaining} more ↓</button>` : ""}
+  <div class="cta-b">
+    <h2>Need a Custom B2B List?</h2>
+    <p>Can't find what you're looking for? Visit LeadsBlue for custom list requests and enterprise data packages.</p>
+    <a href="/" class="btn-p">Go to Homepage</a>
+    <a href="/blog/" class="btn-g">Read Our Guides</a>
+  </div>
+</div>
+<footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <p>© 2025 LeadsBlue · ${allPages.length} B2B Email Lists Available</p>
+      <p><a href="/" style="color:var(--muted)">Home</a> · <a href="/blog/" style="color:var(--muted)">Blog</a> · <a href="/sitemap.xml" style="color:var(--muted)">Sitemap</a></p>
+    </div>
+  </div>
+</footer>
+<script>
+  function filterCards(q) {
+    q = q.toLowerCase().trim();
+    var cards = document.querySelectorAll('.card');
+    var visible = 0;
+    cards.forEach(function(c) {
+      var match = !q || c.dataset.name.includes(q);
+      c.style.display = match ? '' : 'none';
+      if (match) visible++;
+    });
+    document.getElementById('count').textContent = q ? 'Found ' + visible + ' results for "' + q + '"' : 'Showing all ${allPages.length} lists';
+    document.getElementById('grid-count').textContent = (q ? visible : ${allPages.length}) + ' LISTS';
+    var lb = document.getElementById('load-more');
+    if (lb) lb.style.display = q ? 'none' : '';
+  }
+  function loadMore() {
+    document.querySelectorAll('.more-card').forEach(function(c) { c.classList.remove('hidden'); });
+    var lb = document.getElementById('load-more');
+    if (lb) lb.style.display = 'none';
+    document.getElementById('count').textContent = 'Showing all ${allPages.length} lists';
+  }
+</script>
 </body>
 </html>`;
 
 fs.writeFileSync(`${outputDir}/index.html`, indexHtml);
 console.log(`Index page generated with ${allPages.length} entries.`);
 
-// -------------------------------------------------------
 // FEATURE 2 — SITEMAP
 // -------------------------------------------------------
 // baseUrl and today defined at top of file
