@@ -1,0 +1,38 @@
+{
+  "name": "Latvia Business Email List",
+  "location": "Latvia",
+  "slug": "latvia-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/latvia-business-email-list/",
+  "records": 476597,
+  "industries": {
+    "Retail & Commerce": 20,
+    "Transportation": 17,
+    "Education": 16,
+    "Technology": 14,
+    "Healthcare": 12,
+    "Manufacturing": 11,
+    "Energy": 10
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 46,
+    "SME (11–100 employees)": 25,
+    "Mid-market (101–500)": 11,
+    "Enterprise (500+)": 18
+  },
+  "benchmarks": {
+    "open_rate": "22.3%",
+    "reply_rate": "4.6%",
+    "ctr": "9.1%",
+    "bounce_rate": "2.1%"
+  },
+  "data_quality": {
+    "verification_rate": "94%",
+    "decision_maker_ratio": "46%",
+    "last_verified": "Q3-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/latvia-business-email-leads-database/"
+}

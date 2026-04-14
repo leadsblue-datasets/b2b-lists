@@ -1,0 +1,38 @@
+{
+  "name": "Georgia Business Email Database",
+  "location": "Georgia",
+  "slug": "georgia-business-email-database",
+  "url": "https://b2bdataindex.com/data-pages/georgia-business-email-database/",
+  "records": 5187926,
+  "industries": {
+    "Logistics & Shipping": 17,
+    "Technology": 19,
+    "Healthcare": 17,
+    "Finance & Banking": 15,
+    "Professional Services": 11,
+    "Manufacturing": 9,
+    "Agriculture": 12
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 50,
+    "SME (11–100 employees)": 27,
+    "Mid-market (101–500)": 10,
+    "Enterprise (500+)": 13
+  },
+  "benchmarks": {
+    "open_rate": "28.2%",
+    "reply_rate": "4.5%",
+    "ctr": "5.3%",
+    "bounce_rate": "2%"
+  },
+  "data_quality": {
+    "verification_rate": "98%",
+    "decision_maker_ratio": "38%",
+    "last_verified": "Q1-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-georgia-business-email-leads-database/"
+}

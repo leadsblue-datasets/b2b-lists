@@ -1,0 +1,37 @@
+{
+  "name": "Latin America Consumer Email List",
+  "location": "Latin America",
+  "slug": "latin-america-consumer-email-list",
+  "url": "https://b2bdataindex.com/consumer-data/latin-america-consumer-email-list/",
+  "records": 1542198,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 19,
+      "25–34": 12,
+      "35–44": 13,
+      "45–54": 21,
+      "55–64": 14,
+      "65+": 21
+    },
+    "gender": {
+      "female": "50%",
+      "male": "50%"
+    }
+  },
+  "interests": {
+    "Automotive": 20,
+    "Finance & Investment": 19,
+    "Home & Family": 17,
+    "Technology & Gadgets": 15,
+    "Food & Dining": 15,
+    "Sports & Fitness": 14
+  },
+  "benchmarks": {
+    "open_rate": "33.1%",
+    "ctr": "5%"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/latinamerica-consumer-email-database/"
+}

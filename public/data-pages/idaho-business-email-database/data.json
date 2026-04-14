@@ -1,0 +1,38 @@
+{
+  "name": "Idaho Business Email Database",
+  "location": "Idaho",
+  "slug": "idaho-business-email-database",
+  "url": "https://b2bdataindex.com/data-pages/idaho-business-email-database/",
+  "records": 109157,
+  "industries": {
+    "Technology & Software": 17,
+    "Education & Training": 15,
+    "Hospitality & Tourism": 15,
+    "Finance & Insurance": 15,
+    "Healthcare & Medical": 14,
+    "Energy & Utilities": 13,
+    "Manufacturing": 11
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 52,
+    "SME (11–100 employees)": 25,
+    "Mid-market (101–500)": 9,
+    "Enterprise (500+)": 14
+  },
+  "benchmarks": {
+    "open_rate": "31.1%",
+    "reply_rate": "4.1%",
+    "ctr": "6%",
+    "bounce_rate": "1.8%"
+  },
+  "data_quality": {
+    "verification_rate": "96%",
+    "decision_maker_ratio": "47%",
+    "last_verified": "Q2-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-idaho-business-email-leads-database/"
+}

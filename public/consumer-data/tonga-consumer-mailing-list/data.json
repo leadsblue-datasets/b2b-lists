@@ -1,0 +1,37 @@
+{
+  "name": "Tonga Consumer Mailing List",
+  "location": "Tonga",
+  "slug": "tonga-consumer-mailing-list",
+  "url": "https://b2bdataindex.com/consumer-data/tonga-consumer-mailing-list/",
+  "records": 1390721,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 21,
+      "25–34": 9,
+      "35–44": 23,
+      "45–54": 23,
+      "55–64": 15,
+      "65+": 9
+    },
+    "gender": {
+      "female": "44%",
+      "male": "56%"
+    }
+  },
+  "interests": {
+    "Shopping & Retail": 23,
+    "Finance & Investment": 22,
+    "Home & Family": 16,
+    "Automotive": 15,
+    "Food & Dining": 15,
+    "Travel & Leisure": 9
+  },
+  "benchmarks": {
+    "open_rate": "29.5%",
+    "ctr": "6.3%"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/tonga-consumer-email-database/"
+}

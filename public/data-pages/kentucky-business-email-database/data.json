@@ -1,0 +1,38 @@
+{
+  "name": "Kentucky Business Email Database",
+  "location": "Kentucky",
+  "slug": "kentucky-business-email-database",
+  "url": "https://b2bdataindex.com/data-pages/kentucky-business-email-database/",
+  "records": 1262630,
+  "industries": {
+    "Healthcare & Medical": 17,
+    "Finance & Insurance": 16,
+    "Technology & Software": 16,
+    "Transportation & Logistics": 15,
+    "Energy & Utilities": 13,
+    "Agriculture & Food": 12,
+    "Professional Services": 11
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 51,
+    "SME (11–100 employees)": 28,
+    "Mid-market (101–500)": 9,
+    "Enterprise (500+)": 12
+  },
+  "benchmarks": {
+    "open_rate": "28.5%",
+    "reply_rate": "6.4%",
+    "ctr": "8%",
+    "bounce_rate": "1.1%"
+  },
+  "data_quality": {
+    "verification_rate": "96%",
+    "decision_maker_ratio": "50%",
+    "last_verified": "Q1-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-kentucky-business-email-leads-database/"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Global Food Stores List",
+  "tech_name": "Global Food Stores",
+  "slug": "global-food-stores-list",
+  "type": "tech-sites",
+  "url": "https://b2bdataindex.com/website-data/global-food-stores-list/",
+  "sites": 302512,
+  "geo": {
+    "United States": 32,
+    "United Kingdom": 9,
+    "Canada": 9,
+    "Australia": 3,
+    "Germany": 6,
+    "Rest of World": 41
+  },
+  "traffic": {
+    "High Traffic (>100K/mo)": 11,
+    "Medium Traffic (10K–100K/mo)": 35,
+    "Low/New (<10K/mo)": 54
+  },
+  "verification_rate": "93%",
+  "last_verified": "Q2-2026",
+  "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
+}

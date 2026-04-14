@@ -10,6 +10,18 @@
 /data-pages/*
   Cache-Control: public, max-age=3600, stale-while-revalidate=86400
 
+/consumer-data/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/targeted-lists/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/usa-categories/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/website-data/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
 /blog/*
   Cache-Control: public, max-age=3600, stale-while-revalidate=86400
 
@@ -19,6 +31,10 @@
 
 /robots.txt
   Cache-Control: public, max-age=86400
+
+/llm/*
+  Cache-Control: public, max-age=86400
+  Content-Type: application/json; charset=utf-8
 
 /assets/*
   Cache-Control: public, max-age=31536000, immutable

@@ -1,0 +1,37 @@
+{
+  "name": "MSN Outlook , Office Email List Database",
+  "location": "MSN Outlook , Office",
+  "slug": "msn-outlook-office-email-list-database",
+  "url": "https://b2bdataindex.com/consumer-data/msn-outlook-office-email-list-database/",
+  "records": 1265447,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 17,
+      "25–34": 18,
+      "35–44": 15,
+      "45–54": 16,
+      "55–64": 10,
+      "65+": 24
+    },
+    "gender": {
+      "female": "44%",
+      "male": "56%"
+    }
+  },
+  "interests": {
+    "Shopping & Retail": 23,
+    "Travel & Leisure": 21,
+    "Technology & Gadgets": 20,
+    "Finance & Investment": 15,
+    "Food & Dining": 11,
+    "Sports & Fitness": 10
+  },
+  "benchmarks": {
+    "open_rate": "26.8%",
+    "ctr": "4.2%"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/msn-consumer-email-database/"
+}

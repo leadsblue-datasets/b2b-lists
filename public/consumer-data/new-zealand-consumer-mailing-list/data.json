@@ -1,0 +1,37 @@
+{
+  "name": "New Zealand Consumer Mailing List",
+  "location": "New Zealand",
+  "slug": "new-zealand-consumer-mailing-list",
+  "url": "https://b2bdataindex.com/consumer-data/new-zealand-consumer-mailing-list/",
+  "records": 7313749,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 11,
+      "25–34": 19,
+      "35–44": 11,
+      "45–54": 24,
+      "55–64": 15,
+      "65+": 20
+    },
+    "gender": {
+      "female": "47%",
+      "male": "53%"
+    }
+  },
+  "interests": {
+    "Home & Family": 20,
+    "Travel & Leisure": 17,
+    "Automotive": 17,
+    "Finance & Investment": 16,
+    "Shopping & Retail": 16,
+    "Entertainment & Media": 14
+  },
+  "benchmarks": {
+    "open_rate": "24.4%",
+    "ctr": "3.5%"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/newzealand-consumer-email-database/"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Hungary Business Email List",
+  "location": "Hungary",
+  "slug": "hungary-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/hungary-business-email-list/",
+  "records": 1642122,
+  "industries": {
+    "Technology": 17,
+    "Professional Services": 17,
+    "Manufacturing & Engineering": 16,
+    "Retail & Commerce": 14,
+    "Tourism & Hospitality": 13,
+    "Agriculture": 12,
+    "Finance & Banking": 11
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 52,
+    "SME (11–100 employees)": 25,
+    "Mid-market (101–500)": 11,
+    "Enterprise (500+)": 12
+  },
+  "benchmarks": {
+    "open_rate": "20.2%",
+    "reply_rate": "4%",
+    "ctr": "8.8%",
+    "bounce_rate": "0.9%"
+  },
+  "data_quality": {
+    "verification_rate": "96%",
+    "decision_maker_ratio": "39%",
+    "last_verified": "Q4-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "GDPR"
+  },
+  "product_url": "https://leadsblue.com/leads/hungary-business-email-leads-database/"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Ohio Business Email Database",
+  "location": "Ohio",
+  "slug": "ohio-business-email-database",
+  "url": "https://b2bdataindex.com/data-pages/ohio-business-email-database/",
+  "records": 7004947,
+  "industries": {
+    "Manufacturing": 27,
+    "Healthcare": 21,
+    "Finance & Banking": 13,
+    "Technology": 12,
+    "Professional Services": 10,
+    "Retail & Commerce": 8,
+    "Agriculture": 9
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 55,
+    "SME (11–100 employees)": 27,
+    "Mid-market (101–500)": 9,
+    "Enterprise (500+)": 9
+  },
+  "benchmarks": {
+    "open_rate": "18.4%",
+    "reply_rate": "4.5%",
+    "ctr": "11.2%",
+    "bounce_rate": "1.6%"
+  },
+  "data_quality": {
+    "verification_rate": "97%",
+    "decision_maker_ratio": "40%",
+    "last_verified": "Q4-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-ohio-business-email-leads-database/"
+}

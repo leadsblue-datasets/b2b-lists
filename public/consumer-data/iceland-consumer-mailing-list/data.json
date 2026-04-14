@@ -1,0 +1,37 @@
+{
+  "name": "Iceland Consumer Mailing List",
+  "location": "Iceland",
+  "slug": "iceland-consumer-mailing-list",
+  "url": "https://b2bdataindex.com/consumer-data/iceland-consumer-mailing-list/",
+  "records": 1515512,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 15,
+      "25–34": 20,
+      "35–44": 17,
+      "45–54": 14,
+      "55–64": 11,
+      "65+": 23
+    },
+    "gender": {
+      "female": "46%",
+      "male": "54%"
+    }
+  },
+  "interests": {
+    "Sports & Fitness": 25,
+    "Beauty & Fashion": 22,
+    "Automotive": 21,
+    "Finance & Investment": 13,
+    "Food & Dining": 11,
+    "Technology & Gadgets": 8
+  },
+  "benchmarks": {
+    "open_rate": "28.7%",
+    "ctr": "6.2%"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/iceland-consumer-email-database/"
+}

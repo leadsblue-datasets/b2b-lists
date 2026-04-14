@@ -1,0 +1,38 @@
+{
+  "name": "Texas Business Email Database",
+  "location": "Texas",
+  "slug": "texas-business-email-database",
+  "url": "https://b2bdataindex.com/data-pages/texas-business-email-database/",
+  "records": 10155027,
+  "industries": {
+    "Oil & Energy": 22,
+    "Technology": 15,
+    "Healthcare": 16,
+    "Finance & Banking": 13,
+    "Manufacturing": 14,
+    "Retail & Commerce": 10,
+    "Professional Services": 10
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 45,
+    "SME (11–100 employees)": 28,
+    "Mid-market (101–500)": 9,
+    "Enterprise (500+)": 18
+  },
+  "benchmarks": {
+    "open_rate": "23.7%",
+    "reply_rate": "7.3%",
+    "ctr": "11.8%",
+    "bounce_rate": "1%"
+  },
+  "data_quality": {
+    "verification_rate": "98%",
+    "decision_maker_ratio": "39%",
+    "last_verified": "Q4-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-texas-business-email-leads-database/"
+}

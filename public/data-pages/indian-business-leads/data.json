@@ -1,0 +1,38 @@
+{
+  "name": "Indian Business leads",
+  "location": "Indian Business leads",
+  "slug": "indian-business-leads",
+  "url": "https://b2bdataindex.com/data-pages/indian-business-leads/",
+  "records": 108247681,
+  "industries": {
+    "Technology & Software": 18,
+    "Manufacturing": 20,
+    "Professional Services": 14,
+    "Finance & Banking": 15,
+    "Retail & Commerce": 9,
+    "Healthcare": 11,
+    "Education": 13
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 52,
+    "SME (11–100 employees)": 27,
+    "Mid-market (101–500)": 8,
+    "Enterprise (500+)": 13
+  },
+  "benchmarks": {
+    "open_rate": "29.4%",
+    "reply_rate": "3.7%",
+    "ctr": "7%",
+    "bounce_rate": "1.2%"
+  },
+  "data_quality": {
+    "verification_rate": "97%",
+    "decision_maker_ratio": "38%",
+    "last_verified": "Q3-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/indian-business-leads/"
+}

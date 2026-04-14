@@ -1,0 +1,38 @@
+{
+  "name": "North Carolina Business Email Database",
+  "location": "North Carolina",
+  "slug": "north-carolina-business-email-database",
+  "url": "https://b2bdataindex.com/data-pages/north-carolina-business-email-database/",
+  "records": 8733333,
+  "industries": {
+    "Technology": 24,
+    "Healthcare & Biotech": 15,
+    "Manufacturing": 14,
+    "Finance & Banking": 13,
+    "Professional Services": 12,
+    "Agriculture": 9,
+    "Retail & Commerce": 13
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 46,
+    "SME (11–100 employees)": 27,
+    "Mid-market (101–500)": 9,
+    "Enterprise (500+)": 18
+  },
+  "benchmarks": {
+    "open_rate": "28.4%",
+    "reply_rate": "6.1%",
+    "ctr": "5.4%",
+    "bounce_rate": "2%"
+  },
+  "data_quality": {
+    "verification_rate": "94%",
+    "decision_maker_ratio": "44%",
+    "last_verified": "Q1-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-north-carolina-business-email-leads-database/"
+}

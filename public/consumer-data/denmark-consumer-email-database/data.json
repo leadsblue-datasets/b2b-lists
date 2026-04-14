@@ -1,0 +1,37 @@
+{
+  "name": "Denmark Consumer Email Database",
+  "location": "Denmark",
+  "slug": "denmark-consumer-email-database",
+  "url": "https://b2bdataindex.com/consumer-data/denmark-consumer-email-database/",
+  "records": 12858834,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 13,
+      "25–34": 24,
+      "35–44": 19,
+      "45–54": 17,
+      "55–64": 16,
+      "65+": 11
+    },
+    "gender": {
+      "female": "51%",
+      "male": "49%"
+    }
+  },
+  "interests": {
+    "Technology & Gadgets": 23,
+    "Travel & Leisure": 19,
+    "Automotive": 17,
+    "Home & Family": 16,
+    "Education & Self-Improvement": 13,
+    "Beauty & Fashion": 12
+  },
+  "benchmarks": {
+    "open_rate": "25.5%",
+    "ctr": "6.4%"
+  },
+  "compliance": {
+    "framework": "GDPR (Consent Required)"
+  },
+  "product_url": "https://leadsblue.com/leads/denmark-consumer-email-database/"
+}

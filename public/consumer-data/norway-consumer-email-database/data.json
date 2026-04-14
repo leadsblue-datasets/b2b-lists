@@ -1,0 +1,37 @@
+{
+  "name": "Norway Consumer Email Database",
+  "location": "Norway",
+  "slug": "norway-consumer-email-database",
+  "url": "https://b2bdataindex.com/consumer-data/norway-consumer-email-database/",
+  "records": 3096762,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 18,
+      "25–34": 29,
+      "35–44": 12,
+      "45–54": 19,
+      "55–64": 11,
+      "65+": 11
+    },
+    "gender": {
+      "female": "46%",
+      "male": "54%"
+    }
+  },
+  "interests": {
+    "Shopping & Retail": 21,
+    "Food & Dining": 20,
+    "Travel & Leisure": 18,
+    "Home & Family": 17,
+    "Health & Wellness": 12,
+    "Technology & Gadgets": 12
+  },
+  "benchmarks": {
+    "open_rate": "28.1%",
+    "ctr": "3.5%"
+  },
+  "compliance": {
+    "framework": "GDPR (Consent Required)"
+  },
+  "product_url": "https://leadsblue.com/leads/norway-consumer-email-database/"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Singapore Consumer Email Database",
+  "location": "Singapore",
+  "slug": "singapore-consumer-email-database",
+  "url": "https://b2bdataindex.com/consumer-data/singapore-consumer-email-database/",
+  "records": 1303625,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 12,
+      "25–34": 16,
+      "35–44": 12,
+      "45–54": 22,
+      "55–64": 18,
+      "65+": 20
+    },
+    "gender": {
+      "female": "53%",
+      "male": "47%"
+    }
+  },
+  "interests": {
+    "Beauty & Fashion": 19,
+    "Home & Family": 18,
+    "Entertainment & Media": 18,
+    "Health & Wellness": 17,
+    "Education & Self-Improvement": 14,
+    "Automotive": 14
+  },
+  "benchmarks": {
+    "open_rate": "24.6%",
+    "ctr": "3.5%"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/singapore-consumer-email-database/"
+}

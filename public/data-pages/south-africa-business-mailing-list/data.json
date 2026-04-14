@@ -1,0 +1,38 @@
+{
+  "name": "South Africa Business Mailing List",
+  "location": "South Africa",
+  "slug": "south-africa-business-mailing-list",
+  "url": "https://b2bdataindex.com/data-pages/south-africa-business-mailing-list/",
+  "records": 310385,
+  "industries": {
+    "Mining & Resources": 22,
+    "Finance & Banking": 18,
+    "Retail & Commerce": 14,
+    "Manufacturing": 12,
+    "Professional Services": 9,
+    "Agriculture & Food": 14,
+    "Technology": 11
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 47,
+    "SME (11–100 employees)": 30,
+    "Mid-market (101–500)": 8,
+    "Enterprise (500+)": 15
+  },
+  "benchmarks": {
+    "open_rate": "28%",
+    "reply_rate": "5.1%",
+    "ctr": "8.7%",
+    "bounce_rate": "1%"
+  },
+  "data_quality": {
+    "verification_rate": "97%",
+    "decision_maker_ratio": "45%",
+    "last_verified": "Q3-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/south-africa-business-email-leads-database/"
+}

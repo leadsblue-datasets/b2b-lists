@@ -1,0 +1,38 @@
+{
+  "name": "New Hampshire Business Email Database",
+  "location": "New Hampshire",
+  "slug": "new-hampshire-business-email-database",
+  "url": "https://b2bdataindex.com/data-pages/new-hampshire-business-email-database/",
+  "records": 372782,
+  "industries": {
+    "Healthcare & Medical": 18,
+    "Retail & Commerce": 16,
+    "Agriculture & Food": 15,
+    "Manufacturing": 14,
+    "Construction & Real Estate": 14,
+    "Transportation & Logistics": 12,
+    "Finance & Insurance": 11
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 47,
+    "SME (11–100 employees)": 30,
+    "Mid-market (101–500)": 9,
+    "Enterprise (500+)": 14
+  },
+  "benchmarks": {
+    "open_rate": "31.6%",
+    "reply_rate": "5.9%",
+    "ctr": "5.1%",
+    "bounce_rate": "1.6%"
+  },
+  "data_quality": {
+    "verification_rate": "96%",
+    "decision_maker_ratio": "49%",
+    "last_verified": "Q3-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-new-hampshire-business-email-leads-database/"
+}

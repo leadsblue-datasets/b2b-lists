@@ -1,0 +1,38 @@
+{
+  "name": "Brazil Business Email List",
+  "location": "Brazil",
+  "slug": "brazil-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/brazil-business-email-list/",
+  "records": 83889343,
+  "industries": {
+    "Agriculture & Food": 19,
+    "Manufacturing": 16,
+    "Retail & Commerce": 17,
+    "Finance & Banking": 16,
+    "Technology": 11,
+    "Professional Services": 9,
+    "Construction": 12
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 49,
+    "SME (11–100 employees)": 25,
+    "Mid-market (101–500)": 8,
+    "Enterprise (500+)": 18
+  },
+  "benchmarks": {
+    "open_rate": "31.1%",
+    "reply_rate": "4%",
+    "ctr": "6.5%",
+    "bounce_rate": "0.9%"
+  },
+  "data_quality": {
+    "verification_rate": "95%",
+    "decision_maker_ratio": "48%",
+    "last_verified": "Q2-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/brazil-business-email-leads-database/"
+}

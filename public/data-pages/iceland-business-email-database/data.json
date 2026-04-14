@@ -1,0 +1,38 @@
+{
+  "name": "Iceland Business Email Database",
+  "location": "Iceland",
+  "slug": "iceland-business-email-database",
+  "url": "https://b2bdataindex.com/data-pages/iceland-business-email-database/",
+  "records": 340565,
+  "industries": {
+    "Professional Services": 19,
+    "Manufacturing": 19,
+    "Finance & Banking": 16,
+    "Construction": 14,
+    "Healthcare": 14,
+    "Education": 9,
+    "Transportation": 9
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 54,
+    "SME (11–100 employees)": 29,
+    "Mid-market (101–500)": 8,
+    "Enterprise (500+)": 9
+  },
+  "benchmarks": {
+    "open_rate": "18.2%",
+    "reply_rate": "5.6%",
+    "ctr": "11.8%",
+    "bounce_rate": "1.3%"
+  },
+  "data_quality": {
+    "verification_rate": "94%",
+    "decision_maker_ratio": "42%",
+    "last_verified": "Q1-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/iceland-business-email-leads-database/"
+}

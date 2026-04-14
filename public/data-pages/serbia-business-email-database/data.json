@@ -1,0 +1,38 @@
+{
+  "name": "Serbia Business Email Database",
+  "location": "Serbia",
+  "slug": "serbia-business-email-database",
+  "url": "https://b2bdataindex.com/data-pages/serbia-business-email-database/",
+  "records": 1861166,
+  "industries": {
+    "Technology": 16,
+    "Construction": 15,
+    "Transportation": 14,
+    "Tourism & Hospitality": 14,
+    "Professional Services": 14,
+    "Retail & Commerce": 14,
+    "Energy": 13
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 52,
+    "SME (11–100 employees)": 25,
+    "Mid-market (101–500)": 8,
+    "Enterprise (500+)": 15
+  },
+  "benchmarks": {
+    "open_rate": "30.4%",
+    "reply_rate": "7.2%",
+    "ctr": "9.8%",
+    "bounce_rate": "1.1%"
+  },
+  "data_quality": {
+    "verification_rate": "96%",
+    "decision_maker_ratio": "48%",
+    "last_verified": "Q1-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "GDPR"
+  },
+  "product_url": "https://leadsblue.com/leads/serbia-business-email-leads-database/"
+}

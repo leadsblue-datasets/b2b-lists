@@ -1,0 +1,38 @@
+{
+  "name": "Slovenia Business Email Database",
+  "location": "Slovenia",
+  "slug": "slovenia-business-email-database",
+  "url": "https://b2bdataindex.com/data-pages/slovenia-business-email-database/",
+  "records": 446960,
+  "industries": {
+    "Retail & Commerce": 19,
+    "Construction": 17,
+    "Healthcare": 15,
+    "Manufacturing": 15,
+    "Professional Services": 14,
+    "Transportation": 13,
+    "Education": 7
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 47,
+    "SME (11–100 employees)": 28,
+    "Mid-market (101–500)": 9,
+    "Enterprise (500+)": 16
+  },
+  "benchmarks": {
+    "open_rate": "21.3%",
+    "reply_rate": "4.1%",
+    "ctr": "6.9%",
+    "bounce_rate": "1.8%"
+  },
+  "data_quality": {
+    "verification_rate": "97%",
+    "decision_maker_ratio": "38%",
+    "last_verified": "Q1-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/slovenia-business-email-leads-database/"
+}

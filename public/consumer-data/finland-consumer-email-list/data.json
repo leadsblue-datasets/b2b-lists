@@ -1,0 +1,37 @@
+{
+  "name": "Finland Consumer Email List",
+  "location": "Finland",
+  "slug": "finland-consumer-email-list",
+  "url": "https://b2bdataindex.com/consumer-data/finland-consumer-email-list/",
+  "records": 3259444,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 11,
+      "25–34": 23,
+      "35–44": 20,
+      "45–54": 14,
+      "55–64": 24,
+      "65+": 8
+    },
+    "gender": {
+      "female": "53%",
+      "male": "47%"
+    }
+  },
+  "interests": {
+    "Travel & Leisure": 23,
+    "Sports & Fitness": 21,
+    "Education & Self-Improvement": 18,
+    "Food & Dining": 15,
+    "Entertainment & Media": 12,
+    "Shopping & Retail": 11
+  },
+  "benchmarks": {
+    "open_rate": "25.4%",
+    "ctr": "6.7%"
+  },
+  "compliance": {
+    "framework": "GDPR (Consent Required)"
+  },
+  "product_url": "https://leadsblue.com/leads/finland-consumer-email-database-2/"
+}

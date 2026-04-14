@@ -1,0 +1,38 @@
+{
+  "name": "Portugal Business Email Database",
+  "location": "Portugal",
+  "slug": "portugal-business-email-database",
+  "url": "https://b2bdataindex.com/data-pages/portugal-business-email-database/",
+  "records": 2643302,
+  "industries": {
+    "Manufacturing & Engineering": 16,
+    "Education": 15,
+    "Agriculture": 15,
+    "Tourism & Hospitality": 14,
+    "Energy": 14,
+    "Professional Services": 13,
+    "Finance & Banking": 13
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 54,
+    "SME (11–100 employees)": 30,
+    "Mid-market (101–500)": 8,
+    "Enterprise (500+)": 8
+  },
+  "benchmarks": {
+    "open_rate": "18.1%",
+    "reply_rate": "5.2%",
+    "ctr": "5.8%",
+    "bounce_rate": "1.3%"
+  },
+  "data_quality": {
+    "verification_rate": "98%",
+    "decision_maker_ratio": "42%",
+    "last_verified": "Q4-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "GDPR"
+  },
+  "product_url": "https://leadsblue.com/leads/portugal-business-email-leads-database/"
+}

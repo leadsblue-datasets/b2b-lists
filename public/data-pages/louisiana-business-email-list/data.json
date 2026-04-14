@@ -1,0 +1,38 @@
+{
+  "name": "Louisiana Business Email List",
+  "location": "Louisiana",
+  "slug": "louisiana-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/louisiana-business-email-list/",
+  "records": 1151818,
+  "industries": {
+    "Professional Services": 17,
+    "Healthcare & Medical": 17,
+    "Education & Training": 15,
+    "Energy & Utilities": 14,
+    "Construction & Real Estate": 13,
+    "Technology & Software": 12,
+    "Transportation & Logistics": 12
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 55,
+    "SME (11–100 employees)": 26,
+    "Mid-market (101–500)": 10,
+    "Enterprise (500+)": 9
+  },
+  "benchmarks": {
+    "open_rate": "26.7%",
+    "reply_rate": "5.8%",
+    "ctr": "11.8%",
+    "bounce_rate": "1.3%"
+  },
+  "data_quality": {
+    "verification_rate": "97%",
+    "decision_maker_ratio": "41%",
+    "last_verified": "Q3-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-louisiana-business-email-leads-database/"
+}

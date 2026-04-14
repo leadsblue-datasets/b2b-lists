@@ -1,0 +1,38 @@
+{
+  "name": "Egypt Business Email Database",
+  "location": "Egypt",
+  "slug": "egypt-business-email-database",
+  "url": "https://b2bdataindex.com/data-pages/egypt-business-email-database/",
+  "records": 253078,
+  "industries": {
+    "Tourism & Hospitality": 30,
+    "Manufacturing": 17,
+    "Finance & Banking": 11,
+    "Trade & Commerce": 11,
+    "Construction": 9,
+    "Agriculture": 13,
+    "Professional Services": 9
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 54,
+    "SME (11–100 employees)": 25,
+    "Mid-market (101–500)": 10,
+    "Enterprise (500+)": 11
+  },
+  "benchmarks": {
+    "open_rate": "26.7%",
+    "reply_rate": "7.5%",
+    "ctr": "4.2%",
+    "bounce_rate": "1.2%"
+  },
+  "data_quality": {
+    "verification_rate": "98%",
+    "decision_maker_ratio": "38%",
+    "last_verified": "Q1-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "Regional Guidelines"
+  },
+  "product_url": "https://leadsblue.com/leads/egypt-business-email-leads-database/"
+}

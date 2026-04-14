@@ -1,0 +1,24 @@
+{
+  "name": "All Live Amazon SES Sites List",
+  "tech_name": "Amazon SES",
+  "slug": "all-live-amazon-ses-sites-list",
+  "type": "tech-sites",
+  "url": "https://b2bdataindex.com/website-data/all-live-amazon-ses-sites-list/",
+  "sites": 117087,
+  "geo": {
+    "United States": 48,
+    "United Kingdom": 11,
+    "Canada": 8,
+    "Australia": 7,
+    "Germany": 6,
+    "Rest of World": 20
+  },
+  "traffic": {
+    "High Traffic (>100K/mo)": 9,
+    "Medium Traffic (10K–100K/mo)": 32,
+    "Low/New (<10K/mo)": 59
+  },
+  "verification_rate": "88%",
+  "last_verified": "Q4-2026",
+  "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
+}

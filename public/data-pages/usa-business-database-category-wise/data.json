@@ -1,0 +1,38 @@
+{
+  "name": "USA Business Database Category Wise",
+  "location": "USA",
+  "slug": "usa-business-database-category-wise",
+  "url": "https://b2bdataindex.com/data-pages/usa-business-database-category-wise/",
+  "records": 124331407,
+  "industries": {
+    "Technology & Software": 20,
+    "Professional Services": 21,
+    "Healthcare & Medical": 13,
+    "Finance & Insurance": 16,
+    "Retail & Commerce": 10,
+    "Manufacturing": 13,
+    "Education & Training": 7
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 50,
+    "SME (11–100 employees)": 29,
+    "Mid-market (101–500)": 12,
+    "Enterprise (500+)": 9
+  },
+  "benchmarks": {
+    "open_rate": "24.5%",
+    "reply_rate": "5.9%",
+    "ctr": "7%",
+    "bounce_rate": "1.1%"
+  },
+  "data_quality": {
+    "verification_rate": "97%",
+    "decision_maker_ratio": "42%",
+    "last_verified": "Q1-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-business-database-category-wise/"
+}

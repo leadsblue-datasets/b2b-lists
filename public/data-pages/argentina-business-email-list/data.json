@@ -1,0 +1,38 @@
+{
+  "name": "Argentina Business Email List",
+  "location": "Argentina",
+  "slug": "argentina-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/argentina-business-email-list/",
+  "records": 12000634,
+  "industries": {
+    "Retail & Commerce": 22,
+    "Construction": 16,
+    "Technology": 16,
+    "Healthcare": 15,
+    "Manufacturing": 13,
+    "Education": 10,
+    "Finance & Banking": 8
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 54,
+    "SME (11–100 employees)": 26,
+    "Mid-market (101–500)": 12,
+    "Enterprise (500+)": 8
+  },
+  "benchmarks": {
+    "open_rate": "27%",
+    "reply_rate": "6.3%",
+    "ctr": "8.6%",
+    "bounce_rate": "1.3%"
+  },
+  "data_quality": {
+    "verification_rate": "96%",
+    "decision_maker_ratio": "50%",
+    "last_verified": "Q3-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/argentina-business-email-leads-database/"
+}

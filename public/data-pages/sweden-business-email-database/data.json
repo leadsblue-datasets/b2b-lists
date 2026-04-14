@@ -1,0 +1,38 @@
+{
+  "name": "Sweden Business Email Database",
+  "location": "Sweden",
+  "slug": "sweden-business-email-database",
+  "url": "https://b2bdataindex.com/data-pages/sweden-business-email-database/",
+  "records": 3180308,
+  "industries": {
+    "Technology": 25,
+    "Manufacturing": 15,
+    "Finance & Banking": 11,
+    "Professional Services": 14,
+    "Healthcare": 11,
+    "Retail & Commerce": 13,
+    "Energy": 11
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 47,
+    "SME (11–100 employees)": 30,
+    "Mid-market (101–500)": 9,
+    "Enterprise (500+)": 14
+  },
+  "benchmarks": {
+    "open_rate": "31.9%",
+    "reply_rate": "7.4%",
+    "ctr": "7.9%",
+    "bounce_rate": "1.1%"
+  },
+  "data_quality": {
+    "verification_rate": "96%",
+    "decision_maker_ratio": "46%",
+    "last_verified": "Q3-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "GDPR"
+  },
+  "product_url": "https://leadsblue.com/leads/sweden-business-email-leads-database/"
+}

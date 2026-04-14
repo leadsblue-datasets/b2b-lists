@@ -1,0 +1,38 @@
+{
+  "name": "Germany Business Contact List",
+  "location": "Germany",
+  "slug": "germany-business-contact-list",
+  "url": "https://b2bdataindex.com/data-pages/germany-business-contact-list/",
+  "records": 3924161,
+  "industries": {
+    "Manufacturing & Engineering": 31,
+    "Technology": 16,
+    "Professional Services": 13,
+    "Finance & Banking": 12,
+    "Retail & Commerce": 9,
+    "Healthcare": 10,
+    "Energy": 9
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 55,
+    "SME (11–100 employees)": 29,
+    "Mid-market (101–500)": 12,
+    "Enterprise (500+)": 4
+  },
+  "benchmarks": {
+    "open_rate": "23.6%",
+    "reply_rate": "4.9%",
+    "ctr": "10.3%",
+    "bounce_rate": "1%"
+  },
+  "data_quality": {
+    "verification_rate": "96%",
+    "decision_maker_ratio": "41%",
+    "last_verified": "Q3-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "GDPR"
+  },
+  "product_url": "https://leadsblue.com/leads/germany-business-email-leads-database/"
+}

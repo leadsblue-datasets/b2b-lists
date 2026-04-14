@@ -1,0 +1,38 @@
+{
+  "name": "Florida Business Email List",
+  "location": "Florida",
+  "slug": "florida-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/florida-business-email-list/",
+  "records": 9529222,
+  "industries": {
+    "Tourism & Hospitality": 32,
+    "Healthcare": 18,
+    "Retail & Commerce": 12,
+    "Finance & Banking": 15,
+    "Real Estate": 8,
+    "Technology": 8,
+    "Professional Services": 7
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 50,
+    "SME (11–100 employees)": 28,
+    "Mid-market (101–500)": 9,
+    "Enterprise (500+)": 13
+  },
+  "benchmarks": {
+    "open_rate": "26.5%",
+    "reply_rate": "7.7%",
+    "ctr": "5.8%",
+    "bounce_rate": "1.2%"
+  },
+  "data_quality": {
+    "verification_rate": "98%",
+    "decision_maker_ratio": "51%",
+    "last_verified": "Q2-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-florida-business-email-leads-database/"
+}

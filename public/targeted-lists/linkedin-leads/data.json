@@ -1,0 +1,30 @@
+{
+  "name": "LinkedIn Leads",
+  "slug": "linkedin-leads",
+  "url": "https://b2bdataindex.com/targeted-lists/linkedin-leads/",
+  "audience_size": 294007,
+  "sub_type": "social",
+  "geographic_distribution": {
+    "United States": 55,
+    "United Kingdom": 12,
+    "Canada": 4,
+    "Australia": 5,
+    "Rest of World": 24
+  },
+  "audience_segments": {
+    "Micro-Influencers": 13,
+    "Nano-Influencers": 7,
+    "Content Creators": 11,
+    "Brand Ambassadors": 31,
+    "Affiliate Marketers": 17,
+    "Social Media Managers": 21
+  },
+  "benchmarks": {
+    "open_rate": "30.4%",
+    "reply_rate": "2.3%",
+    "ctr": "6.9%"
+  },
+  "verification_rate": "94%",
+  "last_verified": "Q2-2026",
+  "product_url": "https://leadsblue.com/leads/linkedin-users-email-list-database/"
+}

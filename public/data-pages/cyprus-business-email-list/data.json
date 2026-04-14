@@ -1,0 +1,38 @@
+{
+  "name": "Cyprus Business Email List",
+  "location": "Cyprus",
+  "slug": "cyprus-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/cyprus-business-email-list/",
+  "records": 517856,
+  "industries": {
+    "Retail & Commerce": 20,
+    "Construction": 16,
+    "Technology": 15,
+    "Finance & Banking": 14,
+    "Energy": 13,
+    "Professional Services": 12,
+    "Healthcare": 10
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 54,
+    "SME (11–100 employees)": 28,
+    "Mid-market (101–500)": 11,
+    "Enterprise (500+)": 7
+  },
+  "benchmarks": {
+    "open_rate": "20.7%",
+    "reply_rate": "8.1%",
+    "ctr": "7.9%",
+    "bounce_rate": "1.4%"
+  },
+  "data_quality": {
+    "verification_rate": "94%",
+    "decision_maker_ratio": "39%",
+    "last_verified": "Q2-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/cyprus-business-email-leads-database/"
+}

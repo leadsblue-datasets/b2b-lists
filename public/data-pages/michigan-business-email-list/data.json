@@ -1,0 +1,38 @@
+{
+  "name": "Michigan Business Email List",
+  "location": "Michigan",
+  "slug": "michigan-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/michigan-business-email-list/",
+  "records": 5334309,
+  "industries": {
+    "Automotive & Manufacturing": 15,
+    "Healthcare": 20,
+    "Technology": 14,
+    "Finance & Banking": 15,
+    "Professional Services": 13,
+    "Retail & Commerce": 14,
+    "Agriculture": 9
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 55,
+    "SME (11–100 employees)": 25,
+    "Mid-market (101–500)": 8,
+    "Enterprise (500+)": 12
+  },
+  "benchmarks": {
+    "open_rate": "24.9%",
+    "reply_rate": "7%",
+    "ctr": "6%",
+    "bounce_rate": "1.3%"
+  },
+  "data_quality": {
+    "verification_rate": "97%",
+    "decision_maker_ratio": "41%",
+    "last_verified": "Q4-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-michigan-business-email-leads-database/"
+}

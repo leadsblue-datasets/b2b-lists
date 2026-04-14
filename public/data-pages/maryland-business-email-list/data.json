@@ -1,0 +1,38 @@
+{
+  "name": "Maryland Business Email List",
+  "location": "Maryland",
+  "slug": "maryland-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/maryland-business-email-list/",
+  "records": 2148933,
+  "industries": {
+    "Energy & Utilities": 17,
+    "Finance & Insurance": 17,
+    "Healthcare & Medical": 16,
+    "Construction & Real Estate": 16,
+    "Hospitality & Tourism": 13,
+    "Professional Services": 11,
+    "Transportation & Logistics": 10
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 54,
+    "SME (11–100 employees)": 26,
+    "Mid-market (101–500)": 9,
+    "Enterprise (500+)": 11
+  },
+  "benchmarks": {
+    "open_rate": "28%",
+    "reply_rate": "6.4%",
+    "ctr": "5.5%",
+    "bounce_rate": "1.7%"
+  },
+  "data_quality": {
+    "verification_rate": "96%",
+    "decision_maker_ratio": "45%",
+    "last_verified": "Q3-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-maryland-business-email-leads-database/"
+}

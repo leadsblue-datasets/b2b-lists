@@ -1,0 +1,37 @@
+{
+  "name": "Taiwan Consumer Mailing List",
+  "location": "Taiwan",
+  "slug": "taiwan-consumer-mailing-list",
+  "url": "https://b2bdataindex.com/consumer-data/taiwan-consumer-mailing-list/",
+  "records": 9599169,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 18,
+      "25–34": 12,
+      "35–44": 11,
+      "45–54": 15,
+      "55–64": 29,
+      "65+": 15
+    },
+    "gender": {
+      "female": "50%",
+      "male": "50%"
+    }
+  },
+  "interests": {
+    "Shopping & Retail": 21,
+    "Entertainment & Media": 21,
+    "Finance & Investment": 20,
+    "Travel & Leisure": 13,
+    "Beauty & Fashion": 13,
+    "Health & Wellness": 12
+  },
+  "benchmarks": {
+    "open_rate": "26.1%",
+    "ctr": "2.7%"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/taiwan-consumer-email-database/"
+}

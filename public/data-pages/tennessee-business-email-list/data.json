@@ -1,0 +1,38 @@
+{
+  "name": "Tennessee Business Email List",
+  "location": "Tennessee",
+  "slug": "tennessee-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/tennessee-business-email-list/",
+  "records": 853642,
+  "industries": {
+    "Technology & Software": 21,
+    "Retail & Commerce": 15,
+    "Healthcare & Medical": 15,
+    "Construction & Real Estate": 14,
+    "Agriculture & Food": 12,
+    "Professional Services": 12,
+    "Transportation & Logistics": 11
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 49,
+    "SME (11–100 employees)": 28,
+    "Mid-market (101–500)": 12,
+    "Enterprise (500+)": 11
+  },
+  "benchmarks": {
+    "open_rate": "18.4%",
+    "reply_rate": "7.8%",
+    "ctr": "8.4%",
+    "bounce_rate": "2.2%"
+  },
+  "data_quality": {
+    "verification_rate": "95%",
+    "decision_maker_ratio": "47%",
+    "last_verified": "Q2-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-tennessee-business-email-leads-database/"
+}

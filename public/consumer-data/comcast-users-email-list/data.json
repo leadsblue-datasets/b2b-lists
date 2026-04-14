@@ -1,0 +1,37 @@
+{
+  "name": "Comcast Users Email List",
+  "location": "Comcast Users",
+  "slug": "comcast-users-email-list",
+  "url": "https://b2bdataindex.com/consumer-data/comcast-users-email-list/",
+  "records": 1681500,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 11,
+      "25–34": 15,
+      "35–44": 14,
+      "45–54": 20,
+      "55–64": 23,
+      "65+": 17
+    },
+    "gender": {
+      "female": "55%",
+      "male": "45%"
+    }
+  },
+  "interests": {
+    "Food & Dining": 18,
+    "Sports & Fitness": 19,
+    "Education & Self-Improvement": 18,
+    "Automotive": 17,
+    "Finance & Investment": 17,
+    "Shopping & Retail": 11
+  },
+  "benchmarks": {
+    "open_rate": "24.7%",
+    "ctr": "4.4%"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/comcast-users-email-list-comcast-net-consumer-email-list/"
+}

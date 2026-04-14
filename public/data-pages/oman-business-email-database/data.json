@@ -1,0 +1,38 @@
+{
+  "name": "Oman Business Email Database",
+  "location": "Oman",
+  "slug": "oman-business-email-database",
+  "url": "https://b2bdataindex.com/data-pages/oman-business-email-database/",
+  "records": 1459665,
+  "industries": {
+    "Oil & Energy": 19,
+    "Construction & Real Estate": 16,
+    "Trade & Commerce": 16,
+    "Hospitality & Tourism": 15,
+    "Finance & Banking": 13,
+    "Transportation": 11,
+    "Healthcare": 10
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 51,
+    "SME (11–100 employees)": 27,
+    "Mid-market (101–500)": 10,
+    "Enterprise (500+)": 12
+  },
+  "benchmarks": {
+    "open_rate": "19.6%",
+    "reply_rate": "7.9%",
+    "ctr": "4.3%",
+    "bounce_rate": "2.1%"
+  },
+  "data_quality": {
+    "verification_rate": "95%",
+    "decision_maker_ratio": "45%",
+    "last_verified": "Q3-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "Regional Guidelines"
+  },
+  "product_url": "https://leadsblue.com/leads/oman-business-email-leads-database/"
+}

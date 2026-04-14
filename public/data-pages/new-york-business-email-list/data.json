@@ -1,0 +1,38 @@
+{
+  "name": "New York Business Email List",
+  "location": "New York",
+  "slug": "new-york-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/new-york-business-email-list/",
+  "records": 8242441,
+  "industries": {
+    "Finance & Banking": 30,
+    "Professional Services": 19,
+    "Technology": 12,
+    "Healthcare": 11,
+    "Media & Entertainment": 11,
+    "Retail & Commerce": 8,
+    "Real Estate": 9
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 48,
+    "SME (11–100 employees)": 30,
+    "Mid-market (101–500)": 9,
+    "Enterprise (500+)": 13
+  },
+  "benchmarks": {
+    "open_rate": "18.2%",
+    "reply_rate": "5.2%",
+    "ctr": "4.1%",
+    "bounce_rate": "1.8%"
+  },
+  "data_quality": {
+    "verification_rate": "98%",
+    "decision_maker_ratio": "38%",
+    "last_verified": "Q3-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-new-york-business-email-leads-database/"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "North Dakota Business Email List",
+  "location": "North Dakota",
+  "slug": "north-dakota-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/north-dakota-business-email-list/",
+  "records": 101218,
+  "industries": {
+    "Professional Services": 19,
+    "Technology & Software": 17,
+    "Retail & Commerce": 14,
+    "Education & Training": 14,
+    "Agriculture & Food": 14,
+    "Healthcare & Medical": 11,
+    "Hospitality & Tourism": 11
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 46,
+    "SME (11–100 employees)": 29,
+    "Mid-market (101–500)": 12,
+    "Enterprise (500+)": 13
+  },
+  "benchmarks": {
+    "open_rate": "31.9%",
+    "reply_rate": "3.6%",
+    "ctr": "9.1%",
+    "bounce_rate": "1.9%"
+  },
+  "data_quality": {
+    "verification_rate": "96%",
+    "decision_maker_ratio": "48%",
+    "last_verified": "Q2-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-north-dakota-business-email-leads-database/"
+}

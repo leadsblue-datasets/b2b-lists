@@ -1,0 +1,38 @@
+{
+  "name": "Luxembourg Business Contact List",
+  "location": "Luxembourg",
+  "slug": "luxembourg-business-contact-list",
+  "url": "https://b2bdataindex.com/data-pages/luxembourg-business-contact-list/",
+  "records": 580374,
+  "industries": {
+    "Finance & Banking": 17,
+    "Energy": 16,
+    "Construction": 16,
+    "Professional Services": 15,
+    "Manufacturing": 14,
+    "Transportation": 14,
+    "Technology": 8
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 46,
+    "SME (11–100 employees)": 27,
+    "Mid-market (101–500)": 12,
+    "Enterprise (500+)": 15
+  },
+  "benchmarks": {
+    "open_rate": "18.7%",
+    "reply_rate": "8.2%",
+    "ctr": "4.8%",
+    "bounce_rate": "1.7%"
+  },
+  "data_quality": {
+    "verification_rate": "94%",
+    "decision_maker_ratio": "44%",
+    "last_verified": "Q3-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/luxembourg-business-email-leads-database/"
+}

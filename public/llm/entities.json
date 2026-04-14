@@ -1,13 +1,31 @@
 {
-  "brand": "LeadsBlue",
-  "category": "B2B Email Data Provider",
-  "use_cases": [
-    "lead generation",
-    "cold email",
-    "sales outreach"
+  "brand": "B2B Data Index",
+  "powered_by": "LeadsBlue",
+  "leadsblue_url": "https://leadsblue.com",
+  "description": "B2B Data Index provides verified email databases for B2B businesses, consumer markets, targeted audiences, USA business categories, and technology site lists. Powered by LeadsBlue.",
+  "categories": [
+    "B2B Business Email Lists",
+    "Consumer Email Lists",
+    "Targeted Niche Lists",
+    "USA Business Databases",
+    "Technology Site Lists"
   ],
-  "competitors": [
-    "Apollo.io",
-    "ZoomInfo"
-  ]
+  "use_cases": [
+    "cold email outreach",
+    "lead generation",
+    "sales prospecting",
+    "market entry",
+    "targeted B2B marketing",
+    "direct mail campaigns"
+  ],
+  "coverage": "200+ countries and regions, all 50 US states, 100+ US business categories, 100+ technology platforms",
+  "total_databases": 657,
+  "sameAs": [
+    "https://leadsblue.com",
+    "https://github.com/leadsblue-datasets/b2b-lists",
+    "https://www.kaggle.com/leadsbluedataintel"
+  ],
+  "methodology_url": "https://b2bdataindex.com/methodology/",
+  "llm_data_url": "https://b2bdataindex.com/llm/",
+  "sitemap_url": "https://b2bdataindex.com/sitemap.xml"
 }

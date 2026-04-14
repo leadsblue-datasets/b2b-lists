@@ -1,0 +1,38 @@
+{
+  "name": "Connecticut Business Contact List",
+  "location": "Connecticut",
+  "slug": "connecticut-business-contact-list",
+  "url": "https://b2bdataindex.com/data-pages/connecticut-business-contact-list/",
+  "records": 1205140,
+  "industries": {
+    "Technology & Software": 17,
+    "Hospitality & Tourism": 16,
+    "Healthcare & Medical": 15,
+    "Energy & Utilities": 14,
+    "Manufacturing": 13,
+    "Agriculture & Food": 13,
+    "Construction & Real Estate": 12
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 53,
+    "SME (11–100 employees)": 29,
+    "Mid-market (101–500)": 11,
+    "Enterprise (500+)": 7
+  },
+  "benchmarks": {
+    "open_rate": "30%",
+    "reply_rate": "4.6%",
+    "ctr": "10.3%",
+    "bounce_rate": "2.2%"
+  },
+  "data_quality": {
+    "verification_rate": "95%",
+    "decision_maker_ratio": "51%",
+    "last_verified": "Q3-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-connecticut-business-email-leads-database/"
+}

@@ -1,21 +1,46 @@
 User-agent: *
 Allow: /
 Allow: /llm/
+Allow: /methodology/
+Allow: /all-databases/
+Allow: /regions/
 
-# LLM & AI Crawler Data
+# LLM & AI Crawlers
 User-agent: GPTBot
-Allow: /llm/
-Allow: /data-pages/
-Allow: /blog/
+Allow: /
 
 User-agent: anthropic-ai
-Allow: /llm/
-Allow: /data-pages/
-Allow: /blog/
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
 
 User-agent: PerplexityBot
-Allow: /llm/
-Allow: /data-pages/
-Allow: /blog/
+Allow: /
 
-Sitemap: https://b2b-lists.pages.dev/sitemap.xml
+User-agent: GoogleOther
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: Omgilibot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+# Block image crawlers (no images to serve)
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: Bingbot-Image
+Disallow: /
+
+Sitemap: https://b2bdataindex.com/sitemap.xml

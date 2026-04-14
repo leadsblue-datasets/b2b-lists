@@ -1,0 +1,38 @@
+{
+  "name": "Nebraska Business Email Database",
+  "location": "Nebraska",
+  "slug": "nebraska-business-email-database",
+  "url": "https://b2bdataindex.com/data-pages/nebraska-business-email-database/",
+  "records": 101478,
+  "industries": {
+    "Healthcare & Medical": 17,
+    "Construction & Real Estate": 17,
+    "Manufacturing": 16,
+    "Finance & Insurance": 15,
+    "Energy & Utilities": 13,
+    "Hospitality & Tourism": 11,
+    "Technology & Software": 11
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 52,
+    "SME (11–100 employees)": 25,
+    "Mid-market (101–500)": 8,
+    "Enterprise (500+)": 15
+  },
+  "benchmarks": {
+    "open_rate": "22.5%",
+    "reply_rate": "6.2%",
+    "ctr": "11.3%",
+    "bounce_rate": "2.1%"
+  },
+  "data_quality": {
+    "verification_rate": "94%",
+    "decision_maker_ratio": "41%",
+    "last_verified": "Q2-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-nebraska-business-email-leads-database/"
+}

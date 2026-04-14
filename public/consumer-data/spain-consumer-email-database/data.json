@@ -1,0 +1,37 @@
+{
+  "name": "Spain Consumer Email Database",
+  "location": "Spain",
+  "slug": "spain-consumer-email-database",
+  "url": "https://b2bdataindex.com/consumer-data/spain-consumer-email-database/",
+  "records": 25622976,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 15,
+      "25–34": 16,
+      "35–44": 8,
+      "45–54": 21,
+      "55–64": 21,
+      "65+": 19
+    },
+    "gender": {
+      "female": "56%",
+      "male": "44%"
+    }
+  },
+  "interests": {
+    "Education & Self-Improvement": 21,
+    "Shopping & Retail": 20,
+    "Technology & Gadgets": 17,
+    "Travel & Leisure": 16,
+    "Finance & Investment": 13,
+    "Health & Wellness": 13
+  },
+  "benchmarks": {
+    "open_rate": "29.4%",
+    "ctr": "3%"
+  },
+  "compliance": {
+    "framework": "GDPR (Consent Required)"
+  },
+  "product_url": "https://leadsblue.com/leads/spain-consumer-email-database/"
+}

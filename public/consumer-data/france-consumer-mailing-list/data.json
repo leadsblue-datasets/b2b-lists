@@ -1,0 +1,37 @@
+{
+  "name": "France Consumer Mailing List",
+  "location": "France",
+  "slug": "france-consumer-mailing-list",
+  "url": "https://b2bdataindex.com/consumer-data/france-consumer-mailing-list/",
+  "records": 24023958,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 19,
+      "25–34": 13,
+      "35–44": 15,
+      "45–54": 23,
+      "55–64": 14,
+      "65+": 16
+    },
+    "gender": {
+      "female": "47%",
+      "male": "53%"
+    }
+  },
+  "interests": {
+    "Automotive": 26,
+    "Travel & Leisure": 22,
+    "Home & Family": 16,
+    "Entertainment & Media": 14,
+    "Sports & Fitness": 14,
+    "Education & Self-Improvement": 8
+  },
+  "benchmarks": {
+    "open_rate": "31.9%",
+    "ctr": "5.4%"
+  },
+  "compliance": {
+    "framework": "GDPR (Consent Required)"
+  },
+  "product_url": "https://leadsblue.com/leads/france-consumer-email-database/"
+}

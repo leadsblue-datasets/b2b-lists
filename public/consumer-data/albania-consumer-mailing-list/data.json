@@ -1,0 +1,37 @@
+{
+  "name": "Albania Consumer Mailing List",
+  "location": "Albania",
+  "slug": "albania-consumer-mailing-list",
+  "url": "https://b2bdataindex.com/consumer-data/albania-consumer-mailing-list/",
+  "records": 1548568,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 17,
+      "25–34": 14,
+      "35–44": 20,
+      "45–54": 12,
+      "55–64": 20,
+      "65+": 17
+    },
+    "gender": {
+      "female": "48%",
+      "male": "52%"
+    }
+  },
+  "interests": {
+    "Food & Dining": 23,
+    "Entertainment & Media": 19,
+    "Shopping & Retail": 16,
+    "Travel & Leisure": 15,
+    "Automotive": 14,
+    "Technology & Gadgets": 13
+  },
+  "benchmarks": {
+    "open_rate": "31.4%",
+    "ctr": "8.2%"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/albania-consumer-email-database/"
+}

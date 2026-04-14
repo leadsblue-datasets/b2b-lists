@@ -1,0 +1,38 @@
+{
+  "name": "United Kingdom Business Email List",
+  "location": "United Kingdom",
+  "slug": "united-kingdom-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/united-kingdom-business-email-list/",
+  "records": 7793602,
+  "industries": {
+    "Finance & Banking": 31,
+    "Professional Services": 15,
+    "Technology": 11,
+    "Healthcare": 14,
+    "Retail & Commerce": 9,
+    "Manufacturing": 10,
+    "Education": 10
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 51,
+    "SME (11–100 employees)": 29,
+    "Mid-market (101–500)": 10,
+    "Enterprise (500+)": 10
+  },
+  "benchmarks": {
+    "open_rate": "26.9%",
+    "reply_rate": "3.8%",
+    "ctr": "7%",
+    "bounce_rate": "1.6%"
+  },
+  "data_quality": {
+    "verification_rate": "96%",
+    "decision_maker_ratio": "39%",
+    "last_verified": "Q1-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "UK GDPR + PECR"
+  },
+  "product_url": "https://leadsblue.com/leads/united-kingdom-uk-business-email-leads-database/"
+}

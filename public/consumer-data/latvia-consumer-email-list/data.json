@@ -1,0 +1,37 @@
+{
+  "name": "Latvia Consumer Email List",
+  "location": "Latvia",
+  "slug": "latvia-consumer-email-list",
+  "url": "https://b2bdataindex.com/consumer-data/latvia-consumer-email-list/",
+  "records": 965548,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 17,
+      "25–34": 11,
+      "35–44": 12,
+      "45–54": 17,
+      "55–64": 16,
+      "65+": 27
+    },
+    "gender": {
+      "female": "50%",
+      "male": "50%"
+    }
+  },
+  "interests": {
+    "Health & Wellness": 26,
+    "Shopping & Retail": 23,
+    "Education & Self-Improvement": 15,
+    "Sports & Fitness": 13,
+    "Finance & Investment": 12,
+    "Food & Dining": 11
+  },
+  "benchmarks": {
+    "open_rate": "26%",
+    "ctr": "2.9%"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/latvia-consumer-email-database/"
+}

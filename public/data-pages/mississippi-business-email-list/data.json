@@ -1,0 +1,38 @@
+{
+  "name": "Mississippi Business Email List",
+  "location": "Mississippi",
+  "slug": "mississippi-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/mississippi-business-email-list/",
+  "records": 396255,
+  "industries": {
+    "Technology & Software": 20,
+    "Healthcare & Medical": 19,
+    "Education & Training": 16,
+    "Hospitality & Tourism": 15,
+    "Retail & Commerce": 12,
+    "Professional Services": 10,
+    "Manufacturing": 8
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 45,
+    "SME (11–100 employees)": 25,
+    "Mid-market (101–500)": 9,
+    "Enterprise (500+)": 21
+  },
+  "benchmarks": {
+    "open_rate": "27.2%",
+    "reply_rate": "7.1%",
+    "ctr": "9.6%",
+    "bounce_rate": "1.2%"
+  },
+  "data_quality": {
+    "verification_rate": "94%",
+    "decision_maker_ratio": "48%",
+    "last_verified": "Q4-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-mississippi-business-email-leads-database/"
+}

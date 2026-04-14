@@ -1,0 +1,38 @@
+{
+  "name": "Denmark Business Email List",
+  "location": "Denmark",
+  "slug": "denmark-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/denmark-business-email-list/",
+  "records": 1940596,
+  "industries": {
+    "Pharmaceutical": 19,
+    "Technology": 16,
+    "Manufacturing": 16,
+    "Finance & Banking": 16,
+    "Professional Services": 9,
+    "Healthcare": 11,
+    "Retail & Commerce": 13
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 51,
+    "SME (11–100 employees)": 30,
+    "Mid-market (101–500)": 11,
+    "Enterprise (500+)": 8
+  },
+  "benchmarks": {
+    "open_rate": "31.7%",
+    "reply_rate": "5.4%",
+    "ctr": "4.5%",
+    "bounce_rate": "1.7%"
+  },
+  "data_quality": {
+    "verification_rate": "96%",
+    "decision_maker_ratio": "49%",
+    "last_verified": "Q2-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "GDPR"
+  },
+  "product_url": "https://leadsblue.com/leads/denmark-business-email-leads-database/"
+}

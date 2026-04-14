@@ -1,0 +1,38 @@
+{
+  "name": "UAE Business Email Database",
+  "location": "UAE",
+  "slug": "uae-business-email-database",
+  "url": "https://b2bdataindex.com/data-pages/uae-business-email-database/",
+  "records": 1474723,
+  "industries": {
+    "Trade & Commerce": 21,
+    "Construction & Real Estate": 15,
+    "Finance & Banking": 13,
+    "Tourism & Hospitality": 16,
+    "Technology": 9,
+    "Healthcare": 14,
+    "Professional Services": 12
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 48,
+    "SME (11–100 employees)": 28,
+    "Mid-market (101–500)": 9,
+    "Enterprise (500+)": 15
+  },
+  "benchmarks": {
+    "open_rate": "26%",
+    "reply_rate": "3.9%",
+    "ctr": "9.9%",
+    "bounce_rate": "1.5%"
+  },
+  "data_quality": {
+    "verification_rate": "96%",
+    "decision_maker_ratio": "44%",
+    "last_verified": "Q3-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "Regional Guidelines"
+  },
+  "product_url": "https://leadsblue.com/leads/united-arab-emirates-business-email-leads-database/"
+}

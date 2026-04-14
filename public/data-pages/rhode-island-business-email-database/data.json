@@ -1,0 +1,38 @@
+{
+  "name": "Rhode Island Business Email Database",
+  "location": "Rhode Island",
+  "slug": "rhode-island-business-email-database",
+  "url": "https://b2bdataindex.com/data-pages/rhode-island-business-email-database/",
+  "records": 307481,
+  "industries": {
+    "Manufacturing": 19,
+    "Retail & Commerce": 18,
+    "Transportation & Logistics": 16,
+    "Finance & Insurance": 15,
+    "Education & Training": 12,
+    "Healthcare & Medical": 12,
+    "Hospitality & Tourism": 8
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 45,
+    "SME (11–100 employees)": 26,
+    "Mid-market (101–500)": 12,
+    "Enterprise (500+)": 17
+  },
+  "benchmarks": {
+    "open_rate": "29.4%",
+    "reply_rate": "5.5%",
+    "ctr": "10.9%",
+    "bounce_rate": "1%"
+  },
+  "data_quality": {
+    "verification_rate": "97%",
+    "decision_maker_ratio": "46%",
+    "last_verified": "Q4-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-rhode-island-business-email-leads-database/"
+}

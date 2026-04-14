@@ -1,0 +1,38 @@
+{
+  "name": "Togo Business Email List",
+  "location": "Togo",
+  "slug": "togo-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/togo-business-email-list/",
+  "records": 483450,
+  "industries": {
+    "Manufacturing": 17,
+    "Transportation": 16,
+    "Healthcare": 16,
+    "Construction": 15,
+    "Energy": 14,
+    "Finance & Banking": 12,
+    "Retail & Commerce": 10
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 49,
+    "SME (11–100 employees)": 27,
+    "Mid-market (101–500)": 12,
+    "Enterprise (500+)": 12
+  },
+  "benchmarks": {
+    "open_rate": "19%",
+    "reply_rate": "6.6%",
+    "ctr": "4.2%",
+    "bounce_rate": "1.1%"
+  },
+  "data_quality": {
+    "verification_rate": "95%",
+    "decision_maker_ratio": "42%",
+    "last_verified": "Q3-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/togo-business-email-leads-database/"
+}

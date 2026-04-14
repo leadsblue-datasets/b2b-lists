@@ -1,0 +1,38 @@
+{
+  "name": "Japan Business Email List and Sales Leads Database",
+  "location": "Japan",
+  "slug": "japan-business-email-list-and-sales-leads-database",
+  "url": "https://b2bdataindex.com/data-pages/japan-business-email-list-and-sales-leads-database/",
+  "records": 10761068,
+  "industries": {
+    "Manufacturing & Electronics": 28,
+    "Technology": 17,
+    "Finance & Banking": 16,
+    "Retail & Commerce": 11,
+    "Professional Services": 12,
+    "Healthcare": 8,
+    "Transportation": 8
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 52,
+    "SME (11–100 employees)": 27,
+    "Mid-market (101–500)": 8,
+    "Enterprise (500+)": 13
+  },
+  "benchmarks": {
+    "open_rate": "30.2%",
+    "reply_rate": "5.8%",
+    "ctr": "7.1%",
+    "bounce_rate": "1.8%"
+  },
+  "data_quality": {
+    "verification_rate": "96%",
+    "decision_maker_ratio": "46%",
+    "last_verified": "Q2-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/japan-business-email-leads-database/"
+}

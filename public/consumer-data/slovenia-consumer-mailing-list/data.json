@@ -1,0 +1,37 @@
+{
+  "name": "Slovenia Consumer Mailing List",
+  "location": "Slovenia",
+  "slug": "slovenia-consumer-mailing-list",
+  "url": "https://b2bdataindex.com/consumer-data/slovenia-consumer-mailing-list/",
+  "records": 1586603,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 16,
+      "25–34": 19,
+      "35–44": 17,
+      "45–54": 18,
+      "55–64": 19,
+      "65+": 11
+    },
+    "gender": {
+      "female": "53%",
+      "male": "47%"
+    }
+  },
+  "interests": {
+    "Education & Self-Improvement": 26,
+    "Food & Dining": 18,
+    "Technology & Gadgets": 18,
+    "Sports & Fitness": 13,
+    "Automotive": 13,
+    "Shopping & Retail": 12
+  },
+  "benchmarks": {
+    "open_rate": "31.8%",
+    "ctr": "7.1%"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/slovenia-consumer-email-database/"
+}

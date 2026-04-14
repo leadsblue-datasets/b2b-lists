@@ -1,0 +1,38 @@
+{
+  "name": "Montenegro Business Email List",
+  "location": "Montenegro",
+  "slug": "montenegro-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/montenegro-business-email-list/",
+  "records": 393378,
+  "industries": {
+    "Retail & Commerce": 22,
+    "Finance & Banking": 18,
+    "Construction": 16,
+    "Healthcare": 12,
+    "Professional Services": 12,
+    "Education": 11,
+    "Energy": 9
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 45,
+    "SME (11–100 employees)": 26,
+    "Mid-market (101–500)": 8,
+    "Enterprise (500+)": 21
+  },
+  "benchmarks": {
+    "open_rate": "20.3%",
+    "reply_rate": "4.9%",
+    "ctr": "9.1%",
+    "bounce_rate": "1.2%"
+  },
+  "data_quality": {
+    "verification_rate": "95%",
+    "decision_maker_ratio": "50%",
+    "last_verified": "Q4-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/montenegro-business-email-leads-database/"
+}

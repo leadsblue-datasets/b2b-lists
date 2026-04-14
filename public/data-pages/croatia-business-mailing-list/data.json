@@ -1,0 +1,38 @@
+{
+  "name": "Croatia Business Mailing List",
+  "location": "Croatia",
+  "slug": "croatia-business-mailing-list",
+  "url": "https://b2bdataindex.com/data-pages/croatia-business-mailing-list/",
+  "records": 521647,
+  "industries": {
+    "Construction": 21,
+    "Energy": 21,
+    "Technology": 15,
+    "Transportation": 13,
+    "Professional Services": 11,
+    "Healthcare": 11,
+    "Retail & Commerce": 8
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 50,
+    "SME (11–100 employees)": 28,
+    "Mid-market (101–500)": 9,
+    "Enterprise (500+)": 13
+  },
+  "benchmarks": {
+    "open_rate": "27.9%",
+    "reply_rate": "6%",
+    "ctr": "9.3%",
+    "bounce_rate": "1.7%"
+  },
+  "data_quality": {
+    "verification_rate": "95%",
+    "decision_maker_ratio": "44%",
+    "last_verified": "Q4-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/croatia-business-email-leads-database/"
+}

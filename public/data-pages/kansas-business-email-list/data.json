@@ -1,0 +1,38 @@
+{
+  "name": "Kansas Business Email List",
+  "location": "Kansas",
+  "slug": "kansas-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/kansas-business-email-list/",
+  "records": 196873,
+  "industries": {
+    "Professional Services": 20,
+    "Finance & Insurance": 17,
+    "Retail & Commerce": 14,
+    "Healthcare & Medical": 14,
+    "Transportation & Logistics": 13,
+    "Hospitality & Tourism": 11,
+    "Manufacturing": 11
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 46,
+    "SME (11–100 employees)": 26,
+    "Mid-market (101–500)": 11,
+    "Enterprise (500+)": 17
+  },
+  "benchmarks": {
+    "open_rate": "24.6%",
+    "reply_rate": "4.5%",
+    "ctr": "10.1%",
+    "bounce_rate": "1.3%"
+  },
+  "data_quality": {
+    "verification_rate": "97%",
+    "decision_maker_ratio": "51%",
+    "last_verified": "Q2-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-kansas-business-email-leads-database/"
+}

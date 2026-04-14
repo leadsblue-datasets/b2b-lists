@@ -1,0 +1,37 @@
+{
+  "name": "Yahoo Users Email List",
+  "location": "Yahoo Users",
+  "slug": "yahoo-users-email-list",
+  "url": "https://b2bdataindex.com/consumer-data/yahoo-users-email-list/",
+  "records": 976417,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 18,
+      "25–34": 21,
+      "35–44": 16,
+      "45–54": 12,
+      "55–64": 19,
+      "65+": 14
+    },
+    "gender": {
+      "female": "48%",
+      "male": "52%"
+    }
+  },
+  "interests": {
+    "Food & Dining": 26,
+    "Finance & Investment": 22,
+    "Entertainment & Media": 17,
+    "Sports & Fitness": 14,
+    "Technology & Gadgets": 11,
+    "Health & Wellness": 10
+  },
+  "benchmarks": {
+    "open_rate": "31%",
+    "ctr": "5.9%"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/yahoo-consumer-email-database/"
+}

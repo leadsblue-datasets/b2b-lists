@@ -1,0 +1,37 @@
+{
+  "name": "Netherlands Consumer Mailing List",
+  "location": "Netherlands",
+  "slug": "netherlands-consumer-mailing-list",
+  "url": "https://b2bdataindex.com/consumer-data/netherlands-consumer-mailing-list/",
+  "records": 3525483,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 24,
+      "25–34": 12,
+      "35–44": 18,
+      "45–54": 17,
+      "55–64": 19,
+      "65+": 10
+    },
+    "gender": {
+      "female": "48%",
+      "male": "52%"
+    }
+  },
+  "interests": {
+    "Entertainment & Media": 25,
+    "Sports & Fitness": 21,
+    "Travel & Leisure": 20,
+    "Automotive": 12,
+    "Home & Family": 11,
+    "Technology & Gadgets": 11
+  },
+  "benchmarks": {
+    "open_rate": "31.2%",
+    "ctr": "4.9%"
+  },
+  "compliance": {
+    "framework": "GDPR (Consent Required)"
+  },
+  "product_url": "https://leadsblue.com/leads/netherlands-consumer-email-database/"
+}

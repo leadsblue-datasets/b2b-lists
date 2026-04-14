@@ -1,0 +1,38 @@
+{
+  "name": "Spain Business Email Database",
+  "location": "Spain",
+  "slug": "spain-business-email-database",
+  "url": "https://b2bdataindex.com/data-pages/spain-business-email-database/",
+  "records": 15281446,
+  "industries": {
+    "Tourism & Hospitality": 26,
+    "Retail & Commerce": 15,
+    "Manufacturing": 16,
+    "Professional Services": 13,
+    "Finance & Banking": 13,
+    "Construction": 10,
+    "Technology": 7
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 48,
+    "SME (11–100 employees)": 30,
+    "Mid-market (101–500)": 12,
+    "Enterprise (500+)": 10
+  },
+  "benchmarks": {
+    "open_rate": "24.3%",
+    "reply_rate": "4.4%",
+    "ctr": "9.9%",
+    "bounce_rate": "1.9%"
+  },
+  "data_quality": {
+    "verification_rate": "94%",
+    "decision_maker_ratio": "42%",
+    "last_verified": "Q2-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "GDPR"
+  },
+  "product_url": "https://leadsblue.com/leads/spain-business-email-leads-database/"
+}
