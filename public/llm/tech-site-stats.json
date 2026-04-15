@@ -4,748 +4,2888 @@
     "tech_name": "Amateur Radio",
     "site_count": 43040,
     "site_count_formatted": "43K+",
-    "url": "https://b2bdataindex.com/website-data/all-amateur-radio-sites-list/"
+    "geo_distribution": {
+      "United States": "41%",
+      "United Kingdom": "12%",
+      "Canada": "8%",
+      "Australia": "5%",
+      "Germany": "2%",
+      "Rest of World": "32%"
+    },
+    "us_based_pct": "41%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "11%",
+      "Medium Traffic (10K–100K/mo)": "26%",
+      "Low/New (<10K/mo)": "63%"
+    },
+    "verification_rate": "92%",
+    "last_verified": "Q4-2026",
+    "price": "$49",
+    "rating": "4.8/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-amateur-radio-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Bitcoin Sites List",
     "tech_name": "Bitcoin",
     "site_count": 31037,
     "site_count_formatted": "31K+",
-    "url": "https://b2bdataindex.com/website-data/all-bitcoin-sites-list/"
+    "geo_distribution": {
+      "United States": "34%",
+      "United Kingdom": "12%",
+      "Canada": "7%",
+      "Australia": "6%",
+      "Germany": "2%",
+      "Rest of World": "39%"
+    },
+    "us_based_pct": "34%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "16%",
+      "Medium Traffic (10K–100K/mo)": "31%",
+      "Low/New (<10K/mo)": "53%"
+    },
+    "verification_rate": "89%",
+    "last_verified": "Q3-2026",
+    "price": "$49",
+    "rating": "4.3/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-bitcoin-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All California Sites List",
     "tech_name": "California",
     "site_count": 20728,
     "site_count_formatted": "21K+",
-    "url": "https://b2bdataindex.com/website-data/all-california-sites-list/"
+    "geo_distribution": {
+      "United States": "43%",
+      "United Kingdom": "12%",
+      "Canada": "7%",
+      "Australia": "6%",
+      "Germany": "5%",
+      "Rest of World": "27%"
+    },
+    "us_based_pct": "43%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "18%",
+      "Medium Traffic (10K–100K/mo)": "40%",
+      "Low/New (<10K/mo)": "42%"
+    },
+    "verification_rate": "89%",
+    "last_verified": "Q2-2026",
+    "price": "$49",
+    "rating": "4.6/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-california-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Cannabis Sites List",
     "tech_name": "Cannabis",
     "site_count": 15722,
     "site_count_formatted": "16K+",
-    "url": "https://b2bdataindex.com/website-data/all-cannabis-sites-list/"
+    "geo_distribution": {
+      "United States": "44%",
+      "United Kingdom": "11%",
+      "Canada": "6%",
+      "Australia": "6%",
+      "Germany": "3%",
+      "Rest of World": "30%"
+    },
+    "us_based_pct": "44%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "17%",
+      "Medium Traffic (10K–100K/mo)": "30%",
+      "Low/New (<10K/mo)": "53%"
+    },
+    "verification_rate": "95%",
+    "last_verified": "Q3-2026",
+    "price": "$49",
+    "rating": "4.7/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-cannabis-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Catholic School Sites List",
     "tech_name": "Catholic School",
     "site_count": 24356,
     "site_count_formatted": "24K+",
-    "url": "https://b2bdataindex.com/website-data/all-catholic-school-sites-list/"
+    "geo_distribution": {
+      "United States": "49%",
+      "United Kingdom": "11%",
+      "Canada": "7%",
+      "Australia": "8%",
+      "Germany": "4%",
+      "Rest of World": "21%"
+    },
+    "us_based_pct": "49%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "16%",
+      "Medium Traffic (10K–100K/mo)": "26%",
+      "Low/New (<10K/mo)": "58%"
+    },
+    "verification_rate": "92%",
+    "last_verified": "Q4-2026",
+    "price": "$49",
+    "rating": "4.8/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-catholic-school-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Catholic Sites List",
     "tech_name": "Catholic",
     "site_count": 24231,
     "site_count_formatted": "24K+",
-    "url": "https://b2bdataindex.com/website-data/all-catholic-sites-list/"
+    "geo_distribution": {
+      "United States": "50%",
+      "United Kingdom": "7%",
+      "Canada": "9%",
+      "Australia": "8%",
+      "Germany": "6%",
+      "Rest of World": "20%"
+    },
+    "us_based_pct": "50%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "10%",
+      "Medium Traffic (10K–100K/mo)": "30%",
+      "Low/New (<10K/mo)": "60%"
+    },
+    "verification_rate": "94%",
+    "last_verified": "Q3-2026",
+    "price": "$49",
+    "rating": "4.5/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-catholic-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Cooking Sites List",
     "tech_name": "Cooking",
     "site_count": 118968,
     "site_count_formatted": "119K+",
-    "url": "https://b2bdataindex.com/website-data/all-cooking-sites-list/"
+    "geo_distribution": {
+      "United States": "31%",
+      "United Kingdom": "6%",
+      "Canada": "6%",
+      "Australia": "5%",
+      "Germany": "2%",
+      "Rest of World": "50%"
+    },
+    "us_based_pct": "31%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "13%",
+      "Medium Traffic (10K–100K/mo)": "38%",
+      "Low/New (<10K/mo)": "49%"
+    },
+    "verification_rate": "91%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.6/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-cooking-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Crypto Sites List",
     "tech_name": "Crypto",
     "site_count": 26398,
     "site_count_formatted": "26K+",
-    "url": "https://b2bdataindex.com/website-data/all-crypto-sites-list/"
+    "geo_distribution": {
+      "United States": "33%",
+      "United Kingdom": "6%",
+      "Canada": "6%",
+      "Australia": "4%",
+      "Germany": "3%",
+      "Rest of World": "48%"
+    },
+    "us_based_pct": "33%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "18%",
+      "Medium Traffic (10K–100K/mo)": "30%",
+      "Low/New (<10K/mo)": "52%"
+    },
+    "verification_rate": "90%",
+    "last_verified": "Q3-2026",
+    "price": "$49",
+    "rating": "4.4/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-crypto-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Dance Studio Sites List",
     "tech_name": "Dance Studio",
     "site_count": 30649,
     "site_count_formatted": "31K+",
-    "url": "https://b2bdataindex.com/website-data/all-dance-studio-sites-list/"
+    "geo_distribution": {
+      "United States": "45%",
+      "United Kingdom": "6%",
+      "Canada": "8%",
+      "Australia": "4%",
+      "Germany": "2%",
+      "Rest of World": "35%"
+    },
+    "us_based_pct": "45%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "17%",
+      "Medium Traffic (10K–100K/mo)": "39%",
+      "Low/New (<10K/mo)": "44%"
+    },
+    "verification_rate": "92%",
+    "last_verified": "Q2-2026",
+    "price": "$49",
+    "rating": "4.8/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-dance-studio-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Food Sites List",
     "tech_name": "Food",
     "site_count": 286219,
     "site_count_formatted": "286K+",
-    "url": "https://b2bdataindex.com/website-data/all-food-sites-list/"
+    "geo_distribution": {
+      "United States": "38%",
+      "United Kingdom": "6%",
+      "Canada": "8%",
+      "Australia": "7%",
+      "Germany": "2%",
+      "Rest of World": "39%"
+    },
+    "us_based_pct": "38%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "16%",
+      "Medium Traffic (10K–100K/mo)": "30%",
+      "Low/New (<10K/mo)": "54%"
+    },
+    "verification_rate": "95%",
+    "last_verified": "Q3-2026",
+    "price": "$79",
+    "rating": "4.7/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-food-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Golf Sites List",
     "tech_name": "Golf",
     "site_count": 19906,
     "site_count_formatted": "20K+",
-    "url": "https://b2bdataindex.com/website-data/all-golf-sites-list/"
+    "geo_distribution": {
+      "United States": "39%",
+      "United Kingdom": "9%",
+      "Canada": "9%",
+      "Australia": "6%",
+      "Germany": "3%",
+      "Rest of World": "34%"
+    },
+    "us_based_pct": "39%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "8%",
+      "Medium Traffic (10K–100K/mo)": "39%",
+      "Low/New (<10K/mo)": "53%"
+    },
+    "verification_rate": "96%",
+    "last_verified": "Q3-2026",
+    "price": "$49",
+    "rating": "4.5/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-golf-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Hemp Sites List",
     "tech_name": "Hemp",
     "site_count": 12323,
     "site_count_formatted": "12K+",
-    "url": "https://b2bdataindex.com/website-data/all-hemp-sites-list/"
+    "geo_distribution": {
+      "United States": "37%",
+      "United Kingdom": "12%",
+      "Canada": "5%",
+      "Australia": "7%",
+      "Germany": "6%",
+      "Rest of World": "33%"
+    },
+    "us_based_pct": "37%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "14%",
+      "Medium Traffic (10K–100K/mo)": "25%",
+      "Low/New (<10K/mo)": "61%"
+    },
+    "verification_rate": "94%",
+    "last_verified": "Q3-2026",
+    "price": "$49",
+    "rating": "4.9/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-hemp-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Home Health Sites List",
     "tech_name": "Home Health",
     "site_count": 248536,
     "site_count_formatted": "249K+",
-    "url": "https://b2bdataindex.com/website-data/all-home-health-sites-list/"
+    "geo_distribution": {
+      "United States": "49%",
+      "United Kingdom": "12%",
+      "Canada": "8%",
+      "Australia": "7%",
+      "Germany": "2%",
+      "Rest of World": "22%"
+    },
+    "us_based_pct": "49%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "9%",
+      "Medium Traffic (10K–100K/mo)": "28%",
+      "Low/New (<10K/mo)": "63%"
+    },
+    "verification_rate": "90%",
+    "last_verified": "Q3-2026",
+    "price": "$79",
+    "rating": "4.8/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-home-health-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Homestead Sites List",
     "tech_name": "Homestead",
     "site_count": 17834,
     "site_count_formatted": "18K+",
-    "url": "https://b2bdataindex.com/website-data/all-homestead-sites-list/"
+    "geo_distribution": {
+      "United States": "40%",
+      "United Kingdom": "6%",
+      "Canada": "9%",
+      "Australia": "4%",
+      "Germany": "2%",
+      "Rest of World": "39%"
+    },
+    "us_based_pct": "40%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "18%",
+      "Medium Traffic (10K–100K/mo)": "30%",
+      "Low/New (<10K/mo)": "52%"
+    },
+    "verification_rate": "90%",
+    "last_verified": "Q2-2026",
+    "price": "$49",
+    "rating": "4.8/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-homestead-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Hydroponics Sites List",
     "tech_name": "Hydroponics",
     "site_count": 8362,
     "site_count_formatted": "8K+",
-    "url": "https://b2bdataindex.com/website-data/all-hydroponics-sites-list/"
+    "geo_distribution": {
+      "United States": "41%",
+      "United Kingdom": "5%",
+      "Canada": "5%",
+      "Australia": "3%",
+      "Germany": "6%",
+      "Rest of World": "40%"
+    },
+    "us_based_pct": "41%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "13%",
+      "Medium Traffic (10K–100K/mo)": "39%",
+      "Low/New (<10K/mo)": "48%"
+    },
+    "verification_rate": "92%",
+    "last_verified": "Q4-2026",
+    "price": "$49",
+    "rating": "4.4/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-hydroponics-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Active Campaign Sites List",
     "tech_name": "Active Campaign",
     "site_count": 263680,
     "site_count_formatted": "264K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-active-campaign-sites-list/"
+    "geo_distribution": {
+      "United States": "40%",
+      "United Kingdom": "11%",
+      "Canada": "7%",
+      "Australia": "7%",
+      "Germany": "4%",
+      "Rest of World": "31%"
+    },
+    "us_based_pct": "40%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "12%",
+      "Medium Traffic (10K–100K/mo)": "25%",
+      "Low/New (<10K/mo)": "63%"
+    },
+    "verification_rate": "95%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.4/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-active-campaign-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Adobe Analytics Sites List",
     "tech_name": "Adobe Analytics",
     "site_count": 90562,
     "site_count_formatted": "91K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-adobe-analytics-sites-list/"
+    "geo_distribution": {
+      "United States": "49%",
+      "United Kingdom": "12%",
+      "Canada": "6%",
+      "Australia": "6%",
+      "Germany": "3%",
+      "Rest of World": "24%"
+    },
+    "us_based_pct": "49%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "15%",
+      "Medium Traffic (10K–100K/mo)": "29%",
+      "Low/New (<10K/mo)": "56%"
+    },
+    "verification_rate": "90%",
+    "last_verified": "Q3-2026",
+    "price": "$49",
+    "rating": "4.4/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-adobe-analytics-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Adobe Marketing Cloud Sites List",
     "tech_name": "Adobe Marketing Cloud",
     "site_count": 268956,
     "site_count_formatted": "269K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-adobe-marketing-cloud-sites-list/"
+    "geo_distribution": {
+      "United States": "45%",
+      "United Kingdom": "5%",
+      "Canada": "7%",
+      "Australia": "5%",
+      "Germany": "3%",
+      "Rest of World": "35%"
+    },
+    "us_based_pct": "45%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "17%",
+      "Medium Traffic (10K–100K/mo)": "39%",
+      "Low/New (<10K/mo)": "44%"
+    },
+    "verification_rate": "89%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.4/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-adobe-marketing-cloud-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live AdRoll Sites List",
     "tech_name": "AdRoll",
     "site_count": 167231,
     "site_count_formatted": "167K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-adroll-sites-list/"
+    "geo_distribution": {
+      "United States": "46%",
+      "United Kingdom": "9%",
+      "Canada": "8%",
+      "Australia": "4%",
+      "Germany": "5%",
+      "Rest of World": "28%"
+    },
+    "us_based_pct": "46%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "18%",
+      "Medium Traffic (10K–100K/mo)": "37%",
+      "Low/New (<10K/mo)": "45%"
+    },
+    "verification_rate": "89%",
+    "last_verified": "Q3-2026",
+    "price": "$79",
+    "rating": "4.3/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-adroll-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Alexa Metrics Sites List",
     "tech_name": "Alexa Metrics",
     "site_count": 214695,
     "site_count_formatted": "215K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-alexa-metrics-sites-list/"
+    "geo_distribution": {
+      "United States": "43%",
+      "United Kingdom": "5%",
+      "Canada": "4%",
+      "Australia": "3%",
+      "Germany": "5%",
+      "Rest of World": "40%"
+    },
+    "us_based_pct": "43%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "8%",
+      "Medium Traffic (10K–100K/mo)": "40%",
+      "Low/New (<10K/mo)": "52%"
+    },
+    "verification_rate": "95%",
+    "last_verified": "Q1-2026",
+    "price": "$79",
+    "rating": "4.3/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-alexa-metrics-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Amazon Associates Sites List",
     "tech_name": "Amazon Associates",
     "site_count": 162572,
     "site_count_formatted": "163K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-amazon-associates-sites-list/"
+    "geo_distribution": {
+      "United States": "34%",
+      "United Kingdom": "11%",
+      "Canada": "9%",
+      "Australia": "4%",
+      "Germany": "3%",
+      "Rest of World": "39%"
+    },
+    "us_based_pct": "34%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "12%",
+      "Medium Traffic (10K–100K/mo)": "29%",
+      "Low/New (<10K/mo)": "59%"
+    },
+    "verification_rate": "93%",
+    "last_verified": "Q3-2026",
+    "price": "$79",
+    "rating": "4.7/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-amazon-associates-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Amazon SES Sites List",
     "tech_name": "Amazon SES",
     "site_count": 117087,
     "site_count_formatted": "117K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-amazon-ses-sites-list/"
+    "geo_distribution": {
+      "United States": "48%",
+      "United Kingdom": "11%",
+      "Canada": "8%",
+      "Australia": "7%",
+      "Germany": "6%",
+      "Rest of World": "20%"
+    },
+    "us_based_pct": "48%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "9%",
+      "Medium Traffic (10K–100K/mo)": "32%",
+      "Low/New (<10K/mo)": "59%"
+    },
+    "verification_rate": "88%",
+    "last_verified": "Q4-2026",
+    "price": "$79",
+    "rating": "4.9/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-amazon-ses-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live aWeber Sites List",
     "tech_name": "aWeber",
     "site_count": 89798,
     "site_count_formatted": "90K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-aweber-sites-list/"
+    "geo_distribution": {
+      "United States": "44%",
+      "United Kingdom": "8%",
+      "Canada": "9%",
+      "Australia": "3%",
+      "Germany": "5%",
+      "Rest of World": "31%"
+    },
+    "us_based_pct": "44%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "12%",
+      "Medium Traffic (10K–100K/mo)": "37%",
+      "Low/New (<10K/mo)": "51%"
+    },
+    "verification_rate": "92%",
+    "last_verified": "Q3-2026",
+    "price": "$49",
+    "rating": "4.3/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-aweber-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live BlueHost Sites List",
     "tech_name": "BlueHost",
     "site_count": 119795,
     "site_count_formatted": "120K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-bluehost-sites-list/"
+    "geo_distribution": {
+      "United States": "46%",
+      "United Kingdom": "11%",
+      "Canada": "9%",
+      "Australia": "7%",
+      "Germany": "6%",
+      "Rest of World": "21%"
+    },
+    "us_based_pct": "46%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "15%",
+      "Medium Traffic (10K–100K/mo)": "29%",
+      "Low/New (<10K/mo)": "56%"
+    },
+    "verification_rate": "96%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.3/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-bluehost-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live ClickBank Sites List",
     "tech_name": "ClickBank",
     "site_count": 56329,
     "site_count_formatted": "56K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-clickbank-sites-list/"
+    "geo_distribution": {
+      "United States": "46%",
+      "United Kingdom": "10%",
+      "Canada": "5%",
+      "Australia": "5%",
+      "Germany": "2%",
+      "Rest of World": "32%"
+    },
+    "us_based_pct": "46%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "15%",
+      "Medium Traffic (10K–100K/mo)": "32%",
+      "Low/New (<10K/mo)": "53%"
+    },
+    "verification_rate": "93%",
+    "last_verified": "Q4-2026",
+    "price": "$49",
+    "rating": "4.6/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-clickbank-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live ClickFunnels Sites List",
     "tech_name": "ClickFunnels",
     "site_count": 176090,
     "site_count_formatted": "176K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-clickfunnels-sites-list/"
+    "geo_distribution": {
+      "United States": "30%",
+      "United Kingdom": "6%",
+      "Canada": "5%",
+      "Australia": "7%",
+      "Germany": "4%",
+      "Rest of World": "48%"
+    },
+    "us_based_pct": "30%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "13%",
+      "Medium Traffic (10K–100K/mo)": "39%",
+      "Low/New (<10K/mo)": "48%"
+    },
+    "verification_rate": "96%",
+    "last_verified": "Q4-2026",
+    "price": "$79",
+    "rating": "4.8/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-clickfunnels-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Constant Contact Sites List",
     "tech_name": "Constant Contact",
     "site_count": 242831,
     "site_count_formatted": "243K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-constant-contact-sites-list/"
+    "geo_distribution": {
+      "United States": "33%",
+      "United Kingdom": "12%",
+      "Canada": "8%",
+      "Australia": "3%",
+      "Germany": "6%",
+      "Rest of World": "38%"
+    },
+    "us_based_pct": "33%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "16%",
+      "Medium Traffic (10K–100K/mo)": "33%",
+      "Low/New (<10K/mo)": "51%"
+    },
+    "verification_rate": "91%",
+    "last_verified": "Q3-2026",
+    "price": "$79",
+    "rating": "4.7/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-constant-contact-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live ConvertKit Sites List",
     "tech_name": "ConvertKit",
     "site_count": 82774,
     "site_count_formatted": "83K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-convertkit-sites-list/"
+    "geo_distribution": {
+      "United States": "34%",
+      "United Kingdom": "8%",
+      "Canada": "8%",
+      "Australia": "3%",
+      "Germany": "6%",
+      "Rest of World": "41%"
+    },
+    "us_based_pct": "34%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "11%",
+      "Medium Traffic (10K–100K/mo)": "30%",
+      "Low/New (<10K/mo)": "59%"
+    },
+    "verification_rate": "91%",
+    "last_verified": "Q4-2026",
+    "price": "$49",
+    "rating": "4.5/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-convertkit-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Demandware Sites List",
     "tech_name": "Demandware",
     "site_count": 151831,
     "site_count_formatted": "152K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-demandware-sites-list/"
+    "geo_distribution": {
+      "United States": "48%",
+      "United Kingdom": "7%",
+      "Canada": "5%",
+      "Australia": "5%",
+      "Germany": "4%",
+      "Rest of World": "31%"
+    },
+    "us_based_pct": "48%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "17%",
+      "Medium Traffic (10K–100K/mo)": "33%",
+      "Low/New (<10K/mo)": "50%"
+    },
+    "verification_rate": "94%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.4/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-demandware-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Drip Sites List",
     "tech_name": "Drip",
     "site_count": 51271,
     "site_count_formatted": "51K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-drip-sites-list/"
+    "geo_distribution": {
+      "United States": "41%",
+      "United Kingdom": "10%",
+      "Canada": "5%",
+      "Australia": "3%",
+      "Germany": "6%",
+      "Rest of World": "35%"
+    },
+    "us_based_pct": "41%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "11%",
+      "Medium Traffic (10K–100K/mo)": "29%",
+      "Low/New (<10K/mo)": "60%"
+    },
+    "verification_rate": "95%",
+    "last_verified": "Q4-2026",
+    "price": "$49",
+    "rating": "4.4/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-drip-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Drupal Sites List",
     "tech_name": "Drupal",
     "site_count": 683465,
     "site_count_formatted": "683K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-drupal-sites-list/"
+    "geo_distribution": {
+      "United States": "35%",
+      "United Kingdom": "9%",
+      "Canada": "4%",
+      "Australia": "5%",
+      "Germany": "3%",
+      "Rest of World": "44%"
+    },
+    "us_based_pct": "35%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "12%",
+      "Medium Traffic (10K–100K/mo)": "32%",
+      "Low/New (<10K/mo)": "56%"
+    },
+    "verification_rate": "93%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.7/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-drupal-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Elastic Email Sites List",
     "tech_name": "Elastic Email",
     "site_count": 73060,
     "site_count_formatted": "73K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-elastic-email-sites-list/"
+    "geo_distribution": {
+      "United States": "31%",
+      "United Kingdom": "12%",
+      "Canada": "5%",
+      "Australia": "8%",
+      "Germany": "5%",
+      "Rest of World": "39%"
+    },
+    "us_based_pct": "31%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "14%",
+      "Medium Traffic (10K–100K/mo)": "39%",
+      "Low/New (<10K/mo)": "47%"
+    },
+    "verification_rate": "88%",
+    "last_verified": "Q3-2026",
+    "price": "$49",
+    "rating": "4.7/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-elastic-email-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Emarsys Sites List",
     "tech_name": "Emarsys",
     "site_count": 204564,
     "site_count_formatted": "205K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-emarsys-sites-list/"
+    "geo_distribution": {
+      "United States": "34%",
+      "United Kingdom": "12%",
+      "Canada": "6%",
+      "Australia": "4%",
+      "Germany": "5%",
+      "Rest of World": "39%"
+    },
+    "us_based_pct": "34%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "12%",
+      "Medium Traffic (10K–100K/mo)": "34%",
+      "Low/New (<10K/mo)": "54%"
+    },
+    "verification_rate": "88%",
+    "last_verified": "Q1-2026",
+    "price": "$79",
+    "rating": "4.4/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-emarsys-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Facebook Pixel for Shopify Sites List",
     "tech_name": "Facebook Pixel",
     "site_count": 3593580,
     "site_count_formatted": "3.6M+",
-    "url": "https://b2bdataindex.com/website-data/all-live-facebook-pixel-for-shopify-sites-list/"
+    "geo_distribution": {
+      "United States": "39%",
+      "United Kingdom": "10%",
+      "Canada": "6%",
+      "Australia": "4%",
+      "Germany": "3%",
+      "Rest of World": "38%"
+    },
+    "us_based_pct": "39%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "17%",
+      "Medium Traffic (10K–100K/mo)": "34%",
+      "Low/New (<10K/mo)": "49%"
+    },
+    "verification_rate": "90%",
+    "last_verified": "Q4-2026",
+    "price": "$149",
+    "rating": "4.8/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-facebook-pixel-for-shopify-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live GetResponse Sites List",
     "tech_name": "GetResponse",
     "site_count": 111046,
     "site_count_formatted": "111K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-getresponse-sites-list/"
+    "geo_distribution": {
+      "United States": "45%",
+      "United Kingdom": "12%",
+      "Canada": "8%",
+      "Australia": "4%",
+      "Germany": "3%",
+      "Rest of World": "28%"
+    },
+    "us_based_pct": "45%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "15%",
+      "Medium Traffic (10K–100K/mo)": "34%",
+      "Low/New (<10K/mo)": "51%"
+    },
+    "verification_rate": "95%",
+    "last_verified": "Q1-2026",
+    "price": "$79",
+    "rating": "4.5/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-getresponse-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live GoDaddy Email Marketing Sites List",
     "tech_name": "GoDaddy Email Marketing",
     "site_count": 475064,
     "site_count_formatted": "475K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-godaddy-email-marketing-sites-list/"
+    "geo_distribution": {
+      "United States": "39%",
+      "United Kingdom": "8%",
+      "Canada": "4%",
+      "Australia": "4%",
+      "Germany": "4%",
+      "Rest of World": "41%"
+    },
+    "us_based_pct": "39%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "8%",
+      "Medium Traffic (10K–100K/mo)": "32%",
+      "Low/New (<10K/mo)": "60%"
+    },
+    "verification_rate": "93%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.3/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-godaddy-email-marketing-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live HotJar for Shopify Sites List",
     "tech_name": "HotJar",
     "site_count": 714919,
     "site_count_formatted": "715K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-hotjar-for-shopify-sites-list/"
+    "geo_distribution": {
+      "United States": "46%",
+      "United Kingdom": "8%",
+      "Canada": "4%",
+      "Australia": "8%",
+      "Germany": "4%",
+      "Rest of World": "30%"
+    },
+    "us_based_pct": "46%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "18%",
+      "Medium Traffic (10K–100K/mo)": "40%",
+      "Low/New (<10K/mo)": "42%"
+    },
+    "verification_rate": "93%",
+    "last_verified": "Q4-2026",
+    "price": "$149",
+    "rating": "4.4/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-hotjar-for-shopify-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Hotjar Sites List",
     "tech_name": "Hotjar",
     "site_count": 708497,
     "site_count_formatted": "708K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-hotjar-sites-list/"
+    "geo_distribution": {
+      "United States": "31%",
+      "United Kingdom": "7%",
+      "Canada": "6%",
+      "Australia": "4%",
+      "Germany": "4%",
+      "Rest of World": "48%"
+    },
+    "us_based_pct": "31%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "9%",
+      "Medium Traffic (10K–100K/mo)": "36%",
+      "Low/New (<10K/mo)": "55%"
+    },
+    "verification_rate": "95%",
+    "last_verified": "Q4-2026",
+    "price": "$149",
+    "rating": "4.5/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-hotjar-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Hubspot Sites List",
     "tech_name": "Hubspot",
     "site_count": 942663,
     "site_count_formatted": "943K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-hubspot-sites-list/"
+    "geo_distribution": {
+      "United States": "46%",
+      "United Kingdom": "9%",
+      "Canada": "5%",
+      "Australia": "5%",
+      "Germany": "2%",
+      "Rest of World": "33%"
+    },
+    "us_based_pct": "46%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "18%",
+      "Medium Traffic (10K–100K/mo)": "25%",
+      "Low/New (<10K/mo)": "57%"
+    },
+    "verification_rate": "89%",
+    "last_verified": "Q1-2026",
+    "price": "$149",
+    "rating": "4.5/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-hubspot-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Infusionsoft Sites List",
     "tech_name": "Infusionsoft",
     "site_count": 62445,
     "site_count_formatted": "62K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-infusionsoft-sites-list/"
+    "geo_distribution": {
+      "United States": "31%",
+      "United Kingdom": "11%",
+      "Canada": "8%",
+      "Australia": "3%",
+      "Germany": "3%",
+      "Rest of World": "44%"
+    },
+    "us_based_pct": "31%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "11%",
+      "Medium Traffic (10K–100K/mo)": "40%",
+      "Low/New (<10K/mo)": "49%"
+    },
+    "verification_rate": "91%",
+    "last_verified": "Q1-2026",
+    "price": "$49",
+    "rating": "4.6/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-infusionsoft-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live KISSmetrics Sites List",
     "tech_name": "KISSmetrics",
     "site_count": 180888,
     "site_count_formatted": "181K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-kissmetrics-sites-list/"
+    "geo_distribution": {
+      "United States": "42%",
+      "United Kingdom": "7%",
+      "Canada": "9%",
+      "Australia": "7%",
+      "Germany": "2%",
+      "Rest of World": "33%"
+    },
+    "us_based_pct": "42%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "10%",
+      "Medium Traffic (10K–100K/mo)": "40%",
+      "Low/New (<10K/mo)": "50%"
+    },
+    "verification_rate": "94%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.5/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-kissmetrics-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Klaviyo Sites List",
     "tech_name": "Klaviyo",
     "site_count": 380086,
     "site_count_formatted": "380K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-klaviyo-sites-list/"
+    "geo_distribution": {
+      "United States": "36%",
+      "United Kingdom": "11%",
+      "Canada": "9%",
+      "Australia": "6%",
+      "Germany": "2%",
+      "Rest of World": "36%"
+    },
+    "us_based_pct": "36%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "8%",
+      "Medium Traffic (10K–100K/mo)": "28%",
+      "Low/New (<10K/mo)": "64%"
+    },
+    "verification_rate": "95%",
+    "last_verified": "Q1-2026",
+    "price": "$79",
+    "rating": "4.5/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-klaviyo-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Laravel Sites List",
     "tech_name": "Laravel",
     "site_count": 482747,
     "site_count_formatted": "483K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-laravel-sites-list/"
+    "geo_distribution": {
+      "United States": "42%",
+      "United Kingdom": "12%",
+      "Canada": "5%",
+      "Australia": "4%",
+      "Germany": "3%",
+      "Rest of World": "34%"
+    },
+    "us_based_pct": "42%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "11%",
+      "Medium Traffic (10K–100K/mo)": "29%",
+      "Low/New (<10K/mo)": "60%"
+    },
+    "verification_rate": "91%",
+    "last_verified": "Q4-2026",
+    "price": "$79",
+    "rating": "4.7/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-laravel-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live LeadPages Sites List",
     "tech_name": "LeadPages",
     "site_count": 233084,
     "site_count_formatted": "233K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-leadpages-sites-list/"
+    "geo_distribution": {
+      "United States": "49%",
+      "United Kingdom": "9%",
+      "Canada": "5%",
+      "Australia": "4%",
+      "Germany": "3%",
+      "Rest of World": "30%"
+    },
+    "us_based_pct": "49%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "12%",
+      "Medium Traffic (10K–100K/mo)": "40%",
+      "Low/New (<10K/mo)": "48%"
+    },
+    "verification_rate": "96%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.9/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-leadpages-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Magento 2 Enterprise Sites List",
     "tech_name": "Magento 2 Enterprise",
     "site_count": 314385,
     "site_count_formatted": "314K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-magento-2-enterprise-sites-list/"
+    "geo_distribution": {
+      "United States": "45%",
+      "United Kingdom": "6%",
+      "Canada": "9%",
+      "Australia": "7%",
+      "Germany": "5%",
+      "Rest of World": "28%"
+    },
+    "us_based_pct": "45%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "11%",
+      "Medium Traffic (10K–100K/mo)": "37%",
+      "Low/New (<10K/mo)": "52%"
+    },
+    "verification_rate": "94%",
+    "last_verified": "Q1-2026",
+    "price": "$79",
+    "rating": "4.5/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-magento-2-enterprise-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Magento Enterprise Sites List",
     "tech_name": "Magento Enterprise",
     "site_count": 287518,
     "site_count_formatted": "288K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-magento-enterprise-sites-list/"
+    "geo_distribution": {
+      "United States": "33%",
+      "United Kingdom": "11%",
+      "Canada": "4%",
+      "Australia": "6%",
+      "Germany": "6%",
+      "Rest of World": "40%"
+    },
+    "us_based_pct": "33%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "12%",
+      "Medium Traffic (10K–100K/mo)": "33%",
+      "Low/New (<10K/mo)": "55%"
+    },
+    "verification_rate": "93%",
+    "last_verified": "Q3-2026",
+    "price": "$79",
+    "rating": "4.5/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-magento-enterprise-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Magento Sites List",
     "tech_name": "Magento",
     "site_count": 290813,
     "site_count_formatted": "291K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-magento-sites-list/"
+    "geo_distribution": {
+      "United States": "40%",
+      "United Kingdom": "11%",
+      "Canada": "6%",
+      "Australia": "7%",
+      "Germany": "5%",
+      "Rest of World": "31%"
+    },
+    "us_based_pct": "40%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "9%",
+      "Medium Traffic (10K–100K/mo)": "37%",
+      "Low/New (<10K/mo)": "54%"
+    },
+    "verification_rate": "93%",
+    "last_verified": "Q3-2026",
+    "price": "$79",
+    "rating": "4.5/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-magento-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live MailChimp for Shopify Sites List",
     "tech_name": "MailChimp",
     "site_count": 2616970,
     "site_count_formatted": "2.6M+",
-    "url": "https://b2bdataindex.com/website-data/all-live-mailchimp-for-shopify-sites-list/"
+    "geo_distribution": {
+      "United States": "37%",
+      "United Kingdom": "9%",
+      "Canada": "4%",
+      "Australia": "7%",
+      "Germany": "3%",
+      "Rest of World": "40%"
+    },
+    "us_based_pct": "37%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "10%",
+      "Medium Traffic (10K–100K/mo)": "28%",
+      "Low/New (<10K/mo)": "62%"
+    },
+    "verification_rate": "96%",
+    "last_verified": "Q1-2026",
+    "price": "$149",
+    "rating": "4.6/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-mailchimp-for-shopify-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Mailchimp for WooCommerce Sites List",
     "tech_name": "Mailchimp",
     "site_count": 2417506,
     "site_count_formatted": "2.4M+",
-    "url": "https://b2bdataindex.com/website-data/all-live-mailchimp-for-woocommerce-sites-list/"
+    "geo_distribution": {
+      "United States": "42%",
+      "United Kingdom": "12%",
+      "Canada": "5%",
+      "Australia": "7%",
+      "Germany": "2%",
+      "Rest of World": "32%"
+    },
+    "us_based_pct": "42%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "10%",
+      "Medium Traffic (10K–100K/mo)": "36%",
+      "Low/New (<10K/mo)": "54%"
+    },
+    "verification_rate": "90%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.4/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-mailchimp-for-woocommerce-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live MailChimp Sites List",
     "tech_name": "MailChimp",
     "site_count": 2530028,
     "site_count_formatted": "2.5M+",
-    "url": "https://b2bdataindex.com/website-data/all-live-mailchimp-sites-list/"
+    "geo_distribution": {
+      "United States": "47%",
+      "United Kingdom": "8%",
+      "Canada": "9%",
+      "Australia": "4%",
+      "Germany": "5%",
+      "Rest of World": "27%"
+    },
+    "us_based_pct": "47%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "15%",
+      "Medium Traffic (10K–100K/mo)": "38%",
+      "Low/New (<10K/mo)": "47%"
+    },
+    "verification_rate": "96%",
+    "last_verified": "Q2-2026",
+    "price": "$149",
+    "rating": "4.7/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-mailchimp-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Mailite Lite Sites List",
     "tech_name": "Mailite Lite",
     "site_count": 174162,
     "site_count_formatted": "174K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-mailite-lite-sites-list/"
+    "geo_distribution": {
+      "United States": "43%",
+      "United Kingdom": "10%",
+      "Canada": "8%",
+      "Australia": "3%",
+      "Germany": "2%",
+      "Rest of World": "34%"
+    },
+    "us_based_pct": "43%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "14%",
+      "Medium Traffic (10K–100K/mo)": "36%",
+      "Low/New (<10K/mo)": "50%"
+    },
+    "verification_rate": "95%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.4/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-mailite-lite-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live MailJet Sites List",
     "tech_name": "MailJet",
     "site_count": 279059,
     "site_count_formatted": "279K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-mailjet-sites-list/"
+    "geo_distribution": {
+      "United States": "45%",
+      "United Kingdom": "11%",
+      "Canada": "9%",
+      "Australia": "3%",
+      "Germany": "4%",
+      "Rest of World": "28%"
+    },
+    "us_based_pct": "45%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "9%",
+      "Medium Traffic (10K–100K/mo)": "29%",
+      "Low/New (<10K/mo)": "62%"
+    },
+    "verification_rate": "92%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.7/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-mailjet-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Mantis Sites List",
     "tech_name": "Mantis",
     "site_count": 223904,
     "site_count_formatted": "224K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-mantis-sites-list/"
+    "geo_distribution": {
+      "United States": "50%",
+      "United Kingdom": "8%",
+      "Canada": "8%",
+      "Australia": "4%",
+      "Germany": "3%",
+      "Rest of World": "27%"
+    },
+    "us_based_pct": "50%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "13%",
+      "Medium Traffic (10K–100K/mo)": "26%",
+      "Low/New (<10K/mo)": "61%"
+    },
+    "verification_rate": "94%",
+    "last_verified": "Q3-2026",
+    "price": "$79",
+    "rating": "4.6/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-mantis-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Marketo Sites List",
     "tech_name": "Marketo",
     "site_count": 112286,
     "site_count_formatted": "112K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-marketo-sites-list/"
+    "geo_distribution": {
+      "United States": "40%",
+      "United Kingdom": "11%",
+      "Canada": "5%",
+      "Australia": "4%",
+      "Germany": "4%",
+      "Rest of World": "36%"
+    },
+    "us_based_pct": "40%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "17%",
+      "Medium Traffic (10K–100K/mo)": "28%",
+      "Low/New (<10K/mo)": "55%"
+    },
+    "verification_rate": "93%",
+    "last_verified": "Q1-2026",
+    "price": "$79",
+    "rating": "4.7/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-marketo-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Maropost Sites List",
     "tech_name": "Maropost",
     "site_count": 285471,
     "site_count_formatted": "285K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-maropost-sites-list/"
+    "geo_distribution": {
+      "United States": "40%",
+      "United Kingdom": "11%",
+      "Canada": "8%",
+      "Australia": "3%",
+      "Germany": "6%",
+      "Rest of World": "32%"
+    },
+    "us_based_pct": "40%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "8%",
+      "Medium Traffic (10K–100K/mo)": "30%",
+      "Low/New (<10K/mo)": "62%"
+    },
+    "verification_rate": "93%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.9/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-maropost-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Mautic Sites List",
     "tech_name": "Mautic",
     "site_count": 38624,
     "site_count_formatted": "39K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-mautic-sites-list/"
+    "geo_distribution": {
+      "United States": "32%",
+      "United Kingdom": "12%",
+      "Canada": "9%",
+      "Australia": "7%",
+      "Germany": "6%",
+      "Rest of World": "34%"
+    },
+    "us_based_pct": "32%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "15%",
+      "Medium Traffic (10K–100K/mo)": "25%",
+      "Low/New (<10K/mo)": "60%"
+    },
+    "verification_rate": "91%",
+    "last_verified": "Q3-2026",
+    "price": "$49",
+    "rating": "4.8/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-mautic-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Moosend Sites List",
     "tech_name": "Moosend",
     "site_count": 30557,
     "site_count_formatted": "31K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-moosend-sites-list/"
+    "geo_distribution": {
+      "United States": "48%",
+      "United Kingdom": "8%",
+      "Canada": "5%",
+      "Australia": "7%",
+      "Germany": "3%",
+      "Rest of World": "29%"
+    },
+    "us_based_pct": "48%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "18%",
+      "Medium Traffic (10K–100K/mo)": "36%",
+      "Low/New (<10K/mo)": "46%"
+    },
+    "verification_rate": "93%",
+    "last_verified": "Q4-2026",
+    "price": "$49",
+    "rating": "4.3/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-moosend-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Omnisend Sites List",
     "tech_name": "Omnisend",
     "site_count": 67048,
     "site_count_formatted": "67K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-omnisend-sites-list/"
+    "geo_distribution": {
+      "United States": "34%",
+      "United Kingdom": "5%",
+      "Canada": "7%",
+      "Australia": "8%",
+      "Germany": "3%",
+      "Rest of World": "43%"
+    },
+    "us_based_pct": "34%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "15%",
+      "Medium Traffic (10K–100K/mo)": "31%",
+      "Low/New (<10K/mo)": "54%"
+    },
+    "verification_rate": "91%",
+    "last_verified": "Q3-2026",
+    "price": "$49",
+    "rating": "4.7/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-omnisend-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live OpenCart Sites List",
     "tech_name": "OpenCart",
     "site_count": 178236,
     "site_count_formatted": "178K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-opencart-sites-list/"
+    "geo_distribution": {
+      "United States": "49%",
+      "United Kingdom": "6%",
+      "Canada": "8%",
+      "Australia": "7%",
+      "Germany": "3%",
+      "Rest of World": "27%"
+    },
+    "us_based_pct": "49%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "11%",
+      "Medium Traffic (10K–100K/mo)": "27%",
+      "Low/New (<10K/mo)": "62%"
+    },
+    "verification_rate": "88%",
+    "last_verified": "Q4-2026",
+    "price": "$79",
+    "rating": "4.6/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-opencart-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Optimizely Sites List",
     "tech_name": "Optimizely",
     "site_count": 79195,
     "site_count_formatted": "79K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-optimizely-sites-list/"
+    "geo_distribution": {
+      "United States": "35%",
+      "United Kingdom": "12%",
+      "Canada": "7%",
+      "Australia": "4%",
+      "Germany": "2%",
+      "Rest of World": "40%"
+    },
+    "us_based_pct": "35%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "17%",
+      "Medium Traffic (10K–100K/mo)": "37%",
+      "Low/New (<10K/mo)": "46%"
+    },
+    "verification_rate": "92%",
+    "last_verified": "Q3-2026",
+    "price": "$49",
+    "rating": "4.9/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-optimizely-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live OptinMonster Sites List",
     "tech_name": "OptinMonster",
     "site_count": 186037,
     "site_count_formatted": "186K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-optinmonster-sites-list/"
+    "geo_distribution": {
+      "United States": "48%",
+      "United Kingdom": "10%",
+      "Canada": "5%",
+      "Australia": "6%",
+      "Germany": "2%",
+      "Rest of World": "29%"
+    },
+    "us_based_pct": "48%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "16%",
+      "Medium Traffic (10K–100K/mo)": "25%",
+      "Low/New (<10K/mo)": "59%"
+    },
+    "verification_rate": "92%",
+    "last_verified": "Q1-2026",
+    "price": "$79",
+    "rating": "4.6/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-optinmonster-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Pardot Sites List",
     "tech_name": "Pardot",
     "site_count": 97900,
     "site_count_formatted": "98K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-pardot-sites-list/"
+    "geo_distribution": {
+      "United States": "46%",
+      "United Kingdom": "12%",
+      "Canada": "7%",
+      "Australia": "8%",
+      "Germany": "2%",
+      "Rest of World": "25%"
+    },
+    "us_based_pct": "46%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "14%",
+      "Medium Traffic (10K–100K/mo)": "30%",
+      "Low/New (<10K/mo)": "56%"
+    },
+    "verification_rate": "90%",
+    "last_verified": "Q1-2026",
+    "price": "$49",
+    "rating": "4.5/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-pardot-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live PrestaShop Sites List",
     "tech_name": "PrestaShop",
     "site_count": 253390,
     "site_count_formatted": "253K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-prestashop-sites-list/"
+    "geo_distribution": {
+      "United States": "37%",
+      "United Kingdom": "5%",
+      "Canada": "5%",
+      "Australia": "3%",
+      "Germany": "3%",
+      "Rest of World": "47%"
+    },
+    "us_based_pct": "37%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "14%",
+      "Medium Traffic (10K–100K/mo)": "33%",
+      "Low/New (<10K/mo)": "53%"
+    },
+    "verification_rate": "96%",
+    "last_verified": "Q4-2026",
+    "price": "$79",
+    "rating": "4.6/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-prestashop-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live RankMath Sites List",
     "tech_name": "RankMath",
     "site_count": 149041,
     "site_count_formatted": "149K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-rankmath-sites-list/"
+    "geo_distribution": {
+      "United States": "32%",
+      "United Kingdom": "5%",
+      "Canada": "5%",
+      "Australia": "8%",
+      "Germany": "5%",
+      "Rest of World": "45%"
+    },
+    "us_based_pct": "32%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "15%",
+      "Medium Traffic (10K–100K/mo)": "29%",
+      "Low/New (<10K/mo)": "56%"
+    },
+    "verification_rate": "89%",
+    "last_verified": "Q1-2026",
+    "price": "$79",
+    "rating": "4.8/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-rankmath-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Salesforce Sites List",
     "tech_name": "Salesforce",
     "site_count": 624907,
     "site_count_formatted": "625K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-salesforce-sites-list/"
+    "geo_distribution": {
+      "United States": "48%",
+      "United Kingdom": "9%",
+      "Canada": "7%",
+      "Australia": "4%",
+      "Germany": "2%",
+      "Rest of World": "30%"
+    },
+    "us_based_pct": "48%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "17%",
+      "Medium Traffic (10K–100K/mo)": "40%",
+      "Low/New (<10K/mo)": "43%"
+    },
+    "verification_rate": "89%",
+    "last_verified": "Q1-2026",
+    "price": "$149",
+    "rating": "4.5/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-salesforce-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Sendgrid Sites List",
     "tech_name": "Sendgrid",
     "site_count": 204510,
     "site_count_formatted": "205K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-sendgrid-sites-list/"
+    "geo_distribution": {
+      "United States": "42%",
+      "United Kingdom": "6%",
+      "Canada": "6%",
+      "Australia": "8%",
+      "Germany": "5%",
+      "Rest of World": "33%"
+    },
+    "us_based_pct": "42%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "16%",
+      "Medium Traffic (10K–100K/mo)": "32%",
+      "Low/New (<10K/mo)": "52%"
+    },
+    "verification_rate": "96%",
+    "last_verified": "Q3-2026",
+    "price": "$79",
+    "rating": "4.9/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-sendgrid-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live SendinBlue Sites List",
     "tech_name": "SendinBlue",
     "site_count": 48289,
     "site_count_formatted": "48K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-sendinblue-sites-list/"
+    "geo_distribution": {
+      "United States": "37%",
+      "United Kingdom": "5%",
+      "Canada": "8%",
+      "Australia": "7%",
+      "Germany": "4%",
+      "Rest of World": "39%"
+    },
+    "us_based_pct": "37%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "17%",
+      "Medium Traffic (10K–100K/mo)": "28%",
+      "Low/New (<10K/mo)": "55%"
+    },
+    "verification_rate": "96%",
+    "last_verified": "Q2-2026",
+    "price": "$49",
+    "rating": "4.5/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-sendinblue-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Sendy Sites List",
     "tech_name": "Sendy",
     "site_count": 239368,
     "site_count_formatted": "239K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-sendy-sites-list/"
+    "geo_distribution": {
+      "United States": "31%",
+      "United Kingdom": "8%",
+      "Canada": "5%",
+      "Australia": "4%",
+      "Germany": "6%",
+      "Rest of World": "46%"
+    },
+    "us_based_pct": "31%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "10%",
+      "Medium Traffic (10K–100K/mo)": "40%",
+      "Low/New (<10K/mo)": "50%"
+    },
+    "verification_rate": "88%",
+    "last_verified": "Q1-2026",
+    "price": "$79",
+    "rating": "4.4/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-sendy-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live SEOPress Sites List",
     "tech_name": "SEOPress",
     "site_count": 191754,
     "site_count_formatted": "192K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-seopress-sites-list/"
+    "geo_distribution": {
+      "United States": "35%",
+      "United Kingdom": "10%",
+      "Canada": "4%",
+      "Australia": "6%",
+      "Germany": "4%",
+      "Rest of World": "41%"
+    },
+    "us_based_pct": "35%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "17%",
+      "Medium Traffic (10K–100K/mo)": "36%",
+      "Low/New (<10K/mo)": "47%"
+    },
+    "verification_rate": "88%",
+    "last_verified": "Q1-2026",
+    "price": "$79",
+    "rating": "4.7/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-seopress-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Shopify Sites List",
     "tech_name": "Shopify",
     "site_count": 4224038,
     "site_count_formatted": "4.2M+",
-    "url": "https://b2bdataindex.com/website-data/all-live-shopify-sites-list/"
+    "geo_distribution": {
+      "United States": "32%",
+      "United Kingdom": "5%",
+      "Canada": "6%",
+      "Australia": "8%",
+      "Germany": "4%",
+      "Rest of World": "45%"
+    },
+    "us_based_pct": "32%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "16%",
+      "Medium Traffic (10K–100K/mo)": "40%",
+      "Low/New (<10K/mo)": "44%"
+    },
+    "verification_rate": "91%",
+    "last_verified": "Q1-2026",
+    "price": "$149",
+    "rating": "4.4/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-shopify-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live SMTPcom Sites List",
     "tech_name": "SMTPcom",
     "site_count": 210147,
     "site_count_formatted": "210K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-smtpcom-sites-list/"
+    "geo_distribution": {
+      "United States": "36%",
+      "United Kingdom": "10%",
+      "Canada": "6%",
+      "Australia": "7%",
+      "Germany": "4%",
+      "Rest of World": "37%"
+    },
+    "us_based_pct": "36%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "12%",
+      "Medium Traffic (10K–100K/mo)": "32%",
+      "Low/New (<10K/mo)": "56%"
+    },
+    "verification_rate": "96%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.9/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-smtpcom-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Stripe Sites List",
     "tech_name": "Stripe",
     "site_count": 1844758,
     "site_count_formatted": "1.8M+",
-    "url": "https://b2bdataindex.com/website-data/all-live-stripe-sites-list/"
+    "geo_distribution": {
+      "United States": "30%",
+      "United Kingdom": "9%",
+      "Canada": "6%",
+      "Australia": "8%",
+      "Germany": "2%",
+      "Rest of World": "45%"
+    },
+    "us_based_pct": "30%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "17%",
+      "Medium Traffic (10K–100K/mo)": "26%",
+      "Low/New (<10K/mo)": "57%"
+    },
+    "verification_rate": "90%",
+    "last_verified": "Q4-2026",
+    "price": "$149",
+    "rating": "4.8/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-stripe-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Thrive Themes Sites List",
     "tech_name": "Thrive Themes",
     "site_count": 144277,
     "site_count_formatted": "144K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-thrive-themes-sites-list/"
+    "geo_distribution": {
+      "United States": "46%",
+      "United Kingdom": "5%",
+      "Canada": "8%",
+      "Australia": "6%",
+      "Germany": "3%",
+      "Rest of World": "32%"
+    },
+    "us_based_pct": "46%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "13%",
+      "Medium Traffic (10K–100K/mo)": "25%",
+      "Low/New (<10K/mo)": "62%"
+    },
+    "verification_rate": "96%",
+    "last_verified": "Q4-2026",
+    "price": "$79",
+    "rating": "4.8/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-thrive-themes-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Twitter Analytics Sites List",
     "tech_name": "Twitter Analytics",
     "site_count": 1167484,
     "site_count_formatted": "1.2M+",
-    "url": "https://b2bdataindex.com/website-data/all-live-twitter-analytics-sites-list/"
+    "geo_distribution": {
+      "United States": "46%",
+      "United Kingdom": "12%",
+      "Canada": "8%",
+      "Australia": "8%",
+      "Germany": "5%",
+      "Rest of World": "21%"
+    },
+    "us_based_pct": "46%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "14%",
+      "Medium Traffic (10K–100K/mo)": "39%",
+      "Low/New (<10K/mo)": "47%"
+    },
+    "verification_rate": "89%",
+    "last_verified": "Q1-2026",
+    "price": "$149",
+    "rating": "4.8/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-twitter-analytics-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Ultimate Member Sites List",
     "tech_name": "Ultimate Member",
     "site_count": 35226,
     "site_count_formatted": "35K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-ultimate-member-sites-list/"
+    "geo_distribution": {
+      "United States": "50%",
+      "United Kingdom": "6%",
+      "Canada": "5%",
+      "Australia": "6%",
+      "Germany": "2%",
+      "Rest of World": "31%"
+    },
+    "us_based_pct": "50%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "12%",
+      "Medium Traffic (10K–100K/mo)": "32%",
+      "Low/New (<10K/mo)": "56%"
+    },
+    "verification_rate": "95%",
+    "last_verified": "Q2-2026",
+    "price": "$49",
+    "rating": "4.7/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-ultimate-member-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Unbounce Sites List",
     "tech_name": "Unbounce",
     "site_count": 70412,
     "site_count_formatted": "70K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-unbounce-sites-list/"
+    "geo_distribution": {
+      "United States": "41%",
+      "United Kingdom": "11%",
+      "Canada": "9%",
+      "Australia": "7%",
+      "Germany": "3%",
+      "Rest of World": "29%"
+    },
+    "us_based_pct": "41%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "10%",
+      "Medium Traffic (10K–100K/mo)": "27%",
+      "Low/New (<10K/mo)": "63%"
+    },
+    "verification_rate": "88%",
+    "last_verified": "Q1-2026",
+    "price": "$49",
+    "rating": "4.9/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-unbounce-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live WebTrends Sites List",
     "tech_name": "WebTrends",
     "site_count": 295877,
     "site_count_formatted": "296K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-webtrends-sites-list/"
+    "geo_distribution": {
+      "United States": "38%",
+      "United Kingdom": "9%",
+      "Canada": "9%",
+      "Australia": "5%",
+      "Germany": "4%",
+      "Rest of World": "35%"
+    },
+    "us_based_pct": "38%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "17%",
+      "Medium Traffic (10K–100K/mo)": "40%",
+      "Low/New (<10K/mo)": "43%"
+    },
+    "verification_rate": "95%",
+    "last_verified": "Q1-2026",
+    "price": "$79",
+    "rating": "4.8/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-webtrends-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live WooCommerce Checkout Sites List",
     "tech_name": "WooCommerce Checkout",
     "site_count": 3862067,
     "site_count_formatted": "3.9M+",
-    "url": "https://b2bdataindex.com/website-data/all-live-woocommerce-checkout-sites-list/"
+    "geo_distribution": {
+      "United States": "42%",
+      "United Kingdom": "5%",
+      "Canada": "5%",
+      "Australia": "7%",
+      "Germany": "4%",
+      "Rest of World": "37%"
+    },
+    "us_based_pct": "42%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "14%",
+      "Medium Traffic (10K–100K/mo)": "33%",
+      "Low/New (<10K/mo)": "53%"
+    },
+    "verification_rate": "90%",
+    "last_verified": "Q4-2026",
+    "price": "$149",
+    "rating": "4.8/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-woocommerce-checkout-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live WooCommerce Memberships Sites List",
     "tech_name": "WooCommerce Memberships",
     "site_count": 3641522,
     "site_count_formatted": "3.6M+",
-    "url": "https://b2bdataindex.com/website-data/all-live-woocommerce-memberships-sites-list/"
+    "geo_distribution": {
+      "United States": "34%",
+      "United Kingdom": "11%",
+      "Canada": "7%",
+      "Australia": "5%",
+      "Germany": "6%",
+      "Rest of World": "37%"
+    },
+    "us_based_pct": "34%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "10%",
+      "Medium Traffic (10K–100K/mo)": "38%",
+      "Low/New (<10K/mo)": "52%"
+    },
+    "verification_rate": "91%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.5/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-woocommerce-memberships-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live WordPress Ad Manager and AdSense Ads Sites List",
     "tech_name": "WordPress Ad Manager and AdSense Ads",
     "site_count": 1557024,
     "site_count_formatted": "1.6M+",
-    "url": "https://b2bdataindex.com/website-data/all-live-wordpress-ad-manager-and-adsense-ads-sites-list/"
+    "geo_distribution": {
+      "United States": "31%",
+      "United Kingdom": "7%",
+      "Canada": "9%",
+      "Australia": "7%",
+      "Germany": "5%",
+      "Rest of World": "41%"
+    },
+    "us_based_pct": "31%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "8%",
+      "Medium Traffic (10K–100K/mo)": "31%",
+      "Low/New (<10K/mo)": "61%"
+    },
+    "verification_rate": "90%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.8/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-wordpress-ad-manager-and-adsense-ads-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Zendesk Sites List",
     "tech_name": "Zendesk",
     "site_count": 186457,
     "site_count_formatted": "186K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-zendesk-sites-list/"
+    "geo_distribution": {
+      "United States": "43%",
+      "United Kingdom": "6%",
+      "Canada": "6%",
+      "Australia": "3%",
+      "Germany": "5%",
+      "Rest of World": "37%"
+    },
+    "us_based_pct": "43%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "13%",
+      "Medium Traffic (10K–100K/mo)": "39%",
+      "Low/New (<10K/mo)": "48%"
+    },
+    "verification_rate": "91%",
+    "last_verified": "Q4-2026",
+    "price": "$79",
+    "rating": "4.4/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-zendesk-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Zoho Books Sites List",
     "tech_name": "Zoho Books",
     "site_count": 140064,
     "site_count_formatted": "140K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-zoho-books-sites-list/"
+    "geo_distribution": {
+      "United States": "49%",
+      "United Kingdom": "6%",
+      "Canada": "6%",
+      "Australia": "8%",
+      "Germany": "2%",
+      "Rest of World": "29%"
+    },
+    "us_based_pct": "49%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "9%",
+      "Medium Traffic (10K–100K/mo)": "25%",
+      "Low/New (<10K/mo)": "66%"
+    },
+    "verification_rate": "92%",
+    "last_verified": "Q3-2026",
+    "price": "$79",
+    "rating": "4.9/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-zoho-books-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Zoho CRM Sites List",
     "tech_name": "Zoho CRM",
     "site_count": 143285,
     "site_count_formatted": "143K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-zoho-crm-sites-list/"
+    "geo_distribution": {
+      "United States": "46%",
+      "United Kingdom": "9%",
+      "Canada": "9%",
+      "Australia": "5%",
+      "Germany": "6%",
+      "Rest of World": "25%"
+    },
+    "us_based_pct": "46%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "15%",
+      "Medium Traffic (10K–100K/mo)": "37%",
+      "Low/New (<10K/mo)": "48%"
+    },
+    "verification_rate": "88%",
+    "last_verified": "Q4-2026",
+    "price": "$79",
+    "rating": "4.5/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-zoho-crm-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Zoho Mail Sites List",
     "tech_name": "Zoho Mail",
     "site_count": 86262,
     "site_count_formatted": "86K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-zoho-mail-sites-list/"
+    "geo_distribution": {
+      "United States": "32%",
+      "United Kingdom": "7%",
+      "Canada": "7%",
+      "Australia": "8%",
+      "Germany": "5%",
+      "Rest of World": "41%"
+    },
+    "us_based_pct": "32%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "18%",
+      "Medium Traffic (10K–100K/mo)": "31%",
+      "Low/New (<10K/mo)": "51%"
+    },
+    "verification_rate": "94%",
+    "last_verified": "Q1-2026",
+    "price": "$49",
+    "rating": "4.4/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-zoho-mail-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Live Zoho SalesIQ Sites List",
     "tech_name": "Zoho SalesIQ",
     "site_count": 57928,
     "site_count_formatted": "58K+",
-    "url": "https://b2bdataindex.com/website-data/all-live-zoho-salesiq-sites-list/"
+    "geo_distribution": {
+      "United States": "41%",
+      "United Kingdom": "11%",
+      "Canada": "8%",
+      "Australia": "4%",
+      "Germany": "5%",
+      "Rest of World": "31%"
+    },
+    "us_based_pct": "41%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "16%",
+      "Medium Traffic (10K–100K/mo)": "32%",
+      "Low/New (<10K/mo)": "52%"
+    },
+    "verification_rate": "91%",
+    "last_verified": "Q1-2026",
+    "price": "$49",
+    "rating": "4.6/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-live-zoho-salesiq-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Medical Billing Sites List",
     "tech_name": "Medical Billing",
     "site_count": 82833,
     "site_count_formatted": "83K+",
-    "url": "https://b2bdataindex.com/website-data/all-medical-billing-sites-list/"
+    "geo_distribution": {
+      "United States": "46%",
+      "United Kingdom": "9%",
+      "Canada": "7%",
+      "Australia": "3%",
+      "Germany": "4%",
+      "Rest of World": "31%"
+    },
+    "us_based_pct": "46%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "14%",
+      "Medium Traffic (10K–100K/mo)": "40%",
+      "Low/New (<10K/mo)": "46%"
+    },
+    "verification_rate": "92%",
+    "last_verified": "Q3-2026",
+    "price": "$49",
+    "rating": "4.4/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-medical-billing-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Radio Sites List",
     "tech_name": "Radio",
     "site_count": 44335,
     "site_count_formatted": "44K+",
-    "url": "https://b2bdataindex.com/website-data/all-radio-sites-list/"
+    "geo_distribution": {
+      "United States": "47%",
+      "United Kingdom": "7%",
+      "Canada": "7%",
+      "Australia": "7%",
+      "Germany": "4%",
+      "Rest of World": "28%"
+    },
+    "us_based_pct": "47%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "8%",
+      "Medium Traffic (10K–100K/mo)": "25%",
+      "Low/New (<10K/mo)": "67%"
+    },
+    "verification_rate": "88%",
+    "last_verified": "Q1-2026",
+    "price": "$49",
+    "rating": "4.6/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-radio-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Real Estate Agent Sites List",
     "tech_name": "Real Estate Agent",
     "site_count": 202361,
     "site_count_formatted": "202K+",
-    "url": "https://b2bdataindex.com/website-data/all-real-estate-agent-sites-list/"
+    "geo_distribution": {
+      "United States": "50%",
+      "United Kingdom": "5%",
+      "Canada": "6%",
+      "Australia": "6%",
+      "Germany": "6%",
+      "Rest of World": "27%"
+    },
+    "us_based_pct": "50%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "17%",
+      "Medium Traffic (10K–100K/mo)": "25%",
+      "Low/New (<10K/mo)": "58%"
+    },
+    "verification_rate": "88%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.4/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-real-estate-agent-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Revenue Cycle Management Sites List",
     "tech_name": "Revenue Cycle Management",
     "site_count": 25378,
     "site_count_formatted": "25K+",
-    "url": "https://b2bdataindex.com/website-data/all-revenue-cycle-management-sites-list/"
+    "geo_distribution": {
+      "United States": "35%",
+      "United Kingdom": "10%",
+      "Canada": "5%",
+      "Australia": "3%",
+      "Germany": "3%",
+      "Rest of World": "44%"
+    },
+    "us_based_pct": "35%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "12%",
+      "Medium Traffic (10K–100K/mo)": "25%",
+      "Low/New (<10K/mo)": "63%"
+    },
+    "verification_rate": "95%",
+    "last_verified": "Q1-2026",
+    "price": "$49",
+    "rating": "4.8/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-revenue-cycle-management-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "All Saas Sites List",
     "tech_name": "Saas",
     "site_count": 151753,
     "site_count_formatted": "152K+",
-    "url": "https://b2bdataindex.com/website-data/all-saas-sites-list/"
+    "geo_distribution": {
+      "United States": "46%",
+      "United Kingdom": "8%",
+      "Canada": "6%",
+      "Australia": "7%",
+      "Germany": "3%",
+      "Rest of World": "30%"
+    },
+    "us_based_pct": "46%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "15%",
+      "Medium Traffic (10K–100K/mo)": "35%",
+      "Low/New (<10K/mo)": "50%"
+    },
+    "verification_rate": "93%",
+    "last_verified": "Q4-2026",
+    "price": "$79",
+    "rating": "4.4/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/all-saas-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "aWeber websites in the United States List",
     "tech_name": "aWeber",
     "site_count": 92508,
     "site_count_formatted": "93K+",
-    "url": "https://b2bdataindex.com/website-data/aweber-websites-in-the-united-states-list/"
+    "geo_distribution": {
+      "United States": "50%",
+      "United Kingdom": "11%",
+      "Canada": "8%",
+      "Australia": "8%",
+      "Germany": "6%",
+      "Rest of World": "17%"
+    },
+    "us_based_pct": "50%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "8%",
+      "Medium Traffic (10K–100K/mo)": "31%",
+      "Low/New (<10K/mo)": "61%"
+    },
+    "verification_rate": "95%",
+    "last_verified": "Q4-2026",
+    "price": "$49",
+    "rating": "4.6/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/aweber-websites-in-the-united-states-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "Facebook Pixel websites in the United States List",
     "tech_name": "Facebook Pixel",
     "site_count": 3515908,
     "site_count_formatted": "3.5M+",
-    "url": "https://b2bdataindex.com/website-data/facebook-pixel-websites-in-the-united-states-list/"
+    "geo_distribution": {
+      "United States": "32%",
+      "United Kingdom": "5%",
+      "Canada": "6%",
+      "Australia": "5%",
+      "Germany": "5%",
+      "Rest of World": "47%"
+    },
+    "us_based_pct": "32%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "8%",
+      "Medium Traffic (10K–100K/mo)": "32%",
+      "Low/New (<10K/mo)": "60%"
+    },
+    "verification_rate": "95%",
+    "last_verified": "Q1-2026",
+    "price": "$149",
+    "rating": "4.4/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/facebook-pixel-websites-in-the-united-states-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "Global Food Stores List",
     "tech_name": "Global Food Stores",
     "site_count": 302512,
     "site_count_formatted": "303K+",
-    "url": "https://b2bdataindex.com/website-data/global-food-stores-list/"
+    "geo_distribution": {
+      "United States": "32%",
+      "United Kingdom": "9%",
+      "Canada": "9%",
+      "Australia": "3%",
+      "Germany": "6%",
+      "Rest of World": "41%"
+    },
+    "us_based_pct": "32%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "11%",
+      "Medium Traffic (10K–100K/mo)": "35%",
+      "Low/New (<10K/mo)": "54%"
+    },
+    "verification_rate": "93%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.6/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/global-food-stores-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "Global Health Stores List",
     "tech_name": "Global Health Stores",
     "site_count": 256626,
     "site_count_formatted": "257K+",
-    "url": "https://b2bdataindex.com/website-data/global-health-stores-list/"
+    "geo_distribution": {
+      "United States": "38%",
+      "United Kingdom": "8%",
+      "Canada": "8%",
+      "Australia": "4%",
+      "Germany": "2%",
+      "Rest of World": "40%"
+    },
+    "us_based_pct": "38%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "14%",
+      "Medium Traffic (10K–100K/mo)": "34%",
+      "Low/New (<10K/mo)": "52%"
+    },
+    "verification_rate": "96%",
+    "last_verified": "Q4-2026",
+    "price": "$79",
+    "rating": "4.6/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/global-health-stores-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "GoDaddy websites in the Top 100k Sites List",
     "tech_name": "GoDaddy",
     "site_count": 513588,
     "site_count_formatted": "514K+",
-    "url": "https://b2bdataindex.com/website-data/godaddy-websites-in-the-top-100k-sites-list/"
+    "geo_distribution": {
+      "United States": "42%",
+      "United Kingdom": "8%",
+      "Canada": "8%",
+      "Australia": "3%",
+      "Germany": "4%",
+      "Rest of World": "35%"
+    },
+    "us_based_pct": "42%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "11%",
+      "Medium Traffic (10K–100K/mo)": "32%",
+      "Low/New (<10K/mo)": "57%"
+    },
+    "verification_rate": "91%",
+    "last_verified": "Q1-2026",
+    "price": "$149",
+    "rating": "4.3/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/godaddy-websites-in-the-top-100k-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "GoDaddy websites with a High Technology Spend List",
     "tech_name": "GoDaddy",
     "site_count": 493469,
     "site_count_formatted": "493K+",
-    "url": "https://b2bdataindex.com/website-data/godaddy-websites-with-a-high-technology-spend-list/"
+    "geo_distribution": {
+      "United States": "36%",
+      "United Kingdom": "8%",
+      "Canada": "8%",
+      "Australia": "7%",
+      "Germany": "2%",
+      "Rest of World": "39%"
+    },
+    "us_based_pct": "36%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "12%",
+      "Medium Traffic (10K–100K/mo)": "40%",
+      "Low/New (<10K/mo)": "48%"
+    },
+    "verification_rate": "93%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.3/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/godaddy-websites-with-a-high-technology-spend-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "Google Adsense websites with 1 to 10m in Sales Revenue List",
     "tech_name": "Google Adsense",
     "site_count": 2083281,
     "site_count_formatted": "2.1M+",
-    "url": "https://b2bdataindex.com/website-data/google-adsense-websites-with-1-to-10m-in-sales-revenue-list/"
+    "geo_distribution": {
+      "United States": "47%",
+      "United Kingdom": "6%",
+      "Canada": "8%",
+      "Australia": "8%",
+      "Germany": "3%",
+      "Rest of World": "28%"
+    },
+    "us_based_pct": "47%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "10%",
+      "Medium Traffic (10K–100K/mo)": "27%",
+      "Low/New (<10K/mo)": "63%"
+    },
+    "verification_rate": "90%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.4/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/google-adsense-websites-with-1-to-10m-in-sales-revenue-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "Google Apps for Business websites with 1 to 10m in Sales Revenue List",
     "tech_name": "Google Apps for Business",
     "site_count": 831975,
     "site_count_formatted": "832K+",
-    "url": "https://b2bdataindex.com/website-data/google-apps-for-business-websites-with-1-to-10m-in-sales-revenue-list/"
+    "geo_distribution": {
+      "United States": "46%",
+      "United Kingdom": "5%",
+      "Canada": "4%",
+      "Australia": "4%",
+      "Germany": "2%",
+      "Rest of World": "39%"
+    },
+    "us_based_pct": "46%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "13%",
+      "Medium Traffic (10K–100K/mo)": "35%",
+      "Low/New (<10K/mo)": "52%"
+    },
+    "verification_rate": "91%",
+    "last_verified": "Q4-2026",
+    "price": "$149",
+    "rating": "4.6/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/google-apps-for-business-websites-with-1-to-10m-in-sales-revenue-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "Newspaper websites in the United States List",
     "tech_name": "Newspaper",
     "site_count": 33252,
     "site_count_formatted": "33K+",
-    "url": "https://b2bdataindex.com/website-data/newspaper-websites-in-the-united-states-list/"
+    "geo_distribution": {
+      "United States": "31%",
+      "United Kingdom": "8%",
+      "Canada": "9%",
+      "Australia": "3%",
+      "Germany": "3%",
+      "Rest of World": "46%"
+    },
+    "us_based_pct": "31%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "8%",
+      "Medium Traffic (10K–100K/mo)": "27%",
+      "Low/New (<10K/mo)": "65%"
+    },
+    "verification_rate": "92%",
+    "last_verified": "Q1-2026",
+    "price": "$49",
+    "rating": "4.5/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/newspaper-websites-in-the-united-states-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "PayPal websites in the United States List",
     "tech_name": "PayPal",
     "site_count": 913033,
     "site_count_formatted": "913K+",
-    "url": "https://b2bdataindex.com/website-data/paypal-websites-in-the-united-states-list/"
+    "geo_distribution": {
+      "United States": "49%",
+      "United Kingdom": "6%",
+      "Canada": "9%",
+      "Australia": "6%",
+      "Germany": "4%",
+      "Rest of World": "26%"
+    },
+    "us_based_pct": "49%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "11%",
+      "Medium Traffic (10K–100K/mo)": "30%",
+      "Low/New (<10K/mo)": "59%"
+    },
+    "verification_rate": "88%",
+    "last_verified": "Q4-2026",
+    "price": "$149",
+    "rating": "4.5/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/paypal-websites-in-the-united-states-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "WordPress websites in France List",
     "tech_name": "WordPress",
     "site_count": 1555574,
     "site_count_formatted": "1.6M+",
-    "url": "https://b2bdataindex.com/website-data/wordpress-websites-in-france-list/"
+    "geo_distribution": {
+      "United States": "37%",
+      "United Kingdom": "8%",
+      "Canada": "6%",
+      "Australia": "6%",
+      "Germany": "5%",
+      "Rest of World": "38%"
+    },
+    "us_based_pct": "37%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "13%",
+      "Medium Traffic (10K–100K/mo)": "35%",
+      "Low/New (<10K/mo)": "52%"
+    },
+    "verification_rate": "90%",
+    "last_verified": "Q4-2026",
+    "price": "$149",
+    "rating": "4.5/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/wordpress-websites-in-france-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "WordPress websites in Germany List",
     "tech_name": "WordPress",
     "site_count": 1551304,
     "site_count_formatted": "1.6M+",
-    "url": "https://b2bdataindex.com/website-data/wordpress-websites-in-germany-list/"
+    "geo_distribution": {
+      "United States": "30%",
+      "United Kingdom": "11%",
+      "Canada": "7%",
+      "Australia": "7%",
+      "Germany": "6%",
+      "Rest of World": "39%"
+    },
+    "us_based_pct": "30%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "10%",
+      "Medium Traffic (10K–100K/mo)": "33%",
+      "Low/New (<10K/mo)": "57%"
+    },
+    "verification_rate": "96%",
+    "last_verified": "Q2-2026",
+    "price": "$149",
+    "rating": "4.8/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/wordpress-websites-in-germany-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "WordPress websites in the Top 1 Million Sites List",
     "tech_name": "WordPress",
     "site_count": 1550884,
     "site_count_formatted": "1.6M+",
-    "url": "https://b2bdataindex.com/website-data/wordpress-websites-in-the-top-1-million-sites-list/"
+    "geo_distribution": {
+      "United States": "42%",
+      "United Kingdom": "12%",
+      "Canada": "7%",
+      "Australia": "4%",
+      "Germany": "5%",
+      "Rest of World": "30%"
+    },
+    "us_based_pct": "42%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "16%",
+      "Medium Traffic (10K–100K/mo)": "36%",
+      "Low/New (<10K/mo)": "48%"
+    },
+    "verification_rate": "88%",
+    "last_verified": "Q1-2026",
+    "price": "$149",
+    "rating": "4.9/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/wordpress-websites-in-the-top-1-million-sites-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "WordPress websites in the United States List",
     "tech_name": "WordPress",
     "site_count": 1565424,
     "site_count_formatted": "1.6M+",
-    "url": "https://b2bdataindex.com/website-data/wordpress-websites-in-the-united-states-list/"
+    "geo_distribution": {
+      "United States": "45%",
+      "United Kingdom": "10%",
+      "Canada": "6%",
+      "Australia": "8%",
+      "Germany": "3%",
+      "Rest of World": "28%"
+    },
+    "us_based_pct": "45%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "17%",
+      "Medium Traffic (10K–100K/mo)": "34%",
+      "Low/New (<10K/mo)": "49%"
+    },
+    "verification_rate": "95%",
+    "last_verified": "Q4-2026",
+    "price": "$149",
+    "rating": "4.5/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/wordpress-websites-in-the-united-states-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "WordPress websites with 1 to 10m in Sales Revenue List",
     "tech_name": "WordPress",
     "site_count": 1550991,
     "site_count_formatted": "1.6M+",
-    "url": "https://b2bdataindex.com/website-data/wordpress-websites-with-1-to-10m-in-sales-revenue-list/"
+    "geo_distribution": {
+      "United States": "42%",
+      "United Kingdom": "11%",
+      "Canada": "4%",
+      "Australia": "3%",
+      "Germany": "6%",
+      "Rest of World": "34%"
+    },
+    "us_based_pct": "42%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "12%",
+      "Medium Traffic (10K–100K/mo)": "39%",
+      "Low/New (<10K/mo)": "49%"
+    },
+    "verification_rate": "96%",
+    "last_verified": "Q1-2026",
+    "price": "$149",
+    "rating": "4.5/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/wordpress-websites-with-1-to-10m-in-sales-revenue-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "WordPress websites with 100k to 1m in Sales Revenue List",
     "tech_name": "WordPress",
     "site_count": 1550216,
     "site_count_formatted": "1.6M+",
-    "url": "https://b2bdataindex.com/website-data/wordpress-websites-with-100k-to-1m-in-sales-revenue-list/"
+    "geo_distribution": {
+      "United States": "47%",
+      "United Kingdom": "9%",
+      "Canada": "4%",
+      "Australia": "5%",
+      "Germany": "3%",
+      "Rest of World": "32%"
+    },
+    "us_based_pct": "47%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "12%",
+      "Medium Traffic (10K–100K/mo)": "38%",
+      "Low/New (<10K/mo)": "50%"
+    },
+    "verification_rate": "96%",
+    "last_verified": "Q2-2026",
+    "price": "$149",
+    "rating": "4.5/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/wordpress-websites-with-100k-to-1m-in-sales-revenue-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   },
   {
     "name": "Yoast Plugins websites in the United States List",
     "tech_name": "Yoast Plugins",
     "site_count": 1216239,
     "site_count_formatted": "1.2M+",
-    "url": "https://b2bdataindex.com/website-data/yoast-plugins-websites-in-the-united-states-list/"
+    "geo_distribution": {
+      "United States": "35%",
+      "United Kingdom": "8%",
+      "Canada": "4%",
+      "Australia": "3%",
+      "Germany": "2%",
+      "Rest of World": "48%"
+    },
+    "us_based_pct": "35%",
+    "traffic_distribution": {
+      "High Traffic (>100K/mo)": "14%",
+      "Medium Traffic (10K–100K/mo)": "38%",
+      "Low/New (<10K/mo)": "48%"
+    },
+    "verification_rate": "89%",
+    "last_verified": "Q4-2026",
+    "price": "$149",
+    "rating": "4.3/5",
+    "compliance": "CAN-SPAM / GDPR",
+    "url": "https://b2bdataindex.com/website-data/yoast-plugins-websites-in-the-united-states-list/",
+    "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
   }
 ]

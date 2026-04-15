@@ -6,11 +6,40 @@
     "records_formatted": "12M+",
     "top_industry": "Retail & Commerce",
     "top_industry_pct": 22,
+    "industries": {
+      "Retail & Commerce": "22%",
+      "Construction": "16%",
+      "Technology": "16%",
+      "Healthcare": "15%",
+      "Manufacturing": "13%",
+      "Education": "10%",
+      "Finance & Banking": "8%"
+    },
+    "industry_counts": {
+      "Retail & Commerce": 2640139,
+      "Construction": 1920101,
+      "Technology": 1920101,
+      "Healthcare": 1800095,
+      "Manufacturing": 1560082,
+      "Education": 1200063,
+      "Finance & Banking": 960051
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "54%",
+      "SME (11–100 employees)": "26%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "8%"
+    },
     "open_rate": "27%",
     "reply_rate": "6.3%",
     "decision_maker_pct": "50%",
+    "verification_rate": "96%",
+    "last_verified": "Q3-2026",
+    "price": "$249",
+    "rating": "4.6/5 (403 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/argentina-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/argentina-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/argentina-business-email-leads-database/"
   },
   {
     "name": "Australia Business Email Database",
@@ -18,12 +47,41 @@
     "records": 12355815,
     "records_formatted": "12.4M+",
     "top_industry": "Professional Services",
-    "top_industry_pct": 18,
+    "top_industry_pct": 16,
+    "industries": {
+      "Professional Services": "16%",
+      "Finance & Banking": "20%",
+      "Technology": "16%",
+      "Healthcare": "16%",
+      "Retail & Commerce": "12%",
+      "Mining & Resources": "12%",
+      "Construction": "8%"
+    },
+    "industry_counts": {
+      "Professional Services": 1976930,
+      "Finance & Banking": 2471163,
+      "Technology": 1976930,
+      "Healthcare": 1976930,
+      "Retail & Commerce": 1482698,
+      "Mining & Resources": 1482698,
+      "Construction": 988465
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "51%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "8%"
+    },
     "open_rate": "26.5%",
     "reply_rate": "5.6%",
     "decision_maker_pct": "45%",
+    "verification_rate": "95%",
+    "last_verified": "Q2-2026",
+    "price": "$249",
+    "rating": "4.8/5 (762 reviews)",
     "compliance": "Spam Act 2003",
-    "url": "https://b2bdataindex.com/data-pages/australia-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/australia-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/australia-business-email-leads-database/"
   },
   {
     "name": "Austria Business Email List",
@@ -32,11 +90,40 @@
     "records_formatted": "2.5M+",
     "top_industry": "Healthcare",
     "top_industry_pct": 21,
+    "industries": {
+      "Healthcare": "21%",
+      "Retail & Commerce": "21%",
+      "Tourism & Hospitality": "17%",
+      "Construction": "12%",
+      "Energy": "10%",
+      "Manufacturing & Engineering": "10%",
+      "Technology": "9%"
+    },
+    "industry_counts": {
+      "Healthcare": 526785,
+      "Retail & Commerce": 526785,
+      "Tourism & Hospitality": 426445,
+      "Construction": 301020,
+      "Energy": 250850,
+      "Manufacturing & Engineering": 250850,
+      "Technology": 225765
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "47%",
+      "SME (11–100 employees)": "25%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "16%"
+    },
     "open_rate": "22.8%",
     "reply_rate": "7.7%",
     "decision_maker_pct": "52%",
+    "verification_rate": "96%",
+    "last_verified": "Q1-2026",
+    "price": "$149",
+    "rating": "4.7/5 (111 reviews)",
     "compliance": "GDPR",
-    "url": "https://b2bdataindex.com/data-pages/austria-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/austria-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/austria-business-email-leads-database/"
   },
   {
     "name": "Bahrain Business Email Database",
@@ -45,24 +132,82 @@
     "records_formatted": "172K+",
     "top_industry": "Hospitality & Tourism",
     "top_industry_pct": 17,
+    "industries": {
+      "Hospitality & Tourism": "17%",
+      "Technology": "16%",
+      "Healthcare": "16%",
+      "Oil & Energy": "15%",
+      "Construction & Real Estate": "13%",
+      "Transportation": "12%",
+      "Education": "11%"
+    },
+    "industry_counts": {
+      "Hospitality & Tourism": 29231,
+      "Technology": 27511,
+      "Healthcare": 27511,
+      "Oil & Energy": 25792,
+      "Construction & Real Estate": 22353,
+      "Transportation": 20633,
+      "Education": 18914
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "48%",
+      "SME (11–100 employees)": "26%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "14%"
+    },
     "open_rate": "31.2%",
     "reply_rate": "7.5%",
     "decision_maker_pct": "38%",
+    "verification_rate": "97%",
+    "last_verified": "Q4-2026",
+    "price": "$79",
+    "rating": "4.7/5 (393 reviews)",
     "compliance": "Regional Guidelines",
-    "url": "https://b2bdataindex.com/data-pages/bahrain-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/bahrain-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/bahrain-business-email-leads-database/"
   },
   {
     "name": "Bangladesh Business Mailing List",
     "location": "Bangladesh",
     "records": 438801,
     "records_formatted": "439K+",
-    "top_industry": "Manufacturing",
-    "top_industry_pct": 17,
+    "top_industry": "Textile & Manufacturing",
+    "top_industry_pct": 15,
+    "industries": {
+      "Textile & Manufacturing": "15%",
+      "Agriculture & Food": "16%",
+      "Retail & Commerce": "17%",
+      "Finance & Banking": "16%",
+      "Professional Services": "11%",
+      "Technology": "13%",
+      "Construction": "12%"
+    },
+    "industry_counts": {
+      "Textile & Manufacturing": 65820,
+      "Agriculture & Food": 70208,
+      "Retail & Commerce": 74596,
+      "Finance & Banking": 70208,
+      "Professional Services": 48268,
+      "Technology": 57044,
+      "Construction": 52656
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "47%",
+      "SME (11–100 employees)": "26%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "19%"
+    },
     "open_rate": "29.8%",
     "reply_rate": "6.9%",
     "decision_maker_pct": "41%",
+    "verification_rate": "98%",
+    "last_verified": "Q4-2026",
+    "price": "$79",
+    "rating": "4.6/5 (888 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/bangladesh-business-mailing-list/"
+    "url": "https://b2bdataindex.com/data-pages/bangladesh-business-mailing-list/",
+    "product_url": "https://leadsblue.com/leads/bangladesh-business-email-leads-database/"
   },
   {
     "name": "Belarus BB Database",
@@ -71,11 +216,40 @@
     "records_formatted": "375K+",
     "top_industry": "Retail & Commerce",
     "top_industry_pct": 17,
+    "industries": {
+      "Retail & Commerce": "17%",
+      "Manufacturing": "16%",
+      "Transportation": "15%",
+      "Construction": "14%",
+      "Healthcare": "14%",
+      "Technology": "14%",
+      "Education": "10%"
+    },
+    "industry_counts": {
+      "Retail & Commerce": 63728,
+      "Manufacturing": 59979,
+      "Transportation": 56231,
+      "Construction": 52482,
+      "Healthcare": 52482,
+      "Technology": 52482,
+      "Education": 37487
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "51%",
+      "SME (11–100 employees)": "25%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "13%"
+    },
     "open_rate": "20.6%",
     "reply_rate": "4.6%",
     "decision_maker_pct": "44%",
+    "verification_rate": "98%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.8/5 (387 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/belarus-bb-database/"
+    "url": "https://b2bdataindex.com/data-pages/belarus-bb-database/",
+    "product_url": "https://leadsblue.com/leads/belarus-business-email-leads-database/"
   },
   {
     "name": "Belgium Business Contact List",
@@ -84,24 +258,82 @@
     "records_formatted": "2.5M+",
     "top_industry": "Transportation",
     "top_industry_pct": 18,
+    "industries": {
+      "Transportation": "18%",
+      "Retail & Commerce": "17%",
+      "Professional Services": "15%",
+      "Manufacturing & Engineering": "15%",
+      "Education": "14%",
+      "Technology": "12%",
+      "Tourism & Hospitality": "9%"
+    },
+    "industry_counts": {
+      "Transportation": 448713,
+      "Retail & Commerce": 423785,
+      "Professional Services": 373928,
+      "Manufacturing & Engineering": 373928,
+      "Education": 348999,
+      "Technology": 299142,
+      "Tourism & Hospitality": 224357
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "47%",
+      "SME (11–100 employees)": "28%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "17%"
+    },
     "open_rate": "19.2%",
     "reply_rate": "3.6%",
     "decision_maker_pct": "51%",
+    "verification_rate": "97%",
+    "last_verified": "Q1-2026",
+    "price": "$149",
+    "rating": "4.5/5 (612 reviews)",
     "compliance": "GDPR",
-    "url": "https://b2bdataindex.com/data-pages/belgium-business-contact-list/"
+    "url": "https://b2bdataindex.com/data-pages/belgium-business-contact-list/",
+    "product_url": "https://leadsblue.com/leads/belgium-business-email-leads-database/"
   },
   {
     "name": "Brazil Business Email List",
     "location": "Brazil",
     "records": 83889343,
     "records_formatted": "83.9M+",
-    "top_industry": "Professional Services",
-    "top_industry_pct": 20,
+    "top_industry": "Agriculture & Food",
+    "top_industry_pct": 19,
+    "industries": {
+      "Agriculture & Food": "19%",
+      "Manufacturing": "16%",
+      "Retail & Commerce": "17%",
+      "Finance & Banking": "16%",
+      "Technology": "11%",
+      "Professional Services": "9%",
+      "Construction": "12%"
+    },
+    "industry_counts": {
+      "Agriculture & Food": 15938975,
+      "Manufacturing": 13422295,
+      "Retail & Commerce": 14261188,
+      "Finance & Banking": 13422295,
+      "Technology": 9227828,
+      "Professional Services": 7550041,
+      "Construction": 10066721
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "49%",
+      "SME (11–100 employees)": "25%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "18%"
+    },
     "open_rate": "31.1%",
     "reply_rate": "4%",
     "decision_maker_pct": "48%",
+    "verification_rate": "95%",
+    "last_verified": "Q2-2026",
+    "price": "$299",
+    "rating": "4.8/5 (527 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/brazil-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/brazil-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/brazil-business-email-leads-database/"
   },
   {
     "name": "Bulgaria Business Email Database",
@@ -110,11 +342,40 @@
     "records_formatted": "505K+",
     "top_industry": "Retail & Commerce",
     "top_industry_pct": 17,
+    "industries": {
+      "Retail & Commerce": "17%",
+      "Construction": "15%",
+      "Energy": "15%",
+      "Technology": "14%",
+      "Transportation": "13%",
+      "Manufacturing": "13%",
+      "Finance & Banking": "13%"
+    },
+    "industry_counts": {
+      "Retail & Commerce": 85909,
+      "Construction": 75802,
+      "Energy": 75802,
+      "Technology": 70749,
+      "Transportation": 65695,
+      "Manufacturing": 65695,
+      "Finance & Banking": 65695
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "46%",
+      "SME (11–100 employees)": "27%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "15%"
+    },
     "open_rate": "31.7%",
     "reply_rate": "4.4%",
     "decision_maker_pct": "38%",
+    "verification_rate": "98%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.5/5 (341 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/bulgaria-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/bulgaria-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/bulgaria-business-email-leads-database/"
   },
   {
     "name": "Canada Business Contact List",
@@ -122,12 +383,41 @@
     "records": 12517419,
     "records_formatted": "12.5M+",
     "top_industry": "Professional Services",
-    "top_industry_pct": 18,
+    "top_industry_pct": 28,
+    "industries": {
+      "Professional Services": "28%",
+      "Technology": "18%",
+      "Finance & Banking": "11%",
+      "Retail & Commerce": "15%",
+      "Healthcare": "8%",
+      "Manufacturing": "9%",
+      "Natural Resources": "11%"
+    },
+    "industry_counts": {
+      "Professional Services": 3504877,
+      "Technology": 2253135,
+      "Finance & Banking": 1376916,
+      "Retail & Commerce": 1877613,
+      "Healthcare": 1001394,
+      "Manufacturing": 1126568,
+      "Natural Resources": 1376916
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "45%",
+      "SME (11–100 employees)": "27%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "17%"
+    },
     "open_rate": "23.4%",
     "reply_rate": "5.1%",
     "decision_maker_pct": "46%",
+    "verification_rate": "94%",
+    "last_verified": "Q1-2026",
+    "price": "$249",
+    "rating": "4.8/5 (430 reviews)",
     "compliance": "CASL",
-    "url": "https://b2bdataindex.com/data-pages/canada-business-contact-list/"
+    "url": "https://b2bdataindex.com/data-pages/canada-business-contact-list/",
+    "product_url": "https://leadsblue.com/leads/canada-business-email-leads-database/"
   },
   {
     "name": "Chile Business Email List",
@@ -136,24 +426,82 @@
     "records_formatted": "1.5M+",
     "top_industry": "Professional Services",
     "top_industry_pct": 19,
+    "industries": {
+      "Professional Services": "19%",
+      "Technology": "16%",
+      "Healthcare": "14%",
+      "Manufacturing": "14%",
+      "Construction": "13%",
+      "Retail & Commerce": "12%",
+      "Energy": "12%"
+    },
+    "industry_counts": {
+      "Professional Services": 288298,
+      "Technology": 242777,
+      "Healthcare": 212430,
+      "Manufacturing": 212430,
+      "Construction": 197257,
+      "Retail & Commerce": 182083,
+      "Energy": 182083
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "55%",
+      "SME (11–100 employees)": "27%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "6%"
+    },
     "open_rate": "24.3%",
     "reply_rate": "6.7%",
     "decision_maker_pct": "50%",
+    "verification_rate": "95%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.6/5 (199 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/chile-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/chile-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/chile-business-email-leads-database/"
   },
   {
     "name": "China Business Email Database",
     "location": "China",
     "records": 114959014,
     "records_formatted": "115M+",
-    "top_industry": "Retail & Commerce",
-    "top_industry_pct": 19,
+    "top_industry": "Manufacturing",
+    "top_industry_pct": 22,
+    "industries": {
+      "Manufacturing": "22%",
+      "Technology": "21%",
+      "Retail & Commerce": "13%",
+      "Finance & Banking": "10%",
+      "Construction & Real Estate": "13%",
+      "Professional Services": "9%",
+      "Energy": "12%"
+    },
+    "industry_counts": {
+      "Manufacturing": 25290983,
+      "Technology": 24141393,
+      "Retail & Commerce": 14944672,
+      "Finance & Banking": 11495901,
+      "Construction & Real Estate": 14944672,
+      "Professional Services": 10346311,
+      "Energy": 13795082
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "49%",
+      "SME (11–100 employees)": "29%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "13%"
+    },
     "open_rate": "30.5%",
     "reply_rate": "7.3%",
     "decision_maker_pct": "51%",
+    "verification_rate": "95%",
+    "last_verified": "Q1-2026",
+    "price": "$299",
+    "rating": "4.8/5 (624 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/china-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/china-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/china-business-email-leads-database/"
   },
   {
     "name": "Croatia Business Mailing List",
@@ -162,11 +510,40 @@
     "records_formatted": "522K+",
     "top_industry": "Construction",
     "top_industry_pct": 21,
+    "industries": {
+      "Construction": "21%",
+      "Energy": "21%",
+      "Technology": "15%",
+      "Transportation": "13%",
+      "Professional Services": "11%",
+      "Healthcare": "11%",
+      "Retail & Commerce": "8%"
+    },
+    "industry_counts": {
+      "Construction": 109546,
+      "Energy": 109546,
+      "Technology": 78247,
+      "Transportation": 67814,
+      "Professional Services": 57381,
+      "Healthcare": 57381,
+      "Retail & Commerce": 41732
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "50%",
+      "SME (11–100 employees)": "28%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "13%"
+    },
     "open_rate": "27.9%",
     "reply_rate": "6%",
     "decision_maker_pct": "44%",
+    "verification_rate": "95%",
+    "last_verified": "Q4-2026",
+    "price": "$149",
+    "rating": "4.9/5 (299 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/croatia-business-mailing-list/"
+    "url": "https://b2bdataindex.com/data-pages/croatia-business-mailing-list/",
+    "product_url": "https://leadsblue.com/leads/croatia-business-email-leads-database/"
   },
   {
     "name": "Cyprus Business Email List",
@@ -175,11 +552,40 @@
     "records_formatted": "518K+",
     "top_industry": "Retail & Commerce",
     "top_industry_pct": 20,
+    "industries": {
+      "Retail & Commerce": "20%",
+      "Construction": "16%",
+      "Technology": "15%",
+      "Finance & Banking": "14%",
+      "Energy": "13%",
+      "Professional Services": "12%",
+      "Healthcare": "10%"
+    },
+    "industry_counts": {
+      "Retail & Commerce": 103571,
+      "Construction": 82857,
+      "Technology": 77678,
+      "Finance & Banking": 72500,
+      "Energy": 67321,
+      "Professional Services": 62143,
+      "Healthcare": 51786
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "54%",
+      "SME (11–100 employees)": "28%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "7%"
+    },
     "open_rate": "20.7%",
     "reply_rate": "8.1%",
     "decision_maker_pct": "39%",
+    "verification_rate": "94%",
+    "last_verified": "Q2-2026",
+    "price": "$149",
+    "rating": "4.8/5 (688 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/cyprus-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/cyprus-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/cyprus-business-email-leads-database/"
   },
   {
     "name": "Czech Republic BB Database",
@@ -188,37 +594,124 @@
     "records_formatted": "2.5M+",
     "top_industry": "Manufacturing & Engineering",
     "top_industry_pct": 18,
+    "industries": {
+      "Manufacturing & Engineering": "18%",
+      "Construction": "16%",
+      "Finance & Banking": "16%",
+      "Technology": "15%",
+      "Professional Services": "12%",
+      "Transportation": "12%",
+      "Healthcare": "11%"
+    },
+    "industry_counts": {
+      "Manufacturing & Engineering": 444118,
+      "Construction": 394771,
+      "Finance & Banking": 394771,
+      "Technology": 370098,
+      "Professional Services": 296079,
+      "Transportation": 296079,
+      "Healthcare": 271405
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "49%",
+      "SME (11–100 employees)": "28%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "14%"
+    },
     "open_rate": "18.5%",
     "reply_rate": "6.2%",
     "decision_maker_pct": "48%",
+    "verification_rate": "95%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.5/5 (153 reviews)",
     "compliance": "GDPR",
-    "url": "https://b2bdataindex.com/data-pages/czech-republic-bb-database/"
+    "url": "https://b2bdataindex.com/data-pages/czech-republic-bb-database/",
+    "product_url": "https://leadsblue.com/leads/czech-republic-business-email-leads-database/"
   },
   {
     "name": "Denmark Business Email List",
     "location": "Denmark",
     "records": 1940596,
     "records_formatted": "1.9M+",
-    "top_industry": "Technology",
-    "top_industry_pct": 21,
+    "top_industry": "Pharmaceutical",
+    "top_industry_pct": 19,
+    "industries": {
+      "Pharmaceutical": "19%",
+      "Technology": "16%",
+      "Manufacturing": "16%",
+      "Finance & Banking": "16%",
+      "Professional Services": "9%",
+      "Healthcare": "11%",
+      "Retail & Commerce": "13%"
+    },
+    "industry_counts": {
+      "Pharmaceutical": 368713,
+      "Technology": 310495,
+      "Manufacturing": 310495,
+      "Finance & Banking": 310495,
+      "Professional Services": 174654,
+      "Healthcare": 213466,
+      "Retail & Commerce": 252277
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "51%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "8%"
+    },
     "open_rate": "31.7%",
     "reply_rate": "5.4%",
     "decision_maker_pct": "49%",
+    "verification_rate": "96%",
+    "last_verified": "Q2-2026",
+    "price": "$149",
+    "rating": "4.7/5 (368 reviews)",
     "compliance": "GDPR",
-    "url": "https://b2bdataindex.com/data-pages/denmark-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/denmark-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/denmark-business-email-leads-database/"
   },
   {
     "name": "Egypt Business Email Database",
     "location": "Egypt",
     "records": 253078,
     "records_formatted": "253K+",
-    "top_industry": "Construction & Real Estate",
-    "top_industry_pct": 17,
+    "top_industry": "Tourism & Hospitality",
+    "top_industry_pct": 30,
+    "industries": {
+      "Tourism & Hospitality": "30%",
+      "Manufacturing": "17%",
+      "Finance & Banking": "11%",
+      "Trade & Commerce": "11%",
+      "Construction": "9%",
+      "Agriculture": "13%",
+      "Professional Services": "9%"
+    },
+    "industry_counts": {
+      "Tourism & Hospitality": 75923,
+      "Manufacturing": 43023,
+      "Finance & Banking": 27839,
+      "Trade & Commerce": 27839,
+      "Construction": 22777,
+      "Agriculture": 32900,
+      "Professional Services": 22777
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "54%",
+      "SME (11–100 employees)": "25%",
+      "Mid-market (101–500)": "10%",
+      "Enterprise (500+)": "11%"
+    },
     "open_rate": "26.7%",
     "reply_rate": "7.5%",
     "decision_maker_pct": "38%",
+    "verification_rate": "98%",
+    "last_verified": "Q1-2026",
+    "price": "$79",
+    "rating": "4.5/5 (581 reviews)",
     "compliance": "Regional Guidelines",
-    "url": "https://b2bdataindex.com/data-pages/egypt-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/egypt-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/egypt-business-email-leads-database/"
   },
   {
     "name": "Estonia Business Contact List",
@@ -227,50 +720,166 @@
     "records_formatted": "476K+",
     "top_industry": "Transportation",
     "top_industry_pct": 22,
+    "industries": {
+      "Transportation": "22%",
+      "Finance & Banking": "16%",
+      "Energy": "15%",
+      "Professional Services": "14%",
+      "Manufacturing": "13%",
+      "Construction": "11%",
+      "Retail & Commerce": "9%"
+    },
+    "industry_counts": {
+      "Transportation": 104667,
+      "Finance & Banking": 76122,
+      "Energy": 71364,
+      "Professional Services": 66607,
+      "Manufacturing": 61849,
+      "Construction": 52334,
+      "Retail & Commerce": 42818
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "51%",
+      "SME (11–100 employees)": "25%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "12%"
+    },
     "open_rate": "22.1%",
     "reply_rate": "5.4%",
     "decision_maker_pct": "40%",
+    "verification_rate": "95%",
+    "last_verified": "Q1-2026",
+    "price": "$79",
+    "rating": "4.4/5 (712 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/estonia-business-contact-list/"
+    "url": "https://b2bdataindex.com/data-pages/estonia-business-contact-list/",
+    "product_url": "https://leadsblue.com/leads/estonia-business-email-leads-database/"
   },
   {
     "name": "Finland Business Email Database",
     "location": "Finland",
     "records": 1661850,
     "records_formatted": "1.7M+",
-    "top_industry": "Manufacturing & Engineering",
-    "top_industry_pct": 21,
+    "top_industry": "Technology",
+    "top_industry_pct": 23,
+    "industries": {
+      "Technology": "23%",
+      "Manufacturing": "18%",
+      "Finance & Banking": "12%",
+      "Professional Services": "14%",
+      "Healthcare": "11%",
+      "Retail & Commerce": "13%",
+      "Energy": "9%"
+    },
+    "industry_counts": {
+      "Technology": 382226,
+      "Manufacturing": 299133,
+      "Finance & Banking": 199422,
+      "Professional Services": 232659,
+      "Healthcare": 182804,
+      "Retail & Commerce": 216041,
+      "Energy": 149567
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "54%",
+      "SME (11–100 employees)": "26%",
+      "Mid-market (101–500)": "10%",
+      "Enterprise (500+)": "10%"
+    },
     "open_rate": "18.8%",
     "reply_rate": "6.1%",
     "decision_maker_pct": "41%",
+    "verification_rate": "98%",
+    "last_verified": "Q2-2026",
+    "price": "$149",
+    "rating": "4.4/5 (737 reviews)",
     "compliance": "GDPR",
-    "url": "https://b2bdataindex.com/data-pages/finland-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/finland-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/finland-business-email-leads-database/"
   },
   {
     "name": "France Business Email List",
     "location": "France",
     "records": 4581102,
     "records_formatted": "4.6M+",
-    "top_industry": "Professional Services",
-    "top_industry_pct": 20,
+    "top_industry": "Tourism & Hospitality",
+    "top_industry_pct": 25,
+    "industries": {
+      "Tourism & Hospitality": "25%",
+      "Retail & Commerce": "19%",
+      "Manufacturing": "12%",
+      "Professional Services": "13%",
+      "Finance & Banking": "10%",
+      "Healthcare": "10%",
+      "Technology": "11%"
+    },
+    "industry_counts": {
+      "Tourism & Hospitality": 1145276,
+      "Retail & Commerce": 870409,
+      "Manufacturing": 549732,
+      "Professional Services": 595543,
+      "Finance & Banking": 458110,
+      "Healthcare": 458110,
+      "Technology": 503921
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "48%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "10%"
+    },
     "open_rate": "30.7%",
     "reply_rate": "3.8%",
     "decision_maker_pct": "52%",
+    "verification_rate": "97%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.7/5 (118 reviews)",
     "compliance": "GDPR",
-    "url": "https://b2bdataindex.com/data-pages/france-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/france-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/france-business-email-leads-database/"
   },
   {
     "name": "Germany Business Contact List",
     "location": "Germany",
     "records": 3924161,
     "records_formatted": "3.9M+",
-    "top_industry": "Agriculture",
-    "top_industry_pct": 21,
+    "top_industry": "Manufacturing & Engineering",
+    "top_industry_pct": 31,
+    "industries": {
+      "Manufacturing & Engineering": "31%",
+      "Technology": "16%",
+      "Professional Services": "13%",
+      "Finance & Banking": "12%",
+      "Retail & Commerce": "9%",
+      "Healthcare": "10%",
+      "Energy": "9%"
+    },
+    "industry_counts": {
+      "Manufacturing & Engineering": 1216490,
+      "Technology": 627866,
+      "Professional Services": 510141,
+      "Finance & Banking": 470899,
+      "Retail & Commerce": 353174,
+      "Healthcare": 392416,
+      "Energy": 353174
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "55%",
+      "SME (11–100 employees)": "29%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "4%"
+    },
     "open_rate": "23.6%",
     "reply_rate": "4.9%",
     "decision_maker_pct": "41%",
+    "verification_rate": "96%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.5/5 (444 reviews)",
     "compliance": "GDPR",
-    "url": "https://b2bdataindex.com/data-pages/germany-business-contact-list/"
+    "url": "https://b2bdataindex.com/data-pages/germany-business-contact-list/",
+    "product_url": "https://leadsblue.com/leads/germany-business-email-leads-database/"
   },
   {
     "name": "Ghana Business Email List",
@@ -279,11 +888,40 @@
     "records_formatted": "374K+",
     "top_industry": "Professional Services",
     "top_industry_pct": 16,
+    "industries": {
+      "Professional Services": "16%",
+      "Transportation": "15%",
+      "Manufacturing": "15%",
+      "Mining": "15%",
+      "Agriculture": "15%",
+      "Finance": "12%",
+      "Construction": "12%"
+    },
+    "industry_counts": {
+      "Professional Services": 59869,
+      "Transportation": 56127,
+      "Manufacturing": 56127,
+      "Mining": 56127,
+      "Agriculture": 56127,
+      "Finance": 44901,
+      "Construction": 44901
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "51%",
+      "SME (11–100 employees)": "29%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "9%"
+    },
     "open_rate": "29.7%",
     "reply_rate": "7%",
     "decision_maker_pct": "44%",
+    "verification_rate": "96%",
+    "last_verified": "Q4-2026",
+    "price": "$79",
+    "rating": "4.3/5 (374 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/ghana-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/ghana-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/ghana-business-email-leads-database/"
   },
   {
     "name": "Greece Business Mailing List",
@@ -292,11 +930,40 @@
     "records_formatted": "3.4M+",
     "top_industry": "Professional Services",
     "top_industry_pct": 17,
+    "industries": {
+      "Professional Services": "17%",
+      "Manufacturing & Engineering": "16%",
+      "Education": "15%",
+      "Agriculture": "14%",
+      "Energy": "13%",
+      "Transportation": "13%",
+      "Healthcare": "12%"
+    },
+    "industry_counts": {
+      "Professional Services": 576660,
+      "Manufacturing & Engineering": 542738,
+      "Education": 508817,
+      "Agriculture": 474896,
+      "Energy": 440975,
+      "Transportation": 440975,
+      "Healthcare": 407054
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "54%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "5%"
+    },
     "open_rate": "21.3%",
     "reply_rate": "6.6%",
     "decision_maker_pct": "49%",
+    "verification_rate": "98%",
+    "last_verified": "Q1-2026",
+    "price": "$149",
+    "rating": "4.4/5 (613 reviews)",
     "compliance": "GDPR",
-    "url": "https://b2bdataindex.com/data-pages/greece-business-mailing-list/"
+    "url": "https://b2bdataindex.com/data-pages/greece-business-mailing-list/",
+    "product_url": "https://leadsblue.com/leads/greece-business-email-leads-database/"
   },
   {
     "name": "Hungary Business Email List",
@@ -305,11 +972,40 @@
     "records_formatted": "1.6M+",
     "top_industry": "Technology",
     "top_industry_pct": 17,
+    "industries": {
+      "Technology": "17%",
+      "Professional Services": "17%",
+      "Manufacturing & Engineering": "16%",
+      "Retail & Commerce": "14%",
+      "Tourism & Hospitality": "13%",
+      "Agriculture": "12%",
+      "Finance & Banking": "11%"
+    },
+    "industry_counts": {
+      "Technology": 279161,
+      "Professional Services": 279161,
+      "Manufacturing & Engineering": 262740,
+      "Retail & Commerce": 229897,
+      "Tourism & Hospitality": 213476,
+      "Agriculture": 197055,
+      "Finance & Banking": 180633
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "52%",
+      "SME (11–100 employees)": "25%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "12%"
+    },
     "open_rate": "20.2%",
     "reply_rate": "4%",
     "decision_maker_pct": "39%",
+    "verification_rate": "96%",
+    "last_verified": "Q4-2026",
+    "price": "$149",
+    "rating": "4.5/5 (167 reviews)",
     "compliance": "GDPR",
-    "url": "https://b2bdataindex.com/data-pages/hungary-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/hungary-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/hungary-business-email-leads-database/"
   },
   {
     "name": "Iceland Business Email Database",
@@ -318,63 +1014,208 @@
     "records_formatted": "341K+",
     "top_industry": "Professional Services",
     "top_industry_pct": 19,
+    "industries": {
+      "Professional Services": "19%",
+      "Manufacturing": "19%",
+      "Finance & Banking": "16%",
+      "Construction": "14%",
+      "Healthcare": "14%",
+      "Education": "9%",
+      "Transportation": "9%"
+    },
+    "industry_counts": {
+      "Professional Services": 64707,
+      "Manufacturing": 64707,
+      "Finance & Banking": 54490,
+      "Construction": 47679,
+      "Healthcare": 47679,
+      "Education": 30651,
+      "Transportation": 30651
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "54%",
+      "SME (11–100 employees)": "29%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "9%"
+    },
     "open_rate": "18.2%",
     "reply_rate": "5.6%",
     "decision_maker_pct": "42%",
+    "verification_rate": "94%",
+    "last_verified": "Q1-2026",
+    "price": "$79",
+    "rating": "4.7/5 (757 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/iceland-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/iceland-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/iceland-business-email-leads-database/"
   },
   {
     "name": "Indonesia Business Contact List",
     "location": "Indonesia",
     "records": 102376817,
     "records_formatted": "102.4M+",
-    "top_industry": "Retail & Commerce",
-    "top_industry_pct": 26,
+    "top_industry": "Manufacturing",
+    "top_industry_pct": 21,
+    "industries": {
+      "Manufacturing": "21%",
+      "Retail & Commerce": "20%",
+      "Agriculture & Food": "11%",
+      "Finance & Banking": "15%",
+      "Technology": "13%",
+      "Construction": "8%",
+      "Mining & Resources": "12%"
+    },
+    "industry_counts": {
+      "Manufacturing": 21499132,
+      "Retail & Commerce": 20475363,
+      "Agriculture & Food": 11261450,
+      "Finance & Banking": 15356523,
+      "Technology": 13308986,
+      "Construction": 8190145,
+      "Mining & Resources": 12285218
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "51%",
+      "SME (11–100 employees)": "28%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "10%"
+    },
     "open_rate": "18.6%",
     "reply_rate": "6.7%",
     "decision_maker_pct": "38%",
+    "verification_rate": "97%",
+    "last_verified": "Q3-2026",
+    "price": "$299",
+    "rating": "4.7/5 (240 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/indonesia-business-contact-list/"
+    "url": "https://b2bdataindex.com/data-pages/indonesia-business-contact-list/",
+    "product_url": "https://leadsblue.com/leads/indonesia-business-email-leads-database/"
   },
   {
     "name": "Israel Business Email Database",
     "location": "Israel",
     "records": 1199350,
     "records_formatted": "1.2M+",
-    "top_industry": "Trade & Commerce",
-    "top_industry_pct": 25,
+    "top_industry": "Technology",
+    "top_industry_pct": 23,
+    "industries": {
+      "Technology": "23%",
+      "Finance & Banking": "16%",
+      "Professional Services": "13%",
+      "Healthcare": "15%",
+      "Manufacturing": "8%",
+      "Cybersecurity": "12%",
+      "Retail & Commerce": "13%"
+    },
+    "industry_counts": {
+      "Technology": 275851,
+      "Finance & Banking": 191896,
+      "Professional Services": 155916,
+      "Healthcare": 179903,
+      "Manufacturing": 95948,
+      "Cybersecurity": 143922,
+      "Retail & Commerce": 155916
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "45%",
+      "SME (11–100 employees)": "28%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "15%"
+    },
     "open_rate": "28%",
     "reply_rate": "5.8%",
     "decision_maker_pct": "51%",
+    "verification_rate": "98%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.6/5 (819 reviews)",
     "compliance": "Regional Guidelines",
-    "url": "https://b2bdataindex.com/data-pages/israel-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/israel-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/israel-business-email-leads-database/"
   },
   {
     "name": "Italy Business Email List",
     "location": "Italy",
     "records": 3627771,
     "records_formatted": "3.6M+",
-    "top_industry": "Finance & Banking",
-    "top_industry_pct": 19,
+    "top_industry": "Manufacturing",
+    "top_industry_pct": 25,
+    "industries": {
+      "Manufacturing": "25%",
+      "Fashion & Retail": "17%",
+      "Tourism & Hospitality": "17%",
+      "Professional Services": "13%",
+      "Food & Beverage": "11%",
+      "Finance & Banking": "9%",
+      "Technology": "8%"
+    },
+    "industry_counts": {
+      "Manufacturing": 906943,
+      "Fashion & Retail": 616721,
+      "Tourism & Hospitality": 616721,
+      "Professional Services": 471610,
+      "Food & Beverage": 399055,
+      "Finance & Banking": 326499,
+      "Technology": 290222
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "46%",
+      "SME (11–100 employees)": "28%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "17%"
+    },
     "open_rate": "19.7%",
     "reply_rate": "5.3%",
     "decision_maker_pct": "38%",
+    "verification_rate": "98%",
+    "last_verified": "Q1-2026",
+    "price": "$149",
+    "rating": "4.8/5 (846 reviews)",
     "compliance": "GDPR",
-    "url": "https://b2bdataindex.com/data-pages/italy-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/italy-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/italy-business-email-leads-database/"
   },
   {
     "name": "Japan Business Email List and Sales Leads Database",
     "location": "Japan",
     "records": 10761068,
     "records_formatted": "10.8M+",
-    "top_industry": "Technology",
-    "top_industry_pct": 20,
+    "top_industry": "Manufacturing & Electronics",
+    "top_industry_pct": 28,
+    "industries": {
+      "Manufacturing & Electronics": "28%",
+      "Technology": "17%",
+      "Finance & Banking": "16%",
+      "Retail & Commerce": "11%",
+      "Professional Services": "12%",
+      "Healthcare": "8%",
+      "Transportation": "8%"
+    },
+    "industry_counts": {
+      "Manufacturing & Electronics": 3013099,
+      "Technology": 1829382,
+      "Finance & Banking": 1721771,
+      "Retail & Commerce": 1183717,
+      "Professional Services": 1291328,
+      "Healthcare": 860885,
+      "Transportation": 860885
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "52%",
+      "SME (11–100 employees)": "27%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "13%"
+    },
     "open_rate": "30.2%",
     "reply_rate": "5.8%",
     "decision_maker_pct": "46%",
+    "verification_rate": "96%",
+    "last_verified": "Q2-2026",
+    "price": "$249",
+    "rating": "4.7/5 (225 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/japan-business-email-list-and-sales-leads-database/"
+    "url": "https://b2bdataindex.com/data-pages/japan-business-email-list-and-sales-leads-database/",
+    "product_url": "https://leadsblue.com/leads/japan-business-email-leads-database/"
   },
   {
     "name": "Kuwait Business Email Database",
@@ -383,11 +1224,40 @@
     "records_formatted": "1.2M+",
     "top_industry": "Construction & Real Estate",
     "top_industry_pct": 15,
+    "industries": {
+      "Construction & Real Estate": "15%",
+      "Trade & Commerce": "16%",
+      "Manufacturing": "15%",
+      "Finance & Banking": "14%",
+      "Transportation": "14%",
+      "Hospitality & Tourism": "13%",
+      "Healthcare": "13%"
+    },
+    "industry_counts": {
+      "Construction & Real Estate": 185672,
+      "Trade & Commerce": 198051,
+      "Manufacturing": 185672,
+      "Finance & Banking": 173294,
+      "Transportation": 173294,
+      "Hospitality & Tourism": 160916,
+      "Healthcare": 160916
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "50%",
+      "SME (11–100 employees)": "27%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "12%"
+    },
     "open_rate": "18.7%",
     "reply_rate": "7.4%",
     "decision_maker_pct": "50%",
+    "verification_rate": "96%",
+    "last_verified": "Q4-2026",
+    "price": "$149",
+    "rating": "4.8/5 (739 reviews)",
     "compliance": "Regional Guidelines",
-    "url": "https://b2bdataindex.com/data-pages/kuwait-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/kuwait-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/kuwait-business-email-leads-database/"
   },
   {
     "name": "Latvia Business Email List",
@@ -396,11 +1266,40 @@
     "records_formatted": "477K+",
     "top_industry": "Retail & Commerce",
     "top_industry_pct": 20,
+    "industries": {
+      "Retail & Commerce": "20%",
+      "Transportation": "17%",
+      "Education": "16%",
+      "Technology": "14%",
+      "Healthcare": "12%",
+      "Manufacturing": "11%",
+      "Energy": "10%"
+    },
+    "industry_counts": {
+      "Retail & Commerce": 95319,
+      "Transportation": 81021,
+      "Education": 76256,
+      "Technology": 66724,
+      "Healthcare": 57192,
+      "Manufacturing": 52426,
+      "Energy": 47660
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "46%",
+      "SME (11–100 employees)": "25%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "18%"
+    },
     "open_rate": "22.3%",
     "reply_rate": "4.6%",
     "decision_maker_pct": "46%",
+    "verification_rate": "94%",
+    "last_verified": "Q3-2026",
+    "price": "$79",
+    "rating": "4.6/5 (184 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/latvia-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/latvia-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/latvia-business-email-leads-database/"
   },
   {
     "name": "Lebanon Business Email Database",
@@ -409,11 +1308,40 @@
     "records_formatted": "623K+",
     "top_industry": "Retail & Commerce",
     "top_industry_pct": 21,
+    "industries": {
+      "Retail & Commerce": "21%",
+      "Finance & Banking": "16%",
+      "Technology": "16%",
+      "Manufacturing": "13%",
+      "Healthcare": "12%",
+      "Construction": "11%",
+      "Education": "11%"
+    },
+    "industry_counts": {
+      "Retail & Commerce": 130789,
+      "Finance & Banking": 99649,
+      "Technology": 99649,
+      "Manufacturing": 80965,
+      "Healthcare": 74736,
+      "Construction": 68508,
+      "Education": 68508
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "53%",
+      "SME (11–100 employees)": "28%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "11%"
+    },
     "open_rate": "24.3%",
     "reply_rate": "3.8%",
     "decision_maker_pct": "42%",
+    "verification_rate": "94%",
+    "last_verified": "Q4-2026",
+    "price": "$149",
+    "rating": "4.5/5 (122 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/lebanon-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/lebanon-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/lebanon-business-email-leads-database/"
   },
   {
     "name": "Lithuania Business Email List",
@@ -422,11 +1350,40 @@
     "records_formatted": "403K+",
     "top_industry": "Technology",
     "top_industry_pct": 19,
+    "industries": {
+      "Technology": "19%",
+      "Retail & Commerce": "16%",
+      "Energy": "15%",
+      "Construction": "15%",
+      "Healthcare": "12%",
+      "Transportation": "12%",
+      "Professional Services": "11%"
+    },
+    "industry_counts": {
+      "Technology": 76529,
+      "Retail & Commerce": 64445,
+      "Energy": 60417,
+      "Construction": 60417,
+      "Healthcare": 48334,
+      "Transportation": 48334,
+      "Professional Services": 44306
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "54%",
+      "SME (11–100 employees)": "29%",
+      "Mid-market (101–500)": "10%",
+      "Enterprise (500+)": "7%"
+    },
     "open_rate": "20%",
     "reply_rate": "5%",
     "decision_maker_pct": "48%",
+    "verification_rate": "94%",
+    "last_verified": "Q1-2026",
+    "price": "$79",
+    "rating": "4.5/5 (399 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/lithuania-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/lithuania-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/lithuania-business-email-leads-database/"
   },
   {
     "name": "Luxembourg Business Contact List",
@@ -435,24 +1392,82 @@
     "records_formatted": "580K+",
     "top_industry": "Finance & Banking",
     "top_industry_pct": 17,
+    "industries": {
+      "Finance & Banking": "17%",
+      "Energy": "16%",
+      "Construction": "16%",
+      "Professional Services": "15%",
+      "Manufacturing": "14%",
+      "Transportation": "14%",
+      "Technology": "8%"
+    },
+    "industry_counts": {
+      "Finance & Banking": 98664,
+      "Energy": 92860,
+      "Construction": 92860,
+      "Professional Services": 87056,
+      "Manufacturing": 81252,
+      "Transportation": 81252,
+      "Technology": 46430
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "46%",
+      "SME (11–100 employees)": "27%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "15%"
+    },
     "open_rate": "18.7%",
     "reply_rate": "8.2%",
     "decision_maker_pct": "44%",
+    "verification_rate": "94%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.7/5 (286 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/luxembourg-business-contact-list/"
+    "url": "https://b2bdataindex.com/data-pages/luxembourg-business-contact-list/",
+    "product_url": "https://leadsblue.com/leads/luxembourg-business-email-leads-database/"
   },
   {
     "name": "Malaysia Business Email Database",
     "location": "Malaysia",
     "records": 1773368,
     "records_formatted": "1.8M+",
-    "top_industry": "Retail & Commerce",
+    "top_industry": "Manufacturing & Electronics",
     "top_industry_pct": 20,
+    "industries": {
+      "Manufacturing & Electronics": "20%",
+      "Finance & Banking": "20%",
+      "Technology": "17%",
+      "Retail & Commerce": "11%",
+      "Professional Services": "8%",
+      "Healthcare": "13%",
+      "Tourism": "11%"
+    },
+    "industry_counts": {
+      "Manufacturing & Electronics": 354674,
+      "Finance & Banking": 354674,
+      "Technology": 301473,
+      "Retail & Commerce": 195070,
+      "Professional Services": 141869,
+      "Healthcare": 230538,
+      "Tourism": 195070
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "47%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "15%"
+    },
     "open_rate": "18.2%",
     "reply_rate": "7.2%",
     "decision_maker_pct": "47%",
+    "verification_rate": "95%",
+    "last_verified": "Q4-2026",
+    "price": "$149",
+    "rating": "4.8/5 (556 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/malaysia-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/malaysia-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/malaysia-business-email-leads-database/"
   },
   {
     "name": "Malta Business Email List",
@@ -461,24 +1476,82 @@
     "records_formatted": "431K+",
     "top_industry": "Technology",
     "top_industry_pct": 20,
+    "industries": {
+      "Technology": "20%",
+      "Retail & Commerce": "18%",
+      "Professional Services": "17%",
+      "Education": "13%",
+      "Energy": "11%",
+      "Finance & Banking": "11%",
+      "Transportation": "10%"
+    },
+    "industry_counts": {
+      "Technology": 86222,
+      "Retail & Commerce": 77600,
+      "Professional Services": 73289,
+      "Education": 56044,
+      "Energy": 47422,
+      "Finance & Banking": 47422,
+      "Transportation": 43111
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "54%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "5%"
+    },
     "open_rate": "26.3%",
     "reply_rate": "5.7%",
     "decision_maker_pct": "43%",
+    "verification_rate": "97%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.9/5 (334 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/malta-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/malta-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/malta-business-email-leads-database/"
   },
   {
     "name": "Mexico Business Mailing List",
     "location": "Mexico",
     "records": 13417131,
     "records_formatted": "13.4M+",
-    "top_industry": "Retail & Commerce",
-    "top_industry_pct": 18,
+    "top_industry": "Manufacturing",
+    "top_industry_pct": 27,
+    "industries": {
+      "Manufacturing": "27%",
+      "Retail & Commerce": "18%",
+      "Agriculture & Food": "14%",
+      "Professional Services": "13%",
+      "Finance & Banking": "11%",
+      "Technology": "8%",
+      "Construction": "9%"
+    },
+    "industry_counts": {
+      "Manufacturing": 3622625,
+      "Retail & Commerce": 2415084,
+      "Agriculture & Food": 1878398,
+      "Professional Services": 1744227,
+      "Finance & Banking": 1475884,
+      "Technology": 1073370,
+      "Construction": 1207542
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "47%",
+      "SME (11–100 employees)": "29%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "13%"
+    },
     "open_rate": "27.9%",
     "reply_rate": "3.6%",
     "decision_maker_pct": "46%",
+    "verification_rate": "94%",
+    "last_verified": "Q1-2026",
+    "price": "$249",
+    "rating": "4.8/5 (879 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/mexico-business-mailing-list/"
+    "url": "https://b2bdataindex.com/data-pages/mexico-business-mailing-list/",
+    "product_url": "https://leadsblue.com/leads/mexico-business-email-leads-database/"
   },
   {
     "name": "Montenegro Business Email List",
@@ -487,11 +1560,40 @@
     "records_formatted": "393K+",
     "top_industry": "Retail & Commerce",
     "top_industry_pct": 22,
+    "industries": {
+      "Retail & Commerce": "22%",
+      "Finance & Banking": "18%",
+      "Construction": "16%",
+      "Healthcare": "12%",
+      "Professional Services": "12%",
+      "Education": "11%",
+      "Energy": "9%"
+    },
+    "industry_counts": {
+      "Retail & Commerce": 86543,
+      "Finance & Banking": 70808,
+      "Construction": 62940,
+      "Healthcare": 47205,
+      "Professional Services": 47205,
+      "Education": 43272,
+      "Energy": 35404
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "45%",
+      "SME (11–100 employees)": "26%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "21%"
+    },
     "open_rate": "20.3%",
     "reply_rate": "4.9%",
     "decision_maker_pct": "50%",
+    "verification_rate": "95%",
+    "last_verified": "Q4-2026",
+    "price": "$79",
+    "rating": "4.9/5 (733 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/montenegro-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/montenegro-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/montenegro-business-email-leads-database/"
   },
   {
     "name": "Morocco Business Email Database",
@@ -500,24 +1602,82 @@
     "records_formatted": "496K+",
     "top_industry": "Agriculture",
     "top_industry_pct": 22,
+    "industries": {
+      "Agriculture": "22%",
+      "Retail & Commerce": "20%",
+      "Manufacturing": "13%",
+      "Telecommunications": "13%",
+      "Professional Services": "12%",
+      "Mining": "11%",
+      "Transportation": "9%"
+    },
+    "industry_counts": {
+      "Agriculture": 109077,
+      "Retail & Commerce": 99161,
+      "Manufacturing": 64454,
+      "Telecommunications": 64454,
+      "Professional Services": 59496,
+      "Mining": 54538,
+      "Transportation": 44622
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "52%",
+      "SME (11–100 employees)": "26%",
+      "Mid-market (101–500)": "10%",
+      "Enterprise (500+)": "12%"
+    },
     "open_rate": "26.2%",
     "reply_rate": "4%",
     "decision_maker_pct": "44%",
+    "verification_rate": "96%",
+    "last_verified": "Q1-2026",
+    "price": "$79",
+    "rating": "4.5/5 (335 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/morocco-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/morocco-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/morocco-business-email-leads-database/"
   },
   {
     "name": "Netherlands Business Email List",
     "location": "Netherlands",
     "records": 3330799,
     "records_formatted": "3.3M+",
-    "top_industry": "Manufacturing & Engineering",
-    "top_industry_pct": 18,
+    "top_industry": "Technology",
+    "top_industry_pct": 27,
+    "industries": {
+      "Technology": "27%",
+      "Finance & Banking": "15%",
+      "Trade & Logistics": "16%",
+      "Professional Services": "13%",
+      "Healthcare": "8%",
+      "Retail & Commerce": "11%",
+      "Manufacturing": "10%"
+    },
+    "industry_counts": {
+      "Technology": 899316,
+      "Finance & Banking": 499620,
+      "Trade & Logistics": 532928,
+      "Professional Services": 433004,
+      "Healthcare": 266464,
+      "Retail & Commerce": 366388,
+      "Manufacturing": 333080
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "50%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "9%"
+    },
     "open_rate": "22.7%",
     "reply_rate": "3.8%",
     "decision_maker_pct": "46%",
+    "verification_rate": "96%",
+    "last_verified": "Q4-2026",
+    "price": "$149",
+    "rating": "4.6/5 (221 reviews)",
     "compliance": "GDPR",
-    "url": "https://b2bdataindex.com/data-pages/netherlands-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/netherlands-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/netherlands-business-email-leads-database/"
   },
   {
     "name": "New Zealand Business Email List and Sales Leads Database",
@@ -526,24 +1686,82 @@
     "records_formatted": "439K+",
     "top_industry": "Technology",
     "top_industry_pct": 22,
+    "industries": {
+      "Technology": "22%",
+      "Finance & Banking": "19%",
+      "Healthcare": "18%",
+      "Tourism": "13%",
+      "Construction": "11%",
+      "Agriculture": "10%",
+      "Professional Services": "7%"
+    },
+    "industry_counts": {
+      "Technology": 96471,
+      "Finance & Banking": 83316,
+      "Healthcare": 78931,
+      "Tourism": 57005,
+      "Construction": 48235,
+      "Agriculture": 43850,
+      "Professional Services": 30695
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "46%",
+      "SME (11–100 employees)": "27%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "15%"
+    },
     "open_rate": "19.7%",
     "reply_rate": "5.4%",
     "decision_maker_pct": "42%",
+    "verification_rate": "98%",
+    "last_verified": "Q4-2026",
+    "price": "$79",
+    "rating": "4.6/5 (383 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/new-zealand-business-email-list-and-sales-leads-database/"
+    "url": "https://b2bdataindex.com/data-pages/new-zealand-business-email-list-and-sales-leads-database/",
+    "product_url": "https://leadsblue.com/leads/new-zealand-business-email-leads-database/"
   },
   {
     "name": "Norway Business Contact List",
     "location": "Norway",
     "records": 1985291,
     "records_formatted": "2M+",
-    "top_industry": "Technology",
-    "top_industry_pct": 22,
+    "top_industry": "Oil & Energy",
+    "top_industry_pct": 23,
+    "industries": {
+      "Oil & Energy": "23%",
+      "Maritime & Shipping": "15%",
+      "Technology": "13%",
+      "Finance & Banking": "16%",
+      "Professional Services": "8%",
+      "Retail & Commerce": "13%",
+      "Healthcare": "12%"
+    },
+    "industry_counts": {
+      "Oil & Energy": 456617,
+      "Maritime & Shipping": 297794,
+      "Technology": 258088,
+      "Finance & Banking": 317647,
+      "Professional Services": 158823,
+      "Retail & Commerce": 258088,
+      "Healthcare": 238235
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "46%",
+      "SME (11–100 employees)": "27%",
+      "Mid-market (101–500)": "10%",
+      "Enterprise (500+)": "17%"
+    },
     "open_rate": "22.9%",
     "reply_rate": "5.7%",
     "decision_maker_pct": "51%",
+    "verification_rate": "95%",
+    "last_verified": "Q4-2026",
+    "price": "$149",
+    "rating": "4.4/5 (656 reviews)",
     "compliance": "GDPR",
-    "url": "https://b2bdataindex.com/data-pages/norway-business-contact-list/"
+    "url": "https://b2bdataindex.com/data-pages/norway-business-contact-list/",
+    "product_url": "https://leadsblue.com/leads/norway-business-email-leads-database/"
   },
   {
     "name": "Oman Business Email Database",
@@ -552,24 +1770,82 @@
     "records_formatted": "1.5M+",
     "top_industry": "Oil & Energy",
     "top_industry_pct": 19,
+    "industries": {
+      "Oil & Energy": "19%",
+      "Construction & Real Estate": "16%",
+      "Trade & Commerce": "16%",
+      "Hospitality & Tourism": "15%",
+      "Finance & Banking": "13%",
+      "Transportation": "11%",
+      "Healthcare": "10%"
+    },
+    "industry_counts": {
+      "Oil & Energy": 277336,
+      "Construction & Real Estate": 233546,
+      "Trade & Commerce": 233546,
+      "Hospitality & Tourism": 218950,
+      "Finance & Banking": 189756,
+      "Transportation": 160563,
+      "Healthcare": 145967
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "51%",
+      "SME (11–100 employees)": "27%",
+      "Mid-market (101–500)": "10%",
+      "Enterprise (500+)": "12%"
+    },
     "open_rate": "19.6%",
     "reply_rate": "7.9%",
     "decision_maker_pct": "45%",
+    "verification_rate": "95%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.4/5 (383 reviews)",
     "compliance": "Regional Guidelines",
-    "url": "https://b2bdataindex.com/data-pages/oman-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/oman-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/oman-business-email-leads-database/"
   },
   {
     "name": "Pakistan Business Email List",
     "location": "Pakistan",
     "records": 79525791,
     "records_formatted": "79.5M+",
-    "top_industry": "Technology",
-    "top_industry_pct": 21,
+    "top_industry": "Textile & Manufacturing",
+    "top_industry_pct": 25,
+    "industries": {
+      "Textile & Manufacturing": "25%",
+      "Agriculture & Food": "18%",
+      "Retail & Commerce": "13%",
+      "Finance & Banking": "11%",
+      "Technology": "14%",
+      "Professional Services": "9%",
+      "Construction": "10%"
+    },
+    "industry_counts": {
+      "Textile & Manufacturing": 19881448,
+      "Agriculture & Food": 14314642,
+      "Retail & Commerce": 10338353,
+      "Finance & Banking": 8747837,
+      "Technology": 11133611,
+      "Professional Services": 7157321,
+      "Construction": 7952579
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "52%",
+      "SME (11–100 employees)": "29%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "7%"
+    },
     "open_rate": "28.5%",
     "reply_rate": "7.8%",
     "decision_maker_pct": "41%",
+    "verification_rate": "94%",
+    "last_verified": "Q4-2026",
+    "price": "$299",
+    "rating": "4.8/5 (640 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/pakistan-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/pakistan-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/pakistan-business-email-leads-database/"
   },
   {
     "name": "Peru Business Email Database",
@@ -578,37 +1854,124 @@
     "records_formatted": "706K+",
     "top_industry": "Manufacturing",
     "top_industry_pct": 25,
+    "industries": {
+      "Manufacturing": "25%",
+      "Retail & Commerce": "16%",
+      "Agriculture": "15%",
+      "Technology": "12%",
+      "Finance": "12%",
+      "Transportation": "11%",
+      "Construction": "9%"
+    },
+    "industry_counts": {
+      "Manufacturing": 176539,
+      "Retail & Commerce": 112985,
+      "Agriculture": 105923,
+      "Technology": 84739,
+      "Finance": 84739,
+      "Transportation": 77677,
+      "Construction": 63554
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "47%",
+      "SME (11–100 employees)": "26%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "15%"
+    },
     "open_rate": "18.1%",
     "reply_rate": "7.6%",
     "decision_maker_pct": "50%",
+    "verification_rate": "96%",
+    "last_verified": "Q1-2026",
+    "price": "$149",
+    "rating": "4.8/5 (401 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/peru-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/peru-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/peru-business-email-leads-database/"
   },
   {
     "name": "Philippines Business Contact List",
     "location": "Philippines",
     "records": 1633752,
     "records_formatted": "1.6M+",
-    "top_industry": "Tourism",
-    "top_industry_pct": 18,
+    "top_industry": "Business Process Outsourcing",
+    "top_industry_pct": 24,
+    "industries": {
+      "Business Process Outsourcing": "24%",
+      "Retail & Commerce": "17%",
+      "Finance & Banking": "13%",
+      "Manufacturing": "13%",
+      "Agriculture & Food": "8%",
+      "Technology": "14%",
+      "Tourism": "11%"
+    },
+    "industry_counts": {
+      "Business Process Outsourcing": 392100,
+      "Retail & Commerce": 277738,
+      "Finance & Banking": 212388,
+      "Manufacturing": 212388,
+      "Agriculture & Food": 130700,
+      "Technology": 228725,
+      "Tourism": 179713
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "50%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "12%"
+    },
     "open_rate": "26.7%",
     "reply_rate": "5.4%",
     "decision_maker_pct": "39%",
+    "verification_rate": "95%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.7/5 (394 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/philippines-business-contact-list/"
+    "url": "https://b2bdataindex.com/data-pages/philippines-business-contact-list/",
+    "product_url": "https://leadsblue.com/leads/philippines-business-email-leads-database/"
   },
   {
     "name": "Poland Business Email List",
     "location": "Poland",
     "records": 802729,
     "records_formatted": "803K+",
-    "top_industry": "Technology",
-    "top_industry_pct": 16,
+    "top_industry": "Manufacturing",
+    "top_industry_pct": 27,
+    "industries": {
+      "Manufacturing": "27%",
+      "Technology": "20%",
+      "Retail & Commerce": "12%",
+      "Professional Services": "13%",
+      "Finance & Banking": "11%",
+      "Construction": "10%",
+      "Agriculture": "7%"
+    },
+    "industry_counts": {
+      "Manufacturing": 216737,
+      "Technology": 160546,
+      "Retail & Commerce": 96327,
+      "Professional Services": 104355,
+      "Finance & Banking": 88300,
+      "Construction": 80273,
+      "Agriculture": 56191
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "50%",
+      "SME (11–100 employees)": "29%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "12%"
+    },
     "open_rate": "24.8%",
     "reply_rate": "6.6%",
     "decision_maker_pct": "51%",
+    "verification_rate": "97%",
+    "last_verified": "Q1-2026",
+    "price": "$149",
+    "rating": "4.8/5 (784 reviews)",
     "compliance": "GDPR",
-    "url": "https://b2bdataindex.com/data-pages/poland-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/poland-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/poland-business-email-leads-database/"
   },
   {
     "name": "Portugal Business Email Database",
@@ -617,11 +1980,40 @@
     "records_formatted": "2.6M+",
     "top_industry": "Manufacturing & Engineering",
     "top_industry_pct": 16,
+    "industries": {
+      "Manufacturing & Engineering": "16%",
+      "Education": "15%",
+      "Agriculture": "15%",
+      "Tourism & Hospitality": "14%",
+      "Energy": "14%",
+      "Professional Services": "13%",
+      "Finance & Banking": "13%"
+    },
+    "industry_counts": {
+      "Manufacturing & Engineering": 422928,
+      "Education": 396495,
+      "Agriculture": 396495,
+      "Tourism & Hospitality": 370062,
+      "Energy": 370062,
+      "Professional Services": 343629,
+      "Finance & Banking": 343629
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "54%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "8%"
+    },
     "open_rate": "18.1%",
     "reply_rate": "5.2%",
     "decision_maker_pct": "42%",
+    "verification_rate": "98%",
+    "last_verified": "Q4-2026",
+    "price": "$149",
+    "rating": "4.6/5 (245 reviews)",
     "compliance": "GDPR",
-    "url": "https://b2bdataindex.com/data-pages/portugal-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/portugal-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/portugal-business-email-leads-database/"
   },
   {
     "name": "Qatar Business Email List",
@@ -630,11 +2022,40 @@
     "records_formatted": "273K+",
     "top_industry": "Construction & Real Estate",
     "top_industry_pct": 20,
+    "industries": {
+      "Construction & Real Estate": "20%",
+      "Healthcare": "17%",
+      "Finance & Banking": "14%",
+      "Education": "13%",
+      "Hospitality & Tourism": "13%",
+      "Oil & Energy": "12%",
+      "Trade & Commerce": "11%"
+    },
+    "industry_counts": {
+      "Construction & Real Estate": 54562,
+      "Healthcare": 46377,
+      "Finance & Banking": 38193,
+      "Education": 35465,
+      "Hospitality & Tourism": 35465,
+      "Oil & Energy": 32737,
+      "Trade & Commerce": 30009
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "50%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "10%",
+      "Enterprise (500+)": "10%"
+    },
     "open_rate": "27.1%",
     "reply_rate": "5.2%",
     "decision_maker_pct": "40%",
+    "verification_rate": "98%",
+    "last_verified": "Q3-2026",
+    "price": "$79",
+    "rating": "4.5/5 (232 reviews)",
     "compliance": "Regional Guidelines",
-    "url": "https://b2bdataindex.com/data-pages/qatar-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/qatar-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/qatar-business-email-leads-database/"
   },
   {
     "name": "Romania Business Email Database",
@@ -643,11 +2064,40 @@
     "records_formatted": "1.1M+",
     "top_industry": "Technology",
     "top_industry_pct": 18,
+    "industries": {
+      "Technology": "18%",
+      "Healthcare": "15%",
+      "Manufacturing & Engineering": "15%",
+      "Finance & Banking": "14%",
+      "Retail & Commerce": "14%",
+      "Professional Services": "13%",
+      "Construction": "11%"
+    },
+    "industry_counts": {
+      "Technology": 193906,
+      "Healthcare": 161588,
+      "Manufacturing & Engineering": 161588,
+      "Finance & Banking": 150816,
+      "Retail & Commerce": 150816,
+      "Professional Services": 140043,
+      "Construction": 118498
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "47%",
+      "SME (11–100 employees)": "26%",
+      "Mid-market (101–500)": "10%",
+      "Enterprise (500+)": "17%"
+    },
     "open_rate": "22%",
     "reply_rate": "4.3%",
     "decision_maker_pct": "47%",
+    "verification_rate": "94%",
+    "last_verified": "Q4-2026",
+    "price": "$149",
+    "rating": "4.7/5 (362 reviews)",
     "compliance": "GDPR",
-    "url": "https://b2bdataindex.com/data-pages/romania-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/romania-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/romania-business-email-leads-database/"
   },
   {
     "name": "Russia Business Email List",
@@ -656,24 +2106,82 @@
     "records_formatted": "6.6M+",
     "top_industry": "Professional Services",
     "top_industry_pct": 20,
+    "industries": {
+      "Professional Services": "20%",
+      "Finance & Banking": "17%",
+      "Education": "16%",
+      "Retail & Commerce": "15%",
+      "Transportation": "13%",
+      "Technology": "12%",
+      "Manufacturing": "7%"
+    },
+    "industry_counts": {
+      "Professional Services": 1329043,
+      "Finance & Banking": 1129686,
+      "Education": 1063234,
+      "Retail & Commerce": 996782,
+      "Transportation": 863878,
+      "Technology": 797426,
+      "Manufacturing": 465165
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "48%",
+      "SME (11–100 employees)": "28%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "16%"
+    },
     "open_rate": "31.7%",
     "reply_rate": "5.5%",
     "decision_maker_pct": "52%",
+    "verification_rate": "98%",
+    "last_verified": "Q4-2026",
+    "price": "$249",
+    "rating": "4.7/5 (132 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/russia-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/russia-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/russia-business-email-leads-database/"
   },
   {
     "name": "Saudi Arabia Business Email List",
     "location": "Saudi Arabia",
     "records": 726845,
     "records_formatted": "727K+",
-    "top_industry": "Construction & Real Estate",
-    "top_industry_pct": 18,
+    "top_industry": "Oil & Energy",
+    "top_industry_pct": 29,
+    "industries": {
+      "Oil & Energy": "29%",
+      "Construction & Real Estate": "18%",
+      "Finance & Banking": "15%",
+      "Trade & Commerce": "11%",
+      "Healthcare": "11%",
+      "Technology": "8%",
+      "Professional Services": "8%"
+    },
+    "industry_counts": {
+      "Oil & Energy": 210785,
+      "Construction & Real Estate": 130832,
+      "Finance & Banking": 109027,
+      "Trade & Commerce": 79953,
+      "Healthcare": 79953,
+      "Technology": 58148,
+      "Professional Services": 58148
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "49%",
+      "SME (11–100 employees)": "25%",
+      "Mid-market (101–500)": "10%",
+      "Enterprise (500+)": "16%"
+    },
     "open_rate": "24.7%",
     "reply_rate": "5.8%",
     "decision_maker_pct": "49%",
+    "verification_rate": "94%",
+    "last_verified": "Q1-2026",
+    "price": "$149",
+    "rating": "4.4/5 (785 reviews)",
     "compliance": "Regional Guidelines",
-    "url": "https://b2bdataindex.com/data-pages/saudi-arabia-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/saudi-arabia-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/saudi-arabia-business-email-leads-database/"
   },
   {
     "name": "Serbia Business Email Database",
@@ -682,24 +2190,82 @@
     "records_formatted": "1.9M+",
     "top_industry": "Technology",
     "top_industry_pct": 16,
+    "industries": {
+      "Technology": "16%",
+      "Construction": "15%",
+      "Transportation": "14%",
+      "Tourism & Hospitality": "14%",
+      "Professional Services": "14%",
+      "Retail & Commerce": "14%",
+      "Energy": "13%"
+    },
+    "industry_counts": {
+      "Technology": 297787,
+      "Construction": 279175,
+      "Transportation": 260563,
+      "Tourism & Hospitality": 260563,
+      "Professional Services": 260563,
+      "Retail & Commerce": 260563,
+      "Energy": 241952
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "52%",
+      "SME (11–100 employees)": "25%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "15%"
+    },
     "open_rate": "30.4%",
     "reply_rate": "7.2%",
     "decision_maker_pct": "48%",
+    "verification_rate": "96%",
+    "last_verified": "Q1-2026",
+    "price": "$149",
+    "rating": "4.6/5 (764 reviews)",
     "compliance": "GDPR",
-    "url": "https://b2bdataindex.com/data-pages/serbia-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/serbia-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/serbia-business-email-leads-database/"
   },
   {
     "name": "Singapore Business Email List",
     "location": "Singapore",
     "records": 1926264,
     "records_formatted": "1.9M+",
-    "top_industry": "Manufacturing",
-    "top_industry_pct": 19,
+    "top_industry": "Finance & Banking",
+    "top_industry_pct": 24,
+    "industries": {
+      "Finance & Banking": "24%",
+      "Technology": "18%",
+      "Trade & Logistics": "11%",
+      "Professional Services": "12%",
+      "Healthcare": "13%",
+      "Manufacturing": "9%",
+      "Retail & Commerce": "13%"
+    },
+    "industry_counts": {
+      "Finance & Banking": 462303,
+      "Technology": 346728,
+      "Trade & Logistics": 211889,
+      "Professional Services": 231152,
+      "Healthcare": 250414,
+      "Manufacturing": 173364,
+      "Retail & Commerce": 250414
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "53%",
+      "SME (11–100 employees)": "27%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "11%"
+    },
     "open_rate": "30.4%",
     "reply_rate": "4.8%",
     "decision_maker_pct": "45%",
+    "verification_rate": "94%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.9/5 (649 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/singapore-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/singapore-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/singapore-business-email-leads-database/"
   },
   {
     "name": "Slovenia Business Email Database",
@@ -708,37 +2274,124 @@
     "records_formatted": "447K+",
     "top_industry": "Retail & Commerce",
     "top_industry_pct": 19,
+    "industries": {
+      "Retail & Commerce": "19%",
+      "Construction": "17%",
+      "Healthcare": "15%",
+      "Manufacturing": "15%",
+      "Professional Services": "14%",
+      "Transportation": "13%",
+      "Education": "7%"
+    },
+    "industry_counts": {
+      "Retail & Commerce": 84922,
+      "Construction": 75983,
+      "Healthcare": 67044,
+      "Manufacturing": 67044,
+      "Professional Services": 62574,
+      "Transportation": 58105,
+      "Education": 31287
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "47%",
+      "SME (11–100 employees)": "28%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "16%"
+    },
     "open_rate": "21.3%",
     "reply_rate": "4.1%",
     "decision_maker_pct": "38%",
+    "verification_rate": "97%",
+    "last_verified": "Q1-2026",
+    "price": "$79",
+    "rating": "4.8/5 (534 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/slovenia-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/slovenia-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/slovenia-business-email-leads-database/"
   },
   {
     "name": "South Africa Business Mailing List",
     "location": "South Africa",
     "records": 310385,
     "records_formatted": "310K+",
-    "top_industry": "Telecommunications",
-    "top_industry_pct": 21,
+    "top_industry": "Mining & Resources",
+    "top_industry_pct": 22,
+    "industries": {
+      "Mining & Resources": "22%",
+      "Finance & Banking": "18%",
+      "Retail & Commerce": "14%",
+      "Manufacturing": "12%",
+      "Professional Services": "9%",
+      "Agriculture & Food": "14%",
+      "Technology": "11%"
+    },
+    "industry_counts": {
+      "Mining & Resources": 68285,
+      "Finance & Banking": 55869,
+      "Retail & Commerce": 43454,
+      "Manufacturing": 37246,
+      "Professional Services": 27935,
+      "Agriculture & Food": 43454,
+      "Technology": 34142
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "47%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "15%"
+    },
     "open_rate": "28%",
     "reply_rate": "5.1%",
     "decision_maker_pct": "45%",
+    "verification_rate": "97%",
+    "last_verified": "Q3-2026",
+    "price": "$79",
+    "rating": "4.8/5 (394 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/south-africa-business-mailing-list/"
+    "url": "https://b2bdataindex.com/data-pages/south-africa-business-mailing-list/",
+    "product_url": "https://leadsblue.com/leads/south-africa-business-email-leads-database/"
   },
   {
     "name": "Spain Business Email Database",
     "location": "Spain",
     "records": 15281446,
     "records_formatted": "15.3M+",
-    "top_industry": "Professional Services",
-    "top_industry_pct": 22,
+    "top_industry": "Tourism & Hospitality",
+    "top_industry_pct": 26,
+    "industries": {
+      "Tourism & Hospitality": "26%",
+      "Retail & Commerce": "15%",
+      "Manufacturing": "16%",
+      "Professional Services": "13%",
+      "Finance & Banking": "13%",
+      "Construction": "10%",
+      "Technology": "7%"
+    },
+    "industry_counts": {
+      "Tourism & Hospitality": 3973176,
+      "Retail & Commerce": 2292217,
+      "Manufacturing": 2445031,
+      "Professional Services": 1986588,
+      "Finance & Banking": 1986588,
+      "Construction": 1528145,
+      "Technology": 1069701
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "48%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "10%"
+    },
     "open_rate": "24.3%",
     "reply_rate": "4.4%",
     "decision_maker_pct": "42%",
+    "verification_rate": "94%",
+    "last_verified": "Q2-2026",
+    "price": "$249",
+    "rating": "4.6/5 (779 reviews)",
     "compliance": "GDPR",
-    "url": "https://b2bdataindex.com/data-pages/spain-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/spain-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/spain-business-email-leads-database/"
   },
   {
     "name": "Sri Lanka Business Email List",
@@ -747,50 +2400,166 @@
     "records_formatted": "445K+",
     "top_industry": "Technology",
     "top_industry_pct": 20,
+    "industries": {
+      "Technology": "20%",
+      "Retail & Commerce": "19%",
+      "Construction": "15%",
+      "Manufacturing": "14%",
+      "Education": "12%",
+      "Professional Services": "12%",
+      "Energy": "8%"
+    },
+    "industry_counts": {
+      "Technology": 88970,
+      "Retail & Commerce": 84522,
+      "Construction": 66728,
+      "Manufacturing": 62279,
+      "Education": 53382,
+      "Professional Services": 53382,
+      "Energy": 35588
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "53%",
+      "SME (11–100 employees)": "26%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "9%"
+    },
     "open_rate": "27.5%",
     "reply_rate": "3.7%",
     "decision_maker_pct": "48%",
+    "verification_rate": "94%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.6/5 (665 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/sri-lanka-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/sri-lanka-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/sri-lanka-business-email-leads-database/"
   },
   {
     "name": "Sweden Business Email Database",
     "location": "Sweden",
     "records": 3180308,
     "records_formatted": "3.2M+",
-    "top_industry": "Professional Services",
-    "top_industry_pct": 16,
+    "top_industry": "Technology",
+    "top_industry_pct": 25,
+    "industries": {
+      "Technology": "25%",
+      "Manufacturing": "15%",
+      "Finance & Banking": "11%",
+      "Professional Services": "14%",
+      "Healthcare": "11%",
+      "Retail & Commerce": "13%",
+      "Energy": "11%"
+    },
+    "industry_counts": {
+      "Technology": 795077,
+      "Manufacturing": 477046,
+      "Finance & Banking": 349834,
+      "Professional Services": 445243,
+      "Healthcare": 349834,
+      "Retail & Commerce": 413440,
+      "Energy": 349834
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "47%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "14%"
+    },
     "open_rate": "31.9%",
     "reply_rate": "7.4%",
     "decision_maker_pct": "46%",
+    "verification_rate": "96%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.6/5 (645 reviews)",
     "compliance": "GDPR",
-    "url": "https://b2bdataindex.com/data-pages/sweden-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/sweden-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/sweden-business-email-leads-database/"
   },
   {
     "name": "Switzerland Business Email List",
     "location": "Switzerland",
     "records": 4315088,
     "records_formatted": "4.3M+",
-    "top_industry": "Healthcare",
-    "top_industry_pct": 20,
+    "top_industry": "Finance & Banking",
+    "top_industry_pct": 30,
+    "industries": {
+      "Finance & Banking": "30%",
+      "Pharmaceutical": "19%",
+      "Manufacturing": "11%",
+      "Technology": "12%",
+      "Professional Services": "11%",
+      "Healthcare": "8%",
+      "Tourism": "9%"
+    },
+    "industry_counts": {
+      "Finance & Banking": 1294526,
+      "Pharmaceutical": 819867,
+      "Manufacturing": 474660,
+      "Technology": 517811,
+      "Professional Services": 474660,
+      "Healthcare": 345207,
+      "Tourism": 388358
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "47%",
+      "SME (11–100 employees)": "25%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "20%"
+    },
     "open_rate": "26.9%",
     "reply_rate": "4.2%",
     "decision_maker_pct": "46%",
+    "verification_rate": "96%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.5/5 (336 reviews)",
     "compliance": "GDPR",
-    "url": "https://b2bdataindex.com/data-pages/switzerland-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/switzerland-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/switzerland-business-email-leads-database/"
   },
   {
     "name": "Thailand Business Email Database",
     "location": "Thailand",
     "records": 324580,
     "records_formatted": "325K+",
-    "top_industry": "Retail & Commerce",
-    "top_industry_pct": 22,
+    "top_industry": "Tourism & Hospitality",
+    "top_industry_pct": 31,
+    "industries": {
+      "Tourism & Hospitality": "31%",
+      "Manufacturing": "16%",
+      "Agriculture & Food": "11%",
+      "Retail & Commerce": "13%",
+      "Finance & Banking": "10%",
+      "Technology": "12%",
+      "Healthcare": "7%"
+    },
+    "industry_counts": {
+      "Tourism & Hospitality": 100620,
+      "Manufacturing": 51933,
+      "Agriculture & Food": 35704,
+      "Retail & Commerce": 42195,
+      "Finance & Banking": 32458,
+      "Technology": 38950,
+      "Healthcare": 22721
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "46%",
+      "SME (11–100 employees)": "26%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "17%"
+    },
     "open_rate": "29.5%",
     "reply_rate": "4.8%",
     "decision_maker_pct": "47%",
+    "verification_rate": "98%",
+    "last_verified": "Q3-2026",
+    "price": "$79",
+    "rating": "4.3/5 (638 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/thailand-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/thailand-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/thailand-business-email-leads-database/"
   },
   {
     "name": "Togo Business Email List",
@@ -799,63 +2568,208 @@
     "records_formatted": "483K+",
     "top_industry": "Manufacturing",
     "top_industry_pct": 17,
+    "industries": {
+      "Manufacturing": "17%",
+      "Transportation": "16%",
+      "Healthcare": "16%",
+      "Construction": "15%",
+      "Energy": "14%",
+      "Finance & Banking": "12%",
+      "Retail & Commerce": "10%"
+    },
+    "industry_counts": {
+      "Manufacturing": 82187,
+      "Transportation": 77352,
+      "Healthcare": 77352,
+      "Construction": 72518,
+      "Energy": 67683,
+      "Finance & Banking": 58014,
+      "Retail & Commerce": 48345
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "49%",
+      "SME (11–100 employees)": "27%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "12%"
+    },
     "open_rate": "19%",
     "reply_rate": "6.6%",
     "decision_maker_pct": "42%",
+    "verification_rate": "95%",
+    "last_verified": "Q3-2026",
+    "price": "$79",
+    "rating": "4.9/5 (383 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/togo-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/togo-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/togo-business-email-leads-database/"
   },
   {
     "name": "Turkey Business Email Database",
     "location": "Turkey",
     "records": 16778407,
     "records_formatted": "16.8M+",
-    "top_industry": "Finance & Banking",
-    "top_industry_pct": 22,
+    "top_industry": "Manufacturing",
+    "top_industry_pct": 32,
+    "industries": {
+      "Manufacturing": "32%",
+      "Retail & Commerce": "19%",
+      "Tourism & Hospitality": "11%",
+      "Finance & Banking": "10%",
+      "Construction": "8%",
+      "Agriculture": "12%",
+      "Technology": "8%"
+    },
+    "industry_counts": {
+      "Manufacturing": 5369090,
+      "Retail & Commerce": 3187897,
+      "Tourism & Hospitality": 1845625,
+      "Finance & Banking": 1677841,
+      "Construction": 1342273,
+      "Agriculture": 2013409,
+      "Technology": 1342273
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "54%",
+      "SME (11–100 employees)": "25%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "9%"
+    },
     "open_rate": "29.5%",
     "reply_rate": "8.3%",
     "decision_maker_pct": "42%",
+    "verification_rate": "96%",
+    "last_verified": "Q4-2026",
+    "price": "$249",
+    "rating": "4.5/5 (126 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/turkey-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/turkey-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/turkey-business-email-leads-database/"
   },
   {
     "name": "Ukraine Business Email List",
     "location": "Ukraine",
     "records": 6278530,
     "records_formatted": "6.3M+",
-    "top_industry": "Education",
-    "top_industry_pct": 17,
+    "top_industry": "Finance & Banking",
+    "top_industry_pct": 16,
+    "industries": {
+      "Finance & Banking": "16%",
+      "Professional Services": "20%",
+      "Technology": "16%",
+      "Healthcare": "12%",
+      "Retail & Commerce": "12%",
+      "Manufacturing": "11%",
+      "Education": "13%"
+    },
+    "industry_counts": {
+      "Finance & Banking": 1004565,
+      "Professional Services": 1255706,
+      "Technology": 1004565,
+      "Healthcare": 753424,
+      "Retail & Commerce": 753424,
+      "Manufacturing": 690638,
+      "Education": 816209
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "52%",
+      "SME (11–100 employees)": "28%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "12%"
+    },
     "open_rate": "19.9%",
     "reply_rate": "4.6%",
     "decision_maker_pct": "45%",
+    "verification_rate": "98%",
+    "last_verified": "Q2-2026",
+    "price": "$249",
+    "rating": "4.8/5 (340 reviews)",
     "compliance": "GDPR",
-    "url": "https://b2bdataindex.com/data-pages/ukraine-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/ukraine-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/ukraine-business-email-leads-database/"
   },
   {
     "name": "UAE Business Email Database",
     "location": "UAE",
     "records": 1474723,
     "records_formatted": "1.5M+",
-    "top_industry": "Oil & Energy",
-    "top_industry_pct": 17,
+    "top_industry": "Trade & Commerce",
+    "top_industry_pct": 21,
+    "industries": {
+      "Trade & Commerce": "21%",
+      "Construction & Real Estate": "15%",
+      "Finance & Banking": "13%",
+      "Tourism & Hospitality": "16%",
+      "Technology": "9%",
+      "Healthcare": "14%",
+      "Professional Services": "12%"
+    },
+    "industry_counts": {
+      "Trade & Commerce": 309692,
+      "Construction & Real Estate": 221208,
+      "Finance & Banking": 191714,
+      "Tourism & Hospitality": 235956,
+      "Technology": 132725,
+      "Healthcare": 206461,
+      "Professional Services": 176967
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "48%",
+      "SME (11–100 employees)": "28%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "15%"
+    },
     "open_rate": "26%",
     "reply_rate": "3.9%",
     "decision_maker_pct": "44%",
+    "verification_rate": "96%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.7/5 (327 reviews)",
     "compliance": "Regional Guidelines",
-    "url": "https://b2bdataindex.com/data-pages/uae-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/uae-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/united-arab-emirates-business-email-leads-database/"
   },
   {
     "name": "USA Business Email List",
     "location": "USA",
     "records": 86581419,
     "records_formatted": "86.6M+",
-    "top_industry": "Professional Services",
-    "top_industry_pct": 21,
+    "top_industry": "Technology & Software",
+    "top_industry_pct": 16,
+    "industries": {
+      "Technology & Software": "16%",
+      "Professional Services": "16%",
+      "Healthcare & Medical": "17%",
+      "Finance & Insurance": "15%",
+      "Retail & Commerce": "10%",
+      "Manufacturing": "13%",
+      "Education & Training": "13%"
+    },
+    "industry_counts": {
+      "Technology & Software": 13853027,
+      "Professional Services": 13853027,
+      "Healthcare & Medical": 14718841,
+      "Finance & Insurance": 12987213,
+      "Retail & Commerce": 8658142,
+      "Manufacturing": 11255584,
+      "Education & Training": 11255584
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "53%",
+      "SME (11–100 employees)": "28%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "11%"
+    },
     "open_rate": "19.5%",
     "reply_rate": "3.6%",
     "decision_maker_pct": "50%",
+    "verification_rate": "94%",
+    "last_verified": "Q2-2026",
+    "price": "$299",
+    "rating": "4.7/5 (302 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/usa-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/usa-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-business-email-leads-database/"
   },
   {
     "name": "Vietnam Business Email Database",
@@ -864,11 +2778,40 @@
     "records_formatted": "490K+",
     "top_industry": "Tourism",
     "top_industry_pct": 18,
+    "industries": {
+      "Tourism": "18%",
+      "Finance & Banking": "19%",
+      "Manufacturing": "18%",
+      "Professional Services": "13%",
+      "Healthcare": "13%",
+      "Retail & Commerce": "11%",
+      "Transportation": "8%"
+    },
+    "industry_counts": {
+      "Tourism": 88179,
+      "Finance & Banking": 93077,
+      "Manufacturing": 88179,
+      "Professional Services": 63685,
+      "Healthcare": 63685,
+      "Retail & Commerce": 53887,
+      "Transportation": 39190
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "52%",
+      "SME (11–100 employees)": "26%",
+      "Mid-market (101–500)": "10%",
+      "Enterprise (500+)": "12%"
+    },
     "open_rate": "20.7%",
     "reply_rate": "5.7%",
     "decision_maker_pct": "38%",
+    "verification_rate": "97%",
+    "last_verified": "Q3-2026",
+    "price": "$79",
+    "rating": "4.6/5 (770 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/vietnam-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/vietnam-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/vietnam-business-email-leads-database/"
   },
   {
     "name": "Alabama Business Email List",
@@ -877,11 +2820,40 @@
     "records_formatted": "1.7M+",
     "top_industry": "Healthcare & Medical",
     "top_industry_pct": 17,
+    "industries": {
+      "Healthcare & Medical": "17%",
+      "Technology & Software": "16%",
+      "Manufacturing": "15%",
+      "Professional Services": "14%",
+      "Agriculture & Food": "14%",
+      "Education & Training": "12%",
+      "Construction & Real Estate": "12%"
+    },
+    "industry_counts": {
+      "Healthcare & Medical": 292866,
+      "Technology & Software": 275639,
+      "Manufacturing": 258411,
+      "Professional Services": 241184,
+      "Agriculture & Food": 241184,
+      "Education & Training": 206729,
+      "Construction & Real Estate": 206729
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "51%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "7%"
+    },
     "open_rate": "24.7%",
     "reply_rate": "7.6%",
     "decision_maker_pct": "45%",
+    "verification_rate": "97%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.8/5 (660 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/alabama-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/alabama-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-alabama-business-email-leads-database/"
   },
   {
     "name": "Alaska Business Email Database",
@@ -890,11 +2862,40 @@
     "records_formatted": "353K+",
     "top_industry": "Technology & Software",
     "top_industry_pct": 18,
+    "industries": {
+      "Technology & Software": "18%",
+      "Healthcare & Medical": "16%",
+      "Manufacturing": "15%",
+      "Agriculture & Food": "14%",
+      "Transportation & Logistics": "13%",
+      "Professional Services": "12%",
+      "Hospitality & Tourism": "12%"
+    },
+    "industry_counts": {
+      "Technology & Software": 63513,
+      "Healthcare & Medical": 56456,
+      "Manufacturing": 52927,
+      "Agriculture & Food": 49399,
+      "Transportation & Logistics": 45870,
+      "Professional Services": 42342,
+      "Hospitality & Tourism": 42342
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "46%",
+      "SME (11–100 employees)": "29%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "13%"
+    },
     "open_rate": "27%",
     "reply_rate": "3.9%",
     "decision_maker_pct": "44%",
+    "verification_rate": "94%",
+    "last_verified": "Q3-2026",
+    "price": "$79",
+    "rating": "4.5/5 (553 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/alaska-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/alaska-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-alaska-business-email-leads-database/"
   },
   {
     "name": "Arizona Business Email List",
@@ -903,11 +2904,40 @@
     "records_formatted": "3M+",
     "top_industry": "Professional Services",
     "top_industry_pct": 19,
+    "industries": {
+      "Professional Services": "19%",
+      "Healthcare & Medical": "18%",
+      "Retail & Commerce": "16%",
+      "Energy & Utilities": "15%",
+      "Technology & Software": "12%",
+      "Education & Training": "11%",
+      "Construction & Real Estate": "9%"
+    },
+    "industry_counts": {
+      "Professional Services": 560760,
+      "Healthcare & Medical": 531247,
+      "Retail & Commerce": 472219,
+      "Energy & Utilities": 442706,
+      "Technology & Software": 354164,
+      "Education & Training": 324651,
+      "Construction & Real Estate": 265623
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "53%",
+      "SME (11–100 employees)": "26%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "13%"
+    },
     "open_rate": "26%",
     "reply_rate": "6.1%",
     "decision_maker_pct": "50%",
+    "verification_rate": "96%",
+    "last_verified": "Q2-2026",
+    "price": "$149",
+    "rating": "4.3/5 (560 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/arizona-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/arizona-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-arizona-business-email-leads-database/"
   },
   {
     "name": "Arkansas Business Email Database",
@@ -916,11 +2946,40 @@
     "records_formatted": "84K+",
     "top_industry": "Healthcare & Medical",
     "top_industry_pct": 17,
+    "industries": {
+      "Healthcare & Medical": "17%",
+      "Professional Services": "17%",
+      "Technology & Software": "16%",
+      "Hospitality & Tourism": "13%",
+      "Transportation & Logistics": "13%",
+      "Construction & Real Estate": "13%",
+      "Energy & Utilities": "11%"
+    },
+    "industry_counts": {
+      "Healthcare & Medical": 14218,
+      "Professional Services": 14218,
+      "Technology & Software": 13382,
+      "Hospitality & Tourism": 10873,
+      "Transportation & Logistics": 10873,
+      "Construction & Real Estate": 10873,
+      "Energy & Utilities": 9200
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "53%",
+      "SME (11–100 employees)": "28%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "10%"
+    },
     "open_rate": "18.3%",
     "reply_rate": "4%",
     "decision_maker_pct": "44%",
+    "verification_rate": "97%",
+    "last_verified": "Q4-2026",
+    "price": "$49",
+    "rating": "4.7/5 (473 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/arkansas-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/arkansas-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-arkansas-business-email-leads-database/"
   },
   {
     "name": "California Business Email List",
@@ -928,12 +2987,41 @@
     "records": 13313958,
     "records_formatted": "13.3M+",
     "top_industry": "Technology & Software",
-    "top_industry_pct": 17,
+    "top_industry_pct": 32,
+    "industries": {
+      "Technology & Software": "32%",
+      "Entertainment & Media": "19%",
+      "Healthcare": "15%",
+      "Finance & Banking": "10%",
+      "Retail & Commerce": "8%",
+      "Professional Services": "9%",
+      "Agriculture": "7%"
+    },
+    "industry_counts": {
+      "Technology & Software": 4260467,
+      "Entertainment & Media": 2529652,
+      "Healthcare": 1997094,
+      "Finance & Banking": 1331396,
+      "Retail & Commerce": 1065117,
+      "Professional Services": 1198256,
+      "Agriculture": 931977
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "50%",
+      "SME (11–100 employees)": "29%",
+      "Mid-market (101–500)": "10%",
+      "Enterprise (500+)": "11%"
+    },
     "open_rate": "20.9%",
     "reply_rate": "4%",
     "decision_maker_pct": "38%",
+    "verification_rate": "97%",
+    "last_verified": "Q1-2026",
+    "price": "$249",
+    "rating": "4.4/5 (778 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/california-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/california-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-california-business-email-leads-database/"
   },
   {
     "name": "Colorado Business Email Database",
@@ -942,11 +3030,40 @@
     "records_formatted": "3.3M+",
     "top_industry": "Transportation & Logistics",
     "top_industry_pct": 16,
+    "industries": {
+      "Transportation & Logistics": "16%",
+      "Manufacturing": "16%",
+      "Retail & Commerce": "15%",
+      "Energy & Utilities": "15%",
+      "Healthcare & Medical": "13%",
+      "Professional Services": "13%",
+      "Finance & Insurance": "12%"
+    },
+    "industry_counts": {
+      "Transportation & Logistics": 527373,
+      "Manufacturing": 527373,
+      "Retail & Commerce": 494413,
+      "Energy & Utilities": 494413,
+      "Healthcare & Medical": 428491,
+      "Professional Services": 428491,
+      "Finance & Insurance": 395530
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "53%",
+      "SME (11–100 employees)": "28%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "8%"
+    },
     "open_rate": "22.1%",
     "reply_rate": "7.2%",
     "decision_maker_pct": "52%",
+    "verification_rate": "94%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.5/5 (678 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/colorado-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/colorado-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-colorado-business-email-leads-database/"
   },
   {
     "name": "Connecticut Business Contact List",
@@ -955,11 +3072,40 @@
     "records_formatted": "1.2M+",
     "top_industry": "Technology & Software",
     "top_industry_pct": 17,
+    "industries": {
+      "Technology & Software": "17%",
+      "Hospitality & Tourism": "16%",
+      "Healthcare & Medical": "15%",
+      "Energy & Utilities": "14%",
+      "Manufacturing": "13%",
+      "Agriculture & Food": "13%",
+      "Construction & Real Estate": "12%"
+    },
+    "industry_counts": {
+      "Technology & Software": 204874,
+      "Hospitality & Tourism": 192822,
+      "Healthcare & Medical": 180771,
+      "Energy & Utilities": 168720,
+      "Manufacturing": 156668,
+      "Agriculture & Food": 156668,
+      "Construction & Real Estate": 144617
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "53%",
+      "SME (11–100 employees)": "29%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "7%"
+    },
     "open_rate": "30%",
     "reply_rate": "4.6%",
     "decision_maker_pct": "51%",
+    "verification_rate": "95%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.4/5 (239 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/connecticut-business-contact-list/"
+    "url": "https://b2bdataindex.com/data-pages/connecticut-business-contact-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-connecticut-business-email-leads-database/"
   },
   {
     "name": "Delaware Business Email Database",
@@ -968,37 +3114,124 @@
     "records_formatted": "338K+",
     "top_industry": "Hospitality & Tourism",
     "top_industry_pct": 20,
+    "industries": {
+      "Hospitality & Tourism": "20%",
+      "Energy & Utilities": "18%",
+      "Finance & Insurance": "18%",
+      "Construction & Real Estate": "16%",
+      "Transportation & Logistics": "12%",
+      "Retail & Commerce": "10%",
+      "Manufacturing": "6%"
+    },
+    "industry_counts": {
+      "Hospitality & Tourism": 67617,
+      "Energy & Utilities": 60855,
+      "Finance & Insurance": 60855,
+      "Construction & Real Estate": 54093,
+      "Transportation & Logistics": 40570,
+      "Retail & Commerce": 33808,
+      "Manufacturing": 20285
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "55%",
+      "SME (11–100 employees)": "25%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "12%"
+    },
     "open_rate": "24.7%",
     "reply_rate": "7.3%",
     "decision_maker_pct": "51%",
+    "verification_rate": "96%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.4/5 (402 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/delaware-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/delaware-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-delaware-business-email-leads-database/"
   },
   {
     "name": "Florida Business Email List",
     "location": "Florida",
     "records": 9529222,
     "records_formatted": "9.5M+",
-    "top_industry": "Healthcare & Medical",
-    "top_industry_pct": 17,
+    "top_industry": "Tourism & Hospitality",
+    "top_industry_pct": 32,
+    "industries": {
+      "Tourism & Hospitality": "32%",
+      "Healthcare": "18%",
+      "Retail & Commerce": "12%",
+      "Finance & Banking": "15%",
+      "Real Estate": "8%",
+      "Technology": "8%",
+      "Professional Services": "7%"
+    },
+    "industry_counts": {
+      "Tourism & Hospitality": 3049351,
+      "Healthcare": 1715260,
+      "Retail & Commerce": 1143507,
+      "Finance & Banking": 1429383,
+      "Real Estate": 762338,
+      "Technology": 762338,
+      "Professional Services": 667046
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "50%",
+      "SME (11–100 employees)": "28%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "13%"
+    },
     "open_rate": "26.5%",
     "reply_rate": "7.7%",
     "decision_maker_pct": "51%",
+    "verification_rate": "98%",
+    "last_verified": "Q2-2026",
+    "price": "$249",
+    "rating": "4.5/5 (751 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/florida-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/florida-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-florida-business-email-leads-database/"
   },
   {
     "name": "Georgia Business Email Database",
     "location": "Georgia",
     "records": 5187926,
     "records_formatted": "5.2M+",
-    "top_industry": "Professional Services",
-    "top_industry_pct": 18,
+    "top_industry": "Logistics & Shipping",
+    "top_industry_pct": 17,
+    "industries": {
+      "Logistics & Shipping": "17%",
+      "Technology": "19%",
+      "Healthcare": "17%",
+      "Finance & Banking": "15%",
+      "Professional Services": "11%",
+      "Manufacturing": "9%",
+      "Agriculture": "12%"
+    },
+    "industry_counts": {
+      "Logistics & Shipping": 881947,
+      "Technology": 985706,
+      "Healthcare": 881947,
+      "Finance & Banking": 778189,
+      "Professional Services": 570672,
+      "Manufacturing": 466913,
+      "Agriculture": 622551
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "50%",
+      "SME (11–100 employees)": "27%",
+      "Mid-market (101–500)": "10%",
+      "Enterprise (500+)": "13%"
+    },
     "open_rate": "28.2%",
     "reply_rate": "4.5%",
     "decision_maker_pct": "38%",
+    "verification_rate": "98%",
+    "last_verified": "Q1-2026",
+    "price": "$249",
+    "rating": "4.4/5 (595 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/georgia-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/georgia-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-georgia-business-email-leads-database/"
   },
   {
     "name": "Hawaii Business Email List",
@@ -1007,11 +3240,40 @@
     "records_formatted": "214K+",
     "top_industry": "Professional Services",
     "top_industry_pct": 21,
+    "industries": {
+      "Professional Services": "21%",
+      "Technology & Software": "17%",
+      "Finance & Insurance": "15%",
+      "Manufacturing": "12%",
+      "Retail & Commerce": "12%",
+      "Education & Training": "12%",
+      "Construction & Real Estate": "11%"
+    },
+    "industry_counts": {
+      "Professional Services": 44951,
+      "Technology & Software": 36389,
+      "Finance & Insurance": 32108,
+      "Manufacturing": 25686,
+      "Retail & Commerce": 25686,
+      "Education & Training": 25686,
+      "Construction & Real Estate": 23546
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "48%",
+      "SME (11–100 employees)": "25%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "16%"
+    },
     "open_rate": "21.6%",
     "reply_rate": "5.8%",
     "decision_maker_pct": "47%",
+    "verification_rate": "98%",
+    "last_verified": "Q3-2026",
+    "price": "$79",
+    "rating": "4.4/5 (676 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/hawaii-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/hawaii-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-hawaii-business-email-leads-database/"
   },
   {
     "name": "Idaho Business Email Database",
@@ -1020,37 +3282,124 @@
     "records_formatted": "109K+",
     "top_industry": "Technology & Software",
     "top_industry_pct": 17,
+    "industries": {
+      "Technology & Software": "17%",
+      "Education & Training": "15%",
+      "Hospitality & Tourism": "15%",
+      "Finance & Insurance": "15%",
+      "Healthcare & Medical": "14%",
+      "Energy & Utilities": "13%",
+      "Manufacturing": "11%"
+    },
+    "industry_counts": {
+      "Technology & Software": 18557,
+      "Education & Training": 16374,
+      "Hospitality & Tourism": 16374,
+      "Finance & Insurance": 16374,
+      "Healthcare & Medical": 15282,
+      "Energy & Utilities": 14190,
+      "Manufacturing": 12007
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "52%",
+      "SME (11–100 employees)": "25%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "14%"
+    },
     "open_rate": "31.1%",
     "reply_rate": "4.1%",
     "decision_maker_pct": "47%",
+    "verification_rate": "96%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.7/5 (435 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/idaho-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/idaho-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-idaho-business-email-leads-database/"
   },
   {
     "name": "Illinois Business Email List",
     "location": "Illinois",
     "records": 13055806,
     "records_formatted": "13.1M+",
-    "top_industry": "Healthcare & Medical",
-    "top_industry_pct": 20,
+    "top_industry": "Finance & Banking",
+    "top_industry_pct": 25,
+    "industries": {
+      "Finance & Banking": "25%",
+      "Manufacturing": "16%",
+      "Technology": "16%",
+      "Healthcare": "14%",
+      "Professional Services": "14%",
+      "Retail & Commerce": "8%",
+      "Transportation": "7%"
+    },
+    "industry_counts": {
+      "Finance & Banking": 3263952,
+      "Manufacturing": 2088929,
+      "Technology": 2088929,
+      "Healthcare": 1827813,
+      "Professional Services": 1827813,
+      "Retail & Commerce": 1044464,
+      "Transportation": 913906
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "46%",
+      "SME (11–100 employees)": "26%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "20%"
+    },
     "open_rate": "20.8%",
     "reply_rate": "6.1%",
     "decision_maker_pct": "45%",
+    "verification_rate": "96%",
+    "last_verified": "Q2-2026",
+    "price": "$249",
+    "rating": "4.4/5 (793 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/illinois-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/illinois-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-illinois-business-email-leads-database/"
   },
   {
     "name": "Indiana Business Email Database",
     "location": "Indiana",
     "records": 91382291,
     "records_formatted": "91.4M+",
-    "top_industry": "Professional Services",
-    "top_industry_pct": 23,
+    "top_industry": "Technology & Software",
+    "top_industry_pct": 24,
+    "industries": {
+      "Technology & Software": "24%",
+      "Manufacturing": "17%",
+      "Professional Services": "14%",
+      "Finance & Banking": "13%",
+      "Retail & Commerce": "10%",
+      "Healthcare": "9%",
+      "Education": "13%"
+    },
+    "industry_counts": {
+      "Technology & Software": 21931750,
+      "Manufacturing": 15534989,
+      "Professional Services": 12793521,
+      "Finance & Banking": 11879698,
+      "Retail & Commerce": 9138229,
+      "Healthcare": 8224406,
+      "Education": 11879698
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "48%",
+      "SME (11–100 employees)": "28%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "15%"
+    },
     "open_rate": "21.6%",
     "reply_rate": "4.9%",
     "decision_maker_pct": "44%",
+    "verification_rate": "95%",
+    "last_verified": "Q3-2026",
+    "price": "$299",
+    "rating": "4.5/5 (614 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/indiana-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/indiana-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-indiana-business-email-leads-database/"
   },
   {
     "name": "Iowa Business Contact List",
@@ -1059,11 +3408,40 @@
     "records_formatted": "3.4M+",
     "top_industry": "Manufacturing",
     "top_industry_pct": 16,
+    "industries": {
+      "Manufacturing": "16%",
+      "Professional Services": "16%",
+      "Energy & Utilities": "15%",
+      "Finance & Insurance": "15%",
+      "Transportation & Logistics": "13%",
+      "Construction & Real Estate": "13%",
+      "Education & Training": "12%"
+    },
+    "industry_counts": {
+      "Manufacturing": 539517,
+      "Professional Services": 539517,
+      "Energy & Utilities": 505797,
+      "Finance & Insurance": 505797,
+      "Transportation & Logistics": 438358,
+      "Construction & Real Estate": 438358,
+      "Education & Training": 404638
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "52%",
+      "SME (11–100 employees)": "26%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "13%"
+    },
     "open_rate": "20.3%",
     "reply_rate": "6.8%",
     "decision_maker_pct": "45%",
+    "verification_rate": "97%",
+    "last_verified": "Q2-2026",
+    "price": "$149",
+    "rating": "4.7/5 (406 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/iowa-business-contact-list/"
+    "url": "https://b2bdataindex.com/data-pages/iowa-business-contact-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-iowa-business-email-leads-database/"
   },
   {
     "name": "Kansas Business Email List",
@@ -1072,11 +3450,40 @@
     "records_formatted": "197K+",
     "top_industry": "Professional Services",
     "top_industry_pct": 20,
+    "industries": {
+      "Professional Services": "20%",
+      "Finance & Insurance": "17%",
+      "Retail & Commerce": "14%",
+      "Healthcare & Medical": "14%",
+      "Transportation & Logistics": "13%",
+      "Hospitality & Tourism": "11%",
+      "Manufacturing": "11%"
+    },
+    "industry_counts": {
+      "Professional Services": 39375,
+      "Finance & Insurance": 33468,
+      "Retail & Commerce": 27562,
+      "Healthcare & Medical": 27562,
+      "Transportation & Logistics": 25593,
+      "Hospitality & Tourism": 21656,
+      "Manufacturing": 21656
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "46%",
+      "SME (11–100 employees)": "26%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "17%"
+    },
     "open_rate": "24.6%",
     "reply_rate": "4.5%",
     "decision_maker_pct": "51%",
+    "verification_rate": "97%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.6/5 (270 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/kansas-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/kansas-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-kansas-business-email-leads-database/"
   },
   {
     "name": "Kentucky Business Email Database",
@@ -1085,11 +3492,40 @@
     "records_formatted": "1.3M+",
     "top_industry": "Healthcare & Medical",
     "top_industry_pct": 17,
+    "industries": {
+      "Healthcare & Medical": "17%",
+      "Finance & Insurance": "16%",
+      "Technology & Software": "16%",
+      "Transportation & Logistics": "15%",
+      "Energy & Utilities": "13%",
+      "Agriculture & Food": "12%",
+      "Professional Services": "11%"
+    },
+    "industry_counts": {
+      "Healthcare & Medical": 214647,
+      "Finance & Insurance": 202021,
+      "Technology & Software": 202021,
+      "Transportation & Logistics": 189395,
+      "Energy & Utilities": 164142,
+      "Agriculture & Food": 151516,
+      "Professional Services": 138889
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "51%",
+      "SME (11–100 employees)": "28%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "12%"
+    },
     "open_rate": "28.5%",
     "reply_rate": "6.4%",
     "decision_maker_pct": "50%",
+    "verification_rate": "96%",
+    "last_verified": "Q1-2026",
+    "price": "$149",
+    "rating": "4.8/5 (181 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/kentucky-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/kentucky-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-kentucky-business-email-leads-database/"
   },
   {
     "name": "Louisiana Business Email List",
@@ -1098,11 +3534,40 @@
     "records_formatted": "1.2M+",
     "top_industry": "Professional Services",
     "top_industry_pct": 17,
+    "industries": {
+      "Professional Services": "17%",
+      "Healthcare & Medical": "17%",
+      "Education & Training": "15%",
+      "Energy & Utilities": "14%",
+      "Construction & Real Estate": "13%",
+      "Technology & Software": "12%",
+      "Transportation & Logistics": "12%"
+    },
+    "industry_counts": {
+      "Professional Services": 195809,
+      "Healthcare & Medical": 195809,
+      "Education & Training": 172773,
+      "Energy & Utilities": 161255,
+      "Construction & Real Estate": 149736,
+      "Technology & Software": 138218,
+      "Transportation & Logistics": 138218
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "55%",
+      "SME (11–100 employees)": "26%",
+      "Mid-market (101–500)": "10%",
+      "Enterprise (500+)": "9%"
+    },
     "open_rate": "26.7%",
     "reply_rate": "5.8%",
     "decision_maker_pct": "41%",
+    "verification_rate": "97%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.4/5 (857 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/louisiana-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/louisiana-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-louisiana-business-email-leads-database/"
   },
   {
     "name": "Maine Business Email Database",
@@ -1111,11 +3576,40 @@
     "records_formatted": "332K+",
     "top_industry": "Finance & Insurance",
     "top_industry_pct": 19,
+    "industries": {
+      "Finance & Insurance": "19%",
+      "Technology & Software": "18%",
+      "Agriculture & Food": "16%",
+      "Healthcare & Medical": "12%",
+      "Hospitality & Tourism": "12%",
+      "Energy & Utilities": "12%",
+      "Manufacturing": "11%"
+    },
+    "industry_counts": {
+      "Finance & Insurance": 63049,
+      "Technology & Software": 59730,
+      "Agriculture & Food": 53094,
+      "Healthcare & Medical": 39820,
+      "Hospitality & Tourism": 39820,
+      "Energy & Utilities": 39820,
+      "Manufacturing": 36502
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "48%",
+      "SME (11–100 employees)": "28%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "16%"
+    },
     "open_rate": "29.3%",
     "reply_rate": "5.5%",
     "decision_maker_pct": "41%",
+    "verification_rate": "97%",
+    "last_verified": "Q1-2026",
+    "price": "$79",
+    "rating": "4.3/5 (575 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/maine-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/maine-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-maine-business-email-leads-database/"
   },
   {
     "name": "Maryland Business Email List",
@@ -1124,37 +3618,124 @@
     "records_formatted": "2.1M+",
     "top_industry": "Energy & Utilities",
     "top_industry_pct": 17,
+    "industries": {
+      "Energy & Utilities": "17%",
+      "Finance & Insurance": "17%",
+      "Healthcare & Medical": "16%",
+      "Construction & Real Estate": "16%",
+      "Hospitality & Tourism": "13%",
+      "Professional Services": "11%",
+      "Transportation & Logistics": "10%"
+    },
+    "industry_counts": {
+      "Energy & Utilities": 365319,
+      "Finance & Insurance": 365319,
+      "Healthcare & Medical": 343829,
+      "Construction & Real Estate": 343829,
+      "Hospitality & Tourism": 279361,
+      "Professional Services": 236383,
+      "Transportation & Logistics": 214893
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "54%",
+      "SME (11–100 employees)": "26%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "11%"
+    },
     "open_rate": "28%",
     "reply_rate": "6.4%",
     "decision_maker_pct": "45%",
+    "verification_rate": "96%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.8/5 (255 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/maryland-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/maryland-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-maryland-business-email-leads-database/"
   },
   {
     "name": "Massachusetts Business Email Database",
     "location": "Massachusetts",
     "records": 1465482,
     "records_formatted": "1.5M+",
-    "top_industry": "Education & Training",
-    "top_industry_pct": 19,
+    "top_industry": "Healthcare & Biotech",
+    "top_industry_pct": 15,
+    "industries": {
+      "Healthcare & Biotech": "15%",
+      "Education": "18%",
+      "Technology": "15%",
+      "Finance & Banking": "14%",
+      "Professional Services": "12%",
+      "Manufacturing": "14%",
+      "Retail & Commerce": "12%"
+    },
+    "industry_counts": {
+      "Healthcare & Biotech": 219822,
+      "Education": 263787,
+      "Technology": 219822,
+      "Finance & Banking": 205167,
+      "Professional Services": 175858,
+      "Manufacturing": 205167,
+      "Retail & Commerce": 175858
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "54%",
+      "SME (11–100 employees)": "26%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "9%"
+    },
     "open_rate": "21.1%",
     "reply_rate": "6.2%",
     "decision_maker_pct": "47%",
+    "verification_rate": "94%",
+    "last_verified": "Q1-2026",
+    "price": "$149",
+    "rating": "4.7/5 (311 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/massachusetts-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/massachusetts-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-massachusetts-business-email-leads-database/"
   },
   {
     "name": "Michigan Business Email List",
     "location": "Michigan",
     "records": 5334309,
     "records_formatted": "5.3M+",
-    "top_industry": "Healthcare & Medical",
-    "top_industry_pct": 20,
+    "top_industry": "Automotive & Manufacturing",
+    "top_industry_pct": 15,
+    "industries": {
+      "Automotive & Manufacturing": "15%",
+      "Healthcare": "20%",
+      "Technology": "14%",
+      "Finance & Banking": "15%",
+      "Professional Services": "13%",
+      "Retail & Commerce": "14%",
+      "Agriculture": "9%"
+    },
+    "industry_counts": {
+      "Automotive & Manufacturing": 800146,
+      "Healthcare": 1066862,
+      "Technology": 746803,
+      "Finance & Banking": 800146,
+      "Professional Services": 693460,
+      "Retail & Commerce": 746803,
+      "Agriculture": 480088
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "55%",
+      "SME (11–100 employees)": "25%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "12%"
+    },
     "open_rate": "24.9%",
     "reply_rate": "7%",
     "decision_maker_pct": "41%",
+    "verification_rate": "97%",
+    "last_verified": "Q4-2026",
+    "price": "$249",
+    "rating": "4.9/5 (136 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/michigan-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/michigan-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-michigan-business-email-leads-database/"
   },
   {
     "name": "Minnesota Business Email Database",
@@ -1163,11 +3744,40 @@
     "records_formatted": "1.8M+",
     "top_industry": "Professional Services",
     "top_industry_pct": 18,
+    "industries": {
+      "Professional Services": "18%",
+      "Construction & Real Estate": "16%",
+      "Healthcare & Medical": "16%",
+      "Hospitality & Tourism": "14%",
+      "Technology & Software": "14%",
+      "Transportation & Logistics": "11%",
+      "Education & Training": "11%"
+    },
+    "industry_counts": {
+      "Professional Services": 315938,
+      "Construction & Real Estate": 280834,
+      "Healthcare & Medical": 280834,
+      "Hospitality & Tourism": 245730,
+      "Technology & Software": 245730,
+      "Transportation & Logistics": 193073,
+      "Education & Training": 193073
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "48%",
+      "SME (11–100 employees)": "27%",
+      "Mid-market (101–500)": "10%",
+      "Enterprise (500+)": "15%"
+    },
     "open_rate": "27.2%",
     "reply_rate": "7.9%",
     "decision_maker_pct": "51%",
+    "verification_rate": "96%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.5/5 (604 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/minnesota-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/minnesota-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-minnesota-business-email-leads-database/"
   },
   {
     "name": "Mississippi Business Email List",
@@ -1176,11 +3786,40 @@
     "records_formatted": "396K+",
     "top_industry": "Technology & Software",
     "top_industry_pct": 20,
+    "industries": {
+      "Technology & Software": "20%",
+      "Healthcare & Medical": "19%",
+      "Education & Training": "16%",
+      "Hospitality & Tourism": "15%",
+      "Retail & Commerce": "12%",
+      "Professional Services": "10%",
+      "Manufacturing": "8%"
+    },
+    "industry_counts": {
+      "Technology & Software": 79251,
+      "Healthcare & Medical": 75288,
+      "Education & Training": 63401,
+      "Hospitality & Tourism": 59438,
+      "Retail & Commerce": 47551,
+      "Professional Services": 39626,
+      "Manufacturing": 31700
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "45%",
+      "SME (11–100 employees)": "25%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "21%"
+    },
     "open_rate": "27.2%",
     "reply_rate": "7.1%",
     "decision_maker_pct": "48%",
+    "verification_rate": "94%",
+    "last_verified": "Q4-2026",
+    "price": "$79",
+    "rating": "4.7/5 (583 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/mississippi-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/mississippi-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-mississippi-business-email-leads-database/"
   },
   {
     "name": "Missouri Business Email Database",
@@ -1189,11 +3828,40 @@
     "records_formatted": "1.5M+",
     "top_industry": "Transportation & Logistics",
     "top_industry_pct": 17,
+    "industries": {
+      "Transportation & Logistics": "17%",
+      "Healthcare & Medical": "16%",
+      "Education & Training": "16%",
+      "Construction & Real Estate": "14%",
+      "Manufacturing": "13%",
+      "Finance & Insurance": "12%",
+      "Hospitality & Tourism": "12%"
+    },
+    "industry_counts": {
+      "Transportation & Logistics": 261728,
+      "Healthcare & Medical": 246332,
+      "Education & Training": 246332,
+      "Construction & Real Estate": 215541,
+      "Manufacturing": 200145,
+      "Finance & Insurance": 184749,
+      "Hospitality & Tourism": 184749
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "50%",
+      "SME (11–100 employees)": "27%",
+      "Mid-market (101–500)": "10%",
+      "Enterprise (500+)": "13%"
+    },
     "open_rate": "29.5%",
     "reply_rate": "4.6%",
     "decision_maker_pct": "47%",
+    "verification_rate": "95%",
+    "last_verified": "Q2-2026",
+    "price": "$149",
+    "rating": "4.5/5 (317 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/missouri-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/missouri-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-missouri-business-email-leads-database/"
   },
   {
     "name": "Montana Business Email List",
@@ -1202,11 +3870,40 @@
     "records_formatted": "144K+",
     "top_industry": "Technology & Software",
     "top_industry_pct": 19,
+    "industries": {
+      "Technology & Software": "19%",
+      "Manufacturing": "16%",
+      "Education & Training": "15%",
+      "Healthcare & Medical": "14%",
+      "Hospitality & Tourism": "13%",
+      "Agriculture & Food": "12%",
+      "Professional Services": "11%"
+    },
+    "industry_counts": {
+      "Technology & Software": 27341,
+      "Manufacturing": 23024,
+      "Education & Training": 21585,
+      "Healthcare & Medical": 20146,
+      "Hospitality & Tourism": 18707,
+      "Agriculture & Food": 17268,
+      "Professional Services": 15829
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "46%",
+      "SME (11–100 employees)": "27%",
+      "Mid-market (101–500)": "10%",
+      "Enterprise (500+)": "17%"
+    },
     "open_rate": "28.9%",
     "reply_rate": "4.9%",
     "decision_maker_pct": "42%",
+    "verification_rate": "94%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.7/5 (621 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/montana-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/montana-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-montana-business-email-leads-database/"
   },
   {
     "name": "Nebraska Business Email Database",
@@ -1215,11 +3912,40 @@
     "records_formatted": "101K+",
     "top_industry": "Healthcare & Medical",
     "top_industry_pct": 17,
+    "industries": {
+      "Healthcare & Medical": "17%",
+      "Construction & Real Estate": "17%",
+      "Manufacturing": "16%",
+      "Finance & Insurance": "15%",
+      "Energy & Utilities": "13%",
+      "Hospitality & Tourism": "11%",
+      "Technology & Software": "11%"
+    },
+    "industry_counts": {
+      "Healthcare & Medical": 17251,
+      "Construction & Real Estate": 17251,
+      "Manufacturing": 16236,
+      "Finance & Insurance": 15222,
+      "Energy & Utilities": 13192,
+      "Hospitality & Tourism": 11163,
+      "Technology & Software": 11163
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "52%",
+      "SME (11–100 employees)": "25%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "15%"
+    },
     "open_rate": "22.5%",
     "reply_rate": "6.2%",
     "decision_maker_pct": "41%",
+    "verification_rate": "94%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.4/5 (187 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/nebraska-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/nebraska-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-nebraska-business-email-leads-database/"
   },
   {
     "name": "Nevada Business Email List",
@@ -1228,11 +3954,40 @@
     "records_formatted": "3.8M+",
     "top_industry": "Technology & Software",
     "top_industry_pct": 20,
+    "industries": {
+      "Technology & Software": "20%",
+      "Professional Services": "15%",
+      "Energy & Utilities": "15%",
+      "Healthcare & Medical": "14%",
+      "Retail & Commerce": "13%",
+      "Agriculture & Food": "12%",
+      "Manufacturing": "11%"
+    },
+    "industry_counts": {
+      "Technology & Software": 758503,
+      "Professional Services": 568877,
+      "Energy & Utilities": 568877,
+      "Healthcare & Medical": 530952,
+      "Retail & Commerce": 493027,
+      "Agriculture & Food": 455102,
+      "Manufacturing": 417176
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "54%",
+      "SME (11–100 employees)": "28%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "9%"
+    },
     "open_rate": "28.7%",
     "reply_rate": "7.8%",
     "decision_maker_pct": "51%",
+    "verification_rate": "95%",
+    "last_verified": "Q2-2026",
+    "price": "$149",
+    "rating": "4.6/5 (448 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/nevada-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/nevada-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-nevada-business-email-leads-database/"
   },
   {
     "name": "New Hampshire Business Email Database",
@@ -1241,11 +3996,40 @@
     "records_formatted": "373K+",
     "top_industry": "Healthcare & Medical",
     "top_industry_pct": 18,
+    "industries": {
+      "Healthcare & Medical": "18%",
+      "Retail & Commerce": "16%",
+      "Agriculture & Food": "15%",
+      "Manufacturing": "14%",
+      "Construction & Real Estate": "14%",
+      "Transportation & Logistics": "12%",
+      "Finance & Insurance": "11%"
+    },
+    "industry_counts": {
+      "Healthcare & Medical": 67101,
+      "Retail & Commerce": 59645,
+      "Agriculture & Food": 55917,
+      "Manufacturing": 52189,
+      "Construction & Real Estate": 52189,
+      "Transportation & Logistics": 44734,
+      "Finance & Insurance": 41006
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "47%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "14%"
+    },
     "open_rate": "31.6%",
     "reply_rate": "5.9%",
     "decision_maker_pct": "49%",
+    "verification_rate": "96%",
+    "last_verified": "Q3-2026",
+    "price": "$79",
+    "rating": "4.5/5 (694 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/new-hampshire-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/new-hampshire-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-new-hampshire-business-email-leads-database/"
   },
   {
     "name": "New Jersey Business Email List",
@@ -1254,50 +4038,166 @@
     "records_formatted": "132K+",
     "top_industry": "Healthcare & Medical",
     "top_industry_pct": 16,
+    "industries": {
+      "Healthcare & Medical": "16%",
+      "Transportation & Logistics": "16%",
+      "Retail & Commerce": "16%",
+      "Construction & Real Estate": "15%",
+      "Manufacturing": "14%",
+      "Energy & Utilities": "12%",
+      "Hospitality & Tourism": "11%"
+    },
+    "industry_counts": {
+      "Healthcare & Medical": 21044,
+      "Transportation & Logistics": 21044,
+      "Retail & Commerce": 21044,
+      "Construction & Real Estate": 19729,
+      "Manufacturing": 18414,
+      "Energy & Utilities": 15783,
+      "Hospitality & Tourism": 14468
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "50%",
+      "SME (11–100 employees)": "25%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "14%"
+    },
     "open_rate": "27.9%",
     "reply_rate": "3.9%",
     "decision_maker_pct": "40%",
+    "verification_rate": "97%",
+    "last_verified": "Q3-2026",
+    "price": "$79",
+    "rating": "4.3/5 (606 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/new-jersey-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/new-jersey-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-new-jersey-business-email-leads-database/"
   },
   {
     "name": "New Mexico Business Email Database",
     "location": "New Mexico",
     "records": 4125785,
     "records_formatted": "4.1M+",
-    "top_industry": "Professional Services",
-    "top_industry_pct": 20,
+    "top_industry": "Manufacturing",
+    "top_industry_pct": 27,
+    "industries": {
+      "Manufacturing": "27%",
+      "Retail & Commerce": "15%",
+      "Agriculture & Food": "11%",
+      "Professional Services": "15%",
+      "Finance & Banking": "8%",
+      "Technology": "14%",
+      "Construction": "10%"
+    },
+    "industry_counts": {
+      "Manufacturing": 1113962,
+      "Retail & Commerce": 618868,
+      "Agriculture & Food": 453836,
+      "Professional Services": 618868,
+      "Finance & Banking": 330063,
+      "Technology": 577610,
+      "Construction": 412579
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "55%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "4%"
+    },
     "open_rate": "22.9%",
     "reply_rate": "8.1%",
     "decision_maker_pct": "43%",
+    "verification_rate": "98%",
+    "last_verified": "Q4-2026",
+    "price": "$149",
+    "rating": "4.8/5 (187 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/new-mexico-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/new-mexico-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-new-mexico-business-email-leads-database/"
   },
   {
     "name": "New York Business Email List",
     "location": "New York",
     "records": 8242441,
     "records_formatted": "8.2M+",
-    "top_industry": "Technology & Software",
-    "top_industry_pct": 19,
+    "top_industry": "Finance & Banking",
+    "top_industry_pct": 30,
+    "industries": {
+      "Finance & Banking": "30%",
+      "Professional Services": "19%",
+      "Technology": "12%",
+      "Healthcare": "11%",
+      "Media & Entertainment": "11%",
+      "Retail & Commerce": "8%",
+      "Real Estate": "9%"
+    },
+    "industry_counts": {
+      "Finance & Banking": 2472732,
+      "Professional Services": 1566064,
+      "Technology": 989093,
+      "Healthcare": 906669,
+      "Media & Entertainment": 906669,
+      "Retail & Commerce": 659395,
+      "Real Estate": 741820
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "48%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "13%"
+    },
     "open_rate": "18.2%",
     "reply_rate": "5.2%",
     "decision_maker_pct": "38%",
+    "verification_rate": "98%",
+    "last_verified": "Q3-2026",
+    "price": "$249",
+    "rating": "4.5/5 (630 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/new-york-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/new-york-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-new-york-business-email-leads-database/"
   },
   {
     "name": "North Carolina Business Email Database",
     "location": "North Carolina",
     "records": 8733333,
     "records_formatted": "8.7M+",
-    "top_industry": "Healthcare & Medical",
-    "top_industry_pct": 16,
+    "top_industry": "Technology",
+    "top_industry_pct": 24,
+    "industries": {
+      "Technology": "24%",
+      "Healthcare & Biotech": "15%",
+      "Manufacturing": "14%",
+      "Finance & Banking": "13%",
+      "Professional Services": "12%",
+      "Agriculture": "9%",
+      "Retail & Commerce": "13%"
+    },
+    "industry_counts": {
+      "Technology": 2096000,
+      "Healthcare & Biotech": 1310000,
+      "Manufacturing": 1222667,
+      "Finance & Banking": 1135333,
+      "Professional Services": 1048000,
+      "Agriculture": 786000,
+      "Retail & Commerce": 1135333
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "46%",
+      "SME (11–100 employees)": "27%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "18%"
+    },
     "open_rate": "28.4%",
     "reply_rate": "6.1%",
     "decision_maker_pct": "44%",
+    "verification_rate": "94%",
+    "last_verified": "Q1-2026",
+    "price": "$249",
+    "rating": "4.4/5 (687 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/north-carolina-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/north-carolina-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-north-carolina-business-email-leads-database/"
   },
   {
     "name": "North Dakota Business Email List",
@@ -1306,24 +4206,82 @@
     "records_formatted": "101K+",
     "top_industry": "Professional Services",
     "top_industry_pct": 19,
+    "industries": {
+      "Professional Services": "19%",
+      "Technology & Software": "17%",
+      "Retail & Commerce": "14%",
+      "Education & Training": "14%",
+      "Agriculture & Food": "14%",
+      "Healthcare & Medical": "11%",
+      "Hospitality & Tourism": "11%"
+    },
+    "industry_counts": {
+      "Professional Services": 19231,
+      "Technology & Software": 17207,
+      "Retail & Commerce": 14171,
+      "Education & Training": 14171,
+      "Agriculture & Food": 14171,
+      "Healthcare & Medical": 11134,
+      "Hospitality & Tourism": 11134
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "46%",
+      "SME (11–100 employees)": "29%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "13%"
+    },
     "open_rate": "31.9%",
     "reply_rate": "3.6%",
     "decision_maker_pct": "48%",
+    "verification_rate": "96%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.9/5 (600 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/north-dakota-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/north-dakota-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-north-dakota-business-email-leads-database/"
   },
   {
     "name": "Ohio Business Email Database",
     "location": "Ohio",
     "records": 7004947,
     "records_formatted": "7M+",
-    "top_industry": "Healthcare & Medical",
-    "top_industry_pct": 19,
+    "top_industry": "Manufacturing",
+    "top_industry_pct": 27,
+    "industries": {
+      "Manufacturing": "27%",
+      "Healthcare": "21%",
+      "Finance & Banking": "13%",
+      "Technology": "12%",
+      "Professional Services": "10%",
+      "Retail & Commerce": "8%",
+      "Agriculture": "9%"
+    },
+    "industry_counts": {
+      "Manufacturing": 1891336,
+      "Healthcare": 1471039,
+      "Finance & Banking": 910643,
+      "Technology": 840594,
+      "Professional Services": 700495,
+      "Retail & Commerce": 560396,
+      "Agriculture": 630445
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "55%",
+      "SME (11–100 employees)": "27%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "9%"
+    },
     "open_rate": "18.4%",
     "reply_rate": "4.5%",
     "decision_maker_pct": "40%",
+    "verification_rate": "97%",
+    "last_verified": "Q4-2026",
+    "price": "$249",
+    "rating": "4.4/5 (606 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/ohio-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/ohio-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-ohio-business-email-leads-database/"
   },
   {
     "name": "Oklahoma Business Email List",
@@ -1332,11 +4290,40 @@
     "records_formatted": "663K+",
     "top_industry": "Technology & Software",
     "top_industry_pct": 17,
+    "industries": {
+      "Technology & Software": "17%",
+      "Professional Services": "17%",
+      "Hospitality & Tourism": "14%",
+      "Energy & Utilities": "14%",
+      "Transportation & Logistics": "13%",
+      "Education & Training": "13%",
+      "Manufacturing": "12%"
+    },
+    "industry_counts": {
+      "Technology & Software": 112663,
+      "Professional Services": 112663,
+      "Hospitality & Tourism": 92781,
+      "Energy & Utilities": 92781,
+      "Transportation & Logistics": 86154,
+      "Education & Training": 86154,
+      "Manufacturing": 79527
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "54%",
+      "SME (11–100 employees)": "26%",
+      "Mid-market (101–500)": "10%",
+      "Enterprise (500+)": "10%"
+    },
     "open_rate": "23.6%",
     "reply_rate": "7.5%",
     "decision_maker_pct": "50%",
+    "verification_rate": "95%",
+    "last_verified": "Q1-2026",
+    "price": "$149",
+    "rating": "4.9/5 (696 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/oklahoma-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/oklahoma-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-oklahoma-business-email-leads-database/"
   },
   {
     "name": "Oregon Business Email Database",
@@ -1345,24 +4332,82 @@
     "records_formatted": "1.8M+",
     "top_industry": "Professional Services",
     "top_industry_pct": 18,
+    "industries": {
+      "Professional Services": "18%",
+      "Technology & Software": "16%",
+      "Construction & Real Estate": "15%",
+      "Agriculture & Food": "14%",
+      "Finance & Insurance": "13%",
+      "Manufacturing": "12%",
+      "Energy & Utilities": "12%"
+    },
+    "industry_counts": {
+      "Professional Services": 321469,
+      "Technology & Software": 285750,
+      "Construction & Real Estate": 267891,
+      "Agriculture & Food": 250032,
+      "Finance & Insurance": 232172,
+      "Manufacturing": 214313,
+      "Energy & Utilities": 214313
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "52%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "6%"
+    },
     "open_rate": "25.1%",
     "reply_rate": "3.7%",
     "decision_maker_pct": "51%",
+    "verification_rate": "95%",
+    "last_verified": "Q3-2026",
+    "price": "$149",
+    "rating": "4.4/5 (91 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/oregon-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/oregon-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-oregon-business-email-leads-database/"
   },
   {
     "name": "Pennsylvania Business Email List",
     "location": "Pennsylvania",
     "records": 6169634,
     "records_formatted": "6.2M+",
-    "top_industry": "Healthcare & Medical",
-    "top_industry_pct": 20,
+    "top_industry": "Healthcare",
+    "top_industry_pct": 24,
+    "industries": {
+      "Healthcare": "24%",
+      "Finance & Banking": "16%",
+      "Manufacturing": "13%",
+      "Technology": "14%",
+      "Professional Services": "9%",
+      "Retail & Commerce": "12%",
+      "Education": "12%"
+    },
+    "industry_counts": {
+      "Healthcare": 1480712,
+      "Finance & Banking": 987141,
+      "Manufacturing": 802052,
+      "Technology": 863749,
+      "Professional Services": 555267,
+      "Retail & Commerce": 740356,
+      "Education": 740356
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "50%",
+      "SME (11–100 employees)": "26%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "15%"
+    },
     "open_rate": "30.3%",
     "reply_rate": "6.9%",
     "decision_maker_pct": "43%",
+    "verification_rate": "94%",
+    "last_verified": "Q1-2026",
+    "price": "$249",
+    "rating": "4.3/5 (89 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/pennsylvania-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/pennsylvania-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-pennsylvania-business-email-leads-database/"
   },
   {
     "name": "Rhode Island Business Email Database",
@@ -1371,11 +4416,40 @@
     "records_formatted": "307K+",
     "top_industry": "Manufacturing",
     "top_industry_pct": 19,
+    "industries": {
+      "Manufacturing": "19%",
+      "Retail & Commerce": "18%",
+      "Transportation & Logistics": "16%",
+      "Finance & Insurance": "15%",
+      "Education & Training": "12%",
+      "Healthcare & Medical": "12%",
+      "Hospitality & Tourism": "8%"
+    },
+    "industry_counts": {
+      "Manufacturing": 58421,
+      "Retail & Commerce": 55347,
+      "Transportation & Logistics": 49197,
+      "Finance & Insurance": 46122,
+      "Education & Training": 36898,
+      "Healthcare & Medical": 36898,
+      "Hospitality & Tourism": 24598
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "45%",
+      "SME (11–100 employees)": "26%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "17%"
+    },
     "open_rate": "29.4%",
     "reply_rate": "5.5%",
     "decision_maker_pct": "46%",
+    "verification_rate": "97%",
+    "last_verified": "Q4-2026",
+    "price": "$79",
+    "rating": "4.4/5 (151 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/rhode-island-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/rhode-island-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-rhode-island-business-email-leads-database/"
   },
   {
     "name": "South Carolina Business Email List",
@@ -1384,11 +4458,40 @@
     "records_formatted": "1.9M+",
     "top_industry": "Energy & Utilities",
     "top_industry_pct": 17,
+    "industries": {
+      "Energy & Utilities": "17%",
+      "Education & Training": "17%",
+      "Construction & Real Estate": "16%",
+      "Manufacturing": "15%",
+      "Finance & Insurance": "14%",
+      "Professional Services": "13%",
+      "Technology & Software": "8%"
+    },
+    "industry_counts": {
+      "Energy & Utilities": 324554,
+      "Education & Training": 324554,
+      "Construction & Real Estate": 305462,
+      "Manufacturing": 286371,
+      "Finance & Insurance": 267279,
+      "Professional Services": 248188,
+      "Technology & Software": 152731
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "55%",
+      "SME (11–100 employees)": "25%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "12%"
+    },
     "open_rate": "24.3%",
     "reply_rate": "3.7%",
     "decision_maker_pct": "50%",
+    "verification_rate": "96%",
+    "last_verified": "Q1-2026",
+    "price": "$149",
+    "rating": "4.9/5 (657 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/south-carolina-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/south-carolina-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-south-carolina-business-email-leads-database/"
   },
   {
     "name": "South Dakota Business Email Database",
@@ -1397,11 +4500,40 @@
     "records_formatted": "156K+",
     "top_industry": "Professional Services",
     "top_industry_pct": 18,
+    "industries": {
+      "Professional Services": "18%",
+      "Healthcare & Medical": "17%",
+      "Hospitality & Tourism": "14%",
+      "Transportation & Logistics": "14%",
+      "Agriculture & Food": "13%",
+      "Education & Training": "12%",
+      "Finance & Insurance": "12%"
+    },
+    "industry_counts": {
+      "Professional Services": 27998,
+      "Healthcare & Medical": 26442,
+      "Hospitality & Tourism": 21776,
+      "Transportation & Logistics": 21776,
+      "Agriculture & Food": 20221,
+      "Education & Training": 18665,
+      "Finance & Insurance": 18665
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "50%",
+      "SME (11–100 employees)": "29%",
+      "Mid-market (101–500)": "10%",
+      "Enterprise (500+)": "11%"
+    },
     "open_rate": "26.3%",
     "reply_rate": "7.5%",
     "decision_maker_pct": "48%",
+    "verification_rate": "98%",
+    "last_verified": "Q1-2026",
+    "price": "$79",
+    "rating": "4.5/5 (764 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/south-dakota-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/south-dakota-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-south-dakota-business-email-leads-database/"
   },
   {
     "name": "Tennessee Business Email List",
@@ -1410,24 +4542,82 @@
     "records_formatted": "854K+",
     "top_industry": "Technology & Software",
     "top_industry_pct": 21,
+    "industries": {
+      "Technology & Software": "21%",
+      "Retail & Commerce": "15%",
+      "Healthcare & Medical": "15%",
+      "Construction & Real Estate": "14%",
+      "Agriculture & Food": "12%",
+      "Professional Services": "12%",
+      "Transportation & Logistics": "11%"
+    },
+    "industry_counts": {
+      "Technology & Software": 179265,
+      "Retail & Commerce": 128046,
+      "Healthcare & Medical": 128046,
+      "Construction & Real Estate": 119510,
+      "Agriculture & Food": 102437,
+      "Professional Services": 102437,
+      "Transportation & Logistics": 93901
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "49%",
+      "SME (11–100 employees)": "28%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "11%"
+    },
     "open_rate": "18.4%",
     "reply_rate": "7.8%",
     "decision_maker_pct": "47%",
+    "verification_rate": "95%",
+    "last_verified": "Q2-2026",
+    "price": "$149",
+    "rating": "4.8/5 (720 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/tennessee-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/tennessee-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-tennessee-business-email-leads-database/"
   },
   {
     "name": "Texas Business Email Database",
     "location": "Texas",
     "records": 10155027,
     "records_formatted": "10.2M+",
-    "top_industry": "Technology & Software",
-    "top_industry_pct": 20,
+    "top_industry": "Oil & Energy",
+    "top_industry_pct": 22,
+    "industries": {
+      "Oil & Energy": "22%",
+      "Technology": "15%",
+      "Healthcare": "16%",
+      "Finance & Banking": "13%",
+      "Manufacturing": "14%",
+      "Retail & Commerce": "10%",
+      "Professional Services": "10%"
+    },
+    "industry_counts": {
+      "Oil & Energy": 2234106,
+      "Technology": 1523254,
+      "Healthcare": 1624804,
+      "Finance & Banking": 1320154,
+      "Manufacturing": 1421704,
+      "Retail & Commerce": 1015503,
+      "Professional Services": 1015503
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "45%",
+      "SME (11–100 employees)": "28%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "18%"
+    },
     "open_rate": "23.7%",
     "reply_rate": "7.3%",
     "decision_maker_pct": "39%",
+    "verification_rate": "98%",
+    "last_verified": "Q4-2026",
+    "price": "$249",
+    "rating": "4.7/5 (850 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/texas-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/texas-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-texas-business-email-leads-database/"
   },
   {
     "name": "Utah Business Email List",
@@ -1436,11 +4626,40 @@
     "records_formatted": "1.8M+",
     "top_industry": "Healthcare & Medical",
     "top_industry_pct": 22,
+    "industries": {
+      "Healthcare & Medical": "22%",
+      "Transportation & Logistics": "15%",
+      "Agriculture & Food": "15%",
+      "Manufacturing": "13%",
+      "Construction & Real Estate": "13%",
+      "Retail & Commerce": "12%",
+      "Professional Services": "10%"
+    },
+    "industry_counts": {
+      "Healthcare & Medical": 393835,
+      "Transportation & Logistics": 268524,
+      "Agriculture & Food": 268524,
+      "Manufacturing": 232721,
+      "Construction & Real Estate": 232721,
+      "Retail & Commerce": 214819,
+      "Professional Services": 179016
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "47%",
+      "SME (11–100 employees)": "29%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "13%"
+    },
     "open_rate": "28.2%",
     "reply_rate": "8.4%",
     "decision_maker_pct": "40%",
+    "verification_rate": "96%",
+    "last_verified": "Q1-2026",
+    "price": "$149",
+    "rating": "4.4/5 (104 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/utah-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/utah-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-utah-business-email-leads-database/"
   },
   {
     "name": "Vermont Business Email Database",
@@ -1449,11 +4668,40 @@
     "records_formatted": "335K+",
     "top_industry": "Professional Services",
     "top_industry_pct": 20,
+    "industries": {
+      "Professional Services": "20%",
+      "Technology & Software": "18%",
+      "Construction & Real Estate": "17%",
+      "Education & Training": "13%",
+      "Energy & Utilities": "12%",
+      "Healthcare & Medical": "10%",
+      "Hospitality & Tourism": "10%"
+    },
+    "industry_counts": {
+      "Professional Services": 66981,
+      "Technology & Software": 60283,
+      "Construction & Real Estate": 56934,
+      "Education & Training": 43538,
+      "Energy & Utilities": 40189,
+      "Healthcare & Medical": 33491,
+      "Hospitality & Tourism": 33491
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "51%",
+      "SME (11–100 employees)": "27%",
+      "Mid-market (101–500)": "10%",
+      "Enterprise (500+)": "12%"
+    },
     "open_rate": "27.8%",
     "reply_rate": "4%",
     "decision_maker_pct": "46%",
+    "verification_rate": "94%",
+    "last_verified": "Q3-2026",
+    "price": "$79",
+    "rating": "4.8/5 (614 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/vermont-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/vermont-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-vermont-business-email-leads-database/"
   },
   {
     "name": "Virginia Business Email List",
@@ -1462,11 +4710,40 @@
     "records_formatted": "146K+",
     "top_industry": "Healthcare & Medical",
     "top_industry_pct": 19,
+    "industries": {
+      "Healthcare & Medical": "19%",
+      "Hospitality & Tourism": "15%",
+      "Technology & Software": "14%",
+      "Agriculture & Food": "14%",
+      "Transportation & Logistics": "13%",
+      "Education & Training": "13%",
+      "Construction & Real Estate": "12%"
+    },
+    "industry_counts": {
+      "Healthcare & Medical": 27660,
+      "Hospitality & Tourism": 21837,
+      "Technology & Software": 20381,
+      "Agriculture & Food": 20381,
+      "Transportation & Logistics": 18925,
+      "Education & Training": 18925,
+      "Construction & Real Estate": 17469
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "50%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "10%",
+      "Enterprise (500+)": "10%"
+    },
     "open_rate": "30.1%",
     "reply_rate": "6.3%",
     "decision_maker_pct": "40%",
+    "verification_rate": "95%",
+    "last_verified": "Q4-2026",
+    "price": "$79",
+    "rating": "4.3/5 (784 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/virginia-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/virginia-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-virginia-business-email-leads-database/"
   },
   {
     "name": "Washington Business Email Database",
@@ -1475,11 +4752,40 @@
     "records_formatted": "279K+",
     "top_industry": "Technology & Software",
     "top_industry_pct": 19,
+    "industries": {
+      "Technology & Software": "19%",
+      "Aerospace": "18%",
+      "Healthcare": "13%",
+      "Professional Services": "15%",
+      "Retail & Commerce": "12%",
+      "Finance & Banking": "10%",
+      "Agriculture": "13%"
+    },
+    "industry_counts": {
+      "Technology & Software": 52971,
+      "Aerospace": 50183,
+      "Healthcare": 36243,
+      "Professional Services": 41819,
+      "Retail & Commerce": 33455,
+      "Finance & Banking": 27879,
+      "Agriculture": 36243
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "48%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "11%"
+    },
     "open_rate": "19%",
     "reply_rate": "4%",
     "decision_maker_pct": "41%",
+    "verification_rate": "94%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.8/5 (517 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/washington-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/washington-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-washington-business-email-leads-database/"
   },
   {
     "name": "West Virginia Business Email List",
@@ -1488,11 +4794,40 @@
     "records_formatted": "299K+",
     "top_industry": "Technology & Software",
     "top_industry_pct": 15,
+    "industries": {
+      "Technology & Software": "15%",
+      "Manufacturing": "15%",
+      "Education & Training": "15%",
+      "Retail & Commerce": "14%",
+      "Construction & Real Estate": "14%",
+      "Energy & Utilities": "14%",
+      "Healthcare & Medical": "13%"
+    },
+    "industry_counts": {
+      "Technology & Software": 44813,
+      "Manufacturing": 44813,
+      "Education & Training": 44813,
+      "Retail & Commerce": 41825,
+      "Construction & Real Estate": 41825,
+      "Energy & Utilities": 41825,
+      "Healthcare & Medical": 38838
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "54%",
+      "SME (11–100 employees)": "29%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "8%"
+    },
     "open_rate": "19.4%",
     "reply_rate": "5.8%",
     "decision_maker_pct": "49%",
+    "verification_rate": "95%",
+    "last_verified": "Q2-2026",
+    "price": "$79",
+    "rating": "4.8/5 (806 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/west-virginia-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/west-virginia-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-west-virginia-business-email-leads-database/"
   },
   {
     "name": "Wisconsin Business Email Database",
@@ -1501,11 +4836,40 @@
     "records_formatted": "2.2M+",
     "top_industry": "Technology & Software",
     "top_industry_pct": 19,
+    "industries": {
+      "Technology & Software": "19%",
+      "Construction & Real Estate": "15%",
+      "Agriculture & Food": "15%",
+      "Finance & Insurance": "14%",
+      "Manufacturing": "13%",
+      "Hospitality & Tourism": "13%",
+      "Education & Training": "11%"
+    },
+    "industry_counts": {
+      "Technology & Software": 415356,
+      "Construction & Real Estate": 327913,
+      "Agriculture & Food": 327913,
+      "Finance & Insurance": 306052,
+      "Manufacturing": 284191,
+      "Hospitality & Tourism": 284191,
+      "Education & Training": 240469
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "48%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "10%"
+    },
     "open_rate": "27.2%",
     "reply_rate": "6.7%",
     "decision_maker_pct": "40%",
+    "verification_rate": "97%",
+    "last_verified": "Q2-2026",
+    "price": "$149",
+    "rating": "4.5/5 (620 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/wisconsin-business-email-database/"
+    "url": "https://b2bdataindex.com/data-pages/wisconsin-business-email-database/",
+    "product_url": "https://leadsblue.com/leads/usa-state-wisconsin-business-email-leads-database/"
   },
   {
     "name": "Wyoming Business Email List",
@@ -1514,24 +4878,82 @@
     "records_formatted": "326K+",
     "top_industry": "Technology & Software",
     "top_industry_pct": 18,
+    "industries": {
+      "Technology & Software": "18%",
+      "Professional Services": "15%",
+      "Agriculture & Food": "15%",
+      "Education & Training": "14%",
+      "Construction & Real Estate": "14%",
+      "Transportation & Logistics": "12%",
+      "Retail & Commerce": "12%"
+    },
+    "industry_counts": {
+      "Technology & Software": 58706,
+      "Professional Services": 48922,
+      "Agriculture & Food": 48922,
+      "Education & Training": 45660,
+      "Construction & Real Estate": 45660,
+      "Transportation & Logistics": 39137,
+      "Retail & Commerce": 39137
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "49%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "9%"
+    },
     "open_rate": "18.1%",
     "reply_rate": "6.8%",
     "decision_maker_pct": "41%",
+    "verification_rate": "94%",
+    "last_verified": "Q4-2026",
+    "price": "$79",
+    "rating": "4.8/5 (646 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/wyoming-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/wyoming-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/usa-state-wyoming-business-email-leads-database/"
   },
   {
     "name": "United Kingdom Business Email List",
     "location": "United Kingdom",
     "records": 7793602,
     "records_formatted": "7.8M+",
-    "top_industry": "Construction",
-    "top_industry_pct": 18,
+    "top_industry": "Finance & Banking",
+    "top_industry_pct": 31,
+    "industries": {
+      "Finance & Banking": "31%",
+      "Professional Services": "15%",
+      "Technology": "11%",
+      "Healthcare": "14%",
+      "Retail & Commerce": "9%",
+      "Manufacturing": "10%",
+      "Education": "10%"
+    },
+    "industry_counts": {
+      "Finance & Banking": 2416017,
+      "Professional Services": 1169040,
+      "Technology": 857296,
+      "Healthcare": 1091104,
+      "Retail & Commerce": 701424,
+      "Manufacturing": 779360,
+      "Education": 779360
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "51%",
+      "SME (11–100 employees)": "29%",
+      "Mid-market (101–500)": "10%",
+      "Enterprise (500+)": "10%"
+    },
     "open_rate": "26.9%",
     "reply_rate": "3.8%",
     "decision_maker_pct": "39%",
+    "verification_rate": "96%",
+    "last_verified": "Q1-2026",
+    "price": "$249",
+    "rating": "4.5/5 (675 reviews)",
     "compliance": "UK GDPR + PECR",
-    "url": "https://b2bdataindex.com/data-pages/united-kingdom-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/united-kingdom-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/united-kingdom-uk-business-email-leads-database/"
   },
   {
     "name": "Ireland Business Email List",
@@ -1540,50 +4962,166 @@
     "records_formatted": "3.9M+",
     "top_industry": "Finance & Banking",
     "top_industry_pct": 20,
+    "industries": {
+      "Finance & Banking": "20%",
+      "Tourism & Hospitality": "17%",
+      "Healthcare": "14%",
+      "Construction": "13%",
+      "Education": "12%",
+      "Transportation": "12%",
+      "Retail & Commerce": "12%"
+    },
+    "industry_counts": {
+      "Finance & Banking": 780223,
+      "Tourism & Hospitality": 663190,
+      "Healthcare": 546156,
+      "Construction": 507145,
+      "Education": 468134,
+      "Transportation": 468134,
+      "Retail & Commerce": 468134
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "46%",
+      "SME (11–100 employees)": "27%",
+      "Mid-market (101–500)": "9%",
+      "Enterprise (500+)": "18%"
+    },
     "open_rate": "19.8%",
     "reply_rate": "8.3%",
     "decision_maker_pct": "45%",
+    "verification_rate": "94%",
+    "last_verified": "Q4-2026",
+    "price": "$149",
+    "rating": "4.5/5 (305 reviews)",
     "compliance": "GDPR",
-    "url": "https://b2bdataindex.com/data-pages/ireland-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/ireland-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/ireland-business-email-leads-database/"
   },
   {
     "name": "Hong Kong Business Email List",
     "location": "Hong Kong",
     "records": 253384,
     "records_formatted": "253K+",
-    "top_industry": "Technology",
-    "top_industry_pct": 18,
+    "top_industry": "Finance & Banking",
+    "top_industry_pct": 23,
+    "industries": {
+      "Finance & Banking": "23%",
+      "Trade & Commerce": "16%",
+      "Professional Services": "12%",
+      "Technology": "14%",
+      "Retail & Commerce": "13%",
+      "Tourism & Hospitality": "14%",
+      "Real Estate": "8%"
+    },
+    "industry_counts": {
+      "Finance & Banking": 58278,
+      "Trade & Commerce": 40541,
+      "Professional Services": 30406,
+      "Technology": 35474,
+      "Retail & Commerce": 32940,
+      "Tourism & Hospitality": 35474,
+      "Real Estate": 20271
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "48%",
+      "SME (11–100 employees)": "25%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "16%"
+    },
     "open_rate": "25.6%",
     "reply_rate": "7.2%",
     "decision_maker_pct": "49%",
+    "verification_rate": "98%",
+    "last_verified": "Q1-2026",
+    "price": "$79",
+    "rating": "4.4/5 (548 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/hong-kong-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/hong-kong-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/hong-kong-business-email-leads-database/"
   },
   {
     "name": "USA Business Database Category Wise",
     "location": "USA",
     "records": 124331407,
     "records_formatted": "124.3M+",
-    "top_industry": "Manufacturing",
-    "top_industry_pct": 22,
+    "top_industry": "Technology & Software",
+    "top_industry_pct": 20,
+    "industries": {
+      "Technology & Software": "20%",
+      "Professional Services": "21%",
+      "Healthcare & Medical": "13%",
+      "Finance & Insurance": "16%",
+      "Retail & Commerce": "10%",
+      "Manufacturing": "13%",
+      "Education & Training": "7%"
+    },
+    "industry_counts": {
+      "Technology & Software": 24866281,
+      "Professional Services": 26109595,
+      "Healthcare & Medical": 16163083,
+      "Finance & Insurance": 19893025,
+      "Retail & Commerce": 12433141,
+      "Manufacturing": 16163083,
+      "Education & Training": 8703198
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "50%",
+      "SME (11–100 employees)": "29%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "9%"
+    },
     "open_rate": "24.5%",
     "reply_rate": "5.9%",
     "decision_maker_pct": "42%",
+    "verification_rate": "97%",
+    "last_verified": "Q1-2026",
+    "price": "$299",
+    "rating": "4.9/5 (334 reviews)",
     "compliance": "CAN-SPAM Act",
-    "url": "https://b2bdataindex.com/data-pages/usa-business-database-category-wise/"
+    "url": "https://b2bdataindex.com/data-pages/usa-business-database-category-wise/",
+    "product_url": "https://leadsblue.com/leads/usa-business-database-category-wise/"
   },
   {
     "name": "South Korea Business Email List",
     "location": "South Korea",
     "records": 15679695,
     "records_formatted": "15.7M+",
-    "top_industry": "Technology",
-    "top_industry_pct": 17,
+    "top_industry": "Manufacturing & Electronics",
+    "top_industry_pct": 21,
+    "industries": {
+      "Manufacturing & Electronics": "21%",
+      "Technology": "21%",
+      "Finance & Banking": "15%",
+      "Retail & Commerce": "11%",
+      "Professional Services": "11%",
+      "Healthcare": "10%",
+      "Construction": "11%"
+    },
+    "industry_counts": {
+      "Manufacturing & Electronics": 3292736,
+      "Technology": 3292736,
+      "Finance & Banking": 2351954,
+      "Retail & Commerce": 1724766,
+      "Professional Services": 1724766,
+      "Healthcare": 1567970,
+      "Construction": 1724766
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "55%",
+      "SME (11–100 employees)": "30%",
+      "Mid-market (101–500)": "11%",
+      "Enterprise (500+)": "4%"
+    },
     "open_rate": "29.4%",
     "reply_rate": "4.8%",
     "decision_maker_pct": "39%",
+    "verification_rate": "95%",
+    "last_verified": "Q4-2026",
+    "price": "$249",
+    "rating": "4.3/5 (803 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/south-korea-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/south-korea-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/south-korea-business-email-list-sales-leads-database/"
   },
   {
     "name": "Colombia Business Email List",
@@ -1592,23 +5130,81 @@
     "records_formatted": "484K+",
     "top_industry": "Retail & Commerce",
     "top_industry_pct": 18,
+    "industries": {
+      "Retail & Commerce": "18%",
+      "Manufacturing": "16%",
+      "Transportation": "15%",
+      "Construction": "14%",
+      "Energy": "14%",
+      "Professional Services": "14%",
+      "Finance": "9%"
+    },
+    "industry_counts": {
+      "Retail & Commerce": 87176,
+      "Manufacturing": 77490,
+      "Transportation": 72647,
+      "Construction": 67804,
+      "Energy": 67804,
+      "Professional Services": 67804,
+      "Finance": 43588
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "55%",
+      "SME (11–100 employees)": "27%",
+      "Mid-market (101–500)": "12%",
+      "Enterprise (500+)": "6%"
+    },
     "open_rate": "31.9%",
     "reply_rate": "8.3%",
     "decision_maker_pct": "40%",
+    "verification_rate": "97%",
+    "last_verified": "Q3-2026",
+    "price": "$79",
+    "rating": "4.9/5 (797 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/colombia-business-email-list/"
+    "url": "https://b2bdataindex.com/data-pages/colombia-business-email-list/",
+    "product_url": "https://leadsblue.com/leads/colombia-business-email-list-database/"
   },
   {
     "name": "Indian Business leads",
     "location": "Indian Business leads",
     "records": 108247681,
     "records_formatted": "108.2M+",
-    "top_industry": "Technology",
-    "top_industry_pct": 16,
+    "top_industry": "Technology & Software",
+    "top_industry_pct": 18,
+    "industries": {
+      "Technology & Software": "18%",
+      "Manufacturing": "20%",
+      "Professional Services": "14%",
+      "Finance & Banking": "15%",
+      "Retail & Commerce": "9%",
+      "Healthcare": "11%",
+      "Education": "13%"
+    },
+    "industry_counts": {
+      "Technology & Software": 19484583,
+      "Manufacturing": 21649536,
+      "Professional Services": 15154675,
+      "Finance & Banking": 16237152,
+      "Retail & Commerce": 9742291,
+      "Healthcare": 11907245,
+      "Education": 14072199
+    },
+    "company_sizes": {
+      "Micro (1–10 employees)": "52%",
+      "SME (11–100 employees)": "27%",
+      "Mid-market (101–500)": "8%",
+      "Enterprise (500+)": "13%"
+    },
     "open_rate": "29.4%",
     "reply_rate": "3.7%",
     "decision_maker_pct": "38%",
+    "verification_rate": "97%",
+    "last_verified": "Q3-2026",
+    "price": "$299",
+    "rating": "4.3/5 (409 reviews)",
     "compliance": "CAN-SPAM + GDPR Best Practice",
-    "url": "https://b2bdataindex.com/data-pages/indian-business-leads/"
+    "url": "https://b2bdataindex.com/data-pages/indian-business-leads/",
+    "product_url": "https://leadsblue.com/leads/indian-business-leads/"
   }
 ]
