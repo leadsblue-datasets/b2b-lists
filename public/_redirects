@@ -1,0 +1,17 @@
+# B2B Data Index — Cloudflare Pages redirects
+# Force-redirect the Cloudflare preview domain to the canonical
+# domain. The ! flag overrides static asset serving on pages.dev.
+
+https://b2b-lists.pages.dev/*  https://b2bdataindex.com/:splat  301!
+
+# Legacy / trailing-slash normalisation (optional, safe defaults)
+/data-pages      /data-pages/      301
+/consumer-data   /consumer-data/   301
+/targeted-lists  /targeted-lists/  301
+/usa-categories  /usa-categories/  301
+/website-data    /website-data/    301
+/blog            /blog/            301
+/methodology     /methodology/     301
+/regions         /regions/         301
+/all-databases   /all-databases/   301
+/llm             /llm/             301
