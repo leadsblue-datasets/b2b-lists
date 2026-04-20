@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap"></noscript>
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
+<title>B2B Data Glossary — 30+ Email Marketing & Database Terms Defined</title>
+<meta name="description" content="Plain-English definitions of 30+ B2B data and email marketing terms — SMTP verification, GDPR legitimate interest, SIC codes, sender reputation, CAN-SPAM, and more.">
+<link rel="canonical" href="https://b2bdataindex.com/glossary/">
+<link rel="manifest" href="/manifest.json">
+<meta property="og:title" content="B2B Data Glossary — 30+ Terms Defined | B2B Data Index">
+<meta property="og:url" content="https://b2bdataindex.com/glossary/">
+<meta property="og:image" content="https://b2bdataindex.com/assets/og-default.svg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"SMTP Verification","acceptedAnswer":{"@type":"Answer","text":"A method of confirming that an email address exists and can receive messages by simulating a connection to the recipient mail server without actually sending an email. The gold standard for real-time email validation."}},{"@type":"Question","name":"Hard Bounce","acceptedAnswer":{"@type":"Answer","text":"A permanent email delivery failure caused by an invalid, non-existent, or blocked email address. Hard bounces above 2% damage sender reputation and should be removed from lists immediately after a single occurrence."}},{"@type":"Question","name":"Soft Bounce","acceptedAnswer":{"@type":"Answer","text":"A temporary email delivery failure caused by a full inbox, server downtime, or message size limits. Soft bounces can be retried after 24-48 hours. Persistent soft bounces should be suppressed after 3-5 attempts."}},{"@type":"Question","name":"Sender Reputation","acceptedAnswer":{"@type":"Answer","text":"A score assigned by email providers to sending domains and IP addresses based on engagement rates, bounce rates, spam complaint rates, and sending patterns. Poor sender reputation causes emails to land in spam regardless of content quality."}},{"@type":"Question","name":"SPF (Sender Policy Framework)","acceptedAnswer":{"@type":"Answer","text":"A DNS record that specifies which mail servers are authorised to send email on behalf of your domain. Required configuration for legitimate cold email sending. Missing SPF records increase spam folder placement significantly."}},{"@type":"Question","name":"DKIM (DomainKeys Identified Mail)","acceptedAnswer":{"@type":"Answer","text":"A cryptographic signature added to outgoing emails that allows receiving servers to verify the message was not altered in transit and originated from an authorised server. Pairs with SPF and DMARC for full authentication."}},{"@type":"Question","name":"DMARC (Domain-based Message Authentication)","acceptedAnswer":{"@type":"Answer","text":"A policy record that instructs receiving mail servers on how to handle emails that fail SPF or DKIM checks. Essential for protecting your domain from spoofing and improving deliverability."}},{"@type":"Question","name":"Decision-Maker","acceptedAnswer":{"@type":"Answer","text":"In B2B databases, a contact classified as having purchasing authority — typically business owners, directors, C-suite executives, and senior managers (VP level and above). Decision-maker ratio is a key quality metric; higher ratios produce better cold email response rates."}},{"@type":"Question","name":"SIC Code (Standard Industrial Classification)","acceptedAnswer":{"@type":"Answer","text":"A four-digit numerical code assigned by the US government to classify businesses by industry. Used extensively in B2B databases to segment contacts by sector. Superseded by NAICS in US government use but still widely used in B2B data."}},{"@type":"Question","name":"NAICS Code (North American Industry Classification System)","acceptedAnswer":{"@type":"Answer","text":"The current US government standard for classifying business establishments by industry. Six-digit codes providing more granular industry classification than SIC. Common in newer B2B databases covering North American markets."}},{"@type":"Question","name":"CAN-SPAM Act","acceptedAnswer":{"@type":"Answer","text":"The US federal law governing commercial email, enforced by the FTC. Requires accurate sender identification, honest subject lines, physical postal address, and a functional unsubscribe mechanism. Does not require prior consent for B2B cold email to business addresses."}},{"@type":"Question","name":"GDPR (General Data Protection Regulation)","acceptedAnswer":{"@type":"Answer","text":"EU regulation governing personal data processing. For B2B email marketing, Article 6(1)(f) legitimate interest is the primary legal basis. Requires documented legitimate interest assessment, easy opt-out, and relevance to the recipient's professional role."}},{"@type":"Question","name":"CASL (Canada's Anti-Spam Legislation)","acceptedAnswer":{"@type":"Answer","text":"Canada's anti-spam law requiring express or implied consent before sending commercial email. Implied consent exists for 24 months after a business relationship. One of the strictest email marketing laws globally."}},{"@type":"Question","name":"Legitimate Interest","acceptedAnswer":{"@type":"Answer","text":"A GDPR legal basis (Article 6(1)(f)) permitting data processing when the data controller has a genuine business purpose that is not overridden by the data subject's rights. The standard legal basis for B2B cold email to business contacts in the EU."}},{"@type":"Question","name":"Email Verification Rate","acceptedAnswer":{"@type":"Answer","text":"The percentage of email addresses in a database that have been confirmed as valid and deliverable through SMTP or inbox testing. Quality databases target 95%+ verification rates. Anything below 90% introduces significant deliverability risk."}},{"@type":"Question","name":"Open Rate","acceptedAnswer":{"@type":"Answer","text":"The percentage of delivered emails that were opened by recipients. B2B cold email averages 15-28% with personalised copy. Open rates are affected by subject line quality, sender name recognition, preview text, and send timing."}},{"@type":"Question","name":"Reply Rate","acceptedAnswer":{"@type":"Answer","text":"The percentage of delivered emails that received a response. More meaningful than open rate for outbound sales. Industry average for B2B cold email is 2-5%. Campaigns with tight segmentation and relevant copy regularly achieve 8-15%."}},{"@type":"Question","name":"Cold Email Sequence","acceptedAnswer":{"@type":"Answer","text":"A series of pre-written emails sent to prospects over several weeks with automated spacing. Typically 3-5 emails. First email presents the offer; follow-ups add value or change angle. Sequences outperform single-send campaigns by 2-3x on response rates."}},{"@type":"Question","name":"Email Warm-Up","acceptedAnswer":{"@type":"Answer","text":"The process of gradually increasing sending volume from a new domain or email account to establish positive sender reputation before full-scale campaigns. Standard practice is starting at 20-30 emails/day and increasing by 20% per week over 4-6 weeks."}},{"@type":"Question","name":"Suppression List","acceptedAnswer":{"@type":"Answer","text":"A list of email addresses that should never be contacted — hard bounces, opt-outs, spam complaints, and competitor domains. Maintaining a suppression list is required for CAN-SPAM compliance and essential for protecting sender reputation."}},{"@type":"Question","name":"Data Freshness","acceptedAnswer":{"@type":"Answer","text":"The recency of contact information in a database. Email addresses decay at approximately 22-25% annually as professionals change jobs, companies close, and domains expire. Quarterly re-verification is the industry standard for maintaining freshness."}},{"@type":"Question","name":"BuiltWith","acceptedAnswer":{"@type":"Answer","text":"A technology intelligence platform that identifies which technologies websites use by analysing site code, DNS records, and cookies. Used to build B2B databases of website owners filtered by specific technology adoption."}},{"@type":"Question","name":"Company Firmographics","acceptedAnswer":{"@type":"Answer","text":"Business attributes used to segment B2B databases: industry, company size (employees or revenue), annual revenue, geographic location, founding year, and technology stack. Firmographic segmentation is the primary method for building targeted prospect lists."}},{"@type":"Question","name":"CSV (Comma-Separated Values)","acceptedAnswer":{"@type":"Answer","text":"The standard file format for email database delivery. Compatible with all major email sending platforms (Instantly, Smartlead, Apollo), CRM systems (HubSpot, Salesforce, Pipedrive), and spreadsheet applications (Excel, Google Sheets)."}},{"@type":"Question","name":"Inbox Placement Rate","acceptedAnswer":{"@type":"Answer","text":"The percentage of sent emails that land in the primary inbox rather than spam, promotions, or other folders. More meaningful than open rate as a deliverability metric. Tools like GlockApps and MailGenius test inbox placement before campaigns launch."}},{"@type":"Question","name":"Double Opt-In","acceptedAnswer":{"@type":"Answer","text":"An email subscription process requiring subscribers to confirm their signup via a follow-up email. Produces higher-quality subscriber lists than single opt-in with lower bounce rates and higher engagement, but results in smaller list sizes."}},{"@type":"Question","name":"B2C Email List","acceptedAnswer":{"@type":"Answer","text":"A database of personal (consumer) email addresses used for direct-to-consumer marketing. Distinct from B2B lists in that they target individuals as consumers rather than as business professionals. Subject to stricter consent requirements under GDPR and CASL."}},{"@type":"Question","name":"Lead Generation","acceptedAnswer":{"@type":"Answer","text":"The process of identifying and attracting potential customers for a business. In B2B contexts, email outreach using purchased databases is one of the highest-ROI lead generation channels, particularly for companies targeting specific industries or geographies."}},{"@type":"Question","name":"ICP (Ideal Customer Profile)","acceptedAnswer":{"@type":"Answer","text":"A detailed description of the type of company that would receive maximum value from your product or service. Defined by industry, company size, geography, technology stack, and business model. Precise ICP definition is the foundation of effective database segmentation."}},{"@type":"Question","name":"Unsubscribe Rate","acceptedAnswer":{"@type":"Answer","text":"The percentage of email recipients who opt out of further communication. CAN-SPAM requires honouring unsubscribe requests within 10 business days. Rates above 0.5% indicate relevance problems with copy or targeting."}}]}</script>
+<style>
+  /* Google Fonts loaded via <link> in <head> for performance */
+  :root{--bg:#0a0f1e;--surf:#111827;--surf2:#1a2235;--bdr:#1e2d45;--acc:#0ea5e9;--acc2:#38bdf8;--bdr2:#253550;--txt:#e2e8f0;--muted:#94a3b8;--hf:'DM Serif Display',Georgia,serif;--bf:'IBM Plex Sans',sans-serif;--mf:'IBM Plex Mono',monospace}
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}html{scroll-behavior:smooth}
+  body{background:var(--bg);color:var(--txt);font-family:var(--bf);font-size:16px;line-height:1.7;overflow-x:hidden}
+  a{color:var(--acc2);text-decoration:none}a:hover{color:#fff;text-decoration:underline}
+  .wrap{max-width:1100px;margin:0 auto;padding:0 24px}
+  nav{border-bottom:1px solid var(--bdr);padding:15px 0;position:sticky;top:0;background:rgba(10,15,30,.95);backdrop-filter:blur(12px);z-index:100}
+  .nav-in{max-width:1100px;margin:0 auto;padding:0 24px;display:flex;align-items:center;justify-content:space-between}
+  .logo{font-family:var(--mf);font-size:16px;font-weight:500;color:#fff}.logo span{color:var(--acc)}
+  nav ul{list-style:none;display:flex;gap:24px}nav ul a{color:var(--muted);font-size:13px;font-weight:500}nav ul a:hover{color:#fff;text-decoration:none}
+  .bc{padding:14px 0;font-size:12px;color:var(--muted);font-family:var(--mf)}.bc a{color:var(--muted)}.bc a:hover{color:var(--acc2)}.bc span{margin:0 6px;opacity:.4}
+  .hero{padding:64px 0 52px;position:relative;overflow:hidden}
+  .hero::before{content:'';position:absolute;top:-180px;left:50%;transform:translateX(-50%);width:700px;height:500px;background:radial-gradient(ellipse,rgba(14,165,233,.11) 0%,transparent 70%);pointer-events:none}
+  .tag{display:inline-block;font-family:var(--mf);font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--acc);border:1px solid rgba(14,165,233,.3);padding:4px 11px;border-radius:2px;margin-bottom:20px}
+  h1{font-family:var(--hf);font-size:clamp(28px,5vw,52px);font-weight:400;line-height:1.1;letter-spacing:-1px;color:#fff;margin-bottom:16px;max-width:820px}
+  h1 em{font-style:italic;color:var(--acc2)}
+  .hero-desc{font-size:17px;color:var(--muted);max-width:600px;margin-bottom:30px;font-weight:300;line-height:1.65}
+  .ctas{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:36px}
+  .btn-p{background:var(--acc);color:#fff;font-size:14px;font-weight:600;padding:12px 26px;border-radius:3px;transition:background .2s;display:inline-block}
+  .btn-p:hover{background:var(--acc2);color:#fff;text-decoration:none}
+  .btn-g{border:1px solid var(--bdr);color:var(--txt);font-size:14px;font-weight:500;padding:12px 26px;border-radius:3px;transition:border-color .2s;display:inline-block}
+  .btn-g:hover{border-color:var(--acc);color:var(--acc2);text-decoration:none}
+  .stats{display:grid;grid-template-columns:repeat(5,1fr);gap:1px;background:var(--bdr);border:1px solid var(--bdr);border-radius:4px;overflow:hidden}
+  .stat{background:var(--surf);padding:18px 14px;text-align:center}
+  .stat-n{font-family:var(--hf);font-size:24px;color:#fff;display:block}
+  .stat-l{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:1px;margin-top:3px}
+  section{padding:60px 0}section+section{border-top:1px solid var(--bdr)}
+  h2{font-family:var(--hf);font-size:clamp(22px,3.5vw,34px);font-weight:400;color:#fff;letter-spacing:-.5px;margin-bottom:10px;line-height:1.2}
+  h3{font-family:var(--bf);font-size:15px;font-weight:600;color:#fff;margin-bottom:6px}
+  .slbl{font-family:var(--mf);font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:var(--acc);margin-bottom:8px;display:block}
+  .ssub{color:var(--muted);font-size:15px;margin-bottom:32px;max-width:540px}
+  .two{display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:start}
+  .two-w{display:grid;grid-template-columns:1.4fr 1fr;gap:48px;align-items:start}
+  table{width:100%;border-collapse:collapse;font-size:14px}
+  th{text-align:left;padding:11px 14px;background:var(--surf2);color:var(--muted);font-weight:500;font-size:11px;letter-spacing:1px;text-transform:uppercase;border-bottom:1px solid var(--bdr)}
+  td{padding:11px 14px;border-bottom:1px solid var(--bdr);color:var(--txt)}tr:last-child td{border-bottom:none}tr:hover td{background:var(--surf2)}
+  .badge{display:inline-block;font-family:var(--mf);font-size:10px;padding:2px 8px;border-radius:2px;background:rgba(14,165,233,.1);color:var(--acc2);border:1px solid rgba(14,165,233,.2)}
+  .badge-g{background:rgba(16,185,129,.1);color:#34d399;border-color:rgba(16,185,129,.2)}
+  .badge-y{background:rgba(234,179,8,.1);color:#fbbf24;border-color:rgba(234,179,8,.2)}
+  .intel-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:1px;background:var(--bdr);border:1px solid var(--bdr);border-radius:4px;overflow:hidden;margin-bottom:8px}
+  .intel-card{background:var(--surf);padding:22px 14px}
+  .intel-val{font-family:var(--hf);font-size:28px;color:#fff;display:block;line-height:1.1;margin-bottom:4px}
+  .intel-lbl{font-family:var(--mf);font-size:10px;color:var(--acc);text-transform:uppercase;letter-spacing:1.5px;display:block;margin-bottom:2px}
+  .intel-sub{font-size:11px;color:var(--muted);display:block}
+  .ind-breakdown{display:flex;flex-direction:column;gap:12px;margin-top:8px}
+  .ind-meta{display:flex;justify-content:space-between;margin-bottom:4px}
+  .ind-name{font-size:13px;color:var(--txt)}.ind-pct{font-family:var(--mf);font-size:11px;color:var(--acc2)}
+  .ind-bar-bg{background:var(--surf2);border-radius:2px;height:5px;overflow:hidden}
+  .ind-bar{background:var(--acc);height:100%;border-radius:2px}
+  .compliance-box{background:var(--surf);border:1px solid var(--bdr);border-left:3px solid var(--acc);border-radius:4px;padding:22px 26px}
+  .comp-fw{display:inline-block;font-family:var(--mf);font-size:10px;padding:3px 10px;background:rgba(14,165,233,.1);color:var(--acc2);border:1px solid rgba(14,165,233,.2);border-radius:2px;margin-bottom:12px;letter-spacing:1px}
+  .ug{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--bdr);border:1px solid var(--bdr);border-radius:4px;overflow:hidden}
+  .uc{background:var(--surf);padding:24px 20px;transition:background .2s}.uc:hover{background:var(--surf2)}
+  .uc-icon{font-size:18px;margin-bottom:11px;display:block}.uc p{font-size:13px;color:var(--muted);line-height:1.6}
+  .steps{display:flex;flex-direction:column}
+  .step{display:flex;gap:18px;padding:20px 0;border-bottom:1px solid var(--bdr)}.step:last-child{border-bottom:none}
+  .snum{font-family:var(--mf);font-size:11px;color:var(--acc);background:rgba(14,165,233,.1);border:1px solid rgba(14,165,233,.2);width:32px;height:32px;display:flex;align-items:center;justify-content:center;flex-shrink:0;border-radius:3px;margin-top:2px}
+  .step p{color:var(--muted);font-size:13px;margin:0}
+  .prose p{color:var(--muted);font-size:14px;line-height:1.75;margin-bottom:13px}
+  .prose strong{color:var(--txt);font-weight:600}
+  .prose ul{padding-left:16px;margin-bottom:13px}.prose ul li{color:var(--muted);font-size:14px;line-height:1.7;margin-bottom:5px}
+  .faq-list{display:flex;flex-direction:column;border:1px solid var(--bdr);border-radius:4px;overflow:hidden}
+  .faq-item{border-bottom:1px solid var(--bdr);background:var(--surf)}.faq-item:last-child{border-bottom:none}
+  details.faq-item summary{cursor:pointer;list-style:none;padding:17px 20px;color:#fff;font-family:var(--bf);font-size:14px;font-weight:500;display:flex;justify-content:space-between;align-items:center;gap:12px;background:var(--surf)}details.faq-item summary::-webkit-details-marker{display:none}details.faq-item summary::after{content:'+';color:var(--acc);font-size:18px;flex-shrink:0;transition:transform .2s}details.faq-item[open] summary::after{transform:rotate(45deg)}details.faq-item[open] summary{background:var(--surf2)}.faq-answer{padding:0 20px 16px;color:var(--muted);font-size:13px;line-height:1.75;background:var(--surf)}
+  .rel-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+  .rel-card{background:var(--surf);border:1px solid var(--bdr);border-radius:4px;padding:13px 15px;font-size:13px;color:var(--txt);transition:border-color .2s,background .2s;display:block}
+  .rel-card:hover{border-color:var(--acc);background:var(--surf2);color:#fff;text-decoration:none}
+  .rel-card small{font-family:var(--mf);font-size:10px;color:var(--muted);display:block;margin-top:3px}
+  .blog-list{list-style:none;border:1px solid var(--bdr);border-radius:4px;overflow:hidden}
+  .blog-list li{border-bottom:1px solid var(--bdr)}.blog-list li:last-child{border-bottom:none}
+  .blog-list a{display:flex;align-items:center;justify-content:space-between;padding:13px 17px;color:var(--txt);font-size:13px;font-weight:500;background:var(--surf);transition:background .15s}
+  .blog-list a:hover{background:var(--surf2);color:#fff;text-decoration:none}.blog-list a::after{content:'→';color:var(--acc)}
+  .kwc{display:flex;flex-wrap:wrap;gap:7px}
+  .kw{font-family:var(--mf);font-size:11px;padding:4px 10px;border-radius:2px;background:var(--surf);border:1px solid var(--bdr);color:var(--muted)}
+  .cta-b{background:linear-gradient(135deg,var(--surf2) 0%,rgba(14,165,233,.07) 100%);border:1px solid rgba(14,165,233,.22);border-radius:6px;padding:46px 40px;text-align:center;position:relative;overflow:hidden}
+  .cta-b::before{content:'';position:absolute;top:-80px;left:50%;transform:translateX(-50%);width:400px;height:280px;background:radial-gradient(ellipse,rgba(14,165,233,.09) 0%,transparent 70%);pointer-events:none}
+  .cta-b p{color:var(--muted);max-width:450px;margin:0 auto 26px;font-size:15px}
+  tr.cur-row td{background:rgba(14,165,233,.05)}tr.cur-row td:first-child{border-left:2px solid var(--acc)}
+  .data-link{display:inline-block;font-family:var(--mf);font-size:11px;color:var(--muted);border:1px solid var(--bdr);padding:4px 10px;border-radius:2px;margin-top:8px}
+  .data-link:hover{color:var(--acc2);border-color:var(--acc);text-decoration:none}
+  footer{border-top:1px solid var(--bdr);padding:34px 0}
+  .foot-grid{display:grid;grid-template-columns:1.4fr 1fr 1fr 1fr;gap:32px;margin-bottom:28px}
+  .foot-brand p{color:var(--muted);font-size:12px;margin-top:8px;max-width:200px;line-height:1.6}
+  .fc h4{font-size:11px;font-weight:600;color:var(--txt);letter-spacing:1px;text-transform:uppercase;margin-bottom:10px;font-family:var(--mf)}
+  .fc ul{list-style:none;display:flex;flex-direction:column;gap:6px}.fc ul a{color:var(--muted);font-size:12px}.fc ul a:hover{color:#fff;text-decoration:none}
+  .foot-bot{border-top:1px solid var(--bdr);padding-top:18px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+  .foot-bot p{color:var(--muted);font-size:11px}
+  /* ── HERO 2-COL ── */
+  .hero-grid{display:grid;grid-template-columns:1fr 300px;gap:40px;align-items:start}
+  .buy-card{background:var(--surf);border:1px solid var(--bdr);border-radius:6px;padding:24px 20px;position:sticky;top:80px}
+  .price-row{display:flex;align-items:baseline;gap:10px;margin-bottom:4px}
+  .price-main{font-family:var(--hf);font-size:32px;font-weight:400;color:#fff}
+  .rating-row{display:flex;align-items:center;gap:8px;margin-bottom:14px}
+  .stars{color:#fbbf24;font-size:13px;letter-spacing:1px}
+  .rating-txt{font-family:var(--mf);font-size:11px;color:var(--muted)}
+  .buy-features{list-style:none;margin-bottom:16px;display:flex;flex-direction:column;gap:6px}
+  .buy-features li{font-family:var(--mf);font-size:11px;color:var(--muted);display:flex;align-items:center;gap:7px}
+  .buy-features li::before{content:'✓';color:#34d399;font-weight:700;flex-shrink:0}
+  .trust-badges{display:flex;flex-wrap:wrap;gap:5px;margin-top:10px}
+  .tbadge{font-family:var(--mf);font-size:10px;background:var(--surf2);border:1px solid var(--bdr);color:var(--muted);padding:3px 8px;border-radius:2px}
+  /* ── SIGNALS ── */
+  .signals{display:flex;flex-wrap:wrap;gap:14px;margin-bottom:26px}
+  .signal{display:flex;align-items:center;gap:6px;font-family:var(--mf);font-size:11px;color:var(--muted)}
+  .sdot{width:7px;height:7px;border-radius:50%;background:#34d399;flex-shrink:0;box-shadow:0 0 6px rgba(34,197,94,.5)}
+  .sdot.gold{background:#fbbf24;box-shadow:0 0 6px rgba(251,191,36,.4)}
+  .sdot.blue{background:var(--acc);box-shadow:0 0 6px rgba(14,165,233,.4)}
+  /* ── INDUSTRY CARDS ── */
+  .ind-card-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  .ind-card{background:var(--surf);border:1px solid var(--bdr);border-radius:4px;padding:13px 15px;transition:border-color .15s}
+  .ind-card:hover{border-color:var(--bdr2,#253550)}
+  .ind-card-name{font-size:13px;font-weight:600;color:var(--txt)}
+  .ind-card-sic{font-family:var(--mf);font-size:10px;color:var(--muted);margin-top:1px}
+  .ind-card-count{display:flex;justify-content:space-between;align-items:baseline;margin-top:7px}
+  .ind-card-num{font-family:var(--hf);font-size:16px;font-weight:400;color:#fff}
+  .ind-card-pct{font-family:var(--mf);font-size:10px;color:var(--muted)}
+  .ind-card-bar{width:100%;height:2px;background:var(--surf2);border-radius:1px;margin-top:7px}
+  .ind-card-fill{height:100%;border-radius:1px;background:linear-gradient(90deg,var(--acc),var(--acc2))}
+  /* ── SAMPLE DATA ── */
+  .sample-wrap{border:1px solid var(--bdr);border-radius:4px;overflow:hidden}
+  .sample-fade{position:relative}.sample-fade::after{content:'';position:absolute;bottom:0;left:0;right:0;height:56px;background:linear-gradient(transparent,var(--bg));pointer-events:none}
+  .sample-hdr{background:var(--surf2);padding:9px 14px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--bdr)}
+  .sample-hdr span{font-family:var(--mf);font-size:10px;color:var(--muted);letter-spacing:.5px}
+  .sample-scroll{overflow-x:auto}
+  .sample-tbl{font-family:var(--mf);font-size:11px;white-space:nowrap;width:100%;border-collapse:collapse}
+  .sample-tbl th{text-align:left;padding:9px 14px;background:var(--surf2);color:var(--muted);font-size:10px;letter-spacing:.5px;border-bottom:1px solid var(--bdr)}
+  .sample-tbl td{padding:9px 14px;border-bottom:1px solid var(--bdr);color:var(--muted)}
+  .sample-tbl td:first-child{color:var(--txt);font-weight:500}
+  .sample-tbl tr:last-child td{border-bottom:none}
+  .col-em{color:var(--acc)!important}
+  /* ── COMPAT GRID ── */
+  .compat-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
+  .compat-item{background:var(--surf);border:1px solid var(--bdr);border-radius:4px;padding:14px 16px;display:flex;align-items:center;gap:10px;transition:border-color .15s,background .15s;min-height:56px}
+  .compat-item:hover{border-color:var(--acc);background:var(--surf2)}
+  .compat-icon{font-size:18px;flex-shrink:0;line-height:1;width:24px;text-align:center}
+  .compat-name{font-family:var(--hf);font-size:13px;font-weight:600;color:var(--txt);display:block;line-height:1.3}
+  .compat-type{font-family:var(--mf);font-size:10px;color:var(--muted);display:block;margin-top:2px}
+  /* ── REVIEWS ── */
+  .review-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+  .review-card{background:var(--surf);border:1px solid var(--bdr);border-radius:4px;padding:20px}
+  .review-stars{color:#fbbf24;font-size:12px;margin-bottom:10px;letter-spacing:1px}
+  .review-txt{font-size:13px;color:var(--muted);line-height:1.7;margin-bottom:14px;font-style:italic}
+  .review-author{font-family:var(--hf);font-size:12px;font-weight:600;color:var(--txt)}
+  .review-role{font-family:var(--mf);font-size:10px;color:var(--muted);margin-top:2px}
+  /* ── CITY GRID ── */
+  .city-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+  .city-card{background:var(--surf);border:1px solid var(--bdr);border-radius:4px;padding:14px 16px;transition:border-color .15s,background .15s}
+  .city-card:hover{border-color:var(--acc);background:var(--surf2)}
+  .city-name{font-family:var(--hf);font-size:14px;font-weight:600;color:#fff;margin-bottom:2px}
+  .city-count{font-family:var(--mf);font-size:11px;color:var(--acc)}
+  .city-inds{font-family:var(--mf);font-size:10px;color:var(--muted);margin-top:5px;line-height:1.5}
+    @media(max-width:900px){.stats{grid-template-columns:repeat(3,1fr)}.intel-grid{grid-template-columns:repeat(3,1fr)}.two,.two-w{grid-template-columns:1fr;gap:28px}.ug{grid-template-columns:1fr 1fr}.rel-grid{grid-template-columns:1fr 1fr}.foot-grid{grid-template-columns:1fr 1fr;gap:20px}.cta-b{padding:30px 20px}nav ul{display:none}}
+  @media(max-width:900px){.hero-grid{grid-template-columns:1fr}.buy-card{position:static}.ind-card-grid{grid-template-columns:1fr 1fr}.compat-grid{grid-template-columns:repeat(2,1fr)}.review-grid{grid-template-columns:1fr 1fr}.city-grid{grid-template-columns:1fr 1fr}}
+  @media(max-width:600px){.compat-grid{grid-template-columns:repeat(2,1fr)}.review-grid{grid-template-columns:1fr}.city-grid{grid-template-columns:1fr}.ind-card-grid{grid-template-columns:1fr}}
+  @media(max-width:480px){.stats{grid-template-columns:repeat(2,1fr)}.intel-grid{grid-template-columns:repeat(2,1fr)}.ug{grid-template-columns:1fr}.rel-grid{grid-template-columns:1fr}}
+
+.gl-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:6px;margin-bottom:32px}
+.gl-term{background:var(--surf);border:1px solid var(--bdr);border-radius:4px;padding:14px 16px}
+.gl-term:hover{border-color:var(--acc)}
+.gl-t{font-size:14px;font-weight:600;color:var(--txt);margin-bottom:6px}
+.gl-d{font-size:13px;color:var(--muted);line-height:1.6}
+.gl-cat{font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--acc2);margin-bottom:4px}
+.cat-tabs{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:28px}
+.cat-tab{font-size:11px;padding:4px 10px;border:1px solid var(--bdr);border-radius:3px;color:var(--muted);cursor:pointer}
+</style>
+</head>
+<body>
+<nav><div class="nav-in"><a href="/" class="logo"><span>b2b</span>dataindex</a><ul><li><a href="/data-pages/">B2B Lists</a></li><li><a href="/consumer-data/">Consumer</a></li><li><a href="/targeted-lists/">Targeted</a></li><li><a href="/usa-categories/">USA Data</a></li><li><a href="/blog/">Guides</a></li></ul></div></nav>
+<main>
+<div class="wrap"><nav class="bc"><a href="/">Home</a><span>›</span>Glossary</nav></div>
+<section class="hero" style="padding-top:50px"><div class="wrap">
+  <span class="tag">Reference</span>
+  <h1>B2B Data <em>Glossary</em></h1>
+  <p class="hero-desc">Plain-English definitions of 30+ terms used in B2B email databases, cold email outreach, deliverability, and compliance. Updated 2026.</p>
+</div></section>
+<section><div class="wrap">
+  
+  <h2 style="font-family:var(--hf);font-size:22px;font-weight:400;color:var(--txt);margin:32px 0 14px;padding-bottom:8px;border-bottom:1px solid var(--bdr)">Verification</h2>
+  <div class="gl-grid">
+    <div class="gl-term"><div class="gl-t">SMTP Verification</div><div class="gl-d">A method of confirming that an email address exists and can receive messages by simulating a connection to the recipient mail server without actually sending an email. The gold standard for real-time email validation.</div></div>
+  </div>
+  <h2 style="font-family:var(--hf);font-size:22px;font-weight:400;color:var(--txt);margin:32px 0 14px;padding-bottom:8px;border-bottom:1px solid var(--bdr)">Deliverability</h2>
+  <div class="gl-grid">
+    <div class="gl-term"><div class="gl-t">Hard Bounce</div><div class="gl-d">A permanent email delivery failure caused by an invalid, non-existent, or blocked email address. Hard bounces above 2% damage sender reputation and should be removed from lists immediately after a single occurrence.</div></div><div class="gl-term"><div class="gl-t">Soft Bounce</div><div class="gl-d">A temporary email delivery failure caused by a full inbox, server downtime, or message size limits. Soft bounces can be retried after 24-48 hours. Persistent soft bounces should be suppressed after 3-5 attempts.</div></div><div class="gl-term"><div class="gl-t">Sender Reputation</div><div class="gl-d">A score assigned by email providers to sending domains and IP addresses based on engagement rates, bounce rates, spam complaint rates, and sending patterns. Poor sender reputation causes emails to land in spam regardless of content quality.</div></div><div class="gl-term"><div class="gl-t">Inbox Placement Rate</div><div class="gl-d">The percentage of sent emails that land in the primary inbox rather than spam, promotions, or other folders. More meaningful than open rate as a deliverability metric. Tools like GlockApps and MailGenius test inbox placement before campaigns launch.</div></div>
+  </div>
+  <h2 style="font-family:var(--hf);font-size:22px;font-weight:400;color:var(--txt);margin:32px 0 14px;padding-bottom:8px;border-bottom:1px solid var(--bdr)">Technical</h2>
+  <div class="gl-grid">
+    <div class="gl-term"><div class="gl-t">SPF (Sender Policy Framework)</div><div class="gl-d">A DNS record that specifies which mail servers are authorised to send email on behalf of your domain. Required configuration for legitimate cold email sending. Missing SPF records increase spam folder placement significantly.</div></div><div class="gl-term"><div class="gl-t">DKIM (DomainKeys Identified Mail)</div><div class="gl-d">A cryptographic signature added to outgoing emails that allows receiving servers to verify the message was not altered in transit and originated from an authorised server. Pairs with SPF and DMARC for full authentication.</div></div><div class="gl-term"><div class="gl-t">DMARC (Domain-based Message Authentication)</div><div class="gl-d">A policy record that instructs receiving mail servers on how to handle emails that fail SPF or DKIM checks. Essential for protecting your domain from spoofing and improving deliverability.</div></div><div class="gl-term"><div class="gl-t">Email Warm-Up</div><div class="gl-d">The process of gradually increasing sending volume from a new domain or email account to establish positive sender reputation before full-scale campaigns. Standard practice is starting at 20-30 emails/day and increasing by 20% per week over 4-6 weeks.</div></div><div class="gl-term"><div class="gl-t">Suppression List</div><div class="gl-d">A list of email addresses that should never be contacted — hard bounces, opt-outs, spam complaints, and competitor domains. Maintaining a suppression list is required for CAN-SPAM compliance and essential for protecting sender reputation.</div></div><div class="gl-term"><div class="gl-t">CSV (Comma-Separated Values)</div><div class="gl-d">The standard file format for email database delivery. Compatible with all major email sending platforms (Instantly, Smartlead, Apollo), CRM systems (HubSpot, Salesforce, Pipedrive), and spreadsheet applications (Excel, Google Sheets).</div></div>
+  </div>
+  <h2 style="font-family:var(--hf);font-size:22px;font-weight:400;color:var(--txt);margin:32px 0 14px;padding-bottom:8px;border-bottom:1px solid var(--bdr)">Data Quality</h2>
+  <div class="gl-grid">
+    <div class="gl-term"><div class="gl-t">Decision-Maker</div><div class="gl-d">In B2B databases, a contact classified as having purchasing authority — typically business owners, directors, C-suite executives, and senior managers (VP level and above). Decision-maker ratio is a key quality metric; higher ratios produce better cold email response rates.</div></div><div class="gl-term"><div class="gl-t">Email Verification Rate</div><div class="gl-d">The percentage of email addresses in a database that have been confirmed as valid and deliverable through SMTP or inbox testing. Quality databases target 95%+ verification rates. Anything below 90% introduces significant deliverability risk.</div></div><div class="gl-term"><div class="gl-t">Data Freshness</div><div class="gl-d">The recency of contact information in a database. Email addresses decay at approximately 22-25% annually as professionals change jobs, companies close, and domains expire. Quarterly re-verification is the industry standard for maintaining freshness.</div></div><div class="gl-term"><div class="gl-t">Double Opt-In</div><div class="gl-d">An email subscription process requiring subscribers to confirm their signup via a follow-up email. Produces higher-quality subscriber lists than single opt-in with lower bounce rates and higher engagement, but results in smaller list sizes.</div></div>
+  </div>
+  <h2 style="font-family:var(--hf);font-size:22px;font-weight:400;color:var(--txt);margin:32px 0 14px;padding-bottom:8px;border-bottom:1px solid var(--bdr)">Classification</h2>
+  <div class="gl-grid">
+    <div class="gl-term"><div class="gl-t">SIC Code (Standard Industrial Classification)</div><div class="gl-d">A four-digit numerical code assigned by the US government to classify businesses by industry. Used extensively in B2B databases to segment contacts by sector. Superseded by NAICS in US government use but still widely used in B2B data.</div></div><div class="gl-term"><div class="gl-t">NAICS Code (North American Industry Classification System)</div><div class="gl-d">The current US government standard for classifying business establishments by industry. Six-digit codes providing more granular industry classification than SIC. Common in newer B2B databases covering North American markets.</div></div><div class="gl-term"><div class="gl-t">Company Firmographics</div><div class="gl-d">Business attributes used to segment B2B databases: industry, company size (employees or revenue), annual revenue, geographic location, founding year, and technology stack. Firmographic segmentation is the primary method for building targeted prospect lists.</div></div>
+  </div>
+  <h2 style="font-family:var(--hf);font-size:22px;font-weight:400;color:var(--txt);margin:32px 0 14px;padding-bottom:8px;border-bottom:1px solid var(--bdr)">Compliance</h2>
+  <div class="gl-grid">
+    <div class="gl-term"><div class="gl-t">CAN-SPAM Act</div><div class="gl-d">The US federal law governing commercial email, enforced by the FTC. Requires accurate sender identification, honest subject lines, physical postal address, and a functional unsubscribe mechanism. Does not require prior consent for B2B cold email to business addresses.</div></div><div class="gl-term"><div class="gl-t">GDPR (General Data Protection Regulation)</div><div class="gl-d">EU regulation governing personal data processing. For B2B email marketing, Article 6(1)(f) legitimate interest is the primary legal basis. Requires documented legitimate interest assessment, easy opt-out, and relevance to the recipient's professional role.</div></div><div class="gl-term"><div class="gl-t">CASL (Canada's Anti-Spam Legislation)</div><div class="gl-d">Canada's anti-spam law requiring express or implied consent before sending commercial email. Implied consent exists for 24 months after a business relationship. One of the strictest email marketing laws globally.</div></div><div class="gl-term"><div class="gl-t">Legitimate Interest</div><div class="gl-d">A GDPR legal basis (Article 6(1)(f)) permitting data processing when the data controller has a genuine business purpose that is not overridden by the data subject's rights. The standard legal basis for B2B cold email to business contacts in the EU.</div></div>
+  </div>
+  <h2 style="font-family:var(--hf);font-size:22px;font-weight:400;color:var(--txt);margin:32px 0 14px;padding-bottom:8px;border-bottom:1px solid var(--bdr)">Campaign Metrics</h2>
+  <div class="gl-grid">
+    <div class="gl-term"><div class="gl-t">Open Rate</div><div class="gl-d">The percentage of delivered emails that were opened by recipients. B2B cold email averages 15-28% with personalised copy. Open rates are affected by subject line quality, sender name recognition, preview text, and send timing.</div></div><div class="gl-term"><div class="gl-t">Reply Rate</div><div class="gl-d">The percentage of delivered emails that received a response. More meaningful than open rate for outbound sales. Industry average for B2B cold email is 2-5%. Campaigns with tight segmentation and relevant copy regularly achieve 8-15%.</div></div><div class="gl-term"><div class="gl-t">Unsubscribe Rate</div><div class="gl-d">The percentage of email recipients who opt out of further communication. CAN-SPAM requires honouring unsubscribe requests within 10 business days. Rates above 0.5% indicate relevance problems with copy or targeting.</div></div>
+  </div>
+  <h2 style="font-family:var(--hf);font-size:22px;font-weight:400;color:var(--txt);margin:32px 0 14px;padding-bottom:8px;border-bottom:1px solid var(--bdr)">Strategy</h2>
+  <div class="gl-grid">
+    <div class="gl-term"><div class="gl-t">Cold Email Sequence</div><div class="gl-d">A series of pre-written emails sent to prospects over several weeks with automated spacing. Typically 3-5 emails. First email presents the offer; follow-ups add value or change angle. Sequences outperform single-send campaigns by 2-3x on response rates.</div></div><div class="gl-term"><div class="gl-t">Lead Generation</div><div class="gl-d">The process of identifying and attracting potential customers for a business. In B2B contexts, email outreach using purchased databases is one of the highest-ROI lead generation channels, particularly for companies targeting specific industries or geographies.</div></div><div class="gl-term"><div class="gl-t">ICP (Ideal Customer Profile)</div><div class="gl-d">A detailed description of the type of company that would receive maximum value from your product or service. Defined by industry, company size, geography, technology stack, and business model. Precise ICP definition is the foundation of effective database segmentation.</div></div>
+  </div>
+  <h2 style="font-family:var(--hf);font-size:22px;font-weight:400;color:var(--txt);margin:32px 0 14px;padding-bottom:8px;border-bottom:1px solid var(--bdr)">Data Sources</h2>
+  <div class="gl-grid">
+    <div class="gl-term"><div class="gl-t">BuiltWith</div><div class="gl-d">A technology intelligence platform that identifies which technologies websites use by analysing site code, DNS records, and cookies. Used to build B2B databases of website owners filtered by specific technology adoption.</div></div>
+  </div>
+  <h2 style="font-family:var(--hf);font-size:22px;font-weight:400;color:var(--txt);margin:32px 0 14px;padding-bottom:8px;border-bottom:1px solid var(--bdr)">Data Types</h2>
+  <div class="gl-grid">
+    <div class="gl-term"><div class="gl-t">B2C Email List</div><div class="gl-d">A database of personal (consumer) email addresses used for direct-to-consumer marketing. Distinct from B2B lists in that they target individuals as consumers rather than as business professionals. Subject to stricter consent requirements under GDPR and CASL.</div></div>
+  </div>
+  <div style="margin-top:40px;padding:20px;background:var(--surf);border:1px solid var(--bdr);border-radius:4px">
+    <p style="font-size:14px;color:var(--muted)">Looking for a B2B database? Browse our full catalog of <a href="/data-pages/" style="color:var(--acc2)">B2B email lists</a>, <a href="/consumer-data/" style="color:var(--acc2)">consumer databases</a>, and <a href="/usa-categories/" style="color:var(--acc2)">USA industry databases</a>.</p>
+  </div>
+</div></section>
+</main>
+<footer><div class="wrap"><div class="fi"><p>© 2026 B2B Data Index</p><p><a href="/blog/" style="color:var(--muted)">Guides</a> · <a href="/methodology/" style="color:var(--muted)">Methodology</a> · <a href="/sitemap.xml" style="color:var(--muted)">Sitemap</a></p></div></div></footer>
+</body></html>

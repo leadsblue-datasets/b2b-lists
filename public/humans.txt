@@ -1,0 +1,28 @@
+/* TEAM */
+  Data Research Lead: Priya Raman
+  Role: Senior Data Research Editor
+  From: B2B Data Index Research Team
+
+  Compliance Lead: Elena Vasquez
+  Role: Lead Compliance Researcher (GDPR, CAN-SPAM, CASL)
+  From: B2B Data Index Research Team
+
+  Technical Lead: Marcus Holloway
+  Role: Head of Database Research
+  From: B2B Data Index Research Team
+
+/* THANKS */
+  LeadsBlue — data sourcing and verification
+  Cloudflare Pages — hosting and CDN
+  Google Search Console — indexing and performance data
+
+/* SITE */
+  Last update: 2026-04-20
+  Language: English
+  Doctype: HTML5
+  IDE: Node.js static site generator
+  Standards: Schema.org, Open Graph, sitemap.org, llmstxt.org
+
+/* CONTACT */
+  Data provider: https://leadsblue.com
+  Catalog: https://b2bdataindex.com

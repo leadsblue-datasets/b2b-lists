@@ -1,11 +1,16 @@
 User-agent: *
 Allow: /
 Allow: /llm/
+Allow: /llm.txt
+Allow: /humans.txt
 Allow: /methodology/
 Allow: /all-databases/
 Allow: /regions/
+Allow: /about/
+Allow: /glossary/
+Allow: /faq/
 
-# LLM & AI Crawlers
+# LLM & AI Crawlers — explicitly allowed full access
 User-agent: GPTBot
 Allow: /
 
@@ -36,11 +41,33 @@ Allow: /
 User-agent: FacebookBot
 Allow: /
 
-# Block image crawlers (no images to serve)
+User-agent: YouBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+# Block image crawlers (no images to index)
 User-agent: Googlebot-Image
 Disallow: /
 
 User-agent: Bingbot-Image
 Disallow: /
 
+# Sitemap index + all child sitemaps
 Sitemap: https://b2bdataindex.com/sitemap.xml
+Sitemap: https://b2bdataindex.com/sitemap-business.xml
+Sitemap: https://b2bdataindex.com/sitemap-consumer.xml
+Sitemap: https://b2bdataindex.com/sitemap-targeted.xml
+Sitemap: https://b2bdataindex.com/sitemap-usa.xml
+Sitemap: https://b2bdataindex.com/sitemap-tech.xml
+Sitemap: https://b2bdataindex.com/sitemap-core.xml
+Sitemap: https://b2bdataindex.com/sitemap-blog.xml
+
+# LLM agent context files
+LLM-Context: https://b2bdataindex.com/llm.txt
+LLM-Data: https://b2bdataindex.com/llm/
+Humans: https://b2bdataindex.com/humans.txt
