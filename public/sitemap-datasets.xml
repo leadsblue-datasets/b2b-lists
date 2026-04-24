@@ -1,32 +1,337 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://b2bdataindex.com/api/v1/benchmarks.json</loc>
-  <lastmod>2026-04-24</lastmod>
+  <loc>https://b2bdataindex.com/api/v1/benchmark-data.json</loc>
   <changefreq>monthly</changefreq>
   <priority>0.60</priority>
 </url>
 <url>
-  <loc>https://b2bdataindex.com/api/v1/markets.json</loc>
-  <lastmod>2026-04-24</lastmod>
+  <loc>https://b2bdataindex.com/api/v1/benchmarks.json</loc>
   <changefreq>monthly</changefreq>
   <priority>0.60</priority>
 </url>
 <url>
   <loc>https://b2bdataindex.com/api/v1/compliance.json</loc>
-  <lastmod>2026-04-24</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.60</priority>
 </url>
 <url>
   <loc>https://b2bdataindex.com/api/v1/industries.json</loc>
-  <lastmod>2026-04-24</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/markets.json</loc>
   <changefreq>monthly</changefreq>
   <priority>0.60</priority>
 </url>
 <url>
   <loc>https://b2bdataindex.com/api/v1/schema.json</loc>
-  <lastmod>2026-04-24</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/argentina.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/australia.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/austria.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/belgium.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/brazil.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/canada.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/chile.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/china.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/colombia.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/czech-republic.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/denmark.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/egypt.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/finland.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/france.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/germany.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/greece.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/hong-kong.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/hungary.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/india.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/indonesia.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/ireland.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/israel.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/italy.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/japan.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/kuwait.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/malaysia.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/mexico.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/netherlands.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/new-zealand.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/nigeria.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/norway.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/peru.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/philippines.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/poland.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/portugal.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/qatar.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/romania.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/saudi-arabia.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/singapore.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/south-africa.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/south-korea.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/spain.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/sweden.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/switzerland.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/thailand.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/turkey.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/uae.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/united-kingdom.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/united-states.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/intelligence/vietnam.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/llm/consumer-stats.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/llm/entities.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/llm/facts.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/llm/faq-dataset.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/llm/index.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/llm/knowledge-graph.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/llm/market-stats.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/llm/site-index.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/llm/targeted-stats.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/llm/tech-site-stats.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/llm/usa-category-stats.json</loc>
   <changefreq>monthly</changefreq>
   <priority>0.60</priority>
 </url>
