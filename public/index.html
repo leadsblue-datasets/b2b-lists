@@ -25,7 +25,7 @@
 <link rel="alternate" type="application/json" href="https://b2bdataindex.com/llm/site-index.json" title="Complete Database Index">
 <link rel="alternate" type="application/json" href="https://b2bdataindex.com/llm/market-stats.json" title="B2B Market Statistics">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"B2B Data Index","url":"https://b2bdataindex.com","logo":{"@type":"ImageObject","url":"https://b2bdataindex.com/assets/logo.png"},"description":"B2B Data Index provides verified email databases for B2B businesses, consumer markets, and niche audiences covering 200+ global markets.","sameAs":["https://leadsblue.com","https://github.com/leadsblue-datasets/b2b-lists","https://www.kaggle.com/leadsbluedataintel"]}</script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"B2B Data Index","url":"https://b2bdataindex.com","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://b2bdataindex.com/data-pages/?q={search_term_string}"},"query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"B2B Data Index","url":"https://b2bdataindex.com","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://b2bdataindex.com/search-index.json?q={search_term_string}"},"query-input":"required name=search_term_string"}}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"DataCatalog","name":"B2B Data Index — Email Database Catalog","description":"Comprehensive catalog of verified B2B, consumer, targeted, and industry-specific email databases covering 200+ global markets.","url":"https://b2bdataindex.com","license":"https://leadsblue.com/terms/","creator":{"@type":"Organization","name":"LeadsBlue","url":"https://leadsblue.com"},"publisher":{"@type":"Organization","name":"B2B Data Index","url":"https://b2bdataindex.com"},"keywords":["B2B email list","consumer email database","business contacts","email marketing data","lead generation database"]}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://b2bdataindex.com/"}]}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is a B2B email list?","acceptedAnswer":{"@type":"Answer","text":"A B2B email list is a verified database of business contact information — including email addresses, company names, job titles, and industry classifications — compiled for use in cold email outreach, lead generation, and B2B marketing campaigns."}},{"@type":"Question","name":"Is buying a B2B email list legal?","acceptedAnswer":{"@type":"Answer","text":"Yes. Purchasing and using a B2B email list is legal in most jurisdictions. In the US, CAN-SPAM governs commercial email and does not require prior consent for B2B outreach. In the EU, GDPR permits B2B cold email under the legitimate interest basis (Article 6(1)(f)). Always include an unsubscribe link and honour opt-outs promptly."}},{"@type":"Question","name":"How many email databases does B2B Data Index cover?","acceptedAnswer":{"@type":"Answer","text":"B2B Data Index catalogs ${totalPages}+ verified email databases across five categories: B2B business lists (${bizPages.length} databases covering 100+ countries), consumer email lists (${conPages.length} databases), targeted niche lists (${tgtPages.length} databases), USA business categories (${usaPages.length} databases across all 50 states), and technology site lists (${techPages.length} databases)."}},{"@type":"Question","name":"What data fields are included in a B2B email database?","acceptedAnswer":{"@type":"Answer","text":"A standard B2B email database includes: verified business email address, company name, contact full name, job title, industry classification (SIC/NAICS code), company location, company size (employee count), and phone number where available. Premium databases also include LinkedIn profile URLs and revenue estimates."}},{"@type":"Question","name":"How are B2B email databases verified?","acceptedAnswer":{"@type":"Answer","text":"Quality B2B databases are verified through SMTP validation (connecting to the recipient mail server to confirm the address exists), company registry cross-referencing, and inbox confirmation testing. B2B Data Index documents the verification methodology and current verification rate for every database in the catalog."}},{"@type":"Question","name":"What is the difference between a B2B and consumer email list?","acceptedAnswer":{"@type":"Answer","text":"A B2B email list contains business email addresses targeting professionals in their work capacity. A consumer email list contains personal email addresses for direct-to-consumer marketing. B2B lists have less strict consent requirements (legitimate interest under GDPR, no consent required under CAN-SPAM) compared to consumer lists which often require explicit opt-in."}},{"@type":"Question","name":"Which tools are compatible with B2B email databases?","acceptedAnswer":{"@type":"Answer","text":"B2B email databases from B2B Data Index are delivered as CSV files compatible with all major platforms: cold email tools (Instantly, Smartlead, Mailshake, Lemlist), CRM systems (HubSpot, Salesforce, Pipedrive), and prospecting platforms (Apollo.io, Outreach). Any platform accepting CSV imports will work."}},{"@type":"Question","name":"How much do B2B email databases cost?","acceptedAnswer":{"@type":"Answer","text":"Pricing on B2B Data Index ranges from $49 for micro databases (under 100K records) to $299 for mega databases (50M+ records). All databases are one-time purchases with no subscription required. Pricing: under 100K records ($49), 100K-500K records ($79), 500K-5M records ($149), 5M-50M records ($249), 50M+ records ($299)."}}]}</script>
@@ -182,7 +182,23 @@
   .city-inds{font-family:var(--mf);font-size:10px;color:var(--muted);margin-top:5px;line-height:1.5}
     @media(max-width:900px){.stats{grid-template-columns:repeat(3,1fr)}.intel-grid{grid-template-columns:repeat(3,1fr)}.two,.two-w{grid-template-columns:1fr;gap:28px}.ug{grid-template-columns:1fr 1fr}.rel-grid{grid-template-columns:1fr 1fr}.foot-grid{grid-template-columns:1fr 1fr;gap:20px}.cta-b{padding:30px 20px}nav ul{display:none}}
   @media(max-width:900px){.hero-grid{grid-template-columns:1fr}.buy-card{position:static}.ind-card-grid{grid-template-columns:1fr 1fr}.compat-grid{grid-template-columns:repeat(2,1fr)}.review-grid{grid-template-columns:1fr 1fr}.city-grid{grid-template-columns:1fr 1fr}}
-  @media(max-width:600px){.compat-grid{grid-template-columns:repeat(2,1fr)}.review-grid{grid-template-columns:1fr}.city-grid{grid-template-columns:1fr}.ind-card-grid{grid-template-columns:1fr}}
+
+  /* ── SEARCH ── */
+  .search-wrap{position:relative;display:flex;align-items:center}
+  .nav-search{background:var(--surf2);border:1px solid var(--bdr);color:var(--txt);font-family:var(--bf);font-size:13px;padding:7px 14px 7px 34px;border-radius:3px;width:200px;transition:width .2s,border-color .2s;outline:none}
+  .nav-search:focus{width:280px;border-color:var(--acc)}
+  .nav-search::placeholder{color:var(--muted)}
+  .search-icon{position:absolute;left:10px;color:var(--muted);font-size:13px;pointer-events:none}
+  .search-results{position:absolute;top:calc(100% + 6px);left:0;right:0;background:var(--surf);border:1px solid var(--bdr);border-radius:4px;z-index:999;display:none;max-height:380px;overflow-y:auto;box-shadow:0 8px 32px rgba(0,0,0,.4)}
+  .search-results.open{display:block}
+  .sr-item{display:flex;flex-direction:column;padding:10px 14px;border-bottom:1px solid var(--bdr);cursor:pointer;text-decoration:none}
+  .sr-item:hover{background:var(--surf2)}
+  .sr-item:last-child{border-bottom:none}
+  .sr-name{font-size:13px;color:#fff;font-weight:500}
+  .sr-meta{font-size:11px;color:var(--muted);margin-top:2px;font-family:var(--mf)}
+  .sr-empty{padding:16px 14px;font-size:13px;color:var(--muted);text-align:center}
+
+    @media(max-width:600px){.compat-grid{grid-template-columns:repeat(2,1fr)}.review-grid{grid-template-columns:1fr}.city-grid{grid-template-columns:1fr}.ind-card-grid{grid-template-columns:1fr}}
   @media(max-width:480px){.stats{grid-template-columns:repeat(2,1fr)}.intel-grid{grid-template-columns:repeat(2,1fr)}.ug{grid-template-columns:1fr}.rel-grid{grid-template-columns:1fr}}
 
 .hero-hp{padding:80px 0 64px;text-align:center;position:relative;overflow:hidden}
@@ -236,15 +252,48 @@ footer{border-top:1px solid var(--bdr);padding:40px 0}
 </style>
 </head>
 <body>
-<nav><div class="nav-in"><a href="/" class="logo"><span>b2b</span>dataindex</a><ul>
+<nav><div class="nav-in"><a href="/" class="logo"><span>b2b</span>dataindex</a>
+<ul>
 <li><a href="/data-pages/">B2B Lists</a></li>
-<li><a href="/consumer-data/">Consumer</a></li>
-<li><a href="/targeted-lists/">Targeted</a></li>
 <li><a href="/usa-categories/">USA Data</a></li>
-<li><a href="/compliance/">Compliance</a></li>
+<li><a href="/website-data/">Tech Sites</a></li>
 <li><a href="/compare/">Compare</a></li>
+<li><a href="/use-cases/">Use Cases</a></li>
+<li><a href="/industries/">Industries</a></li>
 <li><a href="/blog/">Guides</a></li>
-</ul></div></nav>
+</ul>
+<div class="search-wrap">
+  <span class="search-icon" style="position:absolute;left:10px;color:var(--muted);font-size:14px;pointer-events:none">⌕</span>
+  <input type="search" id="site-search" class="nav-search" placeholder="Search 672 databases..." autocomplete="off" aria-label="Search B2B databases" style="background:var(--surf2);border:1px solid var(--bdr);color:var(--txt);font-size:12px;padding:6px 12px 6px 30px;border-radius:3px;width:190px;transition:width .2s,border-color .2s;outline:none">
+  <div id="search-results" style="position:absolute;top:calc(100% + 6px);right:0;width:320px;background:var(--surf);border:1px solid var(--bdr);border-radius:4px;z-index:999;display:none;max-height:380px;overflow-y:auto;box-shadow:0 8px 32px rgba(0,0,0,.4)"></div>
+</div>
+</div></nav>
+<script>
+(function(){
+  const inp=document.getElementById('site-search');
+  const res=document.getElementById('search-results');
+  if(!inp||!res) return;
+  let idx=null;
+  fetch('/search-index.json').then(r=>r.json()).then(d=>{idx=d;}).catch(()=>{});
+  inp.addEventListener('input',function(){
+    const q=this.value.trim().toLowerCase();
+    if(q.length<2){res.style.display='none';return;}
+    if(!idx){res.innerHTML='<div style="padding:14px;font-size:12px;color:var(--muted)">Loading...</div>';res.style.display='block';return;}
+    const hits=idx.filter(p=>p.n.toLowerCase().includes(q)||p.t.toLowerCase().includes(q)).slice(0,8);
+    if(!hits.length){
+      res.innerHTML='<div style="padding:14px;font-size:12px;color:var(--muted);text-align:center">No results for &quot;'+q+'&quot;</div>';
+    } else {
+      res.innerHTML=hits.map(p=>'<a style="display:flex;flex-direction:column;padding:10px 14px;border-bottom:1px solid var(--bdr);text-decoration:none;" onmouseover="this.style.background='var(--surf2)'" onmouseout="this.style.background=''"  href="'+p.u+'"><span style="font-size:13px;color:#fff;font-weight:500">'+p.n+'</span><span style="font-size:11px;color:var(--muted);margin-top:2px;font-family:var(--mf)">'+p.t+'</span></a>').join('');
+    }
+    res.style.display='block';
+  });
+  document.addEventListener('click',function(e){if(!inp.contains(e.target)&&!res.contains(e.target)){res.style.display='none';}});
+  inp.addEventListener('keydown',function(e){if(e.key==='Escape'){res.style.display='none';}if(e.key==='Enter'){const f=res.querySelector('a');if(f)window.location=f.href;}});
+  inp.addEventListener('focus',function(){this.style.width='260px';this.style.borderColor='var(--acc)';});
+  inp.addEventListener('blur',function(){this.style.width='190px';this.style.borderColor='var(--bdr)';});
+})();
+</script>
+</div></nav>
 <main>
 <section class="hero-hp">
   <div class="wrap">
@@ -342,7 +391,7 @@ footer{border-top:1px solid var(--bdr);padding:40px 0}
     <h2 class="hp-section-title">Featured B2B Databases</h2>
     <p class="hp-ssub" style="margin-bottom:20px">Top location-targeted B2B business email databases.</p>
     <div class="feat-grid">
-      <a href="/data-pages/togo-business-email-list/" class="feat-card"><span class="feat-name">Togo Business Email List</span><div class="feat-meta">483K+ records</div></a><a href="/data-pages/morocco-business-email-database/" class="feat-card"><span class="feat-name">Morocco Business Email Database</span><div class="feat-meta">496K+ records</div></a><a href="/data-pages/denmark-business-email-list/" class="feat-card"><span class="feat-name">Denmark Business Email List</span><div class="feat-meta">1.9M+ records</div></a><a href="/data-pages/missouri-business-email-database/" class="feat-card"><span class="feat-name">Missouri Business Email Database</span><div class="feat-meta">1.5M+ records</div></a><a href="/data-pages/vermont-business-email-database/" class="feat-card"><span class="feat-name">Vermont Business Email Database</span><div class="feat-meta">335K+ records</div></a><a href="/data-pages/japan-business-email-list-and-sales-leads-database/" class="feat-card"><span class="feat-name">Japan Business Email List and Sales Leads Database</span><div class="feat-meta">10.8M+ records</div></a><a href="/data-pages/belarus-bb-database/" class="feat-card"><span class="feat-name">Belarus BB Database</span><div class="feat-meta">375K+ records</div></a><a href="/data-pages/new-mexico-business-email-database/" class="feat-card"><span class="feat-name">New Mexico Business Email Database</span><div class="feat-meta">4.1M+ records</div></a>
+      <a href="/data-pages/uae-business-email-database/" class="feat-card"><span class="feat-name">UAE Business Email Database</span><div class="feat-meta">1.5M+ records</div></a><a href="/data-pages/west-virginia-business-email-list/" class="feat-card"><span class="feat-name">West Virginia Business Email List</span><div class="feat-meta">299K+ records</div></a><a href="/data-pages/alabama-business-email-list/" class="feat-card"><span class="feat-name">Alabama Business Email List</span><div class="feat-meta">1.7M+ records</div></a><a href="/data-pages/new-jersey-business-email-list/" class="feat-card"><span class="feat-name">New Jersey Business Email List</span><div class="feat-meta">132K+ records</div></a><a href="/data-pages/texas-business-email-database/" class="feat-card"><span class="feat-name">Texas Business Email Database</span><div class="feat-meta">10.2M+ records</div></a><a href="/data-pages/new-hampshire-business-email-database/" class="feat-card"><span class="feat-name">New Hampshire Business Email Database</span><div class="feat-meta">373K+ records</div></a><a href="/data-pages/hawaii-business-email-list/" class="feat-card"><span class="feat-name">Hawaii Business Email List</span><div class="feat-meta">214K+ records</div></a><a href="/data-pages/usa-business-email-list/" class="feat-card"><span class="feat-name">USA Business Email List</span><div class="feat-meta">86.6M+ records</div></a>
     </div>
     <p style="margin-top:16px"><a href="/data-pages/" style="font-size:13px">Browse all 124 B2B databases →</a></p>
   </div>
@@ -417,7 +466,7 @@ footer{border-top:1px solid var(--bdr);padding:40px 0}
         <a href="/" class="logo"><span>b2b</span>dataindex</a>
         <p class="fb-desc">Verified email data intelligence for 200+ global markets. B2B, consumer, targeted, and industry-specific databases. Powered by LeadsBlue.</p>
       </div>
-      <div class="fc"><h4>B2B Lists</h4><ul><li><a href="/data-pages/togo-business-email-list/">Togo</a></li><li><a href="/data-pages/morocco-business-email-database/">Morocco</a></li><li><a href="/data-pages/denmark-business-email-list/">Denmark</a></li><li><a href="/data-pages/missouri-business-email-database/">Missouri</a></li><li><a href="/data-pages/vermont-business-email-database/">Vermont</a></li><li><a href="/data-pages/">All B2B Lists →</a></li></ul></div>
+      <div class="fc"><h4>B2B Lists</h4><ul><li><a href="/data-pages/uae-business-email-database/">UAE</a></li><li><a href="/data-pages/west-virginia-business-email-list/">West Virginia</a></li><li><a href="/data-pages/alabama-business-email-list/">Alabama</a></li><li><a href="/data-pages/new-jersey-business-email-list/">New Jersey</a></li><li><a href="/data-pages/texas-business-email-database/">Texas</a></li><li><a href="/data-pages/">All B2B Lists →</a></li></ul></div>
       <div class="fc"><h4>Consumer</h4><ul><li><a href="/consumer-data/australia-consumer-email-list/">Australia</a></li><li><a href="/consumer-data/canada-consumer-email-database/">Canada</a></li><li><a href="/consumer-data/united-kingdom-consumer-email-list/">United Kingdom</a></li><li><a href="/consumer-data/france-consumer-mailing-list/">France</a></li><li><a href="/consumer-data/germany-consumer-email-list/">Germany</a></li><li><a href="/consumer-data/">All Consumer Lists →</a></li></ul></div>
       <div class="fc"><h4>USA Data</h4><ul><li><a href="/usa-categories/usa-web-development-database/">Web Development</a></li><li><a href="/usa-categories/usa-dog-breeders-database/">Dog Breeders</a></li><li><a href="/usa-categories/usa-auto-glass-database/">Auto Glass</a></li><li><a href="/usa-categories/usa-furniture-assembly-database/">Furniture Assembly</a></li><li><a href="/usa-categories/usa-alternative-medicine-database/">Alternative Medicine</a></li><li><a href="/usa-categories/">All USA Databases →</a></li></ul></div>
       <div class="fc"><h4>Resources</h4><ul><li><a href="/blog/">Outreach Guides</a></li><li><a href="/methodology/">Data Methodology</a></li><li><a href="/all-databases/">Full Database List</a></li><li><a href="/llm/">LLM Data Files</a></li><li><a href="/sitemap.xml">Sitemap</a></li></ul></div>
