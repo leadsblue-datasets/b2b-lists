@@ -28,4 +28,8 @@
     <loc>https://b2bdataindex.com/sitemap-core.xml</loc>
     <lastmod>2026-04-24</lastmod>
   </sitemap>
+  <sitemap>
+    <loc>https://b2bdataindex.com/sitemap-datasets.xml</loc>
+    <lastmod>2026-04-24</lastmod>
+  </sitemap>
 </sitemapindex>

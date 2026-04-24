@@ -75,6 +75,7 @@ Sitemap: https://b2bdataindex.com/sitemap-tech.xml
 Sitemap: https://b2bdataindex.com/sitemap-core.xml
 Sitemap: https://b2bdataindex.com/sitemap-blog.xml
 Sitemap: https://b2bdataindex.com/sitemap-images.xml
+Sitemap: https://b2bdataindex.com/sitemap-datasets.xml
 
 # LLM agent context files
 LLM-Context: https://b2bdataindex.com/llm.txt

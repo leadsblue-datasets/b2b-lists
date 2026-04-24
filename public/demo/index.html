@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap"></noscript>
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
+<title>B2B Benchmark Widget Demo — Live Cold Email Data for 74 Markets | B2B Data Index</title>
+<meta name="description" content="Try the B2B Data Index benchmark widget live. See real cold-email open rates, reply rates, and best-send-times for USA, Germany, UK, India, Singapore, and Canada. Free embed for any site.">
+<link rel="canonical" href="https://b2bdataindex.com/demo/">
+<link rel="manifest" href="/manifest.json">
+<meta property="og:title" content="B2B Benchmark Widget Demo — Live Cold Email Data">
+<meta property="og:description" content="Embed live B2B cold-email benchmarks on your site. Free widget showing open rates, reply rates, and best-send-times for 74 countries.">
+<meta property="og:url" content="https://b2bdataindex.com/demo/">
+<meta property="og:image" content="https://b2bdataindex.com/assets/og-default.svg">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://b2bdataindex.com/"},{"@type":"ListItem","position":2,"name":"Widget Demo","item":"https://b2bdataindex.com/demo/"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"SoftwareApplication","name":"B2B Benchmark Widget","description":"Embeddable live cold-email benchmark widget for B2B markets. Shows open rates, reply rates, and best-send-times for 74 countries x 14 industries.","url":"https://b2bdataindex.com/demo/","applicationCategory":"BusinessApplication","operatingSystem":"Web","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@type":"Organization","name":"B2B Data Index","url":"https://b2bdataindex.com"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"SpeakableSpecification","cssSelector":[".hero-desc",".demo-intro",".embed-note"]}</script>
+<style>
+:root{--bg:#0a0f1e;--surf:#111827;--surf2:#1a2435;--txt:#e2e8f0;--muted:#94a3b8;--acc:#0ea5e9;--acc2:#38bdf8;--bdr:#1e2d45;--hf:'DM Serif Display',Georgia,serif;--mf:'IBM Plex Mono',monospace}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--txt);font-family:'IBM Plex Sans',system-ui,sans-serif;font-size:15px;line-height:1.6}
+a{color:var(--acc2);text-decoration:none}a:hover{text-decoration:underline}
+.wrap{max-width:1100px;margin:0 auto;padding:0 24px}
+nav{background:var(--surf);border-bottom:1px solid var(--bdr);padding:16px 0}
+.nav-in{display:flex;justify-content:space-between;align-items:center;max-width:1100px;margin:0 auto;padding:0 24px}
+.logo{font-size:18px;font-weight:700;color:#fff;text-decoration:none}.logo span{color:var(--acc)}
+.nav-links{display:flex;gap:24px;list-style:none}
+.nav-links a{font-size:13px;color:var(--muted)}
+.hero{padding:64px 0 40px;border-bottom:1px solid var(--bdr)}
+h1{font-family:var(--hf);font-size:clamp(28px,4vw,48px);font-weight:400;color:#fff;letter-spacing:-.5px;margin-bottom:12px;line-height:1.15}
+.tag{display:inline-block;font-family:var(--mf);font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--acc);border:1px solid rgba(14,165,233,.3);padding:3px 10px;border-radius:2px;margin-bottom:18px}
+.hero-desc{font-size:17px;color:var(--muted);max-width:620px;margin-bottom:28px;line-height:1.75;font-weight:300}
+.cta-row{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:0}
+.btn-p{background:var(--acc);color:#fff;padding:11px 22px;border-radius:4px;font-size:14px;font-weight:500;display:inline-block}
+.btn-g{background:transparent;color:var(--txt);padding:11px 22px;border-radius:4px;font-size:14px;border:1px solid var(--bdr);display:inline-block}
+.bc{font-size:12px;color:var(--muted);padding:14px 0;display:flex;gap:8px;align-items:center}
+.bc a{color:var(--muted)}.bc span{opacity:.5}
+.section{padding:56px 0}
+.section-alt{padding:56px 0;background:var(--surf)}
+.slbl{display:block;font-family:var(--mf);font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--acc);margin-bottom:8px}
+h2{font-family:var(--hf);font-size:clamp(22px,3vw,34px);font-weight:400;color:#fff;margin-bottom:12px;line-height:1.2}
+.ssub{font-size:15px;color:var(--muted);max-width:580px;margin-bottom:36px;line-height:1.7}
+.market-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-top:8px}
+.market-card{background:var(--surf2);border:1px solid var(--bdr);border-radius:6px;padding:24px}
+.market-flag{font-size:28px;margin-bottom:10px;display:block}
+.market-label{font-size:14px;font-weight:600;color:#fff;margin-bottom:14px;display:block}
+.embed-box{background:var(--bg);border:1px solid var(--bdr);border-radius:6px;padding:20px;margin-top:24px}
+.embed-box pre{font-family:var(--mf);font-size:12px;color:var(--acc2);line-height:1.7;white-space:pre-wrap;word-break:break-all}
+.copy-btn{background:var(--surf);border:1px solid var(--bdr);color:var(--txt);padding:7px 14px;border-radius:4px;font-size:12px;cursor:pointer;margin-top:12px;font-family:var(--mf)}
+.copy-btn:hover{border-color:var(--acc);color:var(--acc)}
+.param-table{width:100%;border-collapse:collapse;margin-top:16px}
+.param-table th{text-align:left;font-size:10px;font-family:var(--mf);color:var(--acc);letter-spacing:1.5px;text-transform:uppercase;padding:10px 12px;border-bottom:1px solid var(--bdr)}
+.param-table td{font-size:13px;color:var(--muted);padding:10px 12px;border-bottom:1px solid var(--bdr);vertical-align:top}
+.param-table td:first-child{font-family:var(--mf);color:var(--acc2)}
+.link-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:24px}
+.link-card{background:var(--surf);border:1px solid var(--bdr);border-radius:4px;padding:16px;display:block;color:var(--txt)}
+.link-card:hover{border-color:var(--acc);text-decoration:none}
+.link-card-title{font-size:14px;font-weight:600;color:#fff;margin-bottom:4px}
+.link-card-desc{font-size:12px;color:var(--muted);line-height:1.5}
+.demo-note{font-size:12px;color:var(--muted);background:var(--surf);border:1px solid var(--bdr);border-left:3px solid var(--acc);border-radius:4px;padding:12px 16px;margin-top:16px}
+footer{border-top:1px solid var(--bdr);padding:28px 0;margin-top:60px}
+@media(max-width:768px){.market-grid{grid-template-columns:1fr}.link-grid{grid-template-columns:1fr}.nav-links{display:none}}
+</style>
+</head>
+<body>
+<nav>
+  <div class="nav-in">
+    <a href="/" class="logo"><span>b2b</span>dataindex</a>
+    <ul class="nav-links">
+      <li><a href="/data-pages/">B2B Lists</a></li>
+      <li><a href="/benchmarks/">Benchmarks</a></li>
+      <li><a href="/compliance/">Compliance</a></li>
+      <li><a href="https://api.b2bdataindex.com/docs">API Docs</a></li>
+    </ul>
+  </div>
+</nav>
+
+<div class="wrap"><nav class="bc"><a href="/">Home</a><span>&#x203A;</span>Widget Demo</nav></div>
+
+<section class="hero"><div class="wrap">
+  <span class="tag">Free Embed &middot; No Auth Required &middot; 74 Markets</span>
+  <h1>B2B Benchmark Widget<br>Live Demo</h1>
+  <p class="hero-desc demo-intro">Embed real-time cold-email benchmarks on any site. One script tag, one div. Shows open rates, reply rates, bounce rates, and best send times for 74 countries across 14 industries.</p>
+  <div class="cta-row">
+    <a href="https://api.b2bdataindex.com/docs" class="btn-p" target="_blank" rel="noopener">Full API Docs &#x2192;</a>
+    <a href="/data-pages/" class="btn-g">Browse B2B Databases</a>
+  </div>
+</div></section>
+
+<section class="section"><div class="wrap">
+  <span class="slbl">Live Demos &middot; Technology Industry</span>
+  <h2>6 Markets, Live Data</h2>
+  <p class="ssub">Each widget below pulls live benchmark data. Change the <code style="background:var(--surf);padding:2px 6px;border-radius:3px;font-family:var(--mf);font-size:13px;color:var(--acc2)">data-market</code> and <code style="background:var(--surf);padding:2px 6px;border-radius:3px;font-family:var(--mf);font-size:13px;color:var(--acc2)">data-industry</code> attributes to target any market.</p>
+  <div class="market-grid">
+    <div class="market-card">
+      <span class="market-flag">🇺🇸</span>
+      <span class="market-label">United States</span>
+      <script src="https://api.b2bdataindex.com/widget.js"></script>
+      <div class="b2b-benchmark" data-market="usa" data-industry="technology"></div>
+      <a href="/data-pages/usa-business-contact-list/" style="display:block;margin-top:14px;font-size:12px;color:var(--muted)">Get United States B2B Database &#x2192;</a>
+    </div>
+    <div class="market-card">
+      <span class="market-flag">🇩🇪</span>
+      <span class="market-label">Germany</span>
+      <script src="https://api.b2bdataindex.com/widget.js"></script>
+      <div class="b2b-benchmark" data-market="germany" data-industry="technology"></div>
+      <a href="/data-pages/germany-business-contact-list/" style="display:block;margin-top:14px;font-size:12px;color:var(--muted)">Get Germany B2B Database &#x2192;</a>
+    </div>
+    <div class="market-card">
+      <span class="market-flag">🇬🇧</span>
+      <span class="market-label">United Kingdom</span>
+      <script src="https://api.b2bdataindex.com/widget.js"></script>
+      <div class="b2b-benchmark" data-market="uk" data-industry="technology"></div>
+      <a href="/data-pages/united-kingdom-business-contact-list/" style="display:block;margin-top:14px;font-size:12px;color:var(--muted)">Get United Kingdom B2B Database &#x2192;</a>
+    </div>
+    <div class="market-card">
+      <span class="market-flag">🇮🇳</span>
+      <span class="market-label">India</span>
+      <script src="https://api.b2bdataindex.com/widget.js"></script>
+      <div class="b2b-benchmark" data-market="india" data-industry="technology"></div>
+      <a href="/data-pages/india-business-contact-list/" style="display:block;margin-top:14px;font-size:12px;color:var(--muted)">Get India B2B Database &#x2192;</a>
+    </div>
+    <div class="market-card">
+      <span class="market-flag">🇸🇬</span>
+      <span class="market-label">Singapore</span>
+      <script src="https://api.b2bdataindex.com/widget.js"></script>
+      <div class="b2b-benchmark" data-market="singapore" data-industry="technology"></div>
+      <a href="/data-pages/singapore-business-contact-list/" style="display:block;margin-top:14px;font-size:12px;color:var(--muted)">Get Singapore B2B Database &#x2192;</a>
+    </div>
+    <div class="market-card">
+      <span class="market-flag">🇨🇦</span>
+      <span class="market-label">Canada</span>
+      <script src="https://api.b2bdataindex.com/widget.js"></script>
+      <div class="b2b-benchmark" data-market="canada" data-industry="technology"></div>
+      <a href="/data-pages/canada-business-contact-list/" style="display:block;margin-top:14px;font-size:12px;color:var(--muted)">Get Canada B2B Database &#x2192;</a>
+    </div>
+  </div>
+</div></section>
+
+<section class="section-alt"><div class="wrap">
+  <span class="slbl">Embed Code</span>
+  <h2>Add to Your Site in 2 Lines</h2>
+  <p class="ssub">No API key. No rate limits. Copy and paste into any HTML page. Works on React, Vue, static HTML, and WordPress.</p>
+  <div class="embed-box">
+    <pre id="embedCode">&lt;script src="https://api.b2bdataindex.com/widget.js"&gt;&lt;/script&gt;
+&lt;div class="b2b-benchmark"
+     data-market="usa"
+     data-industry="technology"&gt;
+&lt;/div&gt;</pre>
+    <button class="copy-btn" onclick="copyEmbed()">Copy Code</button>
+    <div class="embed-note" style="margin-top:12px">Replace <code style="font-family:var(--mf);color:var(--acc2)">usa</code> with any country slug and <code style="font-family:var(--mf);color:var(--acc2)">technology</code> with any industry slug.</div>
+  </div>
+
+  <div style="margin-top:40px">
+    <span class="slbl">Parameters</span>
+    <h2 style="font-size:22px;margin-bottom:12px">Widget Attributes</h2>
+    <table class="param-table">
+      <thead><tr><th>Attribute</th><th>Required</th><th>Values</th><th>Example</th></tr></thead>
+      <tbody>
+        <tr><td>data-market</td><td style="color:#34d399">Yes</td><td>74 country slugs — usa, germany, uk, india, singapore, canada, australia, france, japan...</td><td>data-market="germany"</td></tr>
+        <tr><td>data-industry</td><td style="color:var(--muted)">Optional</td><td>technology, healthcare, finance, manufacturing, professional-services, e-commerce, legal, real-estate, education, retail</td><td>data-industry="healthcare"</td></tr>
+        <tr><td>data-theme</td><td style="color:var(--muted)">Optional</td><td>dark (default), light</td><td>data-theme="light"</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div></section>
+
+<section class="section"><div class="wrap">
+  <span class="slbl">API Access</span>
+  <h2>Full JSON API — No Auth Required</h2>
+  <p class="ssub">The same data powering this widget is available as static JSON endpoints. 74 countries, 14 industries, 2,800+ benchmark rows.</p>
+  <div class="embed-box">
+    <pre>GET https://api.b2bdataindex.com/v1/benchmarks.json
+GET https://api.b2bdataindex.com/v1/intelligence/usa.json
+GET https://api.b2bdataindex.com/v1/intelligence/germany.json</pre>
+  </div>
+  <p style="margin-top:16px"><a href="https://api.b2bdataindex.com/docs" class="btn-p" target="_blank" rel="noopener">Read Full API Docs &#x2192;</a></p>
+</div></section>
+
+<section class="section-alt"><div class="wrap">
+  <span class="slbl">Related Resources</span>
+  <h2>B2B Data &amp; Intelligence</h2>
+  <div class="link-grid">
+    <a href="/benchmarks/" class="link-card"><div class="link-card-title">Benchmark Hub</div><div class="link-card-desc">Cold email benchmarks for 74 countries and 14 industries with full methodology</div></a>
+    <a href="/data-pages/" class="link-card"><div class="link-card-title">B2B Databases</div><div class="link-card-desc">187 verified B2B email databases across 200+ global markets</div></a>
+    <a href="/compliance/" class="link-card"><div class="link-card-title">Compliance Matrix</div><div class="link-card-desc">Email law frameworks for 44 countries — GDPR, CAN-SPAM, CASL and more</div></a>
+    <a href="/industries/" class="link-card"><div class="link-card-title">Industry Hubs</div><div class="link-card-desc">Decision-maker profiles, buying triggers, and outreach strategy by sector</div></a>
+    <a href="/blog/" class="link-card"><div class="link-card-title">Strategy Guides</div><div class="link-card-desc">Cold email strategy, deliverability, and B2B lead generation playbooks</div></a>
+    <a href="https://api.b2bdataindex.com/docs" class="link-card" target="_blank" rel="noopener"><div class="link-card-title">API Documentation</div><div class="link-card-desc">Full API reference, response schemas, and code examples</div></a>
+  </div>
+</div></section>
+
+<footer><div class="wrap">
+  <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:16px">
+    <p style="font-size:12px;color:var(--muted)">© 2026 B2B Data Index &middot; Powered by <a href="https://leadsblue.com" style="color:var(--muted)" rel="noopener">LeadsBlue</a></p>
+    <p style="font-size:12px;color:var(--muted)"><a href="/" style="color:var(--muted)">Home</a> &middot; <a href="/methodology/" style="color:var(--muted)">Methodology</a> &middot; <a href="/sitemap.xml" style="color:var(--muted)">Sitemap</a></p>
+  </div>
+</div></footer>
+
+<script>
+function copyEmbed() {
+  const code = document.getElementById('embedCode').textContent;
+  navigator.clipboard.writeText(code).then(function() {
+    var btn = document.querySelector('.copy-btn');
+    btn.textContent = 'Copied!';
+    setTimeout(function(){ btn.textContent = 'Copy Code'; }, 2000);
+  });
+}
+</script>
+</body></html>
