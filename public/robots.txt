@@ -2,7 +2,15 @@ User-agent: *
 Allow: /
 Allow: /llm/
 Allow: /llm.txt
+Allow: /llms.txt
 Allow: /humans.txt
+Allow: /use-cases/
+Allow: /industries/
+Allow: /city/
+Allow: /resources/
+Allow: /tools/
+Allow: /compare/
+Allow: /search-index.json
 Allow: /methodology/
 Allow: /all-databases/
 Allow: /regions/
