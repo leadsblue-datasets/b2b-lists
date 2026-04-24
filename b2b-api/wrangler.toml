@@ -1,0 +1,24 @@
+name            = "b2b-api"
+main            = "worker.js"
+compatibility_date = "2024-01-01"
+
+# Route: all traffic to api.b2bdataindex.com goes through this worker
+routes = [
+  { pattern = "api.b2bdataindex.com/*", zone_name = "b2bdataindex.com" }
+]
+
+# KV namespace for usage tracking and rate limiting
+# Replace `id` with your real KV namespace ID after running:
+#   npx wrangler kv:namespace create "B2B_USAGE"
+[[kv_namespaces]]
+binding  = "B2B_USAGE"
+id       = "6e9302ec3da14e8a9affa78c6cf667a6"
+# preview_id = "REPLACE_WITH_YOUR_KV_PREVIEW_NAMESPACE_ID"  # optional, for local dev
+
+[vars]
+ENVIRONMENT = "production"
+
+# Uncomment to enable local dev port
+# [dev]
+# port = 8787
+# local_protocol = "http"
