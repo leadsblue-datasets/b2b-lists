@@ -4,7 +4,7 @@
   "name": "B2B Data Index Knowledge Graph",
   "description": "Entity relationships and data intelligence for B2B Data Index email databases",
   "url": "https://b2bdataindex.com/llm/knowledge-graph.json",
-  "dateModified": "2026-04-20",
+  "dateModified": "2026-04-24",
   "publisher": {
     "@type": "Organization",
     "name": "B2B Data Index",
@@ -30,171 +30,59 @@
     },
     {
       "@type": "Dataset",
-      "name": "Wyoming Business Email List",
-      "url": "https://b2bdataindex.com/data-pages/wyoming-business-email-list/",
-      "spatialCoverage": "Wyoming",
-      "about": "Wyoming B2B business contacts",
+      "name": "Togo Business Email List",
+      "url": "https://b2bdataindex.com/data-pages/togo-business-email-list/",
+      "spatialCoverage": "Togo",
+      "about": "Togo B2B business contacts",
       "keywords": [
-        "Wyoming email list",
-        "Wyoming b2b database",
-        "buy Wyoming email list"
-      ],
-      "topIndustry": "Technology & Software",
-      "estimatedRecords": "326K+"
-    },
-    {
-      "@type": "Dataset",
-      "name": "Poland Business Email List",
-      "url": "https://b2bdataindex.com/data-pages/poland-business-email-list/",
-      "spatialCoverage": "Poland",
-      "about": "Poland B2B business contacts",
-      "keywords": [
-        "Poland email list",
-        "Poland b2b database",
-        "buy Poland email list"
+        "Togo email list",
+        "Togo b2b database",
+        "buy Togo email list"
       ],
       "topIndustry": "Manufacturing",
-      "estimatedRecords": "803K+"
+      "estimatedRecords": "483K+"
     },
     {
       "@type": "Dataset",
-      "name": "Italy Business Email List",
-      "url": "https://b2bdataindex.com/data-pages/italy-business-email-list/",
-      "spatialCoverage": "Italy",
-      "about": "Italy B2B business contacts",
+      "name": "Morocco Business Email Database",
+      "url": "https://b2bdataindex.com/data-pages/morocco-business-email-database/",
+      "spatialCoverage": "Morocco",
+      "about": "Morocco B2B business contacts",
       "keywords": [
-        "Italy email list",
-        "Italy b2b database",
-        "buy Italy email list"
+        "Morocco email list",
+        "Morocco b2b database",
+        "buy Morocco email list"
       ],
-      "topIndustry": "Manufacturing",
-      "estimatedRecords": "3.6M+"
+      "topIndustry": "Agriculture",
+      "estimatedRecords": "496K+"
     },
     {
       "@type": "Dataset",
-      "name": "Lithuania Business Email List",
-      "url": "https://b2bdataindex.com/data-pages/lithuania-business-email-list/",
-      "spatialCoverage": "Lithuania",
-      "about": "Lithuania B2B business contacts",
+      "name": "Denmark Business Email List",
+      "url": "https://b2bdataindex.com/data-pages/denmark-business-email-list/",
+      "spatialCoverage": "Denmark",
+      "about": "Denmark B2B business contacts",
       "keywords": [
-        "Lithuania email list",
-        "Lithuania b2b database",
-        "buy Lithuania email list"
+        "Denmark email list",
+        "Denmark b2b database",
+        "buy Denmark email list"
       ],
-      "topIndustry": "Technology",
-      "estimatedRecords": "403K+"
-    },
-    {
-      "@type": "Dataset",
-      "name": "South Carolina Business Email List",
-      "url": "https://b2bdataindex.com/data-pages/south-carolina-business-email-list/",
-      "spatialCoverage": "South Carolina",
-      "about": "South Carolina B2B business contacts",
-      "keywords": [
-        "South Carolina email list",
-        "South Carolina b2b database",
-        "buy South Carolina email list"
-      ],
-      "topIndustry": "Energy & Utilities",
+      "topIndustry": "Pharmaceutical",
       "estimatedRecords": "1.9M+"
     },
     {
       "@type": "Dataset",
-      "name": "Arizona Business Email List",
-      "url": "https://b2bdataindex.com/data-pages/arizona-business-email-list/",
-      "spatialCoverage": "Arizona",
-      "about": "Arizona B2B business contacts",
+      "name": "Missouri Business Email Database",
+      "url": "https://b2bdataindex.com/data-pages/missouri-business-email-database/",
+      "spatialCoverage": "Missouri",
+      "about": "Missouri B2B business contacts",
       "keywords": [
-        "Arizona email list",
-        "Arizona b2b database",
-        "buy Arizona email list"
+        "Missouri email list",
+        "Missouri b2b database",
+        "buy Missouri email list"
       ],
-      "topIndustry": "Professional Services",
-      "estimatedRecords": "3M+"
-    },
-    {
-      "@type": "Dataset",
-      "name": "Pennsylvania Business Email List",
-      "url": "https://b2bdataindex.com/data-pages/pennsylvania-business-email-list/",
-      "spatialCoverage": "Pennsylvania",
-      "about": "Pennsylvania B2B business contacts",
-      "keywords": [
-        "Pennsylvania email list",
-        "Pennsylvania b2b database",
-        "buy Pennsylvania email list"
-      ],
-      "topIndustry": "Healthcare",
-      "estimatedRecords": "6.2M+"
-    },
-    {
-      "@type": "Dataset",
-      "name": "Bulgaria Business Email Database",
-      "url": "https://b2bdataindex.com/data-pages/bulgaria-business-email-database/",
-      "spatialCoverage": "Bulgaria",
-      "about": "Bulgaria B2B business contacts",
-      "keywords": [
-        "Bulgaria email list",
-        "Bulgaria b2b database",
-        "buy Bulgaria email list"
-      ],
-      "topIndustry": "Retail & Commerce",
-      "estimatedRecords": "505K+"
-    },
-    {
-      "@type": "Dataset",
-      "name": "Sri Lanka Business Email List",
-      "url": "https://b2bdataindex.com/data-pages/sri-lanka-business-email-list/",
-      "spatialCoverage": "Sri Lanka",
-      "about": "Sri Lanka B2B business contacts",
-      "keywords": [
-        "Sri Lanka email list",
-        "Sri Lanka b2b database",
-        "buy Sri Lanka email list"
-      ],
-      "topIndustry": "Technology",
-      "estimatedRecords": "445K+"
-    },
-    {
-      "@type": "Dataset",
-      "name": "France Business Email List",
-      "url": "https://b2bdataindex.com/data-pages/france-business-email-list/",
-      "spatialCoverage": "France",
-      "about": "France B2B business contacts",
-      "keywords": [
-        "France email list",
-        "France b2b database",
-        "buy France email list"
-      ],
-      "topIndustry": "Tourism & Hospitality",
-      "estimatedRecords": "4.6M+"
-    },
-    {
-      "@type": "Dataset",
-      "name": "Israel Business Email Database",
-      "url": "https://b2bdataindex.com/data-pages/israel-business-email-database/",
-      "spatialCoverage": "Israel",
-      "about": "Israel B2B business contacts",
-      "keywords": [
-        "Israel email list",
-        "Israel b2b database",
-        "buy Israel email list"
-      ],
-      "topIndustry": "Technology",
-      "estimatedRecords": "1.2M+"
-    },
-    {
-      "@type": "Dataset",
-      "name": "China Business Email Database",
-      "url": "https://b2bdataindex.com/data-pages/china-business-email-database/",
-      "spatialCoverage": "China",
-      "about": "China B2B business contacts",
-      "keywords": [
-        "China email list",
-        "China b2b database",
-        "buy China email list"
-      ],
-      "topIndustry": "Manufacturing",
-      "estimatedRecords": "115M+"
+      "topIndustry": "Transportation & Logistics",
+      "estimatedRecords": "1.5M+"
     },
     {
       "@type": "Dataset",
@@ -212,20 +100,6 @@
     },
     {
       "@type": "Dataset",
-      "name": "USA Business Email List",
-      "url": "https://b2bdataindex.com/data-pages/usa-business-email-list/",
-      "spatialCoverage": "USA",
-      "about": "USA B2B business contacts",
-      "keywords": [
-        "USA email list",
-        "USA b2b database",
-        "buy USA email list"
-      ],
-      "topIndustry": "Technology & Software",
-      "estimatedRecords": "86.6M+"
-    },
-    {
-      "@type": "Dataset",
       "name": "Japan Business Email List and Sales Leads Database",
       "url": "https://b2bdataindex.com/data-pages/japan-business-email-list-and-sales-leads-database/",
       "spatialCoverage": "Japan",
@@ -237,160 +111,6 @@
       ],
       "topIndustry": "Manufacturing & Electronics",
       "estimatedRecords": "10.8M+"
-    },
-    {
-      "@type": "Dataset",
-      "name": "Washington Business Email Database",
-      "url": "https://b2bdataindex.com/data-pages/washington-business-email-database/",
-      "spatialCoverage": "Washington",
-      "about": "Washington B2B business contacts",
-      "keywords": [
-        "Washington email list",
-        "Washington b2b database",
-        "buy Washington email list"
-      ],
-      "topIndustry": "Technology & Software",
-      "estimatedRecords": "279K+"
-    },
-    {
-      "@type": "Dataset",
-      "name": "Kuwait Business Email Database",
-      "url": "https://b2bdataindex.com/data-pages/kuwait-business-email-database/",
-      "spatialCoverage": "Kuwait",
-      "about": "Kuwait B2B business contacts",
-      "keywords": [
-        "Kuwait email list",
-        "Kuwait b2b database",
-        "buy Kuwait email list"
-      ],
-      "topIndustry": "Construction & Real Estate",
-      "estimatedRecords": "1.2M+"
-    },
-    {
-      "@type": "Dataset",
-      "name": "Tennessee Business Email List",
-      "url": "https://b2bdataindex.com/data-pages/tennessee-business-email-list/",
-      "spatialCoverage": "Tennessee",
-      "about": "Tennessee B2B business contacts",
-      "keywords": [
-        "Tennessee email list",
-        "Tennessee b2b database",
-        "buy Tennessee email list"
-      ],
-      "topIndustry": "Technology & Software",
-      "estimatedRecords": "854K+"
-    },
-    {
-      "@type": "Dataset",
-      "name": "Argentina Business Email List",
-      "url": "https://b2bdataindex.com/data-pages/argentina-business-email-list/",
-      "spatialCoverage": "Argentina",
-      "about": "Argentina B2B business contacts",
-      "keywords": [
-        "Argentina email list",
-        "Argentina b2b database",
-        "buy Argentina email list"
-      ],
-      "topIndustry": "Retail & Commerce",
-      "estimatedRecords": "12M+"
-    },
-    {
-      "@type": "Dataset",
-      "name": "Oregon Business Email Database",
-      "url": "https://b2bdataindex.com/data-pages/oregon-business-email-database/",
-      "spatialCoverage": "Oregon",
-      "about": "Oregon B2B business contacts",
-      "keywords": [
-        "Oregon email list",
-        "Oregon b2b database",
-        "buy Oregon email list"
-      ],
-      "topIndustry": "Professional Services",
-      "estimatedRecords": "1.8M+"
-    },
-    {
-      "@type": "Dataset",
-      "name": "Finland Business Email Database",
-      "url": "https://b2bdataindex.com/data-pages/finland-business-email-database/",
-      "spatialCoverage": "Finland",
-      "about": "Finland B2B business contacts",
-      "keywords": [
-        "Finland email list",
-        "Finland b2b database",
-        "buy Finland email list"
-      ],
-      "topIndustry": "Technology",
-      "estimatedRecords": "1.7M+"
-    },
-    {
-      "@type": "Dataset",
-      "name": "New Mexico Business Email Database",
-      "url": "https://b2bdataindex.com/data-pages/new-mexico-business-email-database/",
-      "spatialCoverage": "New Mexico",
-      "about": "New Mexico B2B business contacts",
-      "keywords": [
-        "New Mexico email list",
-        "New Mexico b2b database",
-        "buy New Mexico email list"
-      ],
-      "topIndustry": "Manufacturing",
-      "estimatedRecords": "4.1M+"
-    },
-    {
-      "@type": "Dataset",
-      "name": "Maine Business Email Database",
-      "url": "https://b2bdataindex.com/data-pages/maine-business-email-database/",
-      "spatialCoverage": "Maine",
-      "about": "Maine B2B business contacts",
-      "keywords": [
-        "Maine email list",
-        "Maine b2b database",
-        "buy Maine email list"
-      ],
-      "topIndustry": "Finance & Insurance",
-      "estimatedRecords": "332K+"
-    },
-    {
-      "@type": "Dataset",
-      "name": "Saudi Arabia Business Email List",
-      "url": "https://b2bdataindex.com/data-pages/saudi-arabia-business-email-list/",
-      "spatialCoverage": "Saudi Arabia",
-      "about": "Saudi Arabia B2B business contacts",
-      "keywords": [
-        "Saudi Arabia email list",
-        "Saudi Arabia b2b database",
-        "buy Saudi Arabia email list"
-      ],
-      "topIndustry": "Oil & Energy",
-      "estimatedRecords": "727K+"
-    },
-    {
-      "@type": "Dataset",
-      "name": "Turkey Business Email Database",
-      "url": "https://b2bdataindex.com/data-pages/turkey-business-email-database/",
-      "spatialCoverage": "Turkey",
-      "about": "Turkey B2B business contacts",
-      "keywords": [
-        "Turkey email list",
-        "Turkey b2b database",
-        "buy Turkey email list"
-      ],
-      "topIndustry": "Manufacturing",
-      "estimatedRecords": "16.8M+"
-    },
-    {
-      "@type": "Dataset",
-      "name": "Arkansas Business Email Database",
-      "url": "https://b2bdataindex.com/data-pages/arkansas-business-email-database/",
-      "spatialCoverage": "Arkansas",
-      "about": "Arkansas B2B business contacts",
-      "keywords": [
-        "Arkansas email list",
-        "Arkansas b2b database",
-        "buy Arkansas email list"
-      ],
-      "topIndustry": "Healthcare & Medical",
-      "estimatedRecords": "84K+"
     },
     {
       "@type": "Dataset",
@@ -408,31 +128,115 @@
     },
     {
       "@type": "Dataset",
-      "name": "Peru Business Email Database",
-      "url": "https://b2bdataindex.com/data-pages/peru-business-email-database/",
-      "spatialCoverage": "Peru",
-      "about": "Peru B2B business contacts",
+      "name": "New Mexico Business Email Database",
+      "url": "https://b2bdataindex.com/data-pages/new-mexico-business-email-database/",
+      "spatialCoverage": "New Mexico",
+      "about": "New Mexico B2B business contacts",
       "keywords": [
-        "Peru email list",
-        "Peru b2b database",
-        "buy Peru email list"
+        "New Mexico email list",
+        "New Mexico b2b database",
+        "buy New Mexico email list"
       ],
       "topIndustry": "Manufacturing",
-      "estimatedRecords": "706K+"
+      "estimatedRecords": "4.1M+"
     },
     {
       "@type": "Dataset",
-      "name": "Maryland Business Email List",
-      "url": "https://b2bdataindex.com/data-pages/maryland-business-email-list/",
-      "spatialCoverage": "Maryland",
-      "about": "Maryland B2B business contacts",
+      "name": "Washington Business Email Database",
+      "url": "https://b2bdataindex.com/data-pages/washington-business-email-database/",
+      "spatialCoverage": "Washington",
+      "about": "Washington B2B business contacts",
       "keywords": [
-        "Maryland email list",
-        "Maryland b2b database",
-        "buy Maryland email list"
+        "Washington email list",
+        "Washington b2b database",
+        "buy Washington email list"
       ],
-      "topIndustry": "Energy & Utilities",
-      "estimatedRecords": "2.1M+"
+      "topIndustry": "Technology & Software",
+      "estimatedRecords": "279K+"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Colombia Business Email List",
+      "url": "https://b2bdataindex.com/data-pages/colombia-business-email-list/",
+      "spatialCoverage": "Colombia",
+      "about": "Colombia B2B business contacts",
+      "keywords": [
+        "Colombia email list",
+        "Colombia b2b database",
+        "buy Colombia email list"
+      ],
+      "topIndustry": "Retail & Commerce",
+      "estimatedRecords": "484K+"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Illinois Business Email List",
+      "url": "https://b2bdataindex.com/data-pages/illinois-business-email-list/",
+      "spatialCoverage": "Illinois",
+      "about": "Illinois B2B business contacts",
+      "keywords": [
+        "Illinois email list",
+        "Illinois b2b database",
+        "buy Illinois email list"
+      ],
+      "topIndustry": "Finance & Banking",
+      "estimatedRecords": "13.1M+"
+    },
+    {
+      "@type": "Dataset",
+      "name": "West Virginia Business Email List",
+      "url": "https://b2bdataindex.com/data-pages/west-virginia-business-email-list/",
+      "spatialCoverage": "West Virginia",
+      "about": "West Virginia B2B business contacts",
+      "keywords": [
+        "West Virginia email list",
+        "West Virginia b2b database",
+        "buy West Virginia email list"
+      ],
+      "topIndustry": "Technology & Software",
+      "estimatedRecords": "299K+"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Wisconsin Business Email Database",
+      "url": "https://b2bdataindex.com/data-pages/wisconsin-business-email-database/",
+      "spatialCoverage": "Wisconsin",
+      "about": "Wisconsin B2B business contacts",
+      "keywords": [
+        "Wisconsin email list",
+        "Wisconsin b2b database",
+        "buy Wisconsin email list"
+      ],
+      "topIndustry": "Technology & Software",
+      "estimatedRecords": "2.2M+"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Germany Business Contact List",
+      "url": "https://b2bdataindex.com/data-pages/germany-business-contact-list/",
+      "spatialCoverage": "Germany",
+      "about": "Germany B2B business contacts",
+      "keywords": [
+        "Germany email list",
+        "Germany b2b database",
+        "buy Germany email list"
+      ],
+      "topIndustry": "Manufacturing & Engineering",
+      "estimatedRecords": "3.9M+"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Czech Republic BB Database",
+      "url": "https://b2bdataindex.com/data-pages/czech-republic-bb-database/",
+      "spatialCoverage": "Czech Republic",
+      "about": "Czech Republic B2B business contacts",
+      "keywords": [
+        "Czech Republic email list",
+        "Czech Republic b2b database",
+        "buy Czech Republic email list"
+      ],
+      "topIndustry": "Manufacturing & Engineering",
+      "estimatedRecords": "2.5M+"
     },
     {
       "@type": "Dataset",
@@ -447,6 +251,202 @@
       ],
       "topIndustry": "Transportation",
       "estimatedRecords": "2.5M+"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Poland Business Email List",
+      "url": "https://b2bdataindex.com/data-pages/poland-business-email-list/",
+      "spatialCoverage": "Poland",
+      "about": "Poland B2B business contacts",
+      "keywords": [
+        "Poland email list",
+        "Poland b2b database",
+        "buy Poland email list"
+      ],
+      "topIndustry": "Manufacturing",
+      "estimatedRecords": "803K+"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Mississippi Business Email List",
+      "url": "https://b2bdataindex.com/data-pages/mississippi-business-email-list/",
+      "spatialCoverage": "Mississippi",
+      "about": "Mississippi B2B business contacts",
+      "keywords": [
+        "Mississippi email list",
+        "Mississippi b2b database",
+        "buy Mississippi email list"
+      ],
+      "topIndustry": "Technology & Software",
+      "estimatedRecords": "396K+"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Greece Business Mailing List",
+      "url": "https://b2bdataindex.com/data-pages/greece-business-mailing-list/",
+      "spatialCoverage": "Greece",
+      "about": "Greece B2B business contacts",
+      "keywords": [
+        "Greece email list",
+        "Greece b2b database",
+        "buy Greece email list"
+      ],
+      "topIndustry": "Professional Services",
+      "estimatedRecords": "3.4M+"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Pennsylvania Business Email List",
+      "url": "https://b2bdataindex.com/data-pages/pennsylvania-business-email-list/",
+      "spatialCoverage": "Pennsylvania",
+      "about": "Pennsylvania B2B business contacts",
+      "keywords": [
+        "Pennsylvania email list",
+        "Pennsylvania b2b database",
+        "buy Pennsylvania email list"
+      ],
+      "topIndustry": "Healthcare",
+      "estimatedRecords": "6.2M+"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Michigan Business Email List",
+      "url": "https://b2bdataindex.com/data-pages/michigan-business-email-list/",
+      "spatialCoverage": "Michigan",
+      "about": "Michigan B2B business contacts",
+      "keywords": [
+        "Michigan email list",
+        "Michigan b2b database",
+        "buy Michigan email list"
+      ],
+      "topIndustry": "Automotive & Manufacturing",
+      "estimatedRecords": "5.3M+"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Finland Business Email Database",
+      "url": "https://b2bdataindex.com/data-pages/finland-business-email-database/",
+      "spatialCoverage": "Finland",
+      "about": "Finland B2B business contacts",
+      "keywords": [
+        "Finland email list",
+        "Finland b2b database",
+        "buy Finland email list"
+      ],
+      "topIndustry": "Technology",
+      "estimatedRecords": "1.7M+"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Chile Business Email List",
+      "url": "https://b2bdataindex.com/data-pages/chile-business-email-list/",
+      "spatialCoverage": "Chile",
+      "about": "Chile B2B business contacts",
+      "keywords": [
+        "Chile email list",
+        "Chile b2b database",
+        "buy Chile email list"
+      ],
+      "topIndustry": "Professional Services",
+      "estimatedRecords": "1.5M+"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Maine Business Email Database",
+      "url": "https://b2bdataindex.com/data-pages/maine-business-email-database/",
+      "spatialCoverage": "Maine",
+      "about": "Maine B2B business contacts",
+      "keywords": [
+        "Maine email list",
+        "Maine b2b database",
+        "buy Maine email list"
+      ],
+      "topIndustry": "Finance & Insurance",
+      "estimatedRecords": "332K+"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Montana Business Email List",
+      "url": "https://b2bdataindex.com/data-pages/montana-business-email-list/",
+      "spatialCoverage": "Montana",
+      "about": "Montana B2B business contacts",
+      "keywords": [
+        "Montana email list",
+        "Montana b2b database",
+        "buy Montana email list"
+      ],
+      "topIndustry": "Technology & Software",
+      "estimatedRecords": "144K+"
+    },
+    {
+      "@type": "Dataset",
+      "name": "New Jersey Business Email List",
+      "url": "https://b2bdataindex.com/data-pages/new-jersey-business-email-list/",
+      "spatialCoverage": "New Jersey",
+      "about": "New Jersey B2B business contacts",
+      "keywords": [
+        "New Jersey email list",
+        "New Jersey b2b database",
+        "buy New Jersey email list"
+      ],
+      "topIndustry": "Healthcare & Medical",
+      "estimatedRecords": "132K+"
+    },
+    {
+      "@type": "Dataset",
+      "name": "USA Business Email List",
+      "url": "https://b2bdataindex.com/data-pages/usa-business-email-list/",
+      "spatialCoverage": "USA",
+      "about": "USA B2B business contacts",
+      "keywords": [
+        "USA email list",
+        "USA b2b database",
+        "buy USA email list"
+      ],
+      "topIndustry": "Technology & Software",
+      "estimatedRecords": "86.6M+"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Estonia Business Contact List",
+      "url": "https://b2bdataindex.com/data-pages/estonia-business-contact-list/",
+      "spatialCoverage": "Estonia",
+      "about": "Estonia B2B business contacts",
+      "keywords": [
+        "Estonia email list",
+        "Estonia b2b database",
+        "buy Estonia email list"
+      ],
+      "topIndustry": "Transportation",
+      "estimatedRecords": "476K+"
+    },
+    {
+      "@type": "Dataset",
+      "name": "New Hampshire Business Email Database",
+      "url": "https://b2bdataindex.com/data-pages/new-hampshire-business-email-database/",
+      "spatialCoverage": "New Hampshire",
+      "about": "New Hampshire B2B business contacts",
+      "keywords": [
+        "New Hampshire email list",
+        "New Hampshire b2b database",
+        "buy New Hampshire email list"
+      ],
+      "topIndustry": "Healthcare & Medical",
+      "estimatedRecords": "373K+"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Turkey Business Email Database",
+      "url": "https://b2bdataindex.com/data-pages/turkey-business-email-database/",
+      "spatialCoverage": "Turkey",
+      "about": "Turkey B2B business contacts",
+      "keywords": [
+        "Turkey email list",
+        "Turkey b2b database",
+        "buy Turkey email list"
+      ],
+      "topIndustry": "Manufacturing",
+      "estimatedRecords": "16.8M+"
     },
     {
       "@type": "Dataset",

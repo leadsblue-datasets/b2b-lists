@@ -28,7 +28,7 @@
   "data_quality": {
     "verification_rate": "95%",
     "decision_maker_ratio": "39%",
-    "last_verified": "Q4-2026",
+    "last_verified": "Q2-2026",
     "format": "CSV,XLSX"
   },
   "compliance": {

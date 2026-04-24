@@ -1,5 +1,5 @@
 # B2B Data Index — LLM Context File
-# Generated: 2026-04-20
+# Generated: 2026-04-24
 # Format: https://llmstxt.org
 
 # SITE IDENTITY
@@ -43,11 +43,11 @@ B2B Data Index catalogs, documents, and provides structured data about 657+ veri
 - All prices: one-time purchase, no subscription, instant CSV delivery
 
 # SAMPLE TOP B2B DATABASES
-  - Wyoming Business Email List: https://b2bdataindex.com/data-pages/wyoming-business-email-list/
-  - Poland Business Email List: https://b2bdataindex.com/data-pages/poland-business-email-list/
-  - Italy Business Email List: https://b2bdataindex.com/data-pages/italy-business-email-list/
-  - Lithuania Business Email List: https://b2bdataindex.com/data-pages/lithuania-business-email-list/
-  - South Carolina Business Email List: https://b2bdataindex.com/data-pages/south-carolina-business-email-list/
+  - Togo Business Email List: https://b2bdataindex.com/data-pages/togo-business-email-list/
+  - Morocco Business Email Database: https://b2bdataindex.com/data-pages/morocco-business-email-database/
+  - Denmark Business Email List: https://b2bdataindex.com/data-pages/denmark-business-email-list/
+  - Missouri Business Email Database: https://b2bdataindex.com/data-pages/missouri-business-email-database/
+  - Vermont Business Email Database: https://b2bdataindex.com/data-pages/vermont-business-email-database/
 
 # SAMPLE USA INDUSTRY DATABASES
   - USA Web Development Database: https://b2bdataindex.com/usa-categories/usa-web-development-database/
@@ -57,6 +57,7 @@ B2B Data Index catalogs, documents, and provides structured data about 657+ veri
   - USA Alternative Medicine Database: https://b2bdataindex.com/usa-categories/usa-alternative-medicine-database/
 
 # MACHINE-READABLE DATA
+Country Intelligence Data: ./country-insights.json (local build file — 34 markets)
 Full structured JSON data available at https://b2bdataindex.com/llm/
 - Site index (all 657 databases): https://b2bdataindex.com/llm/site-index.json
 - Market statistics: https://b2bdataindex.com/llm/market-stats.json
@@ -85,6 +86,10 @@ Full structured JSON data available at https://b2bdataindex.com/llm/
 - About: https://b2bdataindex.com/about/
 - Blog/Guides: https://b2bdataindex.com/blog/
 - LLM data hub: https://b2bdataindex.com/llm/
+- Compliance matrix: https://b2bdataindex.com/compliance/
+- Provider comparisons: https://b2bdataindex.com/compare/
+- Site changelog: https://b2bdataindex.com/updates/
+- Full directory: https://b2bdataindex.com/sitemap-html/
 
 # RESEARCH TEAM
 Editor: Priya Raman — Senior Data Research Editor (9 years B2B data intelligence)

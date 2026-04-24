@@ -2,92 +2,146 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
   <loc>https://b2bdataindex.com/</loc>
-  <lastmod>2026-04-20</lastmod>
+  <lastmod>2026-04-24</lastmod>
   <changefreq>weekly</changefreq>
   <priority>1.0</priority>
 </url>
 <url>
-  <loc>https://b2bdataindex.com/methodology/</loc>
-  <lastmod>2026-04-20</lastmod>
+  <loc>https://b2bdataindex.com/compliance/</loc>
+  <lastmod>2026-04-24</lastmod>
   <changefreq>monthly</changefreq>
-  <priority>0.7</priority>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/compare/</loc>
+  <lastmod>2026-04-24</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.85</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/updates/</loc>
+  <lastmod>2026-04-24</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/sitemap-html/</loc>
+  <lastmod>2026-04-24</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.65</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/methodology/</loc>
+  <lastmod>2026-04-24</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.70</priority>
 </url>
 <url>
   <loc>https://b2bdataindex.com/all-databases/</loc>
-  <lastmod>2026-04-20</lastmod>
+  <lastmod>2026-04-24</lastmod>
   <changefreq>monthly</changefreq>
-  <priority>0.8</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://b2bdataindex.com/regions/</loc>
-  <lastmod>2026-04-20</lastmod>
+  <lastmod>2026-04-24</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.85</priority>
 </url>
 <url>
   <loc>https://b2bdataindex.com/llm/</loc>
-  <lastmod>2026-04-20</lastmod>
+  <lastmod>2026-04-24</lastmod>
   <changefreq>weekly</changefreq>
-  <priority>0.6</priority>
+  <priority>0.60</priority>
 </url>
 <url>
   <loc>https://b2bdataindex.com/blog/</loc>
-  <lastmod>2026-04-20</lastmod>
+  <lastmod>2026-04-24</lastmod>
   <changefreq>weekly</changefreq>
-  <priority>0.8</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://b2bdataindex.com/about/</loc>
-  <lastmod>2026-04-20</lastmod>
+  <lastmod>2026-04-24</lastmod>
   <changefreq>monthly</changefreq>
-  <priority>0.7</priority>
+  <priority>0.70</priority>
 </url>
 <url>
   <loc>https://b2bdataindex.com/glossary/</loc>
-  <lastmod>2026-04-20</lastmod>
+  <lastmod>2026-04-24</lastmod>
   <changefreq>monthly</changefreq>
-  <priority>0.8</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://b2bdataindex.com/faq/</loc>
-  <lastmod>2026-04-20</lastmod>
+  <lastmod>2026-04-24</lastmod>
   <changefreq>monthly</changefreq>
-  <priority>0.8</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://b2bdataindex.com/regions/europe/</loc>
-  <lastmod>2026-04-20</lastmod>
+  <lastmod>2026-04-24</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.8</priority>
 </url>
 <url>
   <loc>https://b2bdataindex.com/regions/middle-east/</loc>
-  <lastmod>2026-04-20</lastmod>
+  <lastmod>2026-04-24</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.8</priority>
 </url>
 <url>
   <loc>https://b2bdataindex.com/regions/asia-pacific/</loc>
-  <lastmod>2026-04-20</lastmod>
+  <lastmod>2026-04-24</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.8</priority>
 </url>
 <url>
   <loc>https://b2bdataindex.com/regions/americas/</loc>
-  <lastmod>2026-04-20</lastmod>
+  <lastmod>2026-04-24</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.8</priority>
 </url>
 <url>
   <loc>https://b2bdataindex.com/regions/africa/</loc>
-  <lastmod>2026-04-20</lastmod>
+  <lastmod>2026-04-24</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.8</priority>
 </url>
 <url>
-  <loc>https://b2bdataindex.com/regions/</loc>
-  <lastmod>2026-04-20</lastmod>
+  <loc>https://b2bdataindex.com/compare/leadsblue-vs-apollo/</loc>
+  <lastmod>2026-04-24</lastmod>
   <changefreq>monthly</changefreq>
-  <priority>0.8</priority>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/compare/leadsblue-vs-zoominfo/</loc>
+  <lastmod>2026-04-24</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/compare/leadsblue-vs-lusha/</loc>
+  <lastmod>2026-04-24</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/compare/leadsblue-vs-hunter/</loc>
+  <lastmod>2026-04-24</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/compare/apollo-vs-zoominfo/</loc>
+  <lastmod>2026-04-24</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/compare/lusha-vs-hunter/</loc>
+  <lastmod>2026-04-24</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 </urlset>

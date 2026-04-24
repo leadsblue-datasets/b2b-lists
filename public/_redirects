@@ -1,6 +1,4 @@
 # B2B Data Index — Cloudflare Pages redirects
-# Trailing-slash normalisation — ensures canonical paths are consistent
-
 /data-pages      /data-pages/      301
 /consumer-data   /consumer-data/   301
 /targeted-lists  /targeted-lists/  301
@@ -11,3 +9,7 @@
 /regions         /regions/         301
 /all-databases   /all-databases/   301
 /llm             /llm/             301
+/compare         /compare/         301
+/compliance      /compliance/      301
+/updates         /updates/         301
+/sitemap-html    /sitemap-html/    301

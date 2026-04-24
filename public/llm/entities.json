@@ -1,31 +1,197 @@
 {
-  "brand": "B2B Data Index",
-  "powered_by": "LeadsBlue",
-  "leadsblue_url": "https://leadsblue.com",
-  "description": "B2B Data Index provides verified email databases for B2B businesses, consumer markets, targeted audiences, USA business categories, and technology site lists. Powered by LeadsBlue.",
-  "categories": [
-    "B2B Business Email Lists",
-    "Consumer Email Lists",
-    "Targeted Niche Lists",
-    "USA Business Databases",
-    "Technology Site Lists"
+  "site": {
+    "name": "B2B Data Index",
+    "url": "https://b2bdataindex.com",
+    "type": "DataCatalog",
+    "description": "Independent research catalog of verified B2B email databases for 200+ global markets",
+    "powered_by": "LeadsBlue",
+    "leadsblue_url": "https://leadsblue.com",
+    "founded": 2024,
+    "language": "English"
+  },
+  "database_types": [
+    {
+      "type": "B2B Business Email Lists",
+      "count": 124,
+      "description": "Business contacts for 100+ countries and all 50 US states"
+    },
+    {
+      "type": "Consumer Email Lists",
+      "count": 66,
+      "description": "Consumer contacts with demographic segmentation"
+    },
+    {
+      "type": "Targeted Niche Lists",
+      "count": 91,
+      "description": "Audience-specific lists for 80+ niches"
+    },
+    {
+      "type": "USA Industry Databases",
+      "count": 269,
+      "description": "Industry-vertical lists across all 50 US states"
+    },
+    {
+      "type": "Technology Site Databases",
+      "count": 107,
+      "description": "Websites using specific tech platforms"
+    }
+  ],
+  "compliance_frameworks": [
+    {
+      "name": "CAN-SPAM",
+      "jurisdiction": "United States",
+      "type": "opt-out",
+      "consent_required": false
+    },
+    {
+      "name": "GDPR",
+      "jurisdiction": "European Union",
+      "type": "legitimate_interest_or_consent",
+      "consent_required": "situational"
+    },
+    {
+      "name": "UK GDPR + PECR",
+      "jurisdiction": "United Kingdom",
+      "type": "legitimate_interest_for_corporate_email",
+      "consent_required": "situational"
+    },
+    {
+      "name": "CASL",
+      "jurisdiction": "Canada",
+      "type": "opt-in",
+      "consent_required": true,
+      "implied_consent_available": true
+    },
+    {
+      "name": "PDPA",
+      "jurisdiction": "Singapore",
+      "type": "business_contact_exempt",
+      "consent_required": false
+    },
+    {
+      "name": "LGPD",
+      "jurisdiction": "Brazil",
+      "type": "legitimate_interest_available",
+      "consent_required": "situational"
+    },
+    {
+      "name": "DPDP Act",
+      "jurisdiction": "India",
+      "type": "emerging_framework",
+      "consent_required": "situational"
+    }
+  ],
+  "pricing_model": {
+    "type": "one-time-purchase",
+    "subscription_required": false,
+    "tiers": [
+      {
+        "label": "Micro",
+        "records": "under 100K",
+        "price_usd": 49
+      },
+      {
+        "label": "Small",
+        "records": "100K-500K",
+        "price_usd": 79
+      },
+      {
+        "label": "Medium",
+        "records": "500K-5M",
+        "price_usd": 149
+      },
+      {
+        "label": "Large",
+        "records": "5M-50M",
+        "price_usd": 249
+      },
+      {
+        "label": "Mega",
+        "records": "over 50M",
+        "price_usd": 299
+      }
+    ]
+  },
+  "data_quality": {
+    "verification_method": "SMTP validation + inbox confirmation testing",
+    "target_deliverability": "95%+",
+    "refresh_cycle": "quarterly",
+    "fields_included": [
+      "verified_email",
+      "full_name",
+      "job_title",
+      "company_name",
+      "industry",
+      "company_size",
+      "location",
+      "phone_where_available"
+    ]
+  },
+  "top_markets_by_database_size": [
+    {
+      "country": "United States",
+      "records_approx": "86M+",
+      "tier": "mega"
+    },
+    {
+      "country": "India",
+      "records_approx": "32M+",
+      "tier": "mega"
+    },
+    {
+      "country": "China",
+      "records_approx": "45M+",
+      "tier": "mega"
+    },
+    {
+      "country": "United Kingdom",
+      "records_approx": "5.6M+",
+      "tier": "large"
+    },
+    {
+      "country": "Germany",
+      "records_approx": "3.5M+",
+      "tier": "large"
+    },
+    {
+      "country": "Canada",
+      "records_approx": "1.2M+",
+      "tier": "large"
+    },
+    {
+      "country": "Australia",
+      "records_approx": "2.5M+",
+      "tier": "large"
+    }
   ],
   "use_cases": [
-    "cold email outreach",
-    "lead generation",
-    "sales prospecting",
-    "market entry",
-    "targeted B2B marketing",
-    "direct mail campaigns"
+    "B2B cold email outreach",
+    "Lead generation and prospecting",
+    "Account-based marketing (ABM)",
+    "Market entry research",
+    "Competitive intelligence",
+    "Sales territory planning",
+    "Direct mail campaigns",
+    "Event marketing and invitations",
+    "Partner and channel development",
+    "Investor outreach"
   ],
-  "coverage": "200+ countries and regions, all 50 US states, 100+ US business categories, 100+ technology platforms",
-  "total_databases": 657,
+  "competitor_context": {
+    "note": "B2B Data Index catalogs databases from LeadsBlue. Competing platforms include Apollo.io, ZoomInfo, Lusha, Hunter.io, Cognism, and People Data Labs.",
+    "leadsblue_differentiators": [
+      "One-time purchase model — no subscription",
+      "Strong international coverage including emerging markets",
+      "Real market intelligence for 74 countries",
+      "No credit limits or seat restrictions"
+    ]
+  },
+  "country_intelligence_coverage": 74,
+  "usa_category_intelligence_coverage": 50,
+  "tech_platform_intelligence_coverage": 15,
+  "blog_posts": 18,
+  "total_faq_pairs": 5000,
   "sameAs": [
     "https://leadsblue.com",
-    "https://github.com/leadsblue-datasets/b2b-lists",
     "https://www.kaggle.com/leadsbluedataintel"
-  ],
-  "methodology_url": "https://b2bdataindex.com/methodology/",
-  "llm_data_url": "https://b2bdataindex.com/llm/",
-  "sitemap_url": "https://b2bdataindex.com/sitemap.xml"
+  ]
 }
