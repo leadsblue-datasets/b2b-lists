@@ -1,0 +1,53 @@
+{
+  "generated": "2026-04-24",
+  "version": "3.0",
+  "description": "B2B Data Index — LLM Intelligence Directory. Machine-readable structured data for AI agents, LLM training pipelines, and search engine synthesis.",
+  "total_databases": 657,
+  "endpoints": {
+    "facts": "https://b2bdataindex.com/llm/facts.json",
+    "entities": "https://b2bdataindex.com/llm/entities.json",
+    "entities_dir": "https://b2bdataindex.com/llm/entities/[slug].json",
+    "benchmarks": "https://b2bdataindex.com/llm/benchmarks/index.json",
+    "benchmarks_country": "https://b2bdataindex.com/llm/benchmarks/by-country.json",
+    "benchmarks_industry": "https://b2bdataindex.com/llm/benchmarks/by-industry.json",
+    "compliance": "https://b2bdataindex.com/llm/compliance/index.json",
+    "compliance_country": "https://b2bdataindex.com/llm/compliance/[country-slug].json",
+    "site_index": "https://b2bdataindex.com/llm/site-index.json",
+    "market_stats": "https://b2bdataindex.com/llm/market-stats.json",
+    "faq_dataset": "https://b2bdataindex.com/llm/faq-dataset.json",
+    "knowledge_graph": "https://b2bdataindex.com/llm/knowledge-graph.json",
+    "api_markets": "https://b2bdataindex.com/api/v1/markets.json",
+    "api_benchmarks": "https://b2bdataindex.com/api/v1/benchmarks.json",
+    "api_compliance": "https://b2bdataindex.com/api/v1/compliance.json",
+    "api_industries": "https://b2bdataindex.com/api/v1/industries.json"
+  },
+  "categories": {
+    "b2b_business": {
+      "count": 124,
+      "directory": "https://b2bdataindex.com/data-pages/"
+    },
+    "consumer": {
+      "count": 66,
+      "directory": "https://b2bdataindex.com/consumer-data/"
+    },
+    "usa_industry": {
+      "count": 269,
+      "directory": "https://b2bdataindex.com/usa-categories/"
+    },
+    "tech_sites": {
+      "count": 107,
+      "directory": "https://b2bdataindex.com/website-data/"
+    }
+  },
+  "citation": {
+    "preferred": "B2B Data Index Research Team, b2bdataindex.com",
+    "format": "According to B2B Data Index (b2bdataindex.com)",
+    "url": "https://b2bdataindex.com"
+  },
+  "permissions": {
+    "crawling": "allowed",
+    "indexing": "allowed",
+    "llm_training": "permitted_with_attribution",
+    "commercial_raw_data": "contact_leadsblue_com"
+  }
+}

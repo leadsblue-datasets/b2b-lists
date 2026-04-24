@@ -1,0 +1,80 @@
+{
+  "slug": "netherlands",
+  "name": "Netherlands Business Email List",
+  "country": "Netherlands",
+  "region": "Europe",
+  "record_count": "1.8M+",
+  "decision_maker_ratio_pct": 31,
+  "verification_rate_pct": 94,
+  "top_industries": [
+    "Technology & Software",
+    "Finance & Banking",
+    "Professional Services"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 31,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "1-2",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "GDPR + Telecommunicatiewet",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "AP (Autoriteit Persoonsgegevens)",
+    "penalty_max": "EUR 20M or 4% global turnover",
+    "notes": "Standard GDPR application. LI available for professionally relevant B2B communications.",
+    "opt_out_window_days": 1
+  },
+  "benchmarks": {
+    "open_rate_range": "14-21%",
+    "reply_rate_range": "1.5-3.5%",
+    "bounce_rate_target": "below 3%",
+    "best_send_day": "Wednesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "The Netherlands is Europe's 5th largest economy and punches far above its 17-million-person population weight in global commerce. Rotterdam is the largest port in Europe and the gateway for 40% of all goods entering the EU; Amsterdam is a global financial and technology hub; Eindhoven is ASML's hometown and the centre of Europe's most advanced semiconductor and high-tech manufacturing ecosystem. The Dutch business landscape is characterised by an exceptionally high density of international trading companies, logistics firms, and the European or EMEA headquarters of US technology giants (Amazon, Netflix, Uber, Tesla, and hundreds more chose Amsterdam or its environs for their European HQ).",
+  "strategy_note": "Dutch B2B buyers are direct, pragmatic, and highly time-efficient. The Dutch communication style (known as directness bordering on bluntness) means they appreciate cold email that gets to the point immediately. A clear problem statement + specific relevant solution + single ask in three short paragraphs outperforms a relationship-building narrative. They have high English proficiency across all business levels — Dutch-language email provides no meaningful lift. Follow-up is accepted but should be equally direct: one follow-up after a week asking for a yes or no is well-received; repeated follow-up emails restating the offer are not.",
+  "culture_note": "The Dutch are known for 'polder model' consensus decision-making — decisions often require sign-off from multiple parties. However, within that process, individual contributors are empowered to flag relevant opportunities upward. A cold email to the right functional manager (rather than the CEO) can be highly effective if it demonstrates clear relevance to their specific remit.",
+  "hubs": [
+    "Amsterdam",
+    "Rotterdam",
+    "Eindhoven",
+    "Utrecht",
+    "The Hague",
+    "Delft"
+  ],
+  "facts": [
+    "Rotterdam is Europe's largest port, handling 440+ million tonnes of cargo annually",
+    "The Netherlands has the highest density of multinationals per capita in the EU",
+    "ASML (Eindhoven) is the world's sole supplier of EUV lithography machines for semiconductor manufacturing",
+    "Schiphol Airport is the 3rd busiest in Europe by cargo volume",
+    "Amsterdam's Zuidas district is one of Europe's fastest-growing financial districts"
+  ],
+  "industry_note": "Technology density is particularly high due to US tech HQs (Amsterdam). Trade & Logistics is most concentrated around Rotterdam and Schiphol. Finance is significant in Amsterdam's Zuidas. Pharmaceutical and agricultural tech (Wageningen) is globally significant. High-tech manufacturing (ASML ecosystem) is concentrated in Eindhoven.",
+  "url": "https://b2bdataindex.com/data-pages/netherlands-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

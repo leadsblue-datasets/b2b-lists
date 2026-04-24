@@ -1,0 +1,15 @@
+{
+  "generated": "2026-04-24",
+  "slug": "canada",
+  "country": "Canada",
+  "framework": "CASL",
+  "authority": "CRTC",
+  "cold_email": "conditional",
+  "consent_b2b": "implied_or_express",
+  "opt_out_days": 10,
+  "max_penalty": "C$10M per day",
+  "gdpr": false,
+  "key_rule": "CASL requires express or implied consent. Implied consent exists for 24 months after a business transaction or 6 months after an inquiry. Every message must include sender identity and functioning unsubscribe.",
+  "citation": "B2B Data Index Global Compliance Matrix, https://b2bdataindex.com/compliance/",
+  "full_guide": "https://b2bdataindex.com/compliance/"
+}

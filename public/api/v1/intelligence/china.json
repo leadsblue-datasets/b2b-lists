@@ -1,0 +1,80 @@
+{
+  "slug": "china",
+  "name": "China Business Email List",
+  "country": "China",
+  "region": "Asia-Pacific",
+  "record_count": "45M+",
+  "decision_maker_ratio_pct": 15,
+  "verification_rate_pct": 88,
+  "top_industries": [
+    "Manufacturing & Engineering",
+    "Technology & Software",
+    "Finance & Banking"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 15,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "PIPL + Anti-Spam Regulations 2006",
+    "tier": "strict",
+    "consent_type": "express",
+    "basis": "opt-in",
+    "enforcement_body": "MIIT / CAC",
+    "penalty_max": "CNY 3M",
+    "notes": "PIPL (2021) requires consent for personal data processing. Anti-Spam Regulations require opt-in for commercial email. Enforcement is inconsistent for foreign senders.",
+    "opt_out_window_days": 1
+  },
+  "benchmarks": {
+    "open_rate_range": "8-14%",
+    "reply_rate_range": "0.6-1.8%",
+    "bounce_rate_target": "below 5%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "China is the world's 2nd largest economy with over 45 million registered market entities, but it operates under a data regulatory and communication infrastructure that makes standard B2B cold email largely ineffective for foreign companies. The Great Firewall blocks most foreign email services, and WeChat (not email) is the primary B2B communication tool for Chinese business. That said, for foreign companies or joint ventures operating within China, the B2B data landscape in Tier 1 cities (Shanghai, Beijing, Shenzhen, Guangzhou) is dense and internationally accessible. Shanghai is the commercial capital; Beijing is the political and technology policy centre; Shenzhen is the hardware/electronics manufacturing hub; Hangzhou hosts Alibaba's headquarters and a dense e-commerce ecosystem.",
+  "strategy_note": "B2B outreach into Chinese companies from international companies is best approached via WeChat, trade delegations, or Chinese platform (Alibaba, Made-in-China.com) presence rather than cold email. For the foreign MNC community operating in China, standard cold email works well — these executives are internationally oriented and email-responsive. Approaching Chinese companies at international trade shows or through Chinese chambers of commerce is more productive than cold digital outreach for domestic Chinese decision-makers.",
+  "culture_note": "Chinese business culture is deeply relationship-oriented (guanxi — relationship networks are the currency of Chinese commerce) and hierarchical. Face (mianzi) is a critical cultural concept — public embarrassment or being put in an awkward position will permanently damage a business relationship. Patience and relationship investment before commercial asks is essential.",
+  "hubs": [
+    "Shanghai (Pudong, Lujiazui)",
+    "Beijing (Zhongguancun tech hub)",
+    "Shenzhen (tech/hardware)",
+    "Guangzhou",
+    "Hangzhou (e-commerce)",
+    "Chengdu"
+  ],
+  "facts": [
+    "China has over 45 million registered market entities",
+    "Shenzhen's Huaqiangbei electronics market is the world's largest electronics trading centre",
+    "Alibaba (Hangzhou) is one of the world's top 10 companies by market capitalisation",
+    "China files more patents annually than any other nation",
+    "Shanghai Pudong's Lujiazui financial district rivals London and New York in financial density"
+  ],
+  "industry_note": "Manufacturing dominates Chinese B2B data overall — electronics (Shenzhen, Dongguan), automotive (Shanghai, Changchun, Chongqing), textiles (Zhejiang). Technology giants are in Beijing, Shanghai, Hangzhou, and Shenzhen. Financial services cluster in Shanghai's Lujiazui. E-commerce ecosystem is densest in Hangzhou and Shenzhen.",
+  "url": "https://b2bdataindex.com/data-pages/china-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

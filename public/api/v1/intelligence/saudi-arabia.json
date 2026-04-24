@@ -1,0 +1,80 @@
+{
+  "slug": "saudi-arabia",
+  "name": "Saudi Arabia Business Email List",
+  "country": "Saudi Arabia",
+  "region": "MENA",
+  "record_count": "1.8M+",
+  "decision_maker_ratio_pct": 28,
+  "verification_rate_pct": 91,
+  "top_industries": [
+    "Oil & Energy",
+    "Finance & Banking",
+    "Construction"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 28,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "PDPL (Personal Data Protection Law) 2021",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "SDAIA",
+    "penalty_max": "SAR 5M",
+    "notes": "PDPL effective 2023. LI available where processing serves legitimate purpose. Enforcement is emerging.",
+    "opt_out_window_days": 10
+  },
+  "benchmarks": {
+    "open_rate_range": "16-23%",
+    "reply_rate_range": "1.6-3.6%",
+    "bounce_rate_target": "below 3.5%",
+    "best_send_day": "Sunday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "Saudi Arabia is undergoing the most significant economic transformation in the Middle East under Vision 2030, diversifying from oil dependency toward technology, tourism, entertainment, manufacturing, and professional services. NEOM (the futuristic city project), the Red Sea Project, and Diriyah Gate are multi-trillion-riyal developments creating enormous B2B procurement opportunities across construction, technology, hospitality, and professional services. Riyadh is the commercial capital and the hub of government and financial sector activity; Jeddah is the commercial and trade gateway; Dammam/Khobar anchors the Eastern Province's petrochemical and energy sector.",
+  "strategy_note": "Saudi B2B outreach requires cultural awareness and patience. Relationships and trust (wasta — social capital) are the primary currency of Saudi B2B procurement for established companies. Cold email is less effective than warm introductions via trade associations (Monsha'at), industry events (LEAP tech conference, Vision 2030 investment forums), or government-linked introductions. However, the Vision 2030 expansion has brought a new generation of Western-educated Saudi executives who respond better to direct, professional cold email — particularly in technology, fintech, and professional services roles.",
+  "culture_note": "Saudi business culture is relationship-first, formal, and deeply influenced by Islamic values. Business meetings typically begin with personal conversation and tea; moving directly to business is considered impolite. Friday is the holy day; the Saudi work week is Sunday to Thursday. During Ramadan, business significantly slows but also creates important relationship-building opportunities through Iftar invitations.",
+  "hubs": [
+    "Riyadh",
+    "Jeddah",
+    "Dammam/Khobar/Dhahran",
+    "Mecca",
+    "Medina",
+    "NEOM (under development)"
+  ],
+  "facts": [
+    "Saudi Arabia is the world's largest oil exporter, producing 10+ million barrels per day",
+    "Vision 2030 has committed over $1 trillion in economic diversification investment",
+    "NEOM alone represents $500 billion in planned investment in a single development",
+    "Saudi Arabia's non-oil economy grew 6.2% in 2023",
+    "Saudi Aramco is the world's most profitable company"
+  ],
+  "industry_note": "Oil & Energy remains the dominant B2B sector in the Eastern Province. Construction & Real Estate is the fastest-growing sector across all regions due to Vision 2030 giga-projects. Finance & Banking clusters in Riyadh's King Abdullah Financial District. Technology is growing rapidly — the LEAP conference (Riyadh) is MENA's largest technology event.",
+  "url": "https://b2bdataindex.com/data-pages/saudi-arabia-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

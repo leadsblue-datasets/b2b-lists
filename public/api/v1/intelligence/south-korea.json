@@ -1,0 +1,79 @@
+{
+  "slug": "south-korea",
+  "name": "South Korea Business Email List",
+  "country": "South Korea",
+  "region": "Asia-Pacific",
+  "record_count": "1.5M+",
+  "decision_maker_ratio_pct": 20,
+  "verification_rate_pct": 93,
+  "top_industries": [
+    "Manufacturing & Engineering",
+    "Technology & Software",
+    "Finance & Banking"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 20,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "Act on Promotion of Information and Communications Network",
+    "tier": "strict",
+    "consent_type": "express",
+    "basis": "opt-in",
+    "enforcement_body": "KISA / PIPC",
+    "penalty_max": "KRW 50M",
+    "notes": "Opt-in required for commercial email. PIPC enforces data protection. Business-card-based contact is generally accepted.",
+    "opt_out_window_days": 2
+  },
+  "benchmarks": {
+    "open_rate_range": "12-18%",
+    "reply_rate_range": "1-2.5%",
+    "bounce_rate_target": "below 3.5%",
+    "best_send_day": "Wednesday",
+    "best_send_time_local": "10:00",
+    "data_year": 2026
+  },
+  "market_summary": "South Korea's economy is anchored by the chaebol — large family-controlled conglomerates including Samsung, LG, Hyundai, SK, and Lotte — whose combined revenue equals approximately 80% of Korean GDP. These conglomerates have highly centralised procurement processes, making cold email to individual decision-makers less effective than relationship cultivation with corporate development or procurement teams. However, Korea's SME ecosystem — particularly the technology, fintech, and digital content sectors centred in Seoul's Gangnam district and the Pangyo Techno Valley — is more accessible and growing rapidly.",
+  "strategy_note": "Korean B2B outreach is most effective when it comes through a warm channel — either a mutual contact in the ecosystem or a formal introduction at a trade event (Korea has a rich trade show culture; major events like KES, KIMES, and Startup:CON carry significant business-development weight). Cold email to Korean decision-makers should be formal (titles matter), in Korean if at all possible, and should reference a specific connection to the Korean market such as existing Korean clients, Korea-specific case studies, or demonstrated knowledge of the recipient's sector.",
+  "culture_note": "Korean business culture emphasises hierarchy (sunbae-hoobae — senior/junior relationships), group harmony, and formal respect for seniority. Business cards are exchanged with both hands. Decision-making in larger Korean companies runs through multiple approval layers. Younger Korean executives at startups and technology companies operate with significantly more Western business norms.",
+  "hubs": [
+    "Seoul (Gangnam, Pangyo)",
+    "Busan",
+    "Incheon",
+    "Daejeon (KAIST/research)",
+    "Ulsan (heavy industry)"
+  ],
+  "facts": [
+    "Samsung alone accounts for approximately 20% of South Korean exports",
+    "Korea's 5G penetration exceeds 80% — the highest globally",
+    "Pangyo Techno Valley hosts 1,300+ companies and Korea's most active startup cluster",
+    "Korea is the world's 6th largest exporter",
+    "Korean cosmetics (K-beauty) industry exports $9+ billion annually"
+  ],
+  "industry_note": "Manufacturing & Electronics dominates Korean B2B data — semiconductors (Samsung, SK Hynix), displays (LG Display, Samsung Display), and automotive (Hyundai-Kia) are globally dominant. Technology is significant in Seoul's Gangnam-Pangyo corridor. Finance clusters in Seoul's Yeouido district.",
+  "url": "https://b2bdataindex.com/data-pages/south-korea-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

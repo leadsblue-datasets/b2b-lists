@@ -1,0 +1,80 @@
+{
+  "slug": "spain",
+  "name": "Spain Business Email List",
+  "country": "Spain",
+  "region": "Europe",
+  "record_count": "2.8M+",
+  "decision_maker_ratio_pct": 25,
+  "verification_rate_pct": 91,
+  "top_industries": [
+    "Tourism",
+    "Professional Services",
+    "Manufacturing & Engineering"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 25,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "GDPR + LSSI-CE",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "AEPD",
+    "penalty_max": "EUR 20M or 4% global turnover",
+    "notes": "LSSI-CE Art.21 prohibits unsolicited commercial email without consent, but AEPD guidance permits LI for B2B to corporate addresses.",
+    "opt_out_window_days": 1
+  },
+  "benchmarks": {
+    "open_rate_range": "13-20%",
+    "reply_rate_range": "1.4-3.3%",
+    "bounce_rate_target": "below 3.8%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "10:00",
+    "data_year": 2026
+  },
+  "market_summary": "Spain is the 4th largest economy in the EU with approximately 3.2 million registered companies. Madrid is the financial and corporate capital — home to the headquarters of Santander, BBVA, Telefónica, Repsol, and Inditex (Zara's parent company). Barcelona is Spain's technology and startup hub, consistently ranking among Europe's top 5 startup ecosystems. Bilbao is a significant industrial and financial centre in the Basque Country. The Spanish business landscape is divided between large multinationals with global operations and an enormous base of SMEs (pymes) in tourism, construction, retail, and agriculture.",
+  "strategy_note": "Spanish B2B cold email in Spanish significantly outperforms English for domestic companies; English is appropriate for multinational regional offices. The Spanish business culture values personal relationships (personalismo) — a warm, professionally personal tone outperforms formal corporate language. Decision cycles are longer than Northern European equivalents; budget approvals often require sign-off from multiple senior stakeholders. August is completely dead for business — all major decisions halt during the national summer holiday period. Best send times are Tuesday-Thursday 9am-12pm local time.",
+  "culture_note": "Spanish business culture is relationship-oriented, socially warm, and time-flexible. Lunch is the main business meal (2-4pm) and often runs long. Networking through personal connections (chiringuito networking) is far more effective than cold outreach. Initial formality gives way to warmth quickly; the Spanish appreciate genuine personal engagement rather than corporate distance.",
+  "hubs": [
+    "Madrid",
+    "Barcelona",
+    "Valencia",
+    "Bilbao",
+    "Seville",
+    "Málaga (tech hub)"
+  ],
+  "facts": [
+    "Spain is the 4th largest EU economy and 14th globally by GDP",
+    "Inditex (Zara, Zara Home, Massimo Dutti) is the world's largest fashion retailer by revenue",
+    "Barcelona's startup ecosystem raised €2.4 billion in 2023 — top 5 in Europe",
+    "Spain is the world's 2nd most visited country (83 million tourists annually)",
+    "Santander and BBVA are among Europe's 10 largest banks by assets"
+  ],
+  "industry_note": "Tourism & Hospitality is Spain's largest employment sector. Finance & Banking concentrates in Madrid's Paseo de la Castellana district. Technology & Startups are most dense in Barcelona's 22@ innovation district. Manufacturing concentrates in Catalonia, the Basque Country, and Valencia. Agriculture exports (olive oil, wine, citrus) are globally significant.",
+  "url": "https://b2bdataindex.com/data-pages/spain-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

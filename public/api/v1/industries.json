@@ -1,0 +1,861 @@
+[
+  {
+    "slug": "technology-software",
+    "label": "Technology & Software",
+    "short": "Tech & SaaS",
+    "summary": "Technology and software companies represent the most digitally sophisticated and outreach-receptive vertical in B2B prospecting. Decision-makers in this sector — CTOs, VPs of Engineering, Heads of Product, and IT Directors — actively evaluate new tools and are accustomed to receiving vendor outreach. Unlike other verticals where cold email is novel, tech buyers have established processes for evaluating and onboarding new solutions, making conversion cycles more predictable. The sector is globally concentrated in specific geographic clusters: Silicon Valley, Seattle, New York (enterprise software), London (fintech/SaaS), Berlin, Tel Aviv, Bangalore, and Singapore.",
+    "decision_makers": [
+      "CTO",
+      "VP Engineering",
+      "Head of Product",
+      "IT Director",
+      "VP Technology",
+      "Head of Infrastructure",
+      "Engineering Manager",
+      "CISO",
+      "CDO"
+    ],
+    "buying_triggers": [
+      "Scaling engineering team",
+      "Tech stack migration",
+      "Compliance requirement (SOC2, ISO27001)",
+      "Series A/B funding round",
+      "New product launch",
+      "Security incident"
+    ],
+    "pain_points": [
+      "Engineering team scaling and talent acquisition",
+      "Security and compliance (SOC 2, ISO 27001, GDPR)",
+      "Tech debt and infrastructure modernisation",
+      "Product-led growth vs. sales-led growth transition",
+      "International expansion and multi-currency billing",
+      "Customer churn and retention at scale",
+      "Data infrastructure and AI/ML adoption"
+    ],
+    "key_sectors": [
+      "SaaS",
+      "Cloud Infrastructure",
+      "Cybersecurity",
+      "AI/ML",
+      "Fintech",
+      "DevTools",
+      "Enterprise Software",
+      "API/Integration"
+    ],
+    "average_deal_size": "$5,000-$150,000 ARR depending on company size",
+    "cold_email_performance": {
+      "open_rate": "22-31%",
+      "reply_rate": "3.5-6.5%",
+      "best_subject_lines": "Technical problem + specific metric",
+      "best_send_time": "Tuesday-Thursday, 8-10am local"
+    },
+    "strategy": "Technology buyers are high-volume researchers who evaluate 5-7 solutions before selecting. Lead with a specific technical claim or integration that solves a known pain point. Avoid generic 'digital transformation' language — tech decision-makers have immunity to it. Referencing their specific tech stack (GitHub, AWS, k8s, their open-source contributions) demonstrates genuine research and dramatically increases response rates. Case studies from companies at similar funding stage or scale outperform enterprise case studies.",
+    "facts": [
+      "Global software market revenues exceed $600 billion annually",
+      "Average tech company evaluates 5-7 vendors before a major purchase",
+      "73% of B2B tech purchases involve 3+ decision-makers",
+      "Tech buyers consume 13+ pieces of content before first vendor contact",
+      "Email open rates in tech verticals are 25-40% above the B2B average"
+    ],
+    "geographic_clusters": "Silicon Valley (hardware/semiconductor/enterprise), San Francisco (consumer tech/SaaS startups), Seattle (cloud/enterprise), New York (fintech/adtech/enterprise), London (European SaaS/fintech), Berlin (European startups), Tel Aviv (cybersecurity/deep tech), Bangalore (IT services/SaaS for global markets), Singapore (APAC SaaS and tech), Toronto (AI/ML research and SaaS)",
+    "sic_codes": [
+      "7370-7379"
+    ],
+    "data_year": 2026
+  },
+  {
+    "slug": "healthcare-medical",
+    "label": "Healthcare & Medical",
+    "short": "Healthcare",
+    "summary": "Healthcare is one of the most data-dense but compliance-sensitive B2B verticals. The sector includes hospitals, medical practices, pharmaceutical manufacturers, medical device companies, healthcare IT providers, and health insurance organisations. Decision-making structures vary dramatically by organisation type: in private practices, the physician-owner makes purchasing decisions directly; in hospital systems, procurement committees, C-suite executives (CMO, CFO, CIO), and department heads all need to approve significant purchases. Healthcare's regulatory environment (HIPAA in the US, GDPR's special category rules in the EU) adds compliance complexity to any outreach involving patient data.",
+    "decision_makers": [
+      "CMO (Chief Medical Officer)",
+      "CIO",
+      "CFO",
+      "Practice Manager",
+      "Medical Director",
+      "Hospital Administrator",
+      "Head of Clinical Operations",
+      "VP of Medical Affairs",
+      "Procurement Director"
+    ],
+    "buying_triggers": [
+      "Regulatory compliance deadline",
+      "EHR system migration",
+      "New clinic/hospital opening",
+      "Funding for capital equipment",
+      "Staff shortage requiring workflow automation",
+      "Value-based care transition"
+    ],
+    "pain_points": [
+      "Administrative burden and time-per-patient",
+      "Billing and reimbursement complexity",
+      "EHR documentation time (average 16 minutes per patient encounter)",
+      "Patient no-show rates (average 18% in US primary care)",
+      "Regulatory compliance (HIPAA, ONC interoperability rules)",
+      "Physician burnout and staff retention",
+      "Telemedicine and digital health integration",
+      "Revenue cycle management"
+    ],
+    "key_sectors": [
+      "Hospital Systems",
+      "Private Practices",
+      "Pharmaceutical Manufacturing",
+      "Medical Devices",
+      "Healthcare IT",
+      "Health Insurance",
+      "Dental",
+      "Mental Health"
+    ],
+    "average_deal_size": "$10,000-$500,000+ for enterprise healthcare IT; $500-$5,000 for supplies/consumables",
+    "cold_email_performance": {
+      "open_rate": "18-26%",
+      "reply_rate": "2.0-4.5%",
+      "best_subject_lines": "Compliance requirement + time element",
+      "best_send_time": "Tuesday-Wednesday, 6:30-8am (before rounds)"
+    },
+    "strategy": "Healthcare decision-makers are time-compressed and risk-averse. Lead with regulatory compliance framing — referencing a specific upcoming deadline or regulatory change creates urgency without being pushy. Clinical outcomes data outperforms ROI framing with physicians; cost and workflow efficiency leads work better with administrators and CFOs. Avoid anything that sounds like it involves patient data without explicit compliance credentials front and centre. HIPAA BAA availability and SOC2/HITRUST certification should be mentioned in the first email if relevant.",
+    "facts": [
+      "Global healthcare B2B market exceeds $12 trillion in annual spending",
+      "Average hospital procurement cycle: 6-18 months for major purchases",
+      "Healthcare has the highest B2B data decay rate — 35%+ annually due to physician movement",
+      "Healthcare IT is the fastest-growing healthcare sub-sector at 15% CAGR",
+      "78% of healthcare decisions involve a procurement committee of 4+ stakeholders"
+    ],
+    "geographic_clusters": "Boston/Cambridge (biotech, life sciences, hospital systems — Mass General, Brigham and Women's), Nashville (hospital management companies — HCA, Acadia), Houston (MD Anderson, Texas Medical Center), Minneapolis (Medtronic, UnitedHealth Group), San Francisco (digital health startups), Baltimore (Johns Hopkins, academic medicine)",
+    "sic_codes": [
+      "8000-8099"
+    ],
+    "data_year": 2026
+  },
+  {
+    "slug": "manufacturing-engineering",
+    "label": "Manufacturing & Engineering",
+    "short": "Manufacturing",
+    "summary": "Manufacturing is the world's largest B2B sector by revenue and employs the most workers of any industry category globally. The sector spans discrete manufacturing (automotive, aerospace, electronics, machinery) and process manufacturing (chemicals, pharmaceuticals, food and beverage). Manufacturing B2B relationships are characterised by long-term supply chain commitments — switching costs are high and due diligence is thorough. The rise of Industry 4.0 (IoT sensors, predictive maintenance, digital twins) has created a new wave of technology purchasing among traditionally conservative manufacturing companies, opening B2B outreach opportunities that didn't exist a decade ago.",
+    "decision_makers": [
+      "VP Operations",
+      "Plant Manager",
+      "Chief Engineer",
+      "Production Director",
+      "Supply Chain Director",
+      "VP Manufacturing",
+      "Procurement Director",
+      "Maintenance Manager",
+      "Head of Engineering"
+    ],
+    "buying_triggers": [
+      "Supply chain disruption requiring new suppliers",
+      "Equipment upgrade/replacement cycle",
+      "Energy efficiency mandate",
+      "Industry 4.0 initiative",
+      "Quality certification requirement (ISO 9001)",
+      "New production line launch",
+      "Nearshoring/reshoring decision"
+    ],
+    "pain_points": [
+      "Unplanned equipment downtime (average manufacturing company loses $250,000/hour during unplanned downtime)",
+      "Supply chain volatility and single-source dependencies",
+      "Quality control and defect costs",
+      "Skilled trades shortage and knowledge transfer as workforce ages",
+      "ERP system modernisation (SAP, Oracle upgrades)",
+      "Sustainability and ESG reporting requirements",
+      "Nearshoring and supply chain regionalisation",
+      "Energy costs as a manufacturing input"
+    ],
+    "key_sectors": [
+      "Automotive",
+      "Aerospace & Defence",
+      "Electronics Manufacturing",
+      "Chemical Processing",
+      "Food & Beverage Manufacturing",
+      "Precision Instruments",
+      "Industrial Machinery",
+      "Plastics & Rubber"
+    ],
+    "average_deal_size": "$15,000-$2,000,000+ for industrial equipment; $500-$50,000 for software/services",
+    "cold_email_performance": {
+      "open_rate": "16-23%",
+      "reply_rate": "1.8-3.5%",
+      "best_subject_lines": "Operational efficiency + specific metric",
+      "best_send_time": "Tuesday-Thursday, 7-9am (before floor opens)"
+    },
+    "strategy": "Manufacturing decision-makers respond to specificity and proven results. Plant managers and VPs of Operations are deeply metrics-driven — frame everything in OEE (Overall Equipment Effectiveness), downtime reduction percentages, or cost-per-unit impact. Generic 'efficiency improvements' will be ignored; '12% reduction in unplanned downtime at facilities similar to yours' will get a reply. Referencing specific manufacturing processes, equipment types, or quality standards (Lean, Six Sigma, ISO) signals genuine sector knowledge.",
+    "facts": [
+      "Global manufacturing output exceeds $16 trillion annually",
+      "Manufacturing accounts for 17% of global GDP and 20% of all B2B transactions",
+      "Average manufacturing procurement cycle for capital equipment: 3-12 months",
+      "Industry 4.0 technology adoption is growing at 15% CAGR across manufacturing",
+      "Supply chain disruptions 2020-2024 accelerated nearshoring decisions in 60%+ of large manufacturers"
+    ],
+    "geographic_clusters": "US Midwest (Michigan — automotive, Ohio — diversified manufacturing, Illinois — heavy industry), Germany (Bavaria — automotive/industrial machinery, Baden-Württemberg — precision engineering, Rhineland — chemicals), China (Pearl River Delta — electronics/consumer goods, Yangtze Delta — industrial), Japan (Toyota corridor Nagoya, Osaka — electronics), South Korea (Ulsan — heavy industry, Suwon — electronics), Taiwan (Hsinchu — semiconductors)",
+    "sic_codes": [
+      "2000-3999"
+    ],
+    "data_year": 2026
+  },
+  {
+    "slug": "finance-banking",
+    "label": "Finance & Banking",
+    "short": "Finance",
+    "summary": "Financial services is one of the most regulated, risk-sensitive, and procurement-intensive B2B sectors globally. It encompasses retail and investment banking, insurance, asset management, private equity and venture capital, fintech, payment processing, and financial advisory services. Technology purchasing in financial services is subject to regulatory requirements (DORA in the EU, MAS TRM guidelines in Singapore, SOC2/ISO27001 globally) that add significant due diligence steps to any vendor evaluation. Despite this, financial services companies are significant B2B buyers of technology, consulting, compliance, data, and marketing services.",
+    "decision_makers": [
+      "CFO",
+      "CTO/CIO",
+      "Chief Risk Officer",
+      "Head of Compliance",
+      "VP Finance",
+      "Head of Treasury",
+      "Chief Digital Officer",
+      "Head of Investment Operations",
+      "COO"
+    ],
+    "buying_triggers": [
+      "Regulatory compliance deadline (Basel IV, DORA, IFRS17)",
+      "Digital transformation initiative",
+      "Legacy system migration",
+      "Merger/acquisition integration",
+      "New product launch",
+      "Fraud increase requiring new controls",
+      "Open banking/API initiative"
+    ],
+    "pain_points": [
+      "Regulatory burden (Basel IV, DORA, Consumer Duty, CFPB rules)",
+      "Legacy core banking system modernisation",
+      "Fraud and financial crime (growing sophistication of attacks)",
+      "Digital banking adoption and mobile-first customer expectations",
+      "ESG and sustainable finance reporting requirements",
+      "Interest rate environment impact on margins",
+      "Talent retention (competition from fintechs for technology talent)",
+      "Real-time payments infrastructure investment"
+    ],
+    "key_sectors": [
+      "Retail Banking",
+      "Investment Banking",
+      "Insurance",
+      "Asset Management",
+      "Private Equity",
+      "Fintech",
+      "Payment Processing",
+      "Wealth Management"
+    ],
+    "average_deal_size": "$20,000-$5,000,000+ for enterprise fintech; $1,000-$50,000 for advisory/data services",
+    "cold_email_performance": {
+      "open_rate": "15-22%",
+      "reply_rate": "1.5-3.2%",
+      "best_subject_lines": "Regulatory reference + specific risk framing",
+      "best_send_time": "Tuesday-Wednesday, 7:30-9am"
+    },
+    "strategy": "Financial services buyers have the lowest cold email response rates of any major vertical — but the highest deal values when they do convert. Risk and compliance framing outperforms efficiency framing: 'helps meet DORA Article 30 requirements by Q4' will outperform 'streamlines your operations'. References to existing clients at similar institutions (naming specific bank tiers or asset manager types, not necessarily specific names) are critical for credibility. Financial services companies will not purchase from vendors they cannot quickly due-diligence — having SOC2 Type II, ISO 27001, or relevant certifications prominently in your first email removes a common objection.",
+    "facts": [
+      "Global financial services market revenue exceeds $25 trillion annually",
+      "Financial services companies spend 10-15% of revenue on technology — the highest of any sector",
+      "Average procurement cycle for enterprise financial software: 6-24 months",
+      "Financial services is the most heavily regulated industry in every major economy",
+      "Fintech investment exceeded $100 billion globally in 2023"
+    ],
+    "geographic_clusters": "New York (Wall Street, investment banking, hedge funds), London (European banking, Lloyd's insurance market, LSE), Singapore (APAC financial hub, private banking, FX), Frankfurt (ECB, Deutsche Bundesbank, European banking regulatory centre), Hong Kong (China and APAC private banking), Chicago (derivatives, CME Group), Boston (mutual fund industry — Fidelity, State Street), Zurich/Geneva (private banking, wealth management)",
+    "sic_codes": [
+      "6000-6399"
+    ],
+    "data_year": 2026
+  },
+  {
+    "slug": "professional-services",
+    "label": "Professional Services",
+    "short": "Prof. Services",
+    "summary": "Professional services encompasses law firms, accounting and audit practices, management consulting, marketing agencies, HR and recruitment firms, and specialist advisory businesses. This sector is particularly interesting for B2B outreach because professional services firms are simultaneously sophisticated buyers of B2B tools and significant generators of B2B demand for their own services. Decision-making authority is typically concentrated at partner or director level, with managing partners holding ultimate budget authority. Firm sizes range from sole practitioners to global networks (Big Four, McKinsey, Magic Circle law firms) with fundamentally different procurement processes.",
+    "decision_makers": [
+      "Managing Partner",
+      "CEO",
+      "COO",
+      "Practice Group Leader",
+      "Head of Operations",
+      "IT Partner",
+      "CFO",
+      "Director of Business Development"
+    ],
+    "buying_triggers": [
+      "New practice area launch",
+      "Client demand requiring new capability",
+      "Merger or firm combination",
+      "Remote work infrastructure upgrade",
+      "Revenue growth plateau",
+      "Competitive pricing pressure"
+    ],
+    "pain_points": [
+      "Talent acquisition and retention (the war for talent is fiercest in professional services)",
+      "Utilisation rate optimisation (billable hours vs. non-billable time)",
+      "Knowledge management and institutional knowledge retention",
+      "Practice management and client billing efficiency",
+      "Business development and pipeline development (particularly for smaller firms)",
+      "Remote work and distributed team management",
+      "AI and automation impact on traditional service delivery"
+    ],
+    "key_sectors": [
+      "Management Consulting",
+      "Legal (Law Firms)",
+      "Accounting & Audit",
+      "Marketing Agencies",
+      "Recruitment & HR",
+      "Engineering Consulting",
+      "IT Consulting"
+    ],
+    "average_deal_size": "$5,000-$200,000 for software/services; varies widely",
+    "cold_email_performance": {
+      "open_rate": "20-28%",
+      "reply_rate": "2.5-5.0%",
+      "best_subject_lines": "Peer firm reference + specific business outcome",
+      "best_send_time": "Tuesday-Thursday, 8-10am"
+    },
+    "strategy": "Professional services buyers respond strongly to peer firm references — 'used by [type of firm] in [city]' is the most effective trust signal. Consultants and lawyers are expert evaluators; they will dismantle a weak pitch faster than almost any other audience. Lead with a sharp, specific observation about a challenge specific to their practice type or size. Avoid efficiency language that implies they're doing something wrong — frame as 'competitive advantage' rather than 'fixing a problem'. Managing partners at law firms are typically the decision-maker and the right direct contact; at consulting firms, operations or technology partners are better first targets.",
+    "facts": [
+      "Global professional services market exceeds $8 trillion annually",
+      "Big Four accounting firms (Deloitte, PwC, EY, KPMG) employ over 1 million people collectively",
+      "Law firm technology adoption has accelerated 300% since 2020 due to AI",
+      "Consulting market is growing at 8% CAGR driven by digital transformation mandates",
+      "Marketing agency consolidation: top 10 holding companies control 35% of global ad spend"
+    ],
+    "geographic_clusters": "New York (law, finance consulting, advertising), London (management consulting, legal, financial advisory), Chicago (accounting/audit Big Four hub, law firms), Washington DC (government consulting, regulatory advisory), Boston (management consulting — McKinsey, BCG founded here), San Francisco (technology consulting, executive search), Singapore (regional APAC professional services hub)",
+    "sic_codes": [
+      "7000-7389"
+    ],
+    "data_year": 2026
+  },
+  {
+    "slug": "real-estate",
+    "label": "Real Estate",
+    "short": "Property & Real Estate",
+    "summary": "Real estate encompasses residential brokerage, commercial real estate services, property management, real estate investment (REITs, private equity, individual investors), proptech, and real estate development. The US real estate industry generates $3.7 trillion in annual economic output and employs 3 million workers including 1.5 million licensed agents. The sector is undergoing significant technology disruption from proptech platforms.",
+    "decision_makers": [
+      "Real Estate Agent / Broker",
+      "Property Manager",
+      "VP of Acquisitions",
+      "REIT Portfolio Manager",
+      "Development Project Manager",
+      "Leasing Agent",
+      "Real Estate Attorney",
+      "Mortgage Loan Originator"
+    ],
+    "buying_triggers": [
+      "CRM replacement for lead management",
+      "Transaction coordination efficiency",
+      "New agent team building and training",
+      "Market downturn triggering cost reduction",
+      "Compliance requirement for transaction documentation",
+      "Investor reporting and portfolio management",
+      "AI-powered property valuation adoption"
+    ],
+    "pain_points": [
+      "Lead generation cost increasing as Zillow and realtor.com raise prices",
+      "Transaction coordination admin burden consuming agent time",
+      "CRM data management and follow-up automation",
+      "Digital marketing and social media presence maintenance",
+      "Electronic signature and document management",
+      "Commission split pressure from team-based models",
+      "New agent training and onboarding"
+    ],
+    "key_sectors": [
+      "Residential brokerage",
+      "Commercial brokerage (office, retail, industrial)",
+      "Property management (residential and commercial)",
+      "Real estate investment and REIT management",
+      "Real estate development",
+      "Mortgage origination and lending",
+      "Title and escrow services",
+      "PropTech and real estate software",
+      "Short-term rental management",
+      "Real estate education and coaching"
+    ],
+    "average_deal_size": "$50-$500/month for individual agent tools; $500-$5,000/month for team/brokerage; $5,000-$50,000/month for commercial enterprise",
+    "cold_email_performance": "Real estate cold email achieves 18-26% open rates and 2-6% reply rates. Agents and brokers respond strongly to anything that promises more listings, more leads, or more closed deals. Property managers respond to operational efficiency and tenant communication tools. Investors respond to deal flow, underwriting efficiency, and portfolio visibility tools.",
+    "strategy": "Real estate is a commission-based industry — agents and brokers are wired to evaluate everything on its impact on their income. Every product or service must be framed in terms of additional closings, saved time that converts to more prospecting, or reduced costs that increase net commission. Timing matters: spring (March-June) is peak real estate season — agents are busy and harder to reach. January-February and September-October are optimal outreach periods.",
+    "facts": [
+      "Global real estate market value exceeds $300 trillion — the world's largest asset class",
+      "PropTech investment exceeded $30 billion globally in 2023",
+      "Commercial real estate technology adoption is 5-7 years behind other sectors",
+      "Real estate agents have the highest email open rates of any professional group",
+      "REIT sector manages over $4 trillion in assets globally"
+    ],
+    "geographic_clusters": "US: New York (luxury residential, commercial RE), Los Angeles (entertainment industry real estate, luxury residential), Miami (international residential), Dallas-Fort Worth (fast-growing commercial RE), Phoenix (Sun Belt residential growth market), Chicago (commercial RE midwest hub). Commercial: every major US metro has a significant CRE brokerage presence.",
+    "sic_codes": "6500-6552 (Real Estate), 6159 (Federal-Sponsored Credit Agencies), 6552 (Land Subdividers and Developers)",
+    "data_year": 2026
+  },
+  {
+    "slug": "construction",
+    "label": "Construction",
+    "short": "Construction",
+    "summary": "The construction sector spans general contractors, specialist subcontractors (electrical, plumbing, HVAC, structural), civil engineering firms, architecture practices, and construction technology providers. It is the world's second-largest industry by employment and is undergoing significant technology adoption pressure — construction productivity has barely grown in 50 years, creating massive opportunity for companies that can demonstrably improve efficiency. Decision-making is project-driven and often decentralised across project managers, site supervisors, and company principals.",
+    "decision_makers": [
+      "CEO",
+      "Project Director",
+      "VP Construction",
+      "Chief Estimator",
+      "Procurement Manager",
+      "Site Manager",
+      "Operations Director",
+      "CFO"
+    ],
+    "buying_triggers": [
+      "New major project win requiring subcontractor network",
+      "Labour shortage requiring productivity tools",
+      "Regulatory change (building codes, environmental)",
+      "Safety incident requiring new protocols",
+      "Bonding/insurance requirement change"
+    ],
+    "pain_points": [
+      "Project scheduling delays and cost overruns (average construction project is 20% over budget)",
+      "Labour shortage and skilled trades scarcity",
+      "Materials supply chain volatility and cost escalation",
+      "Building code compliance and permitting delays",
+      "Technology adoption gap vs. other industries",
+      "Commercial real estate vacancy rates (post-COVID office market)",
+      "Residential housing affordability and demand",
+      "Sustainability and net-zero building requirements"
+    ],
+    "key_sectors": [
+      "General Contracting",
+      "Specialty Subcontractors",
+      "Civil Engineering",
+      "Architecture",
+      "Construction Technology",
+      "Materials Supply",
+      "Project Management"
+    ],
+    "average_deal_size": "$2,000-$100,000 for software/services; highly variable for equipment/materials",
+    "cold_email_performance": {
+      "open_rate": "17-24%",
+      "reply_rate": "2.0-3.8%",
+      "best_subject_lines": "Specific project type + time/cost saving claim",
+      "best_send_time": "Monday, Wednesday, 6-8am (before site visits)"
+    },
+    "strategy": "Construction buyers are highly practical — they respect demonstrated results over theoretical benefits. Lead with a specific metric (labour hours saved per project, reduction in RFI cycle time, percentage reduction in rework). Reference specific construction project types they work on (commercial, residential, infrastructure, industrial). Early morning send times outperform afternoon significantly, as principals and project managers are often on site from mid-morning. Phone follow-up after email is more accepted in construction than in other sectors.",
+    "facts": [
+      "Global construction market is a $13 trillion industry",
+      "Construction productivity growth has averaged 1% annually for 50 years vs 2.8% for manufacturing",
+      "Construction tech (ConTech) investment exceeded $50 billion cumulatively between 2015-2023",
+      "Skilled labour shortage affects 80%+ of construction companies in developed markets",
+      "Building Information Modelling (BIM) adoption is now mandatory for government projects in 30+ countries"
+    ],
+    "geographic_clusters": "US Sun Belt (Texas, Florida, Arizona — fastest construction growth), California (largest total construction market), New York (commercial real estate epicentre), Dubai/Abu Dhabi (mega-project construction), Singapore (high-density construction, smart city), Germany (stable but slow construction market), UK (London commercial real estate, UK national housebuilding)",
+    "sic_codes": [
+      "1500-1799"
+    ],
+    "data_year": 2026
+  },
+  {
+    "slug": "legal",
+    "label": "Legal Services",
+    "short": "Legal",
+    "summary": "The global legal services market is undergoing its most significant transformation since the introduction of word processors. AI-powered legal research, contract analysis, and document automation are disrupting traditional billable-hour models at mid-tier law firms. Decision-makers at law firms include managing partners (for firm-wide investments), practice group leaders (for practice-specific tools), and legal operations directors at corporate in-house teams. The legal sector's conservatism and risk-aversion means adoption cycles are long — but once a tool is adopted, switching costs are very high.",
+    "decision_makers": [
+      "Managing Partner",
+      "General Counsel (in-house)",
+      "Head of Legal Operations",
+      "Partner (practice group)",
+      "IT Director",
+      "COO",
+      "Head of Risk & Compliance"
+    ],
+    "buying_triggers": [
+      "AI disruption threatening billable hours",
+      "Regulatory compliance (legal privilege, data protection)",
+      "Client demand for fixed-fee or tech-enabled delivery",
+      "Associate attrition requiring efficiency tools",
+      "Merger requiring legal tech integration"
+    ],
+    "pain_points": [
+      "Document review and e-discovery cost pressure",
+      "AI and ChatGPT disruption to traditional billable work",
+      "Client pressure on billing rates and alternative fee arrangements (AFAs)",
+      "Talent and associate retention in competitive markets",
+      "Cybersecurity and client data protection",
+      "Matter management and profitability tracking",
+      "Cross-border and multi-jurisdictional complexity",
+      "Knowledge management and precedent reuse"
+    ],
+    "key_sectors": [
+      "Law Firms",
+      "In-House Legal Teams (GC function)",
+      "Legal Technology",
+      "Compliance & Regulatory",
+      "Litigation Support",
+      "Alternative Legal Service Providers"
+    ],
+    "average_deal_size": "$5,000-$300,000 for legal tech; highly variable for legal services",
+    "cold_email_performance": {
+      "open_rate": "19-27%",
+      "reply_rate": "2.2-4.5%",
+      "best_subject_lines": "Specific regulatory change or risk framing",
+      "best_send_time": "Tuesday-Thursday, 8-10am"
+    },
+    "strategy": "Lawyers are trained sceptics — they will find the weakness in any unsupported claim instantly. Every factual statement must be defensible. Lead with a specific regulatory change, case law development, or market force that is making their current approach problematic. Peer firm adoption is the most powerful trigger ('being used by 3 of the Magic Circle firms', 'standard in US AmLaw 100'). In-house legal teams (GC and Legal Ops) are generally faster to adopt technology than law firms and respond well to ROI and efficiency framing.",
+    "facts": [
+      "Global legal services market exceeds $1 trillion annually",
+      "LegalTech investment exceeded $1.5 billion in 2023",
+      "70% of law firms now have formal AI policies (up from 3% in 2022)",
+      "In-house legal teams are growing 3x faster than law firm headcount",
+      "Contract review AI has demonstrated 90%+ accuracy vs 85% for junior lawyers on standard contracts"
+    ],
+    "geographic_clusters": "New York (Wall Street law firms, Am Law top 10 concentration), Washington DC (regulatory, government affairs, IP law), Chicago (Midwest corporate law), Los Angeles (entertainment, IP, real estate law), London (Magic Circle and Silver Circle firms), San Francisco (technology law, IP, venture capital legal work), Houston (energy law, international arbitration)",
+    "sic_codes": [
+      "8111"
+    ],
+    "data_year": 2026
+  },
+  {
+    "slug": "ecommerce",
+    "label": "E-commerce",
+    "short": "E-commerce",
+    "summary": "E-commerce businesses are among the most technology-forward and tool-responsive B2B buyers. The sector includes pure-play online retailers, direct-to-consumer (DTC) brands, marketplace sellers, and traditional retailers with significant online channels. E-commerce operators are uniquely data-driven — every decision is tracked, measured, and A/B tested. This makes them highly receptive to performance-based value propositions. The sector is segmented by revenue: bootstrapped micro-brands (under $1M GMV), growth-stage (D2C companies with $1-50M revenue), and enterprise (established multi-channel retailers).",
+    "decision_makers": [
+      "CEO/Founder (for SME)",
+      "VP E-commerce",
+      "Head of Digital",
+      "CMO",
+      "Head of Growth",
+      "Head of Operations",
+      "CTO (for platform decisions)"
+    ],
+    "buying_triggers": [
+      "Platform migration (Shopify to custom, WooCommerce to Shopify)",
+      "Scaling inventory management challenges",
+      "Customer acquisition cost rising (performance marketing)",
+      "Return rate problems",
+      "International expansion requiring localisation",
+      "Fundraising milestone"
+    ],
+    "pain_points": [
+      "Customer acquisition cost (CAC) rising as Meta and Google CPMs increase",
+      "Customer retention and lifetime value optimisation",
+      "Cart abandonment recovery (industry average 70% abandonment rate)",
+      "Cross-border selling and international payments",
+      "Returns management cost (industry average 20-30% return rates)",
+      "Inventory management and demand forecasting",
+      "Sustainable packaging and ESG commitments",
+      "First-party data strategy post-cookie deprecation"
+    ],
+    "key_sectors": [
+      "Direct-to-Consumer (DTC)",
+      "Marketplace Sellers (Amazon, eBay)",
+      "Fashion & Apparel Online",
+      "Electronics E-commerce",
+      "Health & Beauty Online",
+      "Food & Grocery Online"
+    ],
+    "average_deal_size": "$500-$5,000/month for SaaS tools; $10,000-$500,000 for platform/integration projects",
+    "cold_email_performance": {
+      "open_rate": "24-33%",
+      "reply_rate": "3.5-6.5%",
+      "best_subject_lines": "Specific metric uplift + platform name",
+      "best_send_time": "Tuesday-Thursday, 9-11am"
+    },
+    "strategy": "E-commerce operators respond to specific, measurable claims tied to their primary KPIs (conversion rate, AOV, LTV, ROAS, COGS). Referencing their specific platform (Shopify, WooCommerce, Magento) and their visible scale (Alexa rank, Instagram followers, Trustpilot reviews) demonstrates that you've done research. Growth-stage DTC founders move fast and make decisions quickly — if there's a genuine fit, a Shopify founder can sign up same-day. Enterprise e-commerce buyers go through formal procurement processes that can take months.",
+    "facts": [
+      "Global e-commerce sales exceed $5.8 trillion annually",
+      "E-commerce is the fastest-growing B2B buyer segment for SaaS tools",
+      "Average DTC brand uses 12+ SaaS tools by the time they reach $5M revenue",
+      "Shopify powers over 4 million active stores globally",
+      "E-commerce returns average 20-30% of all orders — a $1 trillion annual problem"
+    ],
+    "geographic_clusters": "US (California, New York, Texas — highest Shopify merchant density), UK (London, Manchester — strong Shopify and DTC brand ecosystem), Germany (Berlin, Hamburg — growing DTC e-commerce), Australia (Sydney, Melbourne — strong Shopify adoption), Canada (Ontario, BC)",
+    "sic_codes": [
+      "5900-5999"
+    ],
+    "data_year": 2026
+  },
+  {
+    "slug": "oil-energy",
+    "label": "Oil & Energy",
+    "short": "Energy Sector",
+    "summary": "The energy sector encompasses oil and gas exploration, production, refining, power generation, renewable energy, and energy services. The sector is in a structural transition — fossil fuel demand is declining in developed markets while renewable energy investment surpasses $1 trillion annually globally. Both traditional energy and clean energy create significant B2B demand for equipment, services, and technology.",
+    "decision_makers": [
+      "VP Engineering",
+      "Operations Manager",
+      "Plant Manager",
+      "Energy Manager",
+      "HSE (Health Safety Environment) Manager",
+      "Procurement Director",
+      "CTO",
+      "Project Manager"
+    ],
+    "buying_triggers": [
+      "Energy transition and renewable portfolio mandates",
+      "Decarbonisation and carbon credit requirements",
+      "Equipment maintenance and replacement cycles",
+      "Regulatory compliance (EPA, OSHA, NRC)",
+      "Natural gas price volatility",
+      "EV charging infrastructure build-out",
+      "ESG reporting and sustainability disclosure requirements"
+    ],
+    "pain_points": [
+      "Energy transition strategy and renewable portfolio integration",
+      "Carbon accounting and Scope 1/2/3 emissions reporting",
+      "Asset integrity management for ageing infrastructure",
+      "Workforce shortage as experienced engineers retire",
+      "Natural disaster resilience and grid hardening",
+      "EV charging infrastructure deployment at scale",
+      "Water usage and environmental compliance in drilling operations"
+    ],
+    "key_sectors": [
+      "Upstream E&P (exploration and production)",
+      "Midstream (pipelines, storage)",
+      "Downstream (refining, retail)",
+      "Power generation (conventional and renewable)",
+      "Wind energy development",
+      "Solar energy (utility and commercial)",
+      "Battery energy storage",
+      "EV charging infrastructure",
+      "LNG and gas trading",
+      "Energy services and oilfield services"
+    ],
+    "average_deal_size": "$10,000-$1M for software and services; $1M-$1B for capital equipment and major projects",
+    "cold_email_performance": "Energy sector cold email achieves 14-20% open rates and 2-4% reply rates. Engineering and operations decision-makers respond to technical specificity and safety/compliance framing. Generic efficiency pitches perform poorly — specific operational challenge framing with documented performance data performs well.",
+    "strategy": "Energy buyers are conservative, risk-averse, and heavily regulated. Cold email that leads with safety, compliance, or regulatory framing outperforms productivity or cost framing alone. Case studies from comparable operations (oil field, refinery, wind farm) with the same scale and geographic context are the strongest proof points. The energy sector is strongly relationship-dependent — a referral from an industry peer carries 10x the weight of cold outreach.",
+    "facts": [
+      "Global energy sector capital expenditure exceeds $1 trillion annually",
+      "Renewable energy investment overtook fossil fuel investment for the first time in 2023",
+      "OPEC+ countries control 80% of global proven oil reserves",
+      "Wind and solar energy costs fell 90% between 2010-2024 — the fastest cost reduction of any energy technology",
+      "Energy transition requires $4-5 trillion annually in investment through 2050 per IEA estimates"
+    ],
+    "geographic_clusters": "US: Houston (oil and gas HQ, renewable energy nexus), Midland/Odessa TX (Permian Basin), Denver (Rocky Mountain E&P), Pittsburgh (Appalachia natgas). Global: Aberdeen UK (North Sea), Calgary Canada (oil sands), Dubai UAE (Middle East oil services), Stavanger Norway (North Sea), Perth Australia (LNG).",
+    "sic_codes": "1311 (Crude Petroleum and Natural Gas), 1381-1389 (Oil and Gas Field Services), 4911 (Electric Services), 4924 (Natural Gas Distribution), 4941 (Water Supply), 5171-5172 (Petroleum and Products)",
+    "data_year": 2026
+  },
+  {
+    "slug": "education-training",
+    "label": "Education & Training",
+    "short": "EdTech & Training",
+    "summary": "The education and training sector encompasses K-12 schools, higher education institutions, corporate training providers, online learning platforms, test preparation companies, tutoring services, and professional certification bodies. The global EdTech market exceeded $340 billion in 2023 with acceleration driven by COVID-era digital adoption. Corporate L&D (Learning & Development) spending exceeds $370 billion annually in the US alone.",
+    "decision_makers": [
+      "Chief Academic Officer",
+      "Director of Learning & Development",
+      "CISO / IT Director",
+      "VP of Human Resources",
+      "Curriculum Director",
+      "Dean of Instruction",
+      "Training Manager",
+      "Principal / Superintendent"
+    ],
+    "buying_triggers": [
+      "LMS migration or modernisation",
+      "Compliance training requirements (mandatory certifications)",
+      "Remote/hybrid learning infrastructure",
+      "Student retention and engagement challenges",
+      "Accreditation requirements for new programme delivery",
+      "Skills gap addressing for workforce development",
+      "New hire onboarding at scale"
+    ],
+    "pain_points": [
+      "Learning Management System sprawl and integration complexity",
+      "Demonstrating ROI of training programmes to CFOs",
+      "Content creation time vs. relevance half-life",
+      "Compliance training completion tracking",
+      "Learner engagement and course completion rates (average MOOC completion: 5-15%)",
+      "Accessibility and ADA compliance for learning materials",
+      "Skills gap measurement and competency mapping"
+    ],
+    "key_sectors": [
+      "K-12 public schools",
+      "K-12 private schools",
+      "Community colleges",
+      "Universities and graduate schools",
+      "Corporate Learning & Development",
+      "Professional certification",
+      "Test preparation",
+      "Vocational training",
+      "Online course platforms",
+      "Corporate compliance training"
+    ],
+    "average_deal_size": "$2,000-$50,000 for SME corporate L&D; $50,000-$500,000 for enterprise; $100,000-$5M for K-12 district; $500,000-$10M for university LMS",
+    "cold_email_performance": "Education cold email achieves 16-24% open rates and 2-5% reply rates. Academic decision-makers respond to research-backed claims and peer institution references. Corporate L&D responds to ROI framing (cost of replacing an employee vs. retention through training). K-12 district administrators respond to compliance and accessibility framing.",
+    "strategy": "Education buyers are slow decision-makers with committee-based procurement processes, particularly in K-12 and higher education. Budget cycles are annual and purchasing decisions are made 6-12 months before the school year. The corporate L&D market moves faster — quarterly budget cycles and faster vendor decisions. Lead with student/learner outcome data, peer institution adoption, and accreditation compatibility.",
+    "facts": [
+      "Global EdTech market exceeds $250 billion and is growing at 14% CAGR",
+      "Corporate L&D spending exceeded $350 billion globally in 2023",
+      "Skills half-life has decreased from 30 years to 5 years due to technology change",
+      "Online learning engagement increased 400% post-pandemic and stabilised 2x above pre-pandemic levels",
+      "Fortune 500 companies spend an average of $1,500+ per employee per year on training"
+    ],
+    "geographic_clusters": "US: New York (higher education density), Boston (elite research universities, EdTech startups), Silicon Valley (corporate L&D for tech companies), Washington DC (government training). International: London (UK higher education), Singapore (APAC corporate training hub), India (massive higher education market, EdTech startups).",
+    "sic_codes": "8200-8299 (Educational Services), 7372 (Prepackaged Software — includes EdTech), 8742 (Management Consulting — includes training and development consulting)",
+    "data_year": 2026
+  },
+  {
+    "slug": "retail-commerce",
+    "label": "Retail & Commerce",
+    "short": "Retail & Consumer Brands",
+    "summary": "Retail encompasses brick-and-mortar stores, e-commerce, direct-to-consumer (DTC) brands, and omnichannel retailers. The sector employs 15 million Americans and generates $7 trillion in US annual sales. Retail is under permanent structural pressure from Amazon and e-commerce — physical retailers are investing heavily in technology to create in-store experiences and omnichannel capabilities that online cannot replicate.",
+    "decision_makers": [
+      "VP of E-commerce",
+      "Chief Marketing Officer",
+      "Director of Retail Operations",
+      "Head of Digital",
+      "Chief Digital Officer",
+      "Merchandising Director",
+      "IT Director",
+      "VP of Customer Experience"
+    ],
+    "buying_triggers": [
+      "E-commerce platform migration or growth investment",
+      "Inventory management and supply chain modernisation",
+      "Customer loyalty programme implementation",
+      "Omnichannel integration (connecting online and in-store)",
+      "Seasonal peak capacity planning (Black Friday, holiday)",
+      "Return rate management (averaging 20-30%)",
+      "First-party data strategy post-cookie deprecation"
+    ],
+    "pain_points": [
+      "Amazon competition and price transparency pressure",
+      "Inventory visibility and stockout vs. overstock balance",
+      "Customer acquisition cost increasing on Meta and Google",
+      "Returns management cost (avg 20-30% of e-commerce revenue)",
+      "Personalisation at scale without creeping customers",
+      "Seamless omnichannel experience across online and physical",
+      "Post-cookie first-party data strategy"
+    ],
+    "key_sectors": [
+      "Apparel and fashion",
+      "Electronics retail",
+      "Grocery and specialty food",
+      "Home goods and furniture",
+      "Beauty and cosmetics (DTC)",
+      "Sporting goods",
+      "Pharmacy and drugstore",
+      "Convenience and petrol station retail",
+      "Luxury retail",
+      "Discount and value retail"
+    ],
+    "average_deal_size": "$500-$5,000/month for SME retail tools; $5,000-$50,000/month for mid-market; $50,000-$500,000+/month for enterprise retail platforms",
+    "cold_email_performance": "Retail cold email achieves 17-24% open rates and 2-5% reply rates. Revenue impact framing dramatically outperforms cost savings or operational efficiency framing in retail. Senior retail buyers are sophisticated — they evaluate tools on their impact on comparable retailers' metrics (conversion rate, AOV, LTV).",
+    "strategy": "Retail buyers are obsessed with metrics: conversion rate, average order value, customer lifetime value, return rate, and net promoter score. Every piece of outreach copy should tie directly to one of these metrics. Case studies must show specific percentage improvements at comparable retailers (similar size, similar category, similar channel mix). Timing matters: Q4 is a poor time to evaluate new technology (peak season); Q1 (January-March) is when retail teams regroup, analyse peak performance, and plan the year's technology investments.",
+    "facts": [
+      "Global retail market exceeds $28 trillion annually",
+      "Retail inventory shrinkage costs the sector $100+ billion annually",
+      "Omnichannel retailers achieve 89% customer retention vs 33% for single-channel",
+      "Retail technology investment exceeded $200 billion in 2023",
+      "Private label products now account for 25%+ of grocery retail revenue in mature markets"
+    ],
+    "geographic_clusters": "US: New York (fashion and luxury retail HQ), Los Angeles (DTC brands, entertainment retail), Chicago (Midwest retail and grocery), Dallas (big-box retail — Walmart, Target, Home Depot operations). UK: London. Germany: Munich, Hamburg. Australia: Sydney.",
+    "sic_codes": "5200-5999 (Retail Trade), 5900-5999 (Non-Store Retailers), 5961 (Catalog and Mail-Order)",
+    "data_year": 2026
+  },
+  {
+    "slug": "agriculture-food",
+    "label": "Agriculture & Food",
+    "short": "Agri-Food & Farming",
+    "summary": "Agriculture encompasses crop production, livestock, aquaculture, forestry, and food processing. The US agricultural sector generates $1.05 trillion in annual economic output with 3.4 million farm operators. The food processing and distribution sector adds another $2 trillion. AgTech (agricultural technology) investment has grown to $7+ billion annually as precision agriculture, supply chain transparency, and food safety technology attract venture capital.",
+    "decision_makers": [
+      "Farm Owner / Operator",
+      "Agronomy Manager",
+      "Supply Chain Director",
+      "Food Safety Manager",
+      "VP of Operations",
+      "Procurement Manager",
+      "Sustainability Director",
+      "Cooperative General Manager"
+    ],
+    "buying_triggers": [
+      "Precision agriculture and yield optimization",
+      "Food safety and traceability requirements (FSMA compliance)",
+      "Drought and climate resilience planning",
+      "Commodity price volatility and input cost management",
+      "Labour shortage and automation investment",
+      "ESG and sustainability reporting requirements",
+      "Export market access and certification"
+    ],
+    "pain_points": [
+      "Input cost inflation (fertiliser, fuel, seed)",
+      "Labour shortage and automation investment justification",
+      "Water scarcity and irrigation management",
+      "Pest and disease management with reduced chemical inputs",
+      "Food safety compliance and recall risk",
+      "Commodity price volatility and margin pressure",
+      "Climate risk and weather uncertainty"
+    ],
+    "key_sectors": [
+      "Row crop production (corn, soy, wheat)",
+      "Specialty crops (fruits, vegetables, nuts)",
+      "Livestock and poultry",
+      "Dairy farming",
+      "Aquaculture and fisheries",
+      "Food processing and manufacturing",
+      "Grain handling and storage",
+      "Agricultural cooperatives",
+      "AgTech and precision agriculture",
+      "Organic and sustainable farming"
+    ],
+    "average_deal_size": "$500-$5,000/year for individual farm software; $5,000-$50,000 for cooperative software; $50,000-$500,000 for food processing systems",
+    "cold_email_performance": "Agriculture cold email achieves 14-22% open rates and 2-4% reply rates. Farm operators respond to practical ROI framing — yield improvement, input cost reduction, and time savings are the relevant metrics. Food processing companies respond to food safety, regulatory compliance, and operational efficiency framing.",
+    "strategy": "Agriculture buyers are practical and sceptical. Claims must be supported by trial data from farms in the same region with the same crop or livestock type — 'farmers in your county using this approach saw X yield improvement' is more powerful than national averages. Timing is critical: spring (March-May) is planting season when operators are busy executing; fall (September-November) is harvest and planning season when they evaluate new tools for next year. January-February is the best outreach period for most agricultural decisions.",
+    "facts": [
+      "Global agriculture market exceeds $13 trillion annually",
+      "AgTech attracted $6+ billion in investment in 2023",
+      "Precision agriculture technology can improve crop yields by 10-20% while reducing input costs",
+      "Global food waste of $1 trillion annually represents the largest single AgTech opportunity",
+      "Vertical farming is growing at 25% CAGR but still represents less than 1% of global food production"
+    ],
+    "geographic_clusters": "US: Iowa and Illinois (corn/soy belt), California Central Valley (fruits, vegetables, nuts), Texas (cattle, cotton, grain), Kansas (winter wheat), North Carolina (poultry, hogs). Food processing: Chicago (meatpacking legacy), Midwest generally. Global: Brazil (soy, sugar, beef), Australia (grain, cattle, wool), Netherlands (precision agriculture technology).",
+    "sic_codes": "0100-0999 (Agriculture, Forestry, Fishing), 2000-2099 (Food and Kindred Products), 5140-5149 (Groceries and Related Products)",
+    "data_year": 2026
+  },
+  {
+    "slug": "transportation-logistics",
+    "label": "Transportation & Logistics",
+    "short": "Logistics & Supply Chain",
+    "summary": "Transportation and logistics is the backbone of global commerce — a $10+ trillion global industry encompassing freight carriers, last-mile delivery, third-party logistics (3PL), warehousing, customs brokerage, and supply chain technology. The sector was dramatically reshaped by e-commerce growth and COVID-era supply chain disruption, creating sustained investment in technology, capacity, and resilience.",
+    "decision_makers": [
+      "VP of Logistics",
+      "Director of Supply Chain",
+      "Fleet Manager",
+      "Operations Manager",
+      "Chief Supply Chain Officer",
+      "Freight Manager",
+      "Logistics Coordinator"
+    ],
+    "buying_triggers": [
+      "Fuel cost volatility requiring route optimization",
+      "Driver shortage and retention crisis",
+      "E-commerce volume growth outpacing capacity",
+      "Supply chain disruption and nearshoring",
+      "Carbon reporting and sustainability requirements",
+      "Last-mile delivery cost pressure",
+      "ELD (Electronic Logging Device) mandate compliance"
+    ],
+    "pain_points": [
+      "Driver shortage — US needs 80,000+ additional truck drivers",
+      "Fuel cost management and volatility hedging",
+      "Last-mile delivery efficiency vs. consumer cost expectations",
+      "Real-time shipment visibility for clients",
+      "ELD compliance and FMCSA regulatory burden",
+      "Carbon emissions reporting and sustainability",
+      "Freight rate volatility in spot vs. contract market"
+    ],
+    "key_sectors": [
+      "Truckload carriers",
+      "LTL freight",
+      "Third-party logistics (3PL)",
+      "Last-mile delivery",
+      "Freight brokerage",
+      "Customs brokerage",
+      "Cold chain logistics",
+      "Port and terminal operations",
+      "Rail freight",
+      "Parcel carriers"
+    ],
+    "average_deal_size": "$5,000-$50,000/year for software; $50,000-$5M for outsourced 3PL contracts",
+    "cold_email_performance": "Logistics cold email achieves 16-22% open rates and 2-5% reply rates. Operations-focused messaging outperforms strategic framing — logistics buyers respond to specific pain points (fuel cost, driver retention, delivery time) rather than abstract transformation narratives.",
+    "strategy": "Lead with a specific operational metric. Fuel efficiency, on-time delivery percentage, driver turnover rate, and cost-per-mile are the metrics logistics decision-makers manage daily. Cold email copy that references a specific operational challenge with a numeric improvement claim consistently outperforms value proposition emails. Fleet management, route optimization, and driver communication tools have the highest open rates in logistics outreach.",
+    "facts": [
+      "Global logistics market exceeds $9 trillion annually",
+      "E-commerce growth increased last-mile delivery demand by 40% between 2019-2024",
+      "Driver shortage in the US alone exceeds 80,000 positions in 2024",
+      "Supply chain visibility platforms represent the fastest-growing logistics software segment",
+      "Carbon reporting requirements are now mandatory for logistics in 40+ countries"
+    ],
+    "geographic_clusters": "US: Chicago (Great Lakes logistics hub), Dallas-Fort Worth (Southern US freight), Los Angeles/Long Beach (container port gateway), Louisville (UPS air hub), Memphis (FedEx air hub). Europe: Rotterdam (EU container hub), Hamburg, Frankfurt. Asia: Singapore (APAC logistics hub), Shanghai, Shenzhen.",
+    "sic_codes": "4210-4215 (Trucking), 4220-4226 (Public Warehousing), 4510-4581 (Air Transportation), 4730-4783 (Freight), 7389 (Services to Buildings and Dwellings — includes logistics tech)",
+    "data_year": 2026
+  }
+]

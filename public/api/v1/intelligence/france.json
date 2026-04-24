@@ -1,0 +1,82 @@
+{
+  "slug": "france",
+  "name": "France Business Email List",
+  "country": "France",
+  "region": "Europe",
+  "record_count": "3.9M+",
+  "decision_maker_ratio_pct": 27,
+  "verification_rate_pct": 93,
+  "top_industries": [
+    "Professional Services",
+    "Technology & Software",
+    "Manufacturing & Engineering"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 27,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "GDPR + CNIL Guidelines",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "CNIL",
+    "penalty_max": "EUR 20M or 4% global turnover",
+    "notes": "CNIL permits B2B cold email to professional addresses under LI where the communication is professionally relevant.",
+    "opt_out_window_days": 1
+  },
+  "benchmarks": {
+    "open_rate_range": "13-19%",
+    "reply_rate_range": "1.4-3.2%",
+    "bounce_rate_target": "below 3.2%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "France has approximately 3.9 million registered companies, with the Paris Île-de-France region generating nearly a third of national GDP and hosting the headquarters of the majority of large French corporations. Lyon is France's second business hub with particular strength in pharmaceuticals, biotech, and chemical manufacturing. Toulouse is the aerospace capital — home to Airbus headquarters and an extensive aerospace supply chain. Bordeaux and Nantes are growing tech clusters. The French corporate landscape is divided between large CAC 40 multinationals and a dense layer of PMEs (petites et moyennes entreprises) that represent the most accessible B2B target market.",
+  "strategy_note": "French B2B cold email rewards elegance and strategic framing over feature lists. Decision-makers in French companies tend to have clearly defined roles and respond to emails that speak directly to their specific strategic responsibilities rather than generic offers. The French expect more context and relationship investment before a commercial conversation. A single well-crafted email with a clear observation about their market position will outperform a high-volume spray-and-pray approach. Morning sends (before 9am) and early afternoon (2-3pm) in CET perform best. Avoid July and August — French business slows significantly during the summer holidays.",
+  "culture_note": "French business culture values intellectual engagement, strategic thinking, and proper respect for hierarchy. Initial contact should be formal and acknowledge the recipient's position. Lunch meetings are an important part of French business culture — email copy that leads to a meeting invitation over lunch or coffee will land better than a direct sales pitch. French executives are highly educated and respond to articulate, precise communication that respects their intelligence.",
+  "hubs": [
+    "Paris",
+    "Lyon",
+    "Toulouse",
+    "Bordeaux",
+    "Marseille",
+    "Nantes",
+    "Nice",
+    "Lille"
+  ],
+  "facts": [
+    "France is the 7th largest economy globally and 2nd largest in the EU",
+    "Paris hosts more Fortune 500 headquarters than any European city except London",
+    "French pharmaceutical and biotech sector employs 100,000+ people around Lyon",
+    "Toulouse's aerospace cluster (Airbus + supply chain) employs 100,000+ people",
+    "CAC 40 companies collectively employ over 5 million people worldwide"
+  ],
+  "industry_note": "Tourism & Hospitality appears prominently in French data due to France being the world's most visited country (100M+ tourists annually). However, for B2B prospecting, Professional Services, Technology, and Finance in the Paris region represent the highest-value targeting opportunity. Pharmaceutical concentration around Lyon is significant for healthcare B2B.",
+  "url": "https://b2bdataindex.com/data-pages/france-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

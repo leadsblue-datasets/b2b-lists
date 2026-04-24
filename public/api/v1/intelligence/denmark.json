@@ -1,0 +1,78 @@
+{
+  "slug": "denmark",
+  "name": "Denmark Business Email List",
+  "country": "Denmark",
+  "region": "Europe",
+  "record_count": "400K+",
+  "decision_maker_ratio_pct": 32,
+  "verification_rate_pct": 94,
+  "top_industries": [
+    "Professional Services",
+    "Technology & Software",
+    "Finance & Banking"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 32,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "1-2",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "GDPR + Markedsforingsloven",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "Datatilsynet",
+    "penalty_max": "EUR 20M or 4% global turnover",
+    "notes": "Standard GDPR/ePrivacy framework.",
+    "opt_out_window_days": 1
+  },
+  "benchmarks": {
+    "open_rate_range": "15-22%",
+    "reply_rate_range": "1.7-3.8%",
+    "bounce_rate_target": "below 2.9%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "08:00",
+    "data_year": 2026
+  },
+  "market_summary": "Denmark is consistently ranked among the world's best places to do business — high-income, highly educated, and with a strong culture of innovation and social trust. Copenhagen is the dominant commercial centre with a world-class fintech and cleantech ecosystem. Denmark's key industries include pharmaceuticals (Novo Nordisk, whose weight-loss drugs have made it Europe's most valuable company), shipping and logistics (Maersk, the world's largest container shipping line), food processing, renewable energy (Ørsted, the world's largest offshore wind company), and a growing technology sector.",
+  "strategy_note": "Danish B2B cold email is highly effective — Danes have very high digital literacy and are receptive to direct, professional outreach. Sustainability and purpose-driven business positioning genuinely resonates in Danish corporate purchasing decisions. English proficiency is near-universal. Decision-making is collaborative (team consensus), but initial cold email to the right functional role gets the process started efficiently. The Danish concept of 'hygge' (warmth, comfort) extends to business relationships — emails that feel human rather than automated perform better.",
+  "culture_note": "Danish business culture is egalitarian (even senior executives use first names from first contact), consensus-driven, and trust-based. Hierarchies are extremely flat — a CEO in Denmark may sit in an open-plan office and take lunch in the same canteen as everyone else. This means cold email to senior decision-makers is culturally appropriate and unremarkable.",
+  "hubs": [
+    "Copenhagen",
+    "Aarhus",
+    "Odense",
+    "Aalborg"
+  ],
+  "facts": [
+    "Novo Nordisk became Europe's most valuable company in 2023 based in Denmark",
+    "Maersk (Copenhagen) is the world's largest container shipping company",
+    "Denmark generates 50%+ of its electricity from wind power",
+    "Denmark has the highest minimum wage in the world",
+    "Copenhagen ranks consistently among the world's top 3 most liveable cities"
+  ],
+  "industry_note": "Pharmaceutical & Life Sciences dominates Danish B2B data — Novo Nordisk's ecosystem alone creates an entire B2B supply chain cluster. Shipping & Logistics is globally significant (Maersk headquarters). Renewable Energy is a growing B2B sector. Food processing (arla, Danish Crown) is significant in rural regions.",
+  "url": "https://b2bdataindex.com/data-pages/denmark-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

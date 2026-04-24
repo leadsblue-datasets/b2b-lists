@@ -1,0 +1,78 @@
+{
+  "slug": "thailand",
+  "name": "Thailand Business Email List",
+  "country": "Thailand",
+  "region": "Asia-Pacific",
+  "record_count": "2.2M+",
+  "decision_maker_ratio_pct": 21,
+  "verification_rate_pct": 88,
+  "top_industries": [
+    "Manufacturing & Engineering",
+    "Tourism",
+    "Finance & Banking"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 21,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "PDPA 2019 (effective 2022)",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "PDPC",
+    "penalty_max": "THB 5M",
+    "notes": "PDPA follows GDPR structure. LI available for B2B cold email to corporate contacts.",
+    "opt_out_window_days": 30
+  },
+  "benchmarks": {
+    "open_rate_range": "14-21%",
+    "reply_rate_range": "1.5-3.5%",
+    "bounce_rate_target": "below 4%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "Thailand is Southeast Asia's 2nd largest economy with a business environment that balances a massive tourism sector ($80+ billion in pre-pandemic revenue), significant automotive manufacturing (the 'Detroit of Asia' — Toyota, Honda, Nissan, and Isuzu all have major Thai assembly plants), and a growing technology sector centred in Bangkok. Thailand is ASEAN's top destination for Japanese manufacturing investment and has the region's most developed automotive supply chain. Bangkok is the dominant commercial centre, with Chiang Mai growing as a technology and digital nomad hub.",
+  "strategy_note": "Thai B2B cold email works best in the technology and multinational manufacturing sector where English proficiency is strong. For traditional Thai businesses and family groups, personal introductions through Thai business associations (Thai Chamber of Commerce, BOI networks) are more effective. Japanese companies (which are the largest foreign investors) prefer formal, properly translated outreach. Bangkok's growing startup community is responsive to direct international outreach in English.",
+  "culture_note": "Thai business culture is relationship-oriented, hierarchical, and informed by the concept of 'face' (saving face for all parties in commercial interactions). Initial formality is expected; wai (the traditional greeting) is appropriate. Thai decision-makers make fewer hasty commitments than Western counterparts — patience and relationship investment before commercial asks is expected.",
+  "hubs": [
+    "Bangkok (Sathorn, Silom, Asok)",
+    "Chiang Mai",
+    "Pattaya (industrial estate)",
+    "Rayong (Eastern Seaboard manufacturing)"
+  ],
+  "facts": [
+    "Thailand is the world's largest exporter of rice and a major exporter of rubber",
+    "Thailand produces 2.5 million vehicles annually — Southeast Asia's largest automotive manufacturer",
+    "Bangkok's GDP accounts for 44% of Thailand's national output",
+    "Thailand received 40 million international tourists in 2019 (pre-pandemic record)",
+    "Eastern Economic Corridor (EEC) is a $45 billion special economic zone for advanced manufacturing"
+  ],
+  "industry_note": "Tourism & Hospitality is Thailand's most internationally prominent sector. Manufacturing & Automotive is most dense in the Eastern Seaboard (Rayong, Chonburi) and around Bangkok. Agriculture & Food is significant outside urban centres (rubber, rice, cassava). Finance is centred in Bangkok's Sathorn/Silom financial district.",
+  "url": "https://b2bdataindex.com/data-pages/thailand-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

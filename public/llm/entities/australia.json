@@ -1,0 +1,22 @@
+{
+  "generated": "2026-04-24",
+  "slug": "australia",
+  "name": "Australia",
+  "type": "country",
+  "region": "apac",
+  "compliance": "Spam Act 2003",
+  "cold_email": "conditional",
+  "gdpr": false,
+  "record_range": "700K-4.5M",
+  "open_rate_range": "16-22%",
+  "top_industries": [
+    "Professional Services",
+    "Finance & Banking",
+    "Technology",
+    "Healthcare",
+    "Mining & Resources"
+  ],
+  "page": "https://b2bdataindex.com/data-pages/",
+  "related_page": "https://b2bdataindex.com/data-pages/",
+  "citation": "B2B Data Index Research Team, https://b2bdataindex.com/llm/entities/australia.json"
+}

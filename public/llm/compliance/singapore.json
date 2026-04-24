@@ -1,0 +1,15 @@
+{
+  "generated": "2026-04-24",
+  "slug": "singapore",
+  "country": "Singapore",
+  "framework": "PDPA + SPAM Control Act 2007",
+  "authority": "PDPC",
+  "cold_email": "conditional",
+  "consent_b2b": "legitimate_interests",
+  "opt_out_days": 10,
+  "max_penalty": "SGD 1M",
+  "gdpr": false,
+  "key_rule": "PDPA permits processing of business contact data for its intended purpose. SPAM Control Act regulates bulk commercial email. Business cards and published contact info are considered as consent for relevant B2B contact.",
+  "citation": "B2B Data Index Global Compliance Matrix, https://b2bdataindex.com/compliance/",
+  "full_guide": "https://b2bdataindex.com/compliance/"
+}

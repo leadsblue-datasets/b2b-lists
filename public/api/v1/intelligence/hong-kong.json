@@ -1,0 +1,80 @@
+{
+  "slug": "hong-kong",
+  "name": "Hong Kong Business Email List",
+  "country": "Hong Kong",
+  "region": "Asia-Pacific",
+  "record_count": "600K+",
+  "decision_maker_ratio_pct": 34,
+  "verification_rate_pct": 94,
+  "top_industries": [
+    "Finance & Banking",
+    "Professional Services",
+    "Retail & Commerce"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 34,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "1-2",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "PDPO + Unsolicited Electronic Messages Ordinance",
+    "tier": "moderate",
+    "consent_type": "inferred",
+    "basis": "inferred-consent",
+    "enforcement_body": "PCPD / OFCA",
+    "penalty_max": "HKD 1M + imprisonment",
+    "notes": "UEMO requires opt-out compliance. Legitimate commercial interest can justify B2B cold email where professionally relevant.",
+    "opt_out_window_days": 10
+  },
+  "benchmarks": {
+    "open_rate_range": "14-21%",
+    "reply_rate_range": "1.5-3.5%",
+    "bounce_rate_target": "below 3.2%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "Hong Kong remains Asia's premier international financial centre despite the political changes of 2020-2024, with its function as a bridge between mainland China and global capital markets continuing — albeit in an evolved form. The financial district (Central district) houses the Hong Kong Stock Exchange (the world's 7th largest), regional headquarters of most global investment banks, private equity firms, and professional services firms. Hong Kong is the single most important entry point for foreign companies seeking to do business with mainland Chinese enterprises. Kowloon and the New Territories host manufacturing-adjacent industries and cross-border logistics.",
+  "strategy_note": "Hong Kong B2B cold email in English reaches the internationally oriented finance and professional services community effectively — these executives are among the most globally mobile and communication-responsive in Asia. For sectors with mainland China exposure, Mandarin capability and cultural alignment with China's business norms carry significant weight. Traditional relationship-building through industry associations (HKGCC, AmCham HK, BritCham HK) and banking events is the dominant entry channel for higher-value deals.",
+  "culture_note": "Hong Kong business culture is a hybrid of British colonial professionalism, Cantonese pragmatism, and global financial norms. Efficiency is highly valued — decisions move faster here than in most Asian markets. Business card exchange follows Chinese protocol (both hands, receive and examine carefully). English and Cantonese are the dominant business languages; Mandarin is increasingly important.",
+  "hubs": [
+    "Central",
+    "Admiralty",
+    "Wan Chai",
+    "Kwun Tong (tech)",
+    "Kowloon Bay",
+    "Cyberport"
+  ],
+  "facts": [
+    "Hong Kong Stock Exchange lists over 2,600 companies with combined market cap of $4+ trillion",
+    "Hong Kong has the 2nd highest concentration of billionaires globally per capita",
+    "Cyberport and Science Park host 1,000+ tech companies and startups",
+    "Hong Kong's port is the 8th busiest container port globally",
+    "Over 9,000 foreign companies have regional offices in Hong Kong"
+  ],
+  "industry_note": "Finance & Banking is the dominant and defining sector — hedge funds, private equity, investment banking in Central and Admiralty. Technology is growing (Cyberport, HKUST ecosystem). Trade & Commerce reflects Hong Kong's entrepôt role with mainland China. Real Estate is globally significant — Hong Kong has among the world's highest commercial property values.",
+  "url": "https://b2bdataindex.com/data-pages/hong-kong-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

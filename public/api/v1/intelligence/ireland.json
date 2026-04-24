@@ -1,0 +1,79 @@
+{
+  "slug": "ireland",
+  "name": "Ireland Business Email List",
+  "country": "Ireland",
+  "region": "Europe",
+  "record_count": "400K+",
+  "decision_maker_ratio_pct": 33,
+  "verification_rate_pct": 94,
+  "top_industries": [
+    "Technology & Software",
+    "Finance & Banking",
+    "Pharmaceutical"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 33,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "1-2",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "GDPR + ePrivacy Regulations 2011",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "DPC",
+    "penalty_max": "EUR 20M or 4% global turnover",
+    "notes": "DPC enforces strictly as lead supervisor for many US tech companies. LI applies for B2B cold email.",
+    "opt_out_window_days": 1
+  },
+  "benchmarks": {
+    "open_rate_range": "16-23%",
+    "reply_rate_range": "1.8-4%",
+    "bounce_rate_target": "below 2.9%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "Ireland hosts the European headquarters of the majority of the world's major technology, pharmaceutical, and financial services multinationals — Apple, Google, Meta, Microsoft, Amazon, Pfizer, Johnson & Johnson, and hundreds more chose Dublin as their EU base, drawn by a 12.5% corporate tax rate and an English-speaking, educated workforce within the EU. This makes Ireland disproportionately important as a B2B target: a small country of 5.2 million people, but home to the European decision-making hubs of the world's most valuable technology companies. The Irish economy is heavily dual-tracked between these multinationals and a domestic SME ecosystem heavily concentrated in professional services, construction, and food production.",
+  "strategy_note": "Ireland B2B cold email divides into two very different target profiles. For the multinational technology community (the bulk of the highest-value opportunities), treat Ireland as a gateway to European decision-making — these executives are internationally oriented, English-dominant, and making decisions with EU-wide scope. For domestic Irish SMEs, a warmer, relationship-oriented approach with references to Irish business associations or events (Dublin Chamber, Enterprise Ireland programmes) builds credibility faster.",
+  "culture_note": "Irish business culture is warm, informal relatively quickly, relationship-oriented, and humour-positive. The Irish have a globally oriented business perspective given the outsized presence of US multinationals. Formal hierarchies exist but are navigated with characteristic pragmatism. The 'craic' (the social fabric of Irish business interactions) matters — being personable and genuine creates goodwill that translates to commercial outcomes.",
+  "hubs": [
+    "Dublin (Docklands/Silicon Docks, IFSC)",
+    "Cork",
+    "Limerick",
+    "Galway",
+    "Waterford"
+  ],
+  "facts": [
+    "Dublin's 'Silicon Docks' hosts European HQs of Google, Facebook, Airbnb, Twitter, and 1,000+ tech firms",
+    "Ireland is the world's 2nd largest exporter of pharmaceuticals",
+    "9 of the world's top 10 pharmaceutical companies have operations in Ireland",
+    "Ireland collects more corporate tax per capita than any other EU state",
+    "The IFSC (International Financial Services Centre) houses 400+ financial firms"
+  ],
+  "industry_note": "Technology is the defining sector — the EMEA headquarters of the world's major tech companies are in Dublin's Docklands. Pharmaceutical manufacturing is concentrated in Cork, Limerick, and Waterford. Finance & Banking clusters in the IFSC. Professional services (accountancy, legal, consulting) serve both multinationals and domestic companies.",
+  "url": "https://b2bdataindex.com/data-pages/ireland-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

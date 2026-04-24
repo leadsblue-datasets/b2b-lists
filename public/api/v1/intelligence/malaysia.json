@@ -1,0 +1,79 @@
+{
+  "slug": "malaysia",
+  "name": "Malaysia Business Email List",
+  "country": "Malaysia",
+  "region": "Asia-Pacific",
+  "record_count": "1.1M+",
+  "decision_maker_ratio_pct": 25,
+  "verification_rate_pct": 90,
+  "top_industries": [
+    "Manufacturing & Engineering",
+    "Technology & Software",
+    "Finance & Banking"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 25,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "PDPA 2010",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "PDPD (Dept of Personal Data Protection)",
+    "penalty_max": "MYR 500,000",
+    "notes": "PDPA excludes purely personal data. Business contact information is exempt for B2B purposes.",
+    "opt_out_window_days": 30
+  },
+  "benchmarks": {
+    "open_rate_range": "15-22%",
+    "reply_rate_range": "1.6-3.6%",
+    "bounce_rate_target": "below 3.5%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "Malaysia is Southeast Asia's 3rd largest economy and a highly strategic B2B market at the intersection of ASEAN's manufacturing, technology, and palm oil supply chains. Kuala Lumpur (KL) is the commercial capital with a growing fintech, digital banking, and e-commerce ecosystem. Penang is Asia's electronics manufacturing hub — the 'Silicon Island of the East' — home to Intel, AMD, Motorola Solutions, Bosch, and hundreds of semiconductor companies and their supply chains. Johor Bahru (directly connected to Singapore via bridge) is a fast-growing manufacturing and logistics hub benefiting from Singapore's high costs.",
+  "strategy_note": "Malaysian B2B cold email in English is highly effective — English is the business language of corporate Malaysia and proficiency is excellent among professional decision-makers. The manufacturing sector (Penang, Selangor) is globally integrated and accustomed to international vendor relationships. The technology and fintech sector in KL is growing rapidly and responsive to direct international outreach. Relationship-building through Malaysian business associations (MITI, MDEC, Malaysian-International Chamber of Commerce) provides additional credibility.",
+  "culture_note": "Malaysian business culture reflects the country's ethnic diversity — Chinese-Malay businesses operate somewhat differently from Malay-owned or Indian-Malaysian businesses. Generally, relationship-building (referred to as 'guanxi' in the Chinese community) is important before commercial commitment. Business meetings in Malaysia frequently involve sharing a meal — accepting hospitality is important relationship currency.",
+  "hubs": [
+    "Kuala Lumpur (KLCC, Bukit Bintang)",
+    "Penang (Bayan Lepas Free Trade Zone)",
+    "Johor Bahru",
+    "Petaling Jaya",
+    "Cyberjaya (tech)"
+  ],
+  "facts": [
+    "Penang is the world's top semiconductor assembly and testing location outside the US",
+    "Malaysia is the world's 2nd largest producer of palm oil",
+    "Intel has operated in Penang since 1972 — its first international manufacturing site",
+    "Malaysia's Multimedia Super Corridor (Cyberjaya) houses 3,000+ technology companies",
+    "Johor Bahru is ASEAN's fastest-growing manufacturing city"
+  ],
+  "industry_note": "Manufacturing & Electronics is the defining sector — Penang's semiconductor ecosystem is globally critical. Palm oil and Agricultural commodities are significant in rural areas. Technology is growing rapidly in KL's Cyberjaya and Bangsar South. Finance & Banking is significant in KL's financial district.",
+  "url": "https://b2bdataindex.com/data-pages/malaysia-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

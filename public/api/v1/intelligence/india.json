@@ -1,0 +1,82 @@
+{
+  "slug": "india",
+  "name": "India Business Email List",
+  "country": "India",
+  "region": "Asia-Pacific",
+  "record_count": "32M+",
+  "decision_maker_ratio_pct": 24,
+  "verification_rate_pct": 91,
+  "top_industries": [
+    "Technology & Software",
+    "Manufacturing & Engineering",
+    "Finance & Banking"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 24,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "DPDP Act 2023 (rules pending)",
+    "tier": "permissive",
+    "consent_type": "emerging",
+    "basis": "emerging",
+    "enforcement_body": "Data Protection Board (forming)",
+    "penalty_max": "INR 250 crore",
+    "notes": "DPDP rules still being established. Historical B2B cold email risk is very low. TRAI DND covers phone/SMS but not email.",
+    "opt_out_window_days": 30
+  },
+  "benchmarks": {
+    "open_rate_range": "20-28%",
+    "reply_rate_range": "2.5-5.5%",
+    "bounce_rate_target": "below 4.2%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "10:00",
+    "data_year": 2026
+  },
+  "market_summary": "India's B2B market is undergoing a structural transformation, driven by a technology sector now employing over 5 million knowledge workers and generating $245 billion in IT and IT-enabled services exports annually. Bangalore is the undisputed technology capital — home to Indian operations of every major global tech company plus thousands of domestic IT, software, and SaaS firms. Hyderabad has emerged as a major tech hub (Microsoft, Google, Amazon have significant campuses here), while Pune and Chennai anchor the next tier. Mumbai remains the financial and commercial capital; Delhi-NCR is the government and FMCG hub. Beyond technology, India's manufacturing base (Gujarat, Maharashtra) and pharmaceutical sector (Hyderabad, Ahmedabad) represent significant B2B data-dense verticals.",
+  "strategy_note": "Indian B2B buyers are highly email-responsive relative to other Asian markets — cold email open rates are among the highest globally (20-28%) because digital outreach is an established commercial norm. Decision-making authority in Indian businesses is often concentrated at the top — reaching the founder or MD directly is more effective than working up through functional managers. WhatsApp follow-up after initial email contact is widely accepted in Indian business culture and can dramatically increase response rates. English is the business language of Indian corporate commerce; well-written English copy performs at least as well as localized content.",
+  "culture_note": "Indian business culture is relationship-oriented but also highly pragmatic about ROI. Decision-makers at Indian companies — particularly at founder-led businesses and IT services firms — are often reached directly through cold outreach and respond well to specific, quantified value propositions. Referrals and introductions carry significant weight; mentioning a mutual connection or client reference greatly increases response rates.",
+  "hubs": [
+    "Bangalore",
+    "Mumbai",
+    "Delhi NCR",
+    "Hyderabad",
+    "Pune",
+    "Chennai",
+    "Ahmedabad",
+    "Kolkata"
+  ],
+  "facts": [
+    "India's IT sector exports $245 billion annually — the world's largest IT services exporter",
+    "Bangalore alone has over 10,000 registered technology companies",
+    "India is projected to become the world's 3rd largest economy by 2030",
+    "India has 650+ million internet users — the world's 2nd largest online population",
+    "Over 100 Indian unicorns (startups valued over $1B) created between 2015-2024"
+  ],
+  "industry_note": "Technology & Software dominates Indian B2B data particularly in Bangalore, Hyderabad, and Pune. Manufacturing is significant in Gujarat and Maharashtra. Pharmaceutical manufacturing is globally significant — India produces 20% of global generic medicine supply, centred in Hyderabad and Ahmedabad.",
+  "url": "https://b2bdataindex.com/data-pages/india-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

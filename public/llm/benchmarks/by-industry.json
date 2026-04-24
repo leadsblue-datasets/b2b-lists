@@ -1,0 +1,67 @@
+{
+  "generated": "2026-04-24",
+  "description": "Cold email performance modifiers by industry sector, relative to country baseline.",
+  "note": "Apply these modifiers to country baseline rates. Example: US open rate 18-26% + Tech modifier +2.5pp = 20.5-28.5% for US Tech sector.",
+  "data": [
+    {
+      "industry_slug": "technology-software",
+      "open_rate_modifier": "+2.5pp",
+      "reply_rate_modifier": "+0.8pp",
+      "source_page": "https://b2bdataindex.com/benchmarks/by-industry/"
+    },
+    {
+      "industry_slug": "healthcare-medical",
+      "open_rate_modifier": "+0.5pp",
+      "reply_rate_modifier": "+0.2pp",
+      "source_page": "https://b2bdataindex.com/benchmarks/by-industry/"
+    },
+    {
+      "industry_slug": "finance-banking",
+      "open_rate_modifier": "-1pp",
+      "reply_rate_modifier": "-0.3pp",
+      "source_page": "https://b2bdataindex.com/benchmarks/by-industry/"
+    },
+    {
+      "industry_slug": "professional-services",
+      "open_rate_modifier": "+1pp",
+      "reply_rate_modifier": "+0.4pp",
+      "source_page": "https://b2bdataindex.com/benchmarks/by-industry/"
+    },
+    {
+      "industry_slug": "manufacturing",
+      "open_rate_modifier": "-0.5pp",
+      "reply_rate_modifier": "-0.1pp",
+      "source_page": "https://b2bdataindex.com/benchmarks/by-industry/"
+    },
+    {
+      "industry_slug": "retail-commerce",
+      "open_rate_modifier": "+0.8pp",
+      "reply_rate_modifier": "+0.2pp",
+      "source_page": "https://b2bdataindex.com/benchmarks/by-industry/"
+    },
+    {
+      "industry_slug": "construction",
+      "open_rate_modifier": "+0.3pp",
+      "reply_rate_modifier": "+0.1pp",
+      "source_page": "https://b2bdataindex.com/benchmarks/by-industry/"
+    },
+    {
+      "industry_slug": "legal",
+      "open_rate_modifier": "+1.5pp",
+      "reply_rate_modifier": "+0.5pp",
+      "source_page": "https://b2bdataindex.com/benchmarks/by-industry/"
+    },
+    {
+      "industry_slug": "ecommerce",
+      "open_rate_modifier": "+1.2pp",
+      "reply_rate_modifier": "+0.4pp",
+      "source_page": "https://b2bdataindex.com/benchmarks/by-industry/"
+    },
+    {
+      "industry_slug": "oil-energy",
+      "open_rate_modifier": "-0.8pp",
+      "reply_rate_modifier": "-0.2pp",
+      "source_page": "https://b2bdataindex.com/benchmarks/by-industry/"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "austria",
+  "name": "Austria Business Email List",
+  "country": "Austria",
+  "region": "Europe",
+  "record_count": "500K+",
+  "decision_maker_ratio_pct": 30,
+  "verification_rate_pct": 93,
+  "top_industries": [
+    "Manufacturing & Engineering",
+    "Finance & Banking",
+    "Tourism"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 30,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "1-2",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "GDPR + TKG 2021",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "DSB",
+    "penalty_max": "EUR 20M or 4% global turnover",
+    "notes": "LI acceptable where message is relevant to recipient professional role.",
+    "opt_out_window_days": 1
+  },
+  "benchmarks": {
+    "open_rate_range": "13-20%",
+    "reply_rate_range": "1.4-3.2%",
+    "bounce_rate_target": "below 3.2%",
+    "best_send_day": "Thursday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "Austria is a high-income DACH-region economy with approximately 500,000 registered businesses, positioned at the crossroads of Western and Central-Eastern Europe. Vienna is both the national capital and the country's commercial centre — handling 30% of Austrian GDP and hosting regional headquarters for companies serving the broader CEE (Central and Eastern Europe) market. Graz is Austria's 2nd city and a significant automotive technology hub (AVL, Magna Steyr). Linz is a major industrial centre. Austria's business culture closely mirrors Germany's — precision, quality, and long-term relationships are the dominant values.",
+  "strategy_note": "Austrian B2B cold email follows German norms closely: formal German-language communication, structured content, and avoidance of hyperbole. Vienna's international business community (many companies use it as a CEE hub) responds well to English-language outreach. Austrian executives are thorough decision-makers — a well-prepared, detailed first email with supporting materials will outperform a brief teaser. Companies positioning Vienna operations as a gateway to CEE markets resonate particularly well.",
+  "culture_note": "Austrian business culture is formal, traditional, and relationship-oriented in the German mould — but somewhat warmer and less rigid than Germany. Vienna's coffeehouse culture (Kaffeehaus) is a genuine business institution; meetings over coffee are an important relationship-building format. Academic and professional titles are used prominently — Mag., Dr., Ing. prefixes matter in formal correspondence.",
+  "hubs": [
+    "Vienna",
+    "Graz",
+    "Linz",
+    "Salzburg",
+    "Innsbruck"
+  ],
+  "facts": [
+    "Vienna is OPEC's headquarters and home to UN agencies (IAEA, UNIDO, OSCE)",
+    "AVL List (Graz) is the world's largest independent company for powertrain development",
+    "Austria's per-capita income ranks in Europe's top 10",
+    "70% of Austrian exports go to EU countries — Germany is the largest trading partner",
+    "Austria's tourism sector (Alps, Vienna culture) employs 15% of the workforce"
+  ],
+  "industry_note": "Professional Services and Finance concentrate in Vienna. Automotive Technology is significant in Graz (AVL, Magna Steyr, vehicle testing infrastructure). Manufacturing is significant in Linz (Voestalpine steel) and Upper Austria. Tourism & Hospitality is a major sector across alpine regions and Vienna.",
+  "url": "https://b2bdataindex.com/data-pages/austria-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

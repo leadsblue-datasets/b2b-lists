@@ -1,0 +1,78 @@
+{
+  "slug": "argentina",
+  "name": "Argentina Business Email List",
+  "country": "Argentina",
+  "region": "Americas",
+  "record_count": "1.8M+",
+  "decision_maker_ratio_pct": 23,
+  "verification_rate_pct": 89,
+  "top_industries": [
+    "Agriculture & Food",
+    "Finance & Banking",
+    "Technology & Software"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 23,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "LPDP 25.326 (GDPR-adequate)",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "AAIP",
+    "penalty_max": "ARS 3M",
+    "notes": "Argentina has EU adequacy status. GDPR-like framework with LI available for B2B.",
+    "opt_out_window_days": 5
+  },
+  "benchmarks": {
+    "open_rate_range": "14-21%",
+    "reply_rate_range": "1.5-3.5%",
+    "bounce_rate_target": "below 4.5%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "Argentina has the 3rd largest economy in Latin America and a highly educated, sophisticated B2B market despite recurring macroeconomic volatility. Buenos Aires is a genuine global city with a density of professional services, technology companies, and multinational regional offices comparable to cities twice its economic weight. The Argentine technology sector has consistently produced globally competitive companies — Mercado Libre (the 'eBay of Latin America'), OLX, Despegar, and Auth0 all originated in Buenos Aires. The agricultural export sector (soy, wheat, beef, wine) generates significant B2B activity around trading houses, agtech, and logistics.",
+  "strategy_note": "Argentine B2B cold email in Spanish or English works well — Argentines are sophisticated, digitally literate, and receptive to international business relationships. The technology community in Buenos Aires (particularly in Palermo and Belgrano tech clusters) is globally connected and actively seeking international partnerships and clients. Despite macroeconomic instability, Argentine professionals are accustomed to working in USD-denominated contracts. Decision-making is relatively fast for LATAM — Argentine business culture is more direct than Brazilian equivalents.",
+  "culture_note": "Argentine business culture reflects the country's European (particularly Italian and Spanish) immigration roots — relationship-oriented, expressive, and with a strong culture of shared meals. Buenos Aires's porteño (Buenos Aires local) business culture is sophisticated and cosmopolitan, with strong identification with European business norms rather than Latin American neighbours.",
+  "hubs": [
+    "Buenos Aires (Palermo, Puerto Madero, San Telmo tech cluster)",
+    "Córdoba",
+    "Mendoza",
+    "Rosario"
+  ],
+  "facts": [
+    "Mercado Libre (Buenos Aires) is Latin America's most valuable publicly traded company",
+    "Argentina holds one of Latin America's highest rates of tech talent per capita",
+    "Argentina's wine exports are among the world's top 5 by value",
+    "Argentina has one of the highest university graduation rates in Latin America",
+    "Buenos Aires hosts more bookstores per capita than any other city in the world"
+  ],
+  "industry_note": "Technology is the defining growth sector — Buenos Aires produces competitive SaaS, fintech, and developer tool companies. Agriculture & Agribusiness is globally significant (soy, beef, wine exports). Finance is significant in Buenos Aires's Microcentro. Manufacturing has declined but automotive (Córdoba) and pharma remain significant.",
+  "url": "https://b2bdataindex.com/data-pages/argentina-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

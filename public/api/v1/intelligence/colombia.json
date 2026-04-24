@@ -1,0 +1,79 @@
+{
+  "slug": "colombia",
+  "name": "Colombia Business Email List",
+  "country": "Colombia",
+  "region": "Americas",
+  "record_count": "1.3M+",
+  "decision_maker_ratio_pct": 22,
+  "verification_rate_pct": 88,
+  "top_industries": [
+    "Finance & Banking",
+    "Oil & Energy",
+    "Agriculture & Food"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 22,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "Ley de Proteccion de Datos 1581 + Decreto 1377",
+    "tier": "strict",
+    "consent_type": "express",
+    "basis": "opt-in",
+    "enforcement_body": "SIC",
+    "penalty_max": "COP 2,000M",
+    "notes": "Colombia requires express authorization for data processing including email marketing. SIC is an active enforcement authority.",
+    "opt_out_window_days": 5
+  },
+  "benchmarks": {
+    "open_rate_range": "13-20%",
+    "reply_rate_range": "1.4-3.2%",
+    "bounce_rate_target": "below 4.8%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "Colombia is Latin America's 4th largest economy with a rapidly expanding business ecosystem centred on Bogotá, the capital and commercial hub. Medellín has transformed dramatically from its troubled past to become Colombia's 'City of Innovation' — its urban transformation is studied globally, and a growing technology and startup sector has emerged around the Ruta N innovation district. Cartagena and Barranquilla are significant on the Caribbean coast for trade and agriculture. Colombia's economy is diversifying from commodities (coffee, oil, coal, emeralds) into technology services, financial services, and business process outsourcing.",
+  "strategy_note": "Colombian B2B cold email in Spanish is important for most sectors; English is fine for the international business community in Bogotá and the technology sector in Medellín. Colombian business culture values warmth and personal connection — a cold email that sounds human and genuinely interested in the Colombian market will outperform a generic global pitch. Bogotá's altitude (2,600m above sea level) is an unusual physical context for business visits but doesn't affect digital outreach.",
+  "culture_note": "Colombian business culture is warm, relationship-oriented, and punctuality-flexible. Trust (confianza) must be established before commercial conversations. Reference to mutual connections or Colombian business associations significantly improves credibility. Security concerns in some regions historically affected international business confidence but Bogotá and Medellín are now considered safe for business.",
+  "hubs": [
+    "Bogotá",
+    "Medellín (Ruta N innovation district)",
+    "Cali",
+    "Barranquilla",
+    "Cartagena"
+  ],
+  "facts": [
+    "Colombia is the world's largest producer of emeralds (90% of global supply)",
+    "Medellín was named the most innovative city in the world by the Urban Land Institute",
+    "Colombia's BPO/IT sector grew to $1+ billion in exports by 2024",
+    "Colombia produced 5 unicorns between 2020-2024, the most in LATAM after Brazil and Mexico",
+    "Coffee exports from Colombia's coffee region are among the world's most premium"
+  ],
+  "industry_note": "Coffee & Agriculture has global significance from the Coffee Triangle region. Oil & Energy is significant around Bogotá and the eastern plains. Technology is growing rapidly in Medellín's Ruta N and Bogotá's Chapinero tech cluster. Financial Services concentrate in Bogotá's northern business districts. BPO services are growing across multiple cities.",
+  "url": "https://b2bdataindex.com/data-pages/colombia-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

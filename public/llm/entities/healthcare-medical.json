@@ -1,0 +1,18 @@
+{
+  "generated": "2026-04-24",
+  "slug": "healthcare-medical",
+  "name": "Healthcare & Medical",
+  "type": "industry",
+  "sic": "8000-8099",
+  "cold_email_open_rate_mod": "+0.5%",
+  "decision_maker_density": "medium",
+  "typical_b2b_pct": "10-18%",
+  "key_personas": [
+    "Practice Owner",
+    "Medical Director",
+    "Hospital Administrator",
+    "Chief Nursing Officer"
+  ],
+  "related_page": "https://b2bdataindex.com/llm/entities/healthcare-medical.json",
+  "citation": "B2B Data Index Research Team, https://b2bdataindex.com/llm/entities/healthcare-medical.json"
+}

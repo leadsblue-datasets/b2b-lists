@@ -1,0 +1,79 @@
+{
+  "slug": "nigeria",
+  "name": "Nigeria Business Email List",
+  "country": "Nigeria",
+  "region": "Africa",
+  "record_count": "2.1M+",
+  "decision_maker_ratio_pct": 23,
+  "verification_rate_pct": 86,
+  "top_industries": [
+    "Oil & Energy",
+    "Finance & Banking",
+    "Technology & Software"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 23,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "NDPR 2019 + NITDA Guidelines",
+    "tier": "permissive",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "NITDA",
+    "penalty_max": "2% of annual gross revenue",
+    "notes": "NDPR is Nigerias primary data protection framework. Enforcement for B2B cold email is minimal. Include opt-out as best practice.",
+    "opt_out_window_days": 30
+  },
+  "benchmarks": {
+    "open_rate_range": "18-26%",
+    "reply_rate_range": "2-4.5%",
+    "bounce_rate_target": "below 5%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "Nigeria is Africa's largest economy by GDP and most populous nation (220+ million), with a rapidly growing technology sector centred on Lagos. Yaba district in Lagos ('Yabacon Valley') is the heart of West African tech — home to Flutterwave, Paystack, Interswitch, and hundreds of other fintech and technology companies. The oil sector (Niger Delta) remains the engine of formal GDP but the informal economy and technology sector are growing faster. Abuja is the political capital with significant government and public sector procurement. Kano and Port Harcourt are significant secondary commercial centres.",
+  "strategy_note": "Nigerian B2B outreach requires culturally appropriate framing — Nigerians are entrepreneurial, direct, and highly mobile-first in communication. WhatsApp is more effective than email for many B2B follow-ups in Nigeria. The technology and fintech sector (Lagos specifically) is globally connected and responds well to direct professional outreach in English. For sectors outside technology, personal relationships and referrals remain the primary entry point. Nigerian business culture is relationship-transactional — people want to know your intentions quickly.",
+  "culture_note": "Nigerian business culture is entrepreneurial, energetic, and relationship-oriented. Trust must be established quickly — Nigerians have developed acute awareness of scams and will be sceptical of cold outreach unless it clearly references credible context. Name-dropping of known Nigerian business figures or companies you've worked with carries significant credibility weight.",
+  "hubs": [
+    "Lagos (Yaba, Victoria Island, Lekki)",
+    "Abuja",
+    "Kano",
+    "Port Harcourt",
+    "Ibadan"
+  ],
+  "facts": [
+    "Nigeria is Africa's largest economy by GDP and most populous nation",
+    "Lagos is home to Africa's largest fintech ecosystem by investment",
+    "Flutterwave (Lagos-founded) was Africa's first fintech unicorn valued at over $3 billion",
+    "Nigeria has 120+ million internet users — the most in Africa",
+    "Oil accounts for 5% of GDP but 88% of government revenue"
+  ],
+  "industry_note": "Oil & Energy is most significant in the Niger Delta region. Technology & Fintech is most dense in Lagos — Yaba specifically. Telecommunications is significant — MTN Nigeria and Airtel Africa are headquartered here. Agriculture is the largest employment sector but least represented in formal B2B data.",
+  "url": "https://b2bdataindex.com/data-pages/nigeria-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

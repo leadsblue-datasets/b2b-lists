@@ -1,0 +1,82 @@
+{
+  "slug": "united-kingdom",
+  "name": "UK B2B Email List",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "record_count": "5.6M+",
+  "decision_maker_ratio_pct": 32,
+  "verification_rate_pct": 95,
+  "top_industries": [
+    "Finance & Banking",
+    "Technology & Software",
+    "Professional Services"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 32,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "1-2",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "UK GDPR + PECR 2003",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "ICO",
+    "penalty_max": "GBP 17.5M or 4% global turnover",
+    "notes": "LI applies to corporate email addresses. Sole traders require consent. Opt-out must be honoured promptly.",
+    "opt_out_window_days": 1
+  },
+  "benchmarks": {
+    "open_rate_range": "16-24%",
+    "reply_rate_range": "1.8-4.2%",
+    "bounce_rate_target": "below 3.1%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "The UK has approximately 5.6 million registered businesses, with London functioning as the dominant commercial centre for professional services, finance, media, and technology. Manchester is the UK's second economic hub — strong in digital media, e-commerce, and professional services — while Birmingham anchors automotive and manufacturing, Edinburgh leads Scottish financial services, and Bristol has become a significant technology cluster. The UK left the EU's regulatory orbit in 2021 but has maintained GDPR-equivalent protections under UK GDPR, creating a broadly comparable compliance environment to continental Europe.",
+  "strategy_note": "UK B2B buyers respond to specificity and social proof from comparable organisations. A cold email that names a specific challenge in their sector, references a UK-based client or case study, and makes a single clear ask will outperform a feature-list pitch. Follow-up cadence should be less aggressive than US equivalents — two to three follow-ups over a fortnight is standard, not seven touches in three weeks. LinkedIn connection requests from a real profile before the cold email increase reply rates significantly in the UK market.",
+  "culture_note": "British business culture values understatement, professionalism, and indirect communication. Overly salesy language or American-style urgency language ('Act now', 'Limited time') tends to underperform. A tone that is confident but not pushy, and that demonstrates genuine understanding of their specific sector, is more effective than enthusiasm-heavy copy.",
+  "hubs": [
+    "London",
+    "Manchester",
+    "Birmingham",
+    "Edinburgh",
+    "Bristol",
+    "Leeds",
+    "Glasgow",
+    "Cambridge"
+  ],
+  "facts": [
+    "London is Europe's largest financial centre with over 250 foreign banks headquartered there",
+    "5.6 million registered businesses — 99.9% are SMEs",
+    "The UK tech sector employs 1.7 million people across 25,000 firms",
+    "Professional services account for 22% of UK GDP",
+    "Average UK B2B sales cycle: 3-9 months; longer for enterprise, shorter for SME"
+  ],
+  "industry_note": "Finance & Banking dominates UK B2B data, concentrated in London's Square Mile and Canary Wharf. Technology is the fastest-growing segment, centred in London's 'Silicon Roundabout' (Shoreditch/Old Street), Cambridge, and Bristol. Healthcare & Life Sciences is significant around London, Cambridge, and Oxford.",
+  "url": "https://b2bdataindex.com/data-pages/united-kingdom-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

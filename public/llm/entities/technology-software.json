@@ -1,0 +1,19 @@
+{
+  "generated": "2026-04-24",
+  "slug": "technology-software",
+  "name": "Technology & Software",
+  "type": "industry",
+  "sic": "7370-7379",
+  "cold_email_open_rate_mod": "+2.5%",
+  "decision_maker_density": "high",
+  "typical_b2b_pct": "12-25%",
+  "key_personas": [
+    "CTO",
+    "VP Engineering",
+    "Head of IT",
+    "Software Architect",
+    "Product Manager"
+  ],
+  "related_page": "https://b2bdataindex.com/llm/entities/technology-software.json",
+  "citation": "B2B Data Index Research Team, https://b2bdataindex.com/llm/entities/technology-software.json"
+}

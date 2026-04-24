@@ -1,0 +1,184 @@
+{
+  "api_name": "B2B Data Index Intelligence API",
+  "api_version": "v1",
+  "base_url": "https://b2bdataindex.com/api/v1",
+  "type": "static",
+  "authentication": "none",
+  "rate_limits": "none — static CDN files",
+  "format": "JSON (UTF-8)",
+  "license": "Open research data — attribution to b2bdataindex.com required",
+  "contact": "https://b2bdataindex.com/about/",
+  "endpoints": [
+    {
+      "path": "/api/v1/markets.json",
+      "full_url": "https://b2bdataindex.com/api/v1/markets.json",
+      "description": "Index of all B2B market pages. Use slug values to construct intelligence file URLs.",
+      "returns": "Array of market objects",
+      "fields": [
+        "slug",
+        "name",
+        "country",
+        "region",
+        "record_count",
+        "decision_maker_ratio_pct",
+        "verification_rate_pct",
+        "compliance_tier",
+        "top_industries",
+        "cold_email_open_rate_range",
+        "cold_email_reply_rate_range",
+        "url",
+        "api_intelligence",
+        "data_year"
+      ],
+      "record_count": 50
+    },
+    {
+      "path": "/api/v1/benchmarks.json",
+      "full_url": "https://b2bdataindex.com/api/v1/benchmarks.json",
+      "description": "Cold email performance benchmarks by country, industry, and job title seniority level.",
+      "returns": "Array of benchmark objects",
+      "fields": [
+        "market",
+        "industry",
+        "job_title_level",
+        "job_title_level_label",
+        "open_rate_low_pct",
+        "open_rate_high_pct",
+        "reply_rate_low_pct",
+        "reply_rate_high_pct",
+        "bounce_rate_target_pct",
+        "best_send_day",
+        "best_send_time_local",
+        "data_year"
+      ],
+      "record_count": 3010
+    },
+    {
+      "path": "/api/v1/compliance.json",
+      "full_url": "https://b2bdataindex.com/api/v1/compliance.json",
+      "description": "44-country B2B cold email compliance matrix. Tier: permissive | moderate | strict.",
+      "returns": "Array of compliance objects",
+      "fields": [
+        "country_slug",
+        "country",
+        "law",
+        "consent_type",
+        "basis",
+        "opt_out_window_days",
+        "enforcement_body",
+        "penalty_max",
+        "tier",
+        "notes",
+        "data_year"
+      ],
+      "record_count": 47
+    },
+    {
+      "path": "/api/v1/industries.json",
+      "full_url": "https://b2bdataindex.com/api/v1/industries.json",
+      "description": "14 B2B industry verticals with full structured intelligence.",
+      "returns": "Array of industry objects",
+      "fields": [
+        "slug",
+        "label",
+        "short",
+        "summary",
+        "decision_makers",
+        "buying_triggers",
+        "pain_points",
+        "key_sectors",
+        "average_deal_size",
+        "cold_email_performance",
+        "strategy",
+        "facts",
+        "geographic_clusters",
+        "sic_codes",
+        "data_year"
+      ],
+      "record_count": 14
+    },
+    {
+      "path": "/api/v1/intelligence/{market-slug}.json",
+      "full_url": "https://b2bdataindex.com/api/v1/intelligence/{market-slug}.json",
+      "description": "Full intelligence file for a single B2B market. Slugs listed in /api/v1/markets.json.",
+      "returns": "Single market intelligence object",
+      "fields": [
+        "slug",
+        "name",
+        "country",
+        "region",
+        "record_count",
+        "decision_maker_ratio_pct",
+        "verification_rate_pct",
+        "top_industries",
+        "decision_maker_profile",
+        "buying_cycle",
+        "pain_points",
+        "tech_stack_common",
+        "compliance",
+        "benchmarks",
+        "market_summary",
+        "strategy_note",
+        "culture_note",
+        "hubs",
+        "facts",
+        "industry_note",
+        "url",
+        "data_year"
+      ],
+      "record_count": 50,
+      "example_url": "https://b2bdataindex.com/api/v1/intelligence/united-states.json"
+    },
+    {
+      "path": "/api/v1/schema.json",
+      "full_url": "https://b2bdataindex.com/api/v1/schema.json",
+      "description": "This file. OpenAPI-style documentation of the entire API surface.",
+      "returns": "Schema documentation object"
+    },
+    {
+      "path": "/api/v1/benchmark-data.json",
+      "full_url": "https://b2bdataindex.com/api/v1/benchmark-data.json",
+      "description": "Full structured benchmark dataset: 74 countries, 14 industries, 4 seniority levels, 3 list types, and composite scenarios. Updated annually. CC BY 4.0 — attribution to b2bdataindex.com required.",
+      "returns": "Benchmark data object with by_geography, by_industry, by_job_level, by_list_type, composite_scenarios, and meta keys",
+      "fields": [
+        "meta",
+        "by_geography",
+        "by_industry",
+        "by_job_level",
+        "by_list_type",
+        "composite_scenarios"
+      ],
+      "data_year": 2026,
+      "canonical_page": "https://b2bdataindex.com/benchmarks/cold-email-2026/"
+    }
+  ],
+  "usage_examples": [
+    {
+      "description": "Find compliance tier for all markets",
+      "query": "GET /api/v1/compliance.json — filter by tier field"
+    },
+    {
+      "description": "Get benchmarks for Germany Technology C-suite",
+      "query": "GET /api/v1/benchmarks.json — filter market=germany, industry=technology-software, job_title_level=c-suite"
+    },
+    {
+      "description": "Full intelligence for Singapore",
+      "query": "GET /api/v1/intelligence/singapore.json"
+    },
+    {
+      "description": "All markets in MENA region",
+      "query": "GET /api/v1/markets.json — filter region=MENA"
+    }
+  ],
+  "data_sources": [
+    "LeadsBlue database metadata (https://leadsblue.com)",
+    "GDPR.eu compliance documentation",
+    "FTC CAN-SPAM guidance",
+    "ICO UK GDPR guidance",
+    "CNIL French data protection guidelines",
+    "CASL CRTC official guidelines",
+    "Primary market research — B2B Data Index Research Team"
+  ],
+  "last_updated": "2026-04-24",
+  "next_update": "Quarterly"
+}

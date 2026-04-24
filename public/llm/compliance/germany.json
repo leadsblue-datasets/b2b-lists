@@ -1,0 +1,15 @@
+{
+  "generated": "2026-04-24",
+  "slug": "germany",
+  "country": "Germany",
+  "framework": "TDDDG + GDPR + UWG §7",
+  "authority": "State DPAs (BfDI, LDAs)",
+  "cold_email": "restricted",
+  "consent_b2b": "express_required",
+  "opt_out_days": 1,
+  "max_penalty": "€20M or 4% global turnover",
+  "gdpr": true,
+  "key_rule": "UWG §7 requires express prior consent or existing customer relationship for cold email — even to businesses. Strictest B2B email regime in the EU. Enforcement is active via competition law complaints.",
+  "citation": "B2B Data Index Global Compliance Matrix, https://b2bdataindex.com/compliance/",
+  "full_guide": "https://b2bdataindex.com/compliance/"
+}

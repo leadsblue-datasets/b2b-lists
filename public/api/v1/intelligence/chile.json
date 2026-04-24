@@ -1,0 +1,78 @@
+{
+  "slug": "chile",
+  "name": "Chile Business Email List",
+  "country": "Chile",
+  "region": "Americas",
+  "record_count": "700K+",
+  "decision_maker_ratio_pct": 24,
+  "verification_rate_pct": 89,
+  "top_industries": [
+    "Mining",
+    "Finance & Banking",
+    "Agriculture & Food"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 24,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "Ley N 19.628 + 2022 Bill (pending)",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "CPLT",
+    "penalty_max": "UTM 5,000",
+    "notes": "Current law is light on email specifics. New comprehensive privacy law being finalized. LI basis recommended.",
+    "opt_out_window_days": 10
+  },
+  "benchmarks": {
+    "open_rate_range": "18-26%",
+    "reply_rate_range": "2.1-4.8%",
+    "bounce_rate_target": "below 2.8%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "Chile is Latin America's most stable and prosperous economy per capita — a high-income country by regional standards with strong institutions and globally integrated trade relationships. Santiago is the commercial capital, home to the Santiago Stock Exchange, major mining company headquarters (Codelco, BHP Billiton Chile, Anglo American Chile), and a growing technology sector. Chile is the world's largest copper producer (copper accounts for over 50% of exports), giving its economy unusual exposure to global commodity cycles but also unique depth in mining technology and services. A new fintech law and startup-supportive regulatory environment have made Chile an increasingly attractive Latin American tech hub.",
+  "strategy_note": "Chilean B2B cold email in Spanish is standard for domestic companies; English is appropriate for the mining multinational community and international business organisations. Chilean business culture is more formal than some LATAM neighbours — professional titles and proper salutations matter in initial contact. The 'Chilecon Valley' startup ecosystem in Santiago's Providencia and Las Condes neighbourhoods is internationally connected and responds well to direct professional outreach.",
+  "culture_note": "Chilean business culture is formal, reliable, and somewhat reserved compared to other LATAM countries. Chileans value professionalism, punctuality, and keeping commitments. The business day typically runs 9am-7pm with a long lunch break. Strong regional identity means Chileans appreciate references to Chile-specific context rather than generic Latin American framing.",
+  "hubs": [
+    "Santiago (Las Condes, Providencia, El Golf)",
+    "Valparaíso/Viña del Mar",
+    "Antofagasta (mining)",
+    "Concepción"
+  ],
+  "facts": [
+    "Chile produces 27% of the world's copper — more than any other nation",
+    "Santiago's financial district (El Golf) is the wealthiest commercial district in Latin America per sqm",
+    "Chile has the highest GDP per capita in Latin America",
+    "Start-Up Chile (government programme) has supported 2,500+ startups from 90+ countries",
+    "Chile's lithium reserves are the world's largest — critical for EV battery supply chains"
+  ],
+  "industry_note": "Mining & Resources dominates Chilean exports absolutely — copper from Atacama region, lithium from Salar de Atacama. Finance & Banking concentrates in Santiago's El Golf. Agriculture & Wine exports are globally significant (Casablanca Valley, Maipo Valley). Technology is growing in Santiago. Renewable energy (solar in Atacama) is becoming significant.",
+  "url": "https://b2bdataindex.com/data-pages/chile-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

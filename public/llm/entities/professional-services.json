@@ -1,0 +1,18 @@
+{
+  "generated": "2026-04-24",
+  "slug": "professional-services",
+  "name": "Professional Services",
+  "type": "industry",
+  "sic": "7000-7389",
+  "cold_email_open_rate_mod": "+1.0%",
+  "decision_maker_density": "high",
+  "typical_b2b_pct": "15-28%",
+  "key_personas": [
+    "Managing Partner",
+    "Principal Consultant",
+    "Practice Head",
+    "Director of Operations"
+  ],
+  "related_page": "https://b2bdataindex.com/llm/entities/professional-services.json",
+  "citation": "B2B Data Index Research Team, https://b2bdataindex.com/llm/entities/professional-services.json"
+}

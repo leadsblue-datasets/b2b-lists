@@ -1,0 +1,79 @@
+{
+  "slug": "portugal",
+  "name": "Portugal Business Email List",
+  "country": "Portugal",
+  "region": "Europe",
+  "record_count": "600K+",
+  "decision_maker_ratio_pct": 26,
+  "verification_rate_pct": 91,
+  "top_industries": [
+    "Tourism",
+    "Professional Services",
+    "Technology & Software"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 26,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "GDPR + Electronic Communications Law",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "CNPD",
+    "penalty_max": "EUR 20M or 4% global turnover",
+    "notes": "Standard GDPR application following EDPB guidance.",
+    "opt_out_window_days": 1
+  },
+  "benchmarks": {
+    "open_rate_range": "13-20%",
+    "reply_rate_range": "1.4-3.2%",
+    "bounce_rate_target": "below 3.5%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "Portugal has emerged as one of Europe's most attractive technology and startup destinations over the past decade. Lisbon hosts Web Summit — the world's largest technology conference — and has developed a thriving startup ecosystem with investment from US and European venture capital. Porto, Portugal's 2nd city, is a growing technology and services hub. Beyond technology, Portugal's traditional economy includes tourism (Porto wine, Algarve beaches), cork production (Portugal produces 70% of the world's cork), and a growing renewables sector. Portugal is a high-value, lower-cost alternative to Western European markets for software development, fintech, and professional services.",
+  "strategy_note": "Portuguese B2B cold email in Portuguese performs best for domestic companies; English is fine for Lisbon's international technology community and for companies connected to the Web Summit ecosystem. Portuguese business culture values personal relationships and warmth — a personable, genuine tone outperforms corporate formality. Lisbon's startup and tech community is closely connected and highly accessible via cold email given the city's relatively small scale.",
+  "culture_note": "Portuguese business culture is warm, relationship-oriented, and somewhat formal in initial contact. The concept of 'saudade' (longing/nostalgia) characterises the emotional landscape, but business is conducted pragmatically. Lisbon's tech community is notably international and entrepreneurially minded — closer to global startup norms than traditional Portuguese business culture.",
+  "hubs": [
+    "Lisbon",
+    "Porto",
+    "Braga (tech)",
+    "Coimbra (university city)",
+    "Faro (Algarve)"
+  ],
+  "facts": [
+    "Web Summit (Lisbon) is the world's largest technology conference, drawing 70,000+ attendees",
+    "Portugal produces 70% of the world's cork — a globally unique industry",
+    "Lisbon was named European Capital of Innovation in 2023",
+    "Portugal's renewables generate 65%+ of national electricity consumption",
+    "30,000+ digital nomads and remote workers relocated to Lisbon between 2020-2024"
+  ],
+  "industry_note": "Technology & Startups are most dense in Lisbon's Startup Lisboa and LACS ecosystems. Tourism & Hospitality is the largest revenue generator. Manufacturing is significant in the Setúbal and Porto regions. Agriculture & Wine exports are globally significant (Port wine, Vinho Verde, olive oil). Professional Services (outsourcing, legal, accounting) are growing around Lisbon and Porto.",
+  "url": "https://b2bdataindex.com/data-pages/portugal-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

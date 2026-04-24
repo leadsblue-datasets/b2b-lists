@@ -1,0 +1,15 @@
+{
+  "generated": "2026-04-24",
+  "slug": "united-states",
+  "country": "United States",
+  "framework": "CAN-SPAM Act 2003",
+  "authority": "FTC",
+  "cold_email": "permitted",
+  "consent_b2b": "none_required",
+  "opt_out_days": 10,
+  "max_penalty": "$51,744 per email",
+  "gdpr": false,
+  "key_rule": "No prior consent needed for B2B cold email. Must include physical address, honest subject line, and working opt-out mechanism honoured within 10 business days.",
+  "citation": "B2B Data Index Global Compliance Matrix, https://b2bdataindex.com/compliance/",
+  "full_guide": "https://b2bdataindex.com/compliance/"
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "japan",
+  "name": "Japan Business Email List",
+  "country": "Japan",
+  "region": "Asia-Pacific",
+  "record_count": "3.5M+",
+  "decision_maker_ratio_pct": 18,
+  "verification_rate_pct": 93,
+  "top_industries": [
+    "Manufacturing & Engineering",
+    "Technology & Software",
+    "Finance & Banking"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 18,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "Act on Regulation of Specified Electronic Mail 2002",
+    "tier": "strict",
+    "consent_type": "express",
+    "basis": "opt-in",
+    "enforcement_body": "MIC",
+    "penalty_max": "JPY 1M per violation",
+    "notes": "Opt-in required. Business cards at a meeting constitute implied consent. Aggressive follow-up will damage brand regardless of legal exposure.",
+    "opt_out_window_days": 1
+  },
+  "benchmarks": {
+    "open_rate_range": "10-16%",
+    "reply_rate_range": "0.8-2.2%",
+    "bounce_rate_target": "below 3%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "10:00",
+    "data_year": 2026
+  },
+  "market_summary": "Japan is the 4th largest economy globally with approximately 3.5 million registered commercial entities, dominated by an extraordinarily complex corporate ecosystem. The keiretsu system — interlocking networks of businesses that include manufacturers, suppliers, distributors, and financial institutions — means that purchasing decisions within large Japanese companies involve multiple layers of approval (nemawashi — consensus building — can extend the B2B sales cycle to 12-18 months for enterprise deals). Tokyo handles the headquarters of virtually every major Japanese corporation; Osaka is Japan's second commercial centre with manufacturing, pharmaceutical, and retail strengths; Nagoya is the global hub of Toyota's vast automotive supply chain; Fukuoka is a growing startup hub.",
+  "strategy_note": "Cold email in Japan requires a fundamentally different approach than Western markets. Japanese executives receive fewer cold emails than their US or European counterparts — but the cultural norms around unsolicited commercial contact are more conservative. The single highest-leverage action is to send via a warm introduction whenever possible. If cold, the email should be formal (Japanese language if at all possible), extremely brief, humble in tone, reference a specific relevant context, and avoid any pressure for a quick response. Expect response times of 1-3 weeks if there is genuine interest. High-volume automated cadences will damage your brand in the Japanese market.",
+  "culture_note": "Japanese business culture operates on hierarchy, formality, and patient relationship-building. Titles matter — address the recipient by their title and surname. Never use first name in initial contact. Decisions are made by group consensus, not by individual executives acting alone. Showing patience and respect for their process is itself a competitive differentiator in the Japanese market.",
+  "hubs": [
+    "Tokyo",
+    "Osaka",
+    "Nagoya",
+    "Fukuoka",
+    "Sapporo",
+    "Kobe",
+    "Kyoto"
+  ],
+  "facts": [
+    "Japan is the 4th largest economy globally, with GDP over $4.2 trillion",
+    "Toyota's supply chain alone involves 40,000+ supplier companies across Japan",
+    "Japan has the world's 3rd largest stock exchange by market capitalisation",
+    "Japanese companies file 300,000+ patent applications annually — 2nd globally",
+    "Osaka-Kobe-Kyoto forms Japan's 2nd largest economic zone after Tokyo"
+  ],
+  "industry_note": "Manufacturing & Electronics dominates Japanese B2B data — automotive (Toyota corridor around Nagoya), electronics (Sony, Panasonic, Sharp around Osaka/Tokyo), precision instruments (Tokyo, Nagano). Financial services are concentrated in Tokyo's Marunouchi and Shinjuku districts. Pharmaceutical is significant around Osaka and Kobe.",
+  "url": "https://b2bdataindex.com/data-pages/japan-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

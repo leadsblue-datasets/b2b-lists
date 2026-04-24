@@ -1,0 +1,81 @@
+{
+  "slug": "poland",
+  "name": "Poland Business Email List",
+  "country": "Poland",
+  "region": "Europe",
+  "record_count": "1.5M+",
+  "decision_maker_ratio_pct": 27,
+  "verification_rate_pct": 92,
+  "top_industries": [
+    "Manufacturing & Engineering",
+    "Technology & Software",
+    "Professional Services"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 27,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "GDPR + Electronic Services Act",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "UODO",
+    "penalty_max": "EUR 20M or 4% global turnover",
+    "notes": "Standard GDPR. LI permissible for professionally relevant B2B communications.",
+    "opt_out_window_days": 1
+  },
+  "benchmarks": {
+    "open_rate_range": "14-20%",
+    "reply_rate_range": "1.4-3.2%",
+    "bounce_rate_target": "below 3.8%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "Poland is Central Europe's largest economy and one of the fastest-growing in the EU, with a business ecosystem that has successfully transitioned from central planning to a market economy and now hosts significant manufacturing, IT services, and shared services operations for European multinationals. Warsaw is the financial, technology, and corporate headquarters centre. Kraków has become Poland's Silicon Valley — a major BPO/IT services hub with Google, IBM, HSBC, UBS, and hundreds of technology companies operating large R&D and shared service centres. Wrocław, Poznań, and Gdańsk are significant manufacturing and technology centres.",
+  "strategy_note": "Polish B2B cold email in English works well for the technology and shared services sectors where English is the working language. For traditional manufacturing and domestic Polish companies, Polish-language outreach is more effective and demonstrates genuine market commitment. Polish decision-makers are direct and pragmatic — they respond well to clear value propositions with specific ROI or cost savings. The IT services sector in Kraków and Warsaw is particularly receptive to international B2B outreach given the global client base these companies already serve.",
+  "culture_note": "Polish business culture is formal in initial contact, progressively warmer as relationships develop. Punctuality is valued. Polish executives respect well-prepared presentations and detailed proposals. The business culture has strong Western European influences overlaid on Central European formality traditions.",
+  "hubs": [
+    "Warsaw",
+    "Kraków",
+    "Wrocław",
+    "Poznań",
+    "Gdańsk",
+    "Łódź",
+    "Katowice"
+  ],
+  "facts": [
+    "Poland's economy grew continuously for 28 years between 1991-2020 — a record for any EU country",
+    "Kraków has over 200 BPO and IT services companies employing 100,000+ people",
+    "Poland is the EU's 6th largest economy and Central Europe's dominant market",
+    "Poland produces 20% of all EU furniture exports",
+    "Warsaw's Służewiec district is one of Europe's largest business park clusters"
+  ],
+  "industry_note": "Manufacturing is the largest employer — furniture (Łódź), copper mining (KGHM in Silesia), automotive components, and food processing. Technology & IT services concentrates in Kraków, Warsaw, and Wrocław. Finance & Banking is centred in Warsaw. BPO/shared services are dense in every major city.",
+  "url": "https://b2bdataindex.com/data-pages/poland-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

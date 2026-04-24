@@ -1,0 +1,22 @@
+{
+  "generated": "2026-04-24",
+  "slug": "canada",
+  "name": "Canada",
+  "type": "country",
+  "region": "north_america",
+  "compliance": "CASL",
+  "cold_email": "conditional",
+  "gdpr": false,
+  "record_range": "700K-4.5M",
+  "open_rate_range": "17-25%",
+  "top_industries": [
+    "Professional Services",
+    "Technology",
+    "Finance & Banking",
+    "Healthcare",
+    "Manufacturing"
+  ],
+  "page": "https://b2bdataindex.com/data-pages/",
+  "related_page": "https://b2bdataindex.com/data-pages/",
+  "citation": "B2B Data Index Research Team, https://b2bdataindex.com/llm/entities/canada.json"
+}

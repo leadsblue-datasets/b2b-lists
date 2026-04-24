@@ -1,0 +1,1002 @@
+[
+  {
+    "slug": "united-states",
+    "name": "USA Business Email List",
+    "country": "United States",
+    "region": "Americas",
+    "record_count": "86M+",
+    "decision_maker_ratio_pct": 28,
+    "verification_rate_pct": 96,
+    "compliance_tier": "permissive",
+    "top_industries": [
+      "Technology & Software",
+      "Healthcare & Medical",
+      "Finance & Banking"
+    ],
+    "cold_email_open_rate_range": "18-26%",
+    "cold_email_reply_rate_range": "2.1-4.8%",
+    "url": "https://b2bdataindex.com/data-pages/united-states-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/united-states.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "united-kingdom",
+    "name": "UK B2B Email List",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "record_count": "5.6M+",
+    "decision_maker_ratio_pct": 32,
+    "verification_rate_pct": 95,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Finance & Banking",
+      "Technology & Software",
+      "Professional Services"
+    ],
+    "cold_email_open_rate_range": "16-24%",
+    "cold_email_reply_rate_range": "1.8-4.2%",
+    "url": "https://b2bdataindex.com/data-pages/united-kingdom-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/united-kingdom.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "germany",
+    "name": "Germany Business Contact List",
+    "country": "Germany",
+    "region": "Europe",
+    "record_count": "3.5M+",
+    "decision_maker_ratio_pct": 29,
+    "verification_rate_pct": 94,
+    "compliance_tier": "strict",
+    "top_industries": [
+      "Manufacturing & Engineering",
+      "Technology & Software",
+      "Finance & Banking"
+    ],
+    "cold_email_open_rate_range": "12-18%",
+    "cold_email_reply_rate_range": "1.2-3%",
+    "url": "https://b2bdataindex.com/data-pages/germany-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/germany.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "france",
+    "name": "France Business Email List",
+    "country": "France",
+    "region": "Europe",
+    "record_count": "3.9M+",
+    "decision_maker_ratio_pct": 27,
+    "verification_rate_pct": 93,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Professional Services",
+      "Technology & Software",
+      "Manufacturing & Engineering"
+    ],
+    "cold_email_open_rate_range": "13-19%",
+    "cold_email_reply_rate_range": "1.4-3.2%",
+    "url": "https://b2bdataindex.com/data-pages/france-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/france.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "india",
+    "name": "India Business Email List",
+    "country": "India",
+    "region": "Asia-Pacific",
+    "record_count": "32M+",
+    "decision_maker_ratio_pct": 24,
+    "verification_rate_pct": 91,
+    "compliance_tier": "permissive",
+    "top_industries": [
+      "Technology & Software",
+      "Manufacturing & Engineering",
+      "Finance & Banking"
+    ],
+    "cold_email_open_rate_range": "20-28%",
+    "cold_email_reply_rate_range": "2.5-5.5%",
+    "url": "https://b2bdataindex.com/data-pages/india-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/india.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "canada",
+    "name": "Canada Business Email List",
+    "country": "Canada",
+    "region": "Americas",
+    "record_count": "1.2M+",
+    "decision_maker_ratio_pct": 31,
+    "verification_rate_pct": 95,
+    "compliance_tier": "strict",
+    "top_industries": [
+      "Finance & Banking",
+      "Technology & Software",
+      "Professional Services"
+    ],
+    "cold_email_open_rate_range": "17-25%",
+    "cold_email_reply_rate_range": "2-4.5%",
+    "url": "https://b2bdataindex.com/data-pages/canada-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/canada.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "australia",
+    "name": "Australia Business Email List",
+    "country": "Australia",
+    "region": "Asia-Pacific",
+    "record_count": "2.5M+",
+    "decision_maker_ratio_pct": 30,
+    "verification_rate_pct": 94,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Finance & Banking",
+      "Professional Services",
+      "Construction"
+    ],
+    "cold_email_open_rate_range": "16-22%",
+    "cold_email_reply_rate_range": "1.8-4%",
+    "url": "https://b2bdataindex.com/data-pages/australia-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/australia.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "japan",
+    "name": "Japan Business Email List",
+    "country": "Japan",
+    "region": "Asia-Pacific",
+    "record_count": "3.5M+",
+    "decision_maker_ratio_pct": 18,
+    "verification_rate_pct": 93,
+    "compliance_tier": "strict",
+    "top_industries": [
+      "Manufacturing & Engineering",
+      "Technology & Software",
+      "Finance & Banking"
+    ],
+    "cold_email_open_rate_range": "10-16%",
+    "cold_email_reply_rate_range": "0.8-2.2%",
+    "url": "https://b2bdataindex.com/data-pages/japan-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/japan.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "singapore",
+    "name": "Singapore Business Email List",
+    "country": "Singapore",
+    "region": "Asia-Pacific",
+    "record_count": "800K+",
+    "decision_maker_ratio_pct": 35,
+    "verification_rate_pct": 96,
+    "compliance_tier": "permissive",
+    "top_industries": [
+      "Finance & Banking",
+      "Technology & Software",
+      "Professional Services"
+    ],
+    "cold_email_open_rate_range": "17-24%",
+    "cold_email_reply_rate_range": "2-4.3%",
+    "url": "https://b2bdataindex.com/data-pages/singapore-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/singapore.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "uae",
+    "name": "UAE Business Email List",
+    "country": "UAE",
+    "region": "MENA",
+    "record_count": "1.4M+",
+    "decision_maker_ratio_pct": 33,
+    "verification_rate_pct": 94,
+    "compliance_tier": "permissive",
+    "top_industries": [
+      "Finance & Banking",
+      "Real Estate",
+      "Professional Services"
+    ],
+    "cold_email_open_rate_range": "19-26%",
+    "cold_email_reply_rate_range": "2.2-4.8%",
+    "url": "https://b2bdataindex.com/data-pages/uae-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/uae.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "netherlands",
+    "name": "Netherlands Business Email List",
+    "country": "Netherlands",
+    "region": "Europe",
+    "record_count": "1.8M+",
+    "decision_maker_ratio_pct": 31,
+    "verification_rate_pct": 94,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Technology & Software",
+      "Finance & Banking",
+      "Professional Services"
+    ],
+    "cold_email_open_rate_range": "14-21%",
+    "cold_email_reply_rate_range": "1.5-3.5%",
+    "url": "https://b2bdataindex.com/data-pages/netherlands-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/netherlands.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "sweden",
+    "name": "Sweden Business Email List",
+    "country": "Sweden",
+    "region": "Europe",
+    "record_count": "900K+",
+    "decision_maker_ratio_pct": 32,
+    "verification_rate_pct": 95,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Technology & Software",
+      "Professional Services",
+      "Manufacturing & Engineering"
+    ],
+    "cold_email_open_rate_range": "15-22%",
+    "cold_email_reply_rate_range": "1.6-3.8%",
+    "url": "https://b2bdataindex.com/data-pages/sweden-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/sweden.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "israel",
+    "name": "Israel Business Email List",
+    "country": "Israel",
+    "region": "MENA",
+    "record_count": "500K+",
+    "decision_maker_ratio_pct": 36,
+    "verification_rate_pct": 94,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Technology & Software",
+      "Finance & Banking",
+      "Professional Services"
+    ],
+    "cold_email_open_rate_range": "18-25%",
+    "cold_email_reply_rate_range": "2-4.5%",
+    "url": "https://b2bdataindex.com/data-pages/israel-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/israel.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "south-korea",
+    "name": "South Korea Business Email List",
+    "country": "South Korea",
+    "region": "Asia-Pacific",
+    "record_count": "1.5M+",
+    "decision_maker_ratio_pct": 20,
+    "verification_rate_pct": 93,
+    "compliance_tier": "strict",
+    "top_industries": [
+      "Manufacturing & Engineering",
+      "Technology & Software",
+      "Finance & Banking"
+    ],
+    "cold_email_open_rate_range": "12-18%",
+    "cold_email_reply_rate_range": "1-2.5%",
+    "url": "https://b2bdataindex.com/data-pages/south-korea-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/south-korea.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "brazil",
+    "name": "Brazil Business Email List",
+    "country": "Brazil",
+    "region": "Americas",
+    "record_count": "8M+",
+    "decision_maker_ratio_pct": 22,
+    "verification_rate_pct": 90,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Finance & Banking",
+      "Manufacturing & Engineering",
+      "Professional Services"
+    ],
+    "cold_email_open_rate_range": "15-22%",
+    "cold_email_reply_rate_range": "1.8-4%",
+    "url": "https://b2bdataindex.com/data-pages/brazil-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/brazil.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "mexico",
+    "name": "Mexico Business Email List",
+    "country": "Mexico",
+    "region": "Americas",
+    "record_count": "4M+",
+    "decision_maker_ratio_pct": 21,
+    "verification_rate_pct": 89,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Manufacturing & Engineering",
+      "Retail & Commerce",
+      "Finance & Banking"
+    ],
+    "cold_email_open_rate_range": "14-21%",
+    "cold_email_reply_rate_range": "1.5-3.5%",
+    "url": "https://b2bdataindex.com/data-pages/mexico-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/mexico.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "switzerland",
+    "name": "Switzerland Business Email List",
+    "country": "Switzerland",
+    "region": "Europe",
+    "record_count": "600K+",
+    "decision_maker_ratio_pct": 34,
+    "verification_rate_pct": 95,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Finance & Banking",
+      "Professional Services",
+      "Pharmaceutical"
+    ],
+    "cold_email_open_rate_range": "14-21%",
+    "cold_email_reply_rate_range": "1.5-3.5%",
+    "url": "https://b2bdataindex.com/data-pages/switzerland-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/switzerland.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "saudi-arabia",
+    "name": "Saudi Arabia Business Email List",
+    "country": "Saudi Arabia",
+    "region": "MENA",
+    "record_count": "1.8M+",
+    "decision_maker_ratio_pct": 28,
+    "verification_rate_pct": 91,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Oil & Energy",
+      "Finance & Banking",
+      "Construction"
+    ],
+    "cold_email_open_rate_range": "16-23%",
+    "cold_email_reply_rate_range": "1.6-3.6%",
+    "url": "https://b2bdataindex.com/data-pages/saudi-arabia-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/saudi-arabia.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "south-africa",
+    "name": "South Africa Business Email List",
+    "country": "South Africa",
+    "region": "Africa",
+    "record_count": "1.2M+",
+    "decision_maker_ratio_pct": 26,
+    "verification_rate_pct": 90,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Finance & Banking",
+      "Mining",
+      "Professional Services"
+    ],
+    "cold_email_open_rate_range": "16-23%",
+    "cold_email_reply_rate_range": "1.7-3.8%",
+    "url": "https://b2bdataindex.com/data-pages/south-africa-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/south-africa.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "nigeria",
+    "name": "Nigeria Business Email List",
+    "country": "Nigeria",
+    "region": "Africa",
+    "record_count": "2.1M+",
+    "decision_maker_ratio_pct": 23,
+    "verification_rate_pct": 86,
+    "compliance_tier": "permissive",
+    "top_industries": [
+      "Oil & Energy",
+      "Finance & Banking",
+      "Technology & Software"
+    ],
+    "cold_email_open_rate_range": "18-26%",
+    "cold_email_reply_rate_range": "2-4.5%",
+    "url": "https://b2bdataindex.com/data-pages/nigeria-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/nigeria.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "turkey",
+    "name": "Turkey Business Email List",
+    "country": "Turkey",
+    "region": "MENA",
+    "record_count": "2.8M+",
+    "decision_maker_ratio_pct": 24,
+    "verification_rate_pct": 89,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Manufacturing & Engineering",
+      "Finance & Banking",
+      "Retail & Commerce"
+    ],
+    "cold_email_open_rate_range": "15-21%",
+    "cold_email_reply_rate_range": "1.5-3.4%",
+    "url": "https://b2bdataindex.com/data-pages/turkey-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/turkey.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "poland",
+    "name": "Poland Business Email List",
+    "country": "Poland",
+    "region": "Europe",
+    "record_count": "1.5M+",
+    "decision_maker_ratio_pct": 27,
+    "verification_rate_pct": 92,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Manufacturing & Engineering",
+      "Technology & Software",
+      "Professional Services"
+    ],
+    "cold_email_open_rate_range": "14-20%",
+    "cold_email_reply_rate_range": "1.4-3.2%",
+    "url": "https://b2bdataindex.com/data-pages/poland-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/poland.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "ireland",
+    "name": "Ireland Business Email List",
+    "country": "Ireland",
+    "region": "Europe",
+    "record_count": "400K+",
+    "decision_maker_ratio_pct": 33,
+    "verification_rate_pct": 94,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Technology & Software",
+      "Finance & Banking",
+      "Pharmaceutical"
+    ],
+    "cold_email_open_rate_range": "16-23%",
+    "cold_email_reply_rate_range": "1.8-4%",
+    "url": "https://b2bdataindex.com/data-pages/ireland-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/ireland.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "hong-kong",
+    "name": "Hong Kong Business Email List",
+    "country": "Hong Kong",
+    "region": "Asia-Pacific",
+    "record_count": "600K+",
+    "decision_maker_ratio_pct": 34,
+    "verification_rate_pct": 94,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Finance & Banking",
+      "Professional Services",
+      "Retail & Commerce"
+    ],
+    "cold_email_open_rate_range": "14-21%",
+    "cold_email_reply_rate_range": "1.5-3.5%",
+    "url": "https://b2bdataindex.com/data-pages/hong-kong-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/hong-kong.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "china",
+    "name": "China Business Email List",
+    "country": "China",
+    "region": "Asia-Pacific",
+    "record_count": "45M+",
+    "decision_maker_ratio_pct": 15,
+    "verification_rate_pct": 88,
+    "compliance_tier": "strict",
+    "top_industries": [
+      "Manufacturing & Engineering",
+      "Technology & Software",
+      "Finance & Banking"
+    ],
+    "cold_email_open_rate_range": "8-14%",
+    "cold_email_reply_rate_range": "0.6-1.8%",
+    "url": "https://b2bdataindex.com/data-pages/china-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/china.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "new-zealand",
+    "name": "New Zealand Business Email List",
+    "country": "New Zealand",
+    "region": "Asia-Pacific",
+    "record_count": "400K+",
+    "decision_maker_ratio_pct": 30,
+    "verification_rate_pct": 93,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Agriculture & Food",
+      "Professional Services",
+      "Technology & Software"
+    ],
+    "cold_email_open_rate_range": "15-22%",
+    "cold_email_reply_rate_range": "1.6-3.8%",
+    "url": "https://b2bdataindex.com/data-pages/new-zealand-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/new-zealand.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "denmark",
+    "name": "Denmark Business Email List",
+    "country": "Denmark",
+    "region": "Europe",
+    "record_count": "400K+",
+    "decision_maker_ratio_pct": 32,
+    "verification_rate_pct": 94,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Professional Services",
+      "Technology & Software",
+      "Finance & Banking"
+    ],
+    "cold_email_open_rate_range": "15-22%",
+    "cold_email_reply_rate_range": "1.7-3.8%",
+    "url": "https://b2bdataindex.com/data-pages/denmark-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/denmark.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "norway",
+    "name": "Norway Business Email List",
+    "country": "Norway",
+    "region": "Europe",
+    "record_count": "350K+",
+    "decision_maker_ratio_pct": 31,
+    "verification_rate_pct": 94,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Oil & Energy",
+      "Technology & Software",
+      "Professional Services"
+    ],
+    "cold_email_open_rate_range": "15-22%",
+    "cold_email_reply_rate_range": "1.6-3.8%",
+    "url": "https://b2bdataindex.com/data-pages/norway-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/norway.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "finland",
+    "name": "Finland Business Email List",
+    "country": "Finland",
+    "region": "Europe",
+    "record_count": "300K+",
+    "decision_maker_ratio_pct": 31,
+    "verification_rate_pct": 94,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Technology & Software",
+      "Manufacturing & Engineering",
+      "Professional Services"
+    ],
+    "cold_email_open_rate_range": "14-21%",
+    "cold_email_reply_rate_range": "1.5-3.5%",
+    "url": "https://b2bdataindex.com/data-pages/finland-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/finland.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "malaysia",
+    "name": "Malaysia Business Email List",
+    "country": "Malaysia",
+    "region": "Asia-Pacific",
+    "record_count": "1.1M+",
+    "decision_maker_ratio_pct": 25,
+    "verification_rate_pct": 90,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Manufacturing & Engineering",
+      "Technology & Software",
+      "Finance & Banking"
+    ],
+    "cold_email_open_rate_range": "15-22%",
+    "cold_email_reply_rate_range": "1.6-3.6%",
+    "url": "https://b2bdataindex.com/data-pages/malaysia-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/malaysia.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "philippines",
+    "name": "Philippines Business Email List",
+    "country": "Philippines",
+    "region": "Asia-Pacific",
+    "record_count": "1.4M+",
+    "decision_maker_ratio_pct": 22,
+    "verification_rate_pct": 88,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Technology & Software",
+      "Finance & Banking",
+      "Professional Services"
+    ],
+    "cold_email_open_rate_range": "17-25%",
+    "cold_email_reply_rate_range": "2-4.5%",
+    "url": "https://b2bdataindex.com/data-pages/philippines-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/philippines.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "indonesia",
+    "name": "Indonesia Business Email List",
+    "country": "Indonesia",
+    "region": "Asia-Pacific",
+    "record_count": "5M+",
+    "decision_maker_ratio_pct": 19,
+    "verification_rate_pct": 87,
+    "compliance_tier": "permissive",
+    "top_industries": [
+      "Manufacturing & Engineering",
+      "Finance & Banking",
+      "Agriculture & Food"
+    ],
+    "cold_email_open_rate_range": "16-24%",
+    "cold_email_reply_rate_range": "1.8-4%",
+    "url": "https://b2bdataindex.com/data-pages/indonesia-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/indonesia.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "thailand",
+    "name": "Thailand Business Email List",
+    "country": "Thailand",
+    "region": "Asia-Pacific",
+    "record_count": "2.2M+",
+    "decision_maker_ratio_pct": 21,
+    "verification_rate_pct": 88,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Manufacturing & Engineering",
+      "Tourism",
+      "Finance & Banking"
+    ],
+    "cold_email_open_rate_range": "14-21%",
+    "cold_email_reply_rate_range": "1.5-3.5%",
+    "url": "https://b2bdataindex.com/data-pages/thailand-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/thailand.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "argentina",
+    "name": "Argentina Business Email List",
+    "country": "Argentina",
+    "region": "Americas",
+    "record_count": "1.8M+",
+    "decision_maker_ratio_pct": 23,
+    "verification_rate_pct": 89,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Agriculture & Food",
+      "Finance & Banking",
+      "Technology & Software"
+    ],
+    "cold_email_open_rate_range": "14-21%",
+    "cold_email_reply_rate_range": "1.5-3.5%",
+    "url": "https://b2bdataindex.com/data-pages/argentina-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/argentina.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "spain",
+    "name": "Spain Business Email List",
+    "country": "Spain",
+    "region": "Europe",
+    "record_count": "2.8M+",
+    "decision_maker_ratio_pct": 25,
+    "verification_rate_pct": 91,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Tourism",
+      "Professional Services",
+      "Manufacturing & Engineering"
+    ],
+    "cold_email_open_rate_range": "13-20%",
+    "cold_email_reply_rate_range": "1.4-3.3%",
+    "url": "https://b2bdataindex.com/data-pages/spain-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/spain.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "italy",
+    "name": "Italy Business Email List",
+    "country": "Italy",
+    "region": "Europe",
+    "record_count": "4.1M+",
+    "decision_maker_ratio_pct": 24,
+    "verification_rate_pct": 91,
+    "compliance_tier": "strict",
+    "top_industries": [
+      "Manufacturing & Engineering",
+      "Fashion & Luxury",
+      "Professional Services"
+    ],
+    "cold_email_open_rate_range": "12-18%",
+    "cold_email_reply_rate_range": "1.2-2.8%",
+    "url": "https://b2bdataindex.com/data-pages/italy-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/italy.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "belgium",
+    "name": "Belgium Business Email List",
+    "country": "Belgium",
+    "region": "Europe",
+    "record_count": "700K+",
+    "decision_maker_ratio_pct": 30,
+    "verification_rate_pct": 93,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Finance & Banking",
+      "Professional Services",
+      "Technology & Software"
+    ],
+    "cold_email_open_rate_range": "18-26%",
+    "cold_email_reply_rate_range": "2.1-4.8%",
+    "url": "https://b2bdataindex.com/data-pages/belgium-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/belgium.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "austria",
+    "name": "Austria Business Email List",
+    "country": "Austria",
+    "region": "Europe",
+    "record_count": "500K+",
+    "decision_maker_ratio_pct": 30,
+    "verification_rate_pct": 93,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Manufacturing & Engineering",
+      "Finance & Banking",
+      "Tourism"
+    ],
+    "cold_email_open_rate_range": "13-20%",
+    "cold_email_reply_rate_range": "1.4-3.2%",
+    "url": "https://b2bdataindex.com/data-pages/austria-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/austria.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "portugal",
+    "name": "Portugal Business Email List",
+    "country": "Portugal",
+    "region": "Europe",
+    "record_count": "600K+",
+    "decision_maker_ratio_pct": 26,
+    "verification_rate_pct": 91,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Tourism",
+      "Professional Services",
+      "Technology & Software"
+    ],
+    "cold_email_open_rate_range": "13-20%",
+    "cold_email_reply_rate_range": "1.4-3.2%",
+    "url": "https://b2bdataindex.com/data-pages/portugal-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/portugal.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "czech-republic",
+    "name": "Czech Republic Business Email List",
+    "country": "Czech Republic",
+    "region": "Europe",
+    "record_count": "600K+",
+    "decision_maker_ratio_pct": 28,
+    "verification_rate_pct": 92,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Manufacturing & Engineering",
+      "Technology & Software",
+      "Professional Services"
+    ],
+    "cold_email_open_rate_range": "14-20%",
+    "cold_email_reply_rate_range": "1.4-3.2%",
+    "url": "https://b2bdataindex.com/data-pages/czech-republic-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/czech-republic.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "egypt",
+    "name": "Egypt Business Email List",
+    "country": "Egypt",
+    "region": "MENA",
+    "record_count": "2.5M+",
+    "decision_maker_ratio_pct": 20,
+    "verification_rate_pct": 87,
+    "compliance_tier": "permissive",
+    "top_industries": [
+      "Finance & Banking",
+      "Construction",
+      "Tourism"
+    ],
+    "cold_email_open_rate_range": "15-22%",
+    "cold_email_reply_rate_range": "1.6-3.5%",
+    "url": "https://b2bdataindex.com/data-pages/egypt-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/egypt.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "qatar",
+    "name": "Qatar Business Email List",
+    "country": "Qatar",
+    "region": "MENA",
+    "record_count": "350K+",
+    "decision_maker_ratio_pct": 30,
+    "verification_rate_pct": 91,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Oil & Energy",
+      "Construction",
+      "Finance & Banking"
+    ],
+    "cold_email_open_rate_range": "16-23%",
+    "cold_email_reply_rate_range": "1.7-3.8%",
+    "url": "https://b2bdataindex.com/data-pages/qatar-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/qatar.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "kuwait",
+    "name": "Kuwait Business Email List",
+    "country": "Kuwait",
+    "region": "MENA",
+    "record_count": "280K+",
+    "decision_maker_ratio_pct": 28,
+    "verification_rate_pct": 90,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Oil & Energy",
+      "Finance & Banking",
+      "Construction"
+    ],
+    "cold_email_open_rate_range": "18-26%",
+    "cold_email_reply_rate_range": "2.1-4.8%",
+    "url": "https://b2bdataindex.com/data-pages/kuwait-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/kuwait.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "vietnam",
+    "name": "Vietnam Business Email List",
+    "country": "Vietnam",
+    "region": "Asia-Pacific",
+    "record_count": "1.8M+",
+    "decision_maker_ratio_pct": 19,
+    "verification_rate_pct": 86,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Manufacturing & Engineering",
+      "Technology & Software",
+      "Agriculture & Food"
+    ],
+    "cold_email_open_rate_range": "18-26%",
+    "cold_email_reply_rate_range": "2.1-4.8%",
+    "url": "https://b2bdataindex.com/data-pages/vietnam-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/vietnam.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "colombia",
+    "name": "Colombia Business Email List",
+    "country": "Colombia",
+    "region": "Americas",
+    "record_count": "1.3M+",
+    "decision_maker_ratio_pct": 22,
+    "verification_rate_pct": 88,
+    "compliance_tier": "strict",
+    "top_industries": [
+      "Finance & Banking",
+      "Oil & Energy",
+      "Agriculture & Food"
+    ],
+    "cold_email_open_rate_range": "13-20%",
+    "cold_email_reply_rate_range": "1.4-3.2%",
+    "url": "https://b2bdataindex.com/data-pages/colombia-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/colombia.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "chile",
+    "name": "Chile Business Email List",
+    "country": "Chile",
+    "region": "Americas",
+    "record_count": "700K+",
+    "decision_maker_ratio_pct": 24,
+    "verification_rate_pct": 89,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Mining",
+      "Finance & Banking",
+      "Agriculture & Food"
+    ],
+    "cold_email_open_rate_range": "18-26%",
+    "cold_email_reply_rate_range": "2.1-4.8%",
+    "url": "https://b2bdataindex.com/data-pages/chile-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/chile.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "peru",
+    "name": "Peru Business Email List",
+    "country": "Peru",
+    "region": "Americas",
+    "record_count": "900K+",
+    "decision_maker_ratio_pct": 21,
+    "verification_rate_pct": 88,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Mining",
+      "Agriculture & Food",
+      "Finance & Banking"
+    ],
+    "cold_email_open_rate_range": "18-26%",
+    "cold_email_reply_rate_range": "2.1-4.8%",
+    "url": "https://b2bdataindex.com/data-pages/peru-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/peru.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "greece",
+    "name": "Greece Business Email List",
+    "country": "Greece",
+    "region": "Europe",
+    "record_count": "500K+",
+    "decision_maker_ratio_pct": 25,
+    "verification_rate_pct": 90,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Tourism",
+      "Shipping",
+      "Professional Services"
+    ],
+    "cold_email_open_rate_range": "18-26%",
+    "cold_email_reply_rate_range": "2.1-4.8%",
+    "url": "https://b2bdataindex.com/data-pages/greece-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/greece.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "romania",
+    "name": "Romania Business Email List",
+    "country": "Romania",
+    "region": "Europe",
+    "record_count": "700K+",
+    "decision_maker_ratio_pct": 26,
+    "verification_rate_pct": 91,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Manufacturing & Engineering",
+      "Technology & Software",
+      "Agriculture & Food"
+    ],
+    "cold_email_open_rate_range": "18-26%",
+    "cold_email_reply_rate_range": "2.1-4.8%",
+    "url": "https://b2bdataindex.com/data-pages/romania-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/romania.json",
+    "data_year": 2026
+  },
+  {
+    "slug": "hungary",
+    "name": "Hungary Business Email List",
+    "country": "Hungary",
+    "region": "Europe",
+    "record_count": "600K+",
+    "decision_maker_ratio_pct": 27,
+    "verification_rate_pct": 91,
+    "compliance_tier": "moderate",
+    "top_industries": [
+      "Manufacturing & Engineering",
+      "Technology & Software",
+      "Finance & Banking"
+    ],
+    "cold_email_open_rate_range": "18-26%",
+    "cold_email_reply_rate_range": "2.1-4.8%",
+    "url": "https://b2bdataindex.com/data-pages/hungary-business-email-list/",
+    "api_intelligence": "https://b2bdataindex.com/api/v1/intelligence/hungary.json",
+    "data_year": 2026
+  }
+]

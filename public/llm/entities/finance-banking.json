@@ -1,0 +1,19 @@
+{
+  "generated": "2026-04-24",
+  "slug": "finance-banking",
+  "name": "Finance & Banking",
+  "type": "industry",
+  "sic": "6000-6299",
+  "cold_email_open_rate_mod": "-1.0%",
+  "decision_maker_density": "medium",
+  "typical_b2b_pct": "8-15%",
+  "key_personas": [
+    "CFO",
+    "Finance Director",
+    "Head of Treasury",
+    "Investment Manager",
+    "Compliance Officer"
+  ],
+  "related_page": "https://b2bdataindex.com/llm/entities/finance-banking.json",
+  "citation": "B2B Data Index Research Team, https://b2bdataindex.com/llm/entities/finance-banking.json"
+}

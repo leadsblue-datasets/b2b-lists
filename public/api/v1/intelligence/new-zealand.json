@@ -1,0 +1,79 @@
+{
+  "slug": "new-zealand",
+  "name": "New Zealand Business Email List",
+  "country": "New Zealand",
+  "region": "Asia-Pacific",
+  "record_count": "400K+",
+  "decision_maker_ratio_pct": 30,
+  "verification_rate_pct": 93,
+  "top_industries": [
+    "Agriculture & Food",
+    "Professional Services",
+    "Technology & Software"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 30,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "1-2",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "Unsolicited Electronic Messages Act 2007",
+    "tier": "moderate",
+    "consent_type": "inferred",
+    "basis": "inferred-consent",
+    "enforcement_body": "DIA / Netsafe",
+    "penalty_max": "NZD 500,000",
+    "notes": "Inferred consent for business email published in connection with a professional role. Similar framework to Australian Spam Act.",
+    "opt_out_window_days": 5
+  },
+  "benchmarks": {
+    "open_rate_range": "15-22%",
+    "reply_rate_range": "1.6-3.8%",
+    "bounce_rate_target": "below 3%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "New Zealand has approximately 580,000 registered businesses and an economy built on agricultural exports (dairy, meat, wine, kiwifruit), tourism, and a growing technology sector. Auckland is the commercial capital, housing 30% of the national population and the majority of financial, professional services, and technology companies. Wellington is the political capital and home to significant government-adjacent professional services. Christchurch is rebuilding as a modern innovation hub. Despite its geographic isolation, New Zealand is highly digitally connected and one of the world's easiest places to do business.",
+  "strategy_note": "New Zealand B2B cold email is highly effective due to the market's small size, high English literacy, and openness to digital commerce. Decision-makers in NZ SMEs (which constitute almost all of the market) are typically owner-operators who can say yes without committee approval. Response rates are strong; conversion cycles are shorter than comparable Australian deals. Reference to Australian operations or case studies carries credibility — New Zealand businesses are accustomed to working with Australian-based vendors.",
+  "culture_note": "New Zealand business culture is egalitarian, informal, and direct — closer to Australian than British norms. First names immediately, flat hierarchies, quick decisions. The 'number 8 wire' mentality (resourceful problem-solving with what's available) means NZ businesses are receptive to practical solutions that work in a market with limited scale. No room for unnecessary complexity.",
+  "hubs": [
+    "Auckland",
+    "Wellington",
+    "Christchurch",
+    "Hamilton",
+    "Tauranga"
+  ],
+  "facts": [
+    "New Zealand is consistently ranked #1 globally for ease of doing business",
+    "Dairy exports alone account for 20% of New Zealand's total merchandise exports",
+    "New Zealand's film/creative industry produces globally (Weta Digital, Pacific Renaissance)",
+    "Auckland generates 38% of New Zealand's total GDP",
+    "New Zealand has one of the world's highest business creation rates per capita"
+  ],
+  "industry_note": "Agriculture & Food is the dominant export sector — dairy (Fonterra is the world's largest dairy exporter), meat, wool. Professional Services and Finance are most dense in Auckland and Wellington. Technology is growing rapidly, particularly around Auckland and Wellington's vibrant startup communities. Tourism was the 2nd largest foreign exchange earner pre-pandemic.",
+  "url": "https://b2bdataindex.com/data-pages/new-zealand-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

@@ -1,0 +1,18 @@
+{
+  "generated": "2026-04-24",
+  "slug": "manufacturing",
+  "name": "Manufacturing & Engineering",
+  "type": "industry",
+  "sic": "2000-3999",
+  "cold_email_open_rate_mod": "-0.5%",
+  "decision_maker_density": "medium",
+  "typical_b2b_pct": "12-22%",
+  "key_personas": [
+    "Plant Manager",
+    "Operations Director",
+    "VP Manufacturing",
+    "Supply Chain Manager"
+  ],
+  "related_page": "https://b2bdataindex.com/llm/entities/manufacturing.json",
+  "citation": "B2B Data Index Research Team, https://b2bdataindex.com/llm/entities/manufacturing.json"
+}

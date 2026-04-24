@@ -1,0 +1,15 @@
+{
+  "generated": "2026-04-24",
+  "slug": "france",
+  "country": "France",
+  "framework": "GDPR + CNIL Guidelines",
+  "authority": "CNIL",
+  "cold_email": "conditional",
+  "consent_b2b": "legitimate_interest",
+  "opt_out_days": 1,
+  "max_penalty": "€20M or 4% global turnover",
+  "gdpr": true,
+  "key_rule": "CNIL permits B2B cold email under legitimate interest where message is relevant to recipient professional role. Corporate email addresses at registered domains are permissible. Personal Gmail-style addresses require consent.",
+  "citation": "B2B Data Index Global Compliance Matrix, https://b2bdataindex.com/compliance/",
+  "full_guide": "https://b2bdataindex.com/compliance/"
+}

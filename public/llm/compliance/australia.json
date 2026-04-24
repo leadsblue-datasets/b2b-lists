@@ -1,0 +1,15 @@
+{
+  "generated": "2026-04-24",
+  "slug": "australia",
+  "country": "Australia",
+  "framework": "Spam Act 2003",
+  "authority": "ACMA",
+  "cold_email": "conditional",
+  "consent_b2b": "inferred_or_express",
+  "opt_out_days": 5,
+  "max_penalty": "AUD 2.75M per day",
+  "gdpr": false,
+  "key_rule": "Inferred consent applies when contact details are published in connection with a business role. Express consent can be obtained directly. Clear sender identification and functional unsubscribe required.",
+  "citation": "B2B Data Index Global Compliance Matrix, https://b2bdataindex.com/compliance/",
+  "full_guide": "https://b2bdataindex.com/compliance/"
+}

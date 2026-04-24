@@ -1,0 +1,15 @@
+{
+  "generated": "2026-04-24",
+  "slug": "united-kingdom",
+  "country": "United Kingdom",
+  "framework": "UK GDPR + PECR 2003",
+  "authority": "ICO",
+  "cold_email": "conditional",
+  "consent_b2b": "legitimate_interest",
+  "opt_out_days": 1,
+  "max_penalty": "£17.5M or 4% global turnover",
+  "gdpr": true,
+  "key_rule": "Legitimate Interest basis available for B2B cold email to corporate email addresses where communication is professionally relevant. Sole traders and personal email addresses require consent under PECR.",
+  "citation": "B2B Data Index Global Compliance Matrix, https://b2bdataindex.com/compliance/",
+  "full_guide": "https://b2bdataindex.com/compliance/"
+}

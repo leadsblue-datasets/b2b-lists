@@ -1,0 +1,79 @@
+{
+  "slug": "indonesia",
+  "name": "Indonesia Business Email List",
+  "country": "Indonesia",
+  "region": "Asia-Pacific",
+  "record_count": "5M+",
+  "decision_maker_ratio_pct": 19,
+  "verification_rate_pct": 87,
+  "top_industries": [
+    "Manufacturing & Engineering",
+    "Finance & Banking",
+    "Agriculture & Food"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 19,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "PDP Law 2022",
+    "tier": "permissive",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "MComm (Kominfo)",
+    "penalty_max": "IDR 60B",
+    "notes": "PDP Law enacted 2022, implementation period ongoing. B2B cold email compliance risk is currently low.",
+    "opt_out_window_days": 30
+  },
+  "benchmarks": {
+    "open_rate_range": "16-24%",
+    "reply_rate_range": "1.8-4%",
+    "bounce_rate_target": "below 4.2%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "Indonesia is Southeast Asia's largest economy and the world's 4th most populous country with 280 million people. Jakarta, the capital (being relocated to Nusantara in Borneo), is the commercial centre of a vast archipelago nation of 17,000 islands. The business ecosystem ranges from global technology companies (Gojek, Tokopedia — merged as GoTo — Traveloka, Bukalapak) to traditional conglomerates (Salim Group, Lippo Group, Sinar Mas) and a manufacturing base serving global supply chains in automotive, electronics, and textile production. The middle class is expanding rapidly, driving consumer goods and financial services growth.",
+  "strategy_note": "Indonesian B2B cold email in English works for the technology, multinational, and financial services sectors. For traditional Indonesian businesses and family conglomerates, relationship-building through Indonesian networks and business associations is more effective. WhatsApp is the dominant B2B follow-up channel in Indonesia — it is far more effective than email for getting a response after an initial outreach. Jakarta's technology ecosystem (Gojek, Grab Indonesia, Tokopedia alumni) is globally connected and responsive to professional outreach.",
+  "culture_note": "Indonesian business culture is relationship-oriented, hierarchical, and patience-requiring. Building trust (kepercayaan) before commercial conversations is expected. Business decisions in Indonesian conglomerates are often made at the top of the family hierarchy. Younger Indonesian technology company leaders operate with more Western norms. Religious observance (Indonesia is the world's most populous Muslim nation) influences business calendars — Ramadan and Lebaran holiday significantly affect commercial activity.",
+  "hubs": [
+    "Jakarta (Sudirman, SCBD, Kuningan)",
+    "Surabaya",
+    "Bandung",
+    "Medan",
+    "Bali (digital nomads/tech)"
+  ],
+  "facts": [
+    "Indonesia is the world's 4th most populous country and 16th largest economy",
+    "Gojek and Tokopedia (both Jakarta-founded) merged to form GoTo — Southeast Asia's largest tech group",
+    "Indonesia produces 57% of the world's palm oil supply",
+    "Jakarta's Sudirman CBD is Southeast Asia's 3rd most expensive commercial real estate market",
+    "Indonesia's middle class is projected to reach 141 million by 2030"
+  ],
+  "industry_note": "Manufacturing is most significant in West Java (Bekasi, Karawang automotive corridor — Toyota, Mitsubishi, Honda) and East Java (Surabaya). Technology is dense in South Jakarta (SCBD, Sudirman). Agriculture & Commodities are significant across the outer islands. Finance & Banking is centred in Jakarta.",
+  "url": "https://b2bdataindex.com/data-pages/indonesia-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

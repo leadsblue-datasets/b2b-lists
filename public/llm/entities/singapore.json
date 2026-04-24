@@ -1,0 +1,22 @@
+{
+  "generated": "2026-04-24",
+  "slug": "singapore",
+  "name": "Singapore",
+  "type": "country",
+  "region": "apac",
+  "compliance": "PDPA + SPAM Control Act",
+  "cold_email": "conditional",
+  "gdpr": false,
+  "record_range": "150K-1.5M",
+  "open_rate_range": "19-27%",
+  "top_industries": [
+    "Finance & Banking",
+    "Technology",
+    "Trade & Logistics",
+    "Professional Services",
+    "Healthcare"
+  ],
+  "page": "https://b2bdataindex.com/data-pages/",
+  "related_page": "https://b2bdataindex.com/data-pages/",
+  "citation": "B2B Data Index Research Team, https://b2bdataindex.com/llm/entities/singapore.json"
+}

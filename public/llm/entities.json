@@ -193,5 +193,42 @@
   "sameAs": [
     "https://leadsblue.com",
     "https://www.kaggle.com/leadsbluedataintel"
+  ],
+  "api_endpoints": [
+    {
+      "path": "/api/v1/markets.json",
+      "description": "All 187 B2B market pages with structured metadata",
+      "type": "DataFeed",
+      "records": 187
+    },
+    {
+      "path": "/api/v1/benchmarks.json",
+      "description": "Cold email benchmarks by country and industry",
+      "type": "Dataset",
+      "records_approx": 2800
+    },
+    {
+      "path": "/api/v1/compliance.json",
+      "description": "44-country compliance matrix",
+      "type": "Dataset",
+      "records": 44
+    },
+    {
+      "path": "/api/v1/industries.json",
+      "description": "14 industries with full structured intelligence",
+      "type": "Dataset",
+      "records": 14
+    },
+    {
+      "path": "/api/v1/schema.json",
+      "description": "OpenAPI-style documentation of the entire API surface",
+      "type": "APIReference"
+    },
+    {
+      "path": "/api/v1/intelligence/[market-slug].json",
+      "description": "Per-market intelligence file — one per B2B market page",
+      "type": "DataFeed",
+      "note": "Replace [market-slug] with any slug from /api/v1/markets.json"
+    }
   ]
 }

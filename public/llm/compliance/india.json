@@ -1,0 +1,15 @@
+{
+  "generated": "2026-04-24",
+  "slug": "india",
+  "country": "India",
+  "framework": "IT Act 2000 + DPDP Act 2023",
+  "authority": "Data Protection Board of India",
+  "cold_email": "permitted",
+  "consent_b2b": "none_required",
+  "opt_out_days": 7,
+  "max_penalty": "INR 250 crore",
+  "gdpr": false,
+  "key_rule": "DPDP Act 2023 is in implementation phase. Business email addresses are not classified as sensitive personal data. Cold email to business contacts is widely practised and enforcement is minimal.",
+  "citation": "B2B Data Index Global Compliance Matrix, https://b2bdataindex.com/compliance/",
+  "full_guide": "https://b2bdataindex.com/compliance/"
+}

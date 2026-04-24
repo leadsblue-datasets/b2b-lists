@@ -1,0 +1,78 @@
+{
+  "slug": "qatar",
+  "name": "Qatar Business Email List",
+  "country": "Qatar",
+  "region": "MENA",
+  "record_count": "350K+",
+  "decision_maker_ratio_pct": 30,
+  "verification_rate_pct": 91,
+  "top_industries": [
+    "Oil & Energy",
+    "Construction",
+    "Finance & Banking"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 30,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "1-2",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "PDPL Law No. 13 of 2016",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "MoTC",
+    "penalty_max": "QAR 5M",
+    "notes": "PDPL provides LI basis for processing. QFC onshore framework aligns more closely with GDPR.",
+    "opt_out_window_days": 30
+  },
+  "benchmarks": {
+    "open_rate_range": "16-23%",
+    "reply_rate_range": "1.7-3.8%",
+    "bounce_rate_target": "below 3.5%",
+    "best_send_day": "Sunday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "Qatar is the world's wealthiest country per capita (GDP per capita over $80,000) and a major LNG exporter that has leveraged hydrocarbon wealth into an extraordinary diversification programme. Doha is the commercial capital — a rapidly developed modern city hosting Qatar's sovereign wealth fund (QIA, $475 billion AUM), major financial institutions, and the regional HQs of companies serving the Gulf market. Qatar hosted the FIFA World Cup 2022, which accelerated infrastructure development and international business visibility. The Qatar National Vision 2030 is driving significant B2B procurement in construction, technology, healthcare, and professional services.",
+  "strategy_note": "Qatar B2B cold email is most effective for the international business community based in Doha, which is substantial given QIA's investment reach and the post-World Cup international corporate presence. For Qatari-owned businesses and government-linked entities, relationships and formal introductions through QatarEx, the Qatar Chamber, or investment roadshow networks are more effective than cold outreach. English is the business language of the international community; Arabic builds rapport with Qatari nationals.",
+  "culture_note": "Qatari business culture is relationship-oriented, hierarchical, and informed by Islamic values. Decisions of any significance require senior-level engagement. Friday is the Sabbath; the work week is Sunday-Thursday for government entities, Sunday-Friday for many private companies. Ramadan observance significantly affects business hours and deal pace.",
+  "hubs": [
+    "Doha (West Bay/CBD)",
+    "Lusail City (new financial district)",
+    "Qatar Financial Centre (QFC)",
+    "Qatar Science and Technology Park"
+  ],
+  "facts": [
+    "Qatar has the world's highest GDP per capita among countries with 1M+ population",
+    "QIA (Qatar Investment Authority) manages $475 billion in assets globally",
+    "Qatar is the world's largest LNG exporter, supplying 30% of global LNG trade",
+    "Doha's West Bay has some of the world's fastest-growing commercial real estate",
+    "Qatar Airways is consistently rated among the world's top 3 airlines"
+  ],
+  "industry_note": "Oil & Energy dominates Qatar's formal GDP — QatarEnergy is one of the world's largest energy companies. Construction & Real Estate has been enormous due to World Cup and Lusail City development. Finance & Banking concentrates in the QFC. Aviation & Logistics is significant — Hamad International Airport is a major global hub.",
+  "url": "https://b2bdataindex.com/data-pages/qatar-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

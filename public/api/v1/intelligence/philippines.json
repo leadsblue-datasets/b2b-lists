@@ -1,0 +1,79 @@
+{
+  "slug": "philippines",
+  "name": "Philippines Business Email List",
+  "country": "Philippines",
+  "region": "Asia-Pacific",
+  "record_count": "1.4M+",
+  "decision_maker_ratio_pct": 22,
+  "verification_rate_pct": 88,
+  "top_industries": [
+    "Technology & Software",
+    "Finance & Banking",
+    "Professional Services"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 22,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "Data Privacy Act 2012 (RA 10173)",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "NPC",
+    "penalty_max": "PHP 5M + imprisonment",
+    "notes": "NPC guidance permits processing for legitimate interests. B2B cold email to corporate addresses is generally permissible.",
+    "opt_out_window_days": 30
+  },
+  "benchmarks": {
+    "open_rate_range": "17-25%",
+    "reply_rate_range": "2-4.5%",
+    "bounce_rate_target": "below 4%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "The Philippines has established itself as the world's leading Business Process Outsourcing (BPO) destination, with over 1.7 million people working in contact centres, IT-BPO services, and knowledge process outsourcing across Metro Manila, Cebu City, Davao, and Clark. The BPO sector generates over $30 billion annually and serves clients in healthcare, finance, technology, and retail from virtually every English-speaking market. Beyond BPO, the Philippines has a growing e-commerce and startup ecosystem centred on Makati and Bonifacio Global City (BGC) in Metro Manila.",
+  "strategy_note": "Philippine B2B cold email in English is highly effective — the Philippines has the highest English business proficiency in Southeast Asia. The BPO and technology sector specifically responds well to direct international outreach. Filipino business culture is warm, service-oriented, and relationship-aware. Decision-making at large BPO companies involves procurement processes; at SMEs and startups, founders and general managers make fast decisions. LinkedIn penetration is very high among Philippine business professionals.",
+  "culture_note": "Filipino business culture values warmth (hospitality is genuinely important), respect for hierarchy (pagalang — respect), and relationship-building before commercial asks. 'Filipino time' (flexible punctuality) is real but is changing in the corporate sector. Filipinos avoid direct confrontation — a 'yes' may mean 'I understand' rather than 'I agree', requiring careful follow-up to confirm commitment.",
+  "hubs": [
+    "Manila (Makati, BGC, Ortigas)",
+    "Cebu City",
+    "Davao",
+    "Clark (Pampanga)",
+    "Iloilo"
+  ],
+  "facts": [
+    "The Philippines is the world's largest BPO sector by workforce (1.7 million workers)",
+    "BPO generates $30+ billion annually — accounting for 9% of Philippine GDP",
+    "Filipinos send the world's most Facebook messages per capita",
+    "Remittances from 12 million overseas Filipinos total $35+ billion annually",
+    "The Philippines has the fastest mobile data growth in Southeast Asia"
+  ],
+  "industry_note": "Business Process Outsourcing dominates Philippine B2B data — contact centres, IT services, healthcare information management. Retail & Commerce is significant in Manila. Finance is growing, particularly digital banking. Real Estate is booming in BGC and surrounding areas. Manufacturing is significant in Clark and Subic Bay export zones.",
+  "url": "https://b2bdataindex.com/data-pages/philippines-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

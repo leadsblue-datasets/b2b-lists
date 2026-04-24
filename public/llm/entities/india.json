@@ -1,0 +1,22 @@
+{
+  "generated": "2026-04-24",
+  "slug": "india",
+  "name": "India",
+  "type": "country",
+  "region": "apac",
+  "compliance": "IT Act 2000 + DPDP Act 2023",
+  "cold_email": "permitted",
+  "gdpr": false,
+  "record_range": "4M-18M",
+  "open_rate_range": "20-28%",
+  "top_industries": [
+    "Technology & Software",
+    "Manufacturing",
+    "Professional Services",
+    "Finance & Banking",
+    "Retail & Commerce"
+  ],
+  "page": "https://b2bdataindex.com/data-pages/",
+  "related_page": "https://b2bdataindex.com/data-pages/",
+  "citation": "B2B Data Index Research Team, https://b2bdataindex.com/llm/entities/india.json"
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "sweden",
+  "name": "Sweden Business Email List",
+  "country": "Sweden",
+  "region": "Europe",
+  "record_count": "900K+",
+  "decision_maker_ratio_pct": 32,
+  "verification_rate_pct": 95,
+  "top_industries": [
+    "Technology & Software",
+    "Professional Services",
+    "Manufacturing & Engineering"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 32,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "1-2",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "GDPR + eKom Law",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "IMY",
+    "penalty_max": "EUR 20M or 4% global turnover",
+    "notes": "IMY enforces strictly. Balance test must be documented for LI basis.",
+    "opt_out_window_days": 1
+  },
+  "benchmarks": {
+    "open_rate_range": "15-22%",
+    "reply_rate_range": "1.6-3.8%",
+    "bounce_rate_target": "below 3%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "08:00",
+    "data_year": 2026
+  },
+  "market_summary": "Sweden has produced more billion-dollar technology companies per capita than almost any country outside the US — Spotify, Klarna, King, iZettle, Mojang, and dozens more emerged from an ecosystem centred on Stockholm. Stockholm's Kista district is one of Europe's most significant technology clusters, while Gothenburg anchors Swedish automotive (Volvo, SKF) and manufacturing. Sweden's business culture emphasises equality, sustainability, and innovation — ESG credentials and sustainability claims carry genuine weight in Swedish procurement decisions in a way that differs from most other markets.",
+  "strategy_note": "Swedish B2B buyers are sophisticated, innovation-oriented, and receptive to cold email from companies demonstrating genuine technical differentiation. Sustainability and ESG positioning genuinely matters to Swedish purchasing decision-makers — not as marketing language, but as a real evaluation criterion. Stockholm's startup ecosystem means you're often reaching founders, CTOs, and early-stage teams who are accustomed to B2B tool evaluation and respond quickly if there's a genuine fit. English proficiency is near-universal in Swedish business.",
+  "culture_note": "Swedish business culture reflects 'lagom' (just the right amount) — moderate, balanced, non-hierarchical. First names are universal from first contact. Decisions involve team consensus rather than top-down directive, which means multiple stakeholders may need to evaluate your offering. Meeting requests tend to be taken seriously if the email is relevant and concise.",
+  "hubs": [
+    "Stockholm",
+    "Gothenburg",
+    "Malmö",
+    "Uppsala",
+    "Linköping"
+  ],
+  "facts": [
+    "Sweden has more billion-dollar startups per capita than any EU country",
+    "Spotify, Klarna, King, and Mojang are among Stockholm's globally recognised products",
+    "Gothenburg's Volvo Group employs 100,000+ people across the global supply chain",
+    "Sweden ranks #2 globally in the Global Innovation Index 2024",
+    "Swedish companies spend 3.3% of GDP on R&D — one of the highest rates globally"
+  ],
+  "industry_note": "Technology & Software density is highest in Stockholm (Kista and central city), with a strong SaaS and fintech cluster. Manufacturing & Engineering concentrates around Gothenburg (automotive) and the industrial Midwest of Sweden. Healthcare is significant, anchored by AstraZeneca's Swedish research facilities and the Karolinska ecosystem.",
+  "url": "https://b2bdataindex.com/data-pages/sweden-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

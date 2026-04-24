@@ -1,0 +1,80 @@
+{
+  "slug": "brazil",
+  "name": "Brazil Business Email List",
+  "country": "Brazil",
+  "region": "Americas",
+  "record_count": "8M+",
+  "decision_maker_ratio_pct": 22,
+  "verification_rate_pct": 90,
+  "top_industries": [
+    "Finance & Banking",
+    "Manufacturing & Engineering",
+    "Professional Services"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 22,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "LGPD (Lei Geral de Protecao de Dados) 2020",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "ANPD",
+    "penalty_max": "2% of Brazil revenue up to BRL 50M",
+    "notes": "LGPD Art.7(IX) provides LI basis for processing. ANPD still developing enforcement guidelines.",
+    "opt_out_window_days": 15
+  },
+  "benchmarks": {
+    "open_rate_range": "15-22%",
+    "reply_rate_range": "1.8-4%",
+    "bounce_rate_target": "below 4.5%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "Brazil is Latin America's largest economy and B2B market, with approximately 19 million registered companies and a business ecosystem split across four major commercial centres. São Paulo is the unambiguous financial, commercial, and technology capital — home to over 60% of Brazil's largest companies and the headquarters of every major domestic bank and multinational with Brazilian operations. Rio de Janeiro retains significance in energy (Petrobras), technology, and creative industries. Belo Horizonte is strong in mining (Vale) and technology services. The fintech sector has exploded — Brazil has produced more fintech unicorns than any other Latin American country, centred on São Paulo's 'Faria Lima' financial district.",
+  "strategy_note": "Brazilian B2B buyers are relationship-oriented, warm, and communicative — but conversion timelines are longer than North American or European equivalents. WhatsApp is Brazil's dominant business communication tool for follow-up after initial email contact; a cold email followed by a WhatsApp message via a mutual contact converts significantly better than email alone. Portuguese-language copy outperforms English dramatically — even for companies that conduct internal business in English, a well-written Brazilian Portuguese cold email signals cultural awareness and commitment to the local market.",
+  "culture_note": "Brazilian business culture is warm, personal, and relationship-first. Getting to know someone personally before a business conversation is expected rather than a luxury. Cold email that is overly transactional without relationship-building language will underperform. Brazilians appreciate humour, directness about mutual benefit, and explicit acknowledgement of their market's specific context.",
+  "hubs": [
+    "São Paulo",
+    "Rio de Janeiro",
+    "Belo Horizonte",
+    "Brasília",
+    "Curitiba",
+    "Porto Alegre"
+  ],
+  "facts": [
+    "Brazil is the world's 9th largest economy by GDP",
+    "São Paulo's metro area generates 12% of all Brazilian GDP",
+    "Brazil produced 14 fintech unicorns between 2018-2024, more than any other LATAM country",
+    "Nubank (São Paulo-founded) is the world's largest digital bank by customer count",
+    "Agriculture & agribusiness accounts for 27% of Brazilian GDP"
+  ],
+  "industry_note": "Agriculture & Food is globally significant — Brazil is the world's largest exporter of soybeans, beef, poultry, and coffee. Finance & Banking is most dense in São Paulo's Itaim Bibi/Faria Lima corridor. Technology is growing rapidly in São Paulo and Florianópolis. Manufacturing is distributed across São Paulo state and the Sul region.",
+  "url": "https://b2bdataindex.com/data-pages/brazil-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

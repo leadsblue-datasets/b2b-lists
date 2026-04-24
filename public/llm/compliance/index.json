@@ -1,0 +1,105 @@
+{
+  "generated": "2026-04-24",
+  "description": "Global B2B cold email compliance rules. Sources: DLA Piper, IAPP, FTC, ICO, EDPB, CRTC, ACMA, PDPC.",
+  "disclaimer": "This data is for research and guidance only. Consult qualified legal counsel before running email campaigns.",
+  "total_jurisdictions": 8,
+  "full_matrix": "https://b2bdataindex.com/compliance/",
+  "rules": [
+    {
+      "slug": "united-states",
+      "country": "United States",
+      "framework": "CAN-SPAM Act 2003",
+      "authority": "FTC",
+      "cold_email": "permitted",
+      "consent_b2b": "none_required",
+      "opt_out_days": 10,
+      "max_penalty": "$51,744 per email",
+      "gdpr": false,
+      "key_rule": "No prior consent needed for B2B cold email. Must include physical address, honest subject line, and working opt-out mechanism honoured within 10 business days."
+    },
+    {
+      "slug": "united-kingdom",
+      "country": "United Kingdom",
+      "framework": "UK GDPR + PECR 2003",
+      "authority": "ICO",
+      "cold_email": "conditional",
+      "consent_b2b": "legitimate_interest",
+      "opt_out_days": 1,
+      "max_penalty": "£17.5M or 4% global turnover",
+      "gdpr": true,
+      "key_rule": "Legitimate Interest basis available for B2B cold email to corporate email addresses where communication is professionally relevant. Sole traders and personal email addresses require consent under PECR."
+    },
+    {
+      "slug": "germany",
+      "country": "Germany",
+      "framework": "TDDDG + GDPR + UWG §7",
+      "authority": "State DPAs (BfDI, LDAs)",
+      "cold_email": "restricted",
+      "consent_b2b": "express_required",
+      "opt_out_days": 1,
+      "max_penalty": "€20M or 4% global turnover",
+      "gdpr": true,
+      "key_rule": "UWG §7 requires express prior consent or existing customer relationship for cold email — even to businesses. Strictest B2B email regime in the EU. Enforcement is active via competition law complaints."
+    },
+    {
+      "slug": "france",
+      "country": "France",
+      "framework": "GDPR + CNIL Guidelines",
+      "authority": "CNIL",
+      "cold_email": "conditional",
+      "consent_b2b": "legitimate_interest",
+      "opt_out_days": 1,
+      "max_penalty": "€20M or 4% global turnover",
+      "gdpr": true,
+      "key_rule": "CNIL permits B2B cold email under legitimate interest where message is relevant to recipient professional role. Corporate email addresses at registered domains are permissible. Personal Gmail-style addresses require consent."
+    },
+    {
+      "slug": "canada",
+      "country": "Canada",
+      "framework": "CASL",
+      "authority": "CRTC",
+      "cold_email": "conditional",
+      "consent_b2b": "implied_or_express",
+      "opt_out_days": 10,
+      "max_penalty": "C$10M per day",
+      "gdpr": false,
+      "key_rule": "CASL requires express or implied consent. Implied consent exists for 24 months after a business transaction or 6 months after an inquiry. Every message must include sender identity and functioning unsubscribe."
+    },
+    {
+      "slug": "australia",
+      "country": "Australia",
+      "framework": "Spam Act 2003",
+      "authority": "ACMA",
+      "cold_email": "conditional",
+      "consent_b2b": "inferred_or_express",
+      "opt_out_days": 5,
+      "max_penalty": "AUD 2.75M per day",
+      "gdpr": false,
+      "key_rule": "Inferred consent applies when contact details are published in connection with a business role. Express consent can be obtained directly. Clear sender identification and functional unsubscribe required."
+    },
+    {
+      "slug": "india",
+      "country": "India",
+      "framework": "IT Act 2000 + DPDP Act 2023",
+      "authority": "Data Protection Board of India",
+      "cold_email": "permitted",
+      "consent_b2b": "none_required",
+      "opt_out_days": 7,
+      "max_penalty": "INR 250 crore",
+      "gdpr": false,
+      "key_rule": "DPDP Act 2023 is in implementation phase. Business email addresses are not classified as sensitive personal data. Cold email to business contacts is widely practised and enforcement is minimal."
+    },
+    {
+      "slug": "singapore",
+      "country": "Singapore",
+      "framework": "PDPA + SPAM Control Act 2007",
+      "authority": "PDPC",
+      "cold_email": "conditional",
+      "consent_b2b": "legitimate_interests",
+      "opt_out_days": 10,
+      "max_penalty": "SGD 1M",
+      "gdpr": false,
+      "key_rule": "PDPA permits processing of business contact data for its intended purpose. SPAM Control Act regulates bulk commercial email. Business cards and published contact info are considered as consent for relevant B2B contact."
+    }
+  ]
+}

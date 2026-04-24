@@ -1,0 +1,79 @@
+{
+  "slug": "egypt",
+  "name": "Egypt Business Email List",
+  "country": "Egypt",
+  "region": "MENA",
+  "record_count": "2.5M+",
+  "decision_maker_ratio_pct": 20,
+  "verification_rate_pct": 87,
+  "top_industries": [
+    "Finance & Banking",
+    "Construction",
+    "Tourism"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 20,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "Data Protection Law 151/2020",
+    "tier": "permissive",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "NCTRA",
+    "penalty_max": "EGP 1M",
+    "notes": "Relatively early-stage enforcement. B2B cold email risk is low while framework matures.",
+    "opt_out_window_days": 30
+  },
+  "benchmarks": {
+    "open_rate_range": "15-22%",
+    "reply_rate_range": "1.6-3.5%",
+    "bounce_rate_target": "below 4.2%",
+    "best_send_day": "Sunday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "Egypt is Africa and the Arab world's most populous country (105 million people) and a significant MENA commercial hub positioned at the crossroads of Africa, the Middle East, and Europe. Cairo is the commercial capital, home to Egypt's largest banks, telecoms, and manufacturing conglomerates. Alexandria is Egypt's 2nd city and a significant industrial and port city. The Suez Canal — through which 12-15% of global trade passes — is Egypt's most important strategic economic asset and drives significant logistics, maritime, and professional services activity. Egypt's economy is diversifying from oil, tourism, and remittances toward ICT services and manufacturing under the 2030 Vision framework.",
+  "strategy_note": "Egyptian B2B cold email in Arabic delivers better results for Egyptian-owned companies; English is standard for multinationals and the international business community in Cairo. Relationship-building through Egyptian business networks (American Chamber of Commerce in Egypt, British Egyptian Business Association, EgyptExport) provides credibility before direct outreach. Cairo's tech ecosystem — particularly around Smart Village and the Egyptian fintech sector — is more receptive to direct international outreach in English.",
+  "culture_note": "Egyptian business culture is relationship-oriented, hierarchical, and warm. Wasta (connections/influence) is a significant factor in Egyptian commerce. Initial meetings are important for establishing rapport; moving to business too quickly is considered impolite. Ramadan significantly affects commercial activity — working hours shorten and decisions slow.",
+  "hubs": [
+    "Cairo (Smart Village, New Cairo)",
+    "Alexandria",
+    "Giza",
+    "Suez",
+    "New Administrative Capital (under development)"
+  ],
+  "facts": [
+    "Suez Canal generates $9+ billion annually and handles 12-15% of global maritime trade",
+    "Egypt is Africa's 2nd largest economy by GDP",
+    "Egypt's ICT sector grew 30% in 2023, driven by nearshore outsourcing demand",
+    "Egypt produces 300,000+ vehicles annually from Ghabbour Auto and Bavarian Auto Group",
+    "Egypt received $6.4 billion in FDI in 2023, highest in Africa"
+  ],
+  "industry_note": "Oil & Energy is significant in the Gulf of Suez and Mediterranean offshore fields. Tourism & Hospitality was pre-pandemic Egypt's 2nd largest earner — Red Sea resorts and Nile tourism are primary. Technology & BPO is growing rapidly in Smart Village (Cairo) and the New Administrative Capital. Finance & Banking clusters in Cairo's Central Business District.",
+  "url": "https://b2bdataindex.com/data-pages/egypt-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

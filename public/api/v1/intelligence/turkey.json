@@ -1,0 +1,80 @@
+{
+  "slug": "turkey",
+  "name": "Turkey Business Email List",
+  "country": "Turkey",
+  "region": "MENA",
+  "record_count": "2.8M+",
+  "decision_maker_ratio_pct": 24,
+  "verification_rate_pct": 89,
+  "top_industries": [
+    "Manufacturing & Engineering",
+    "Finance & Banking",
+    "Retail & Commerce"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 24,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "KVKK (Law No. 6698) 2016",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "KVKK Authority",
+    "penalty_max": "TRY 9.4M",
+    "notes": "KVKK aligns with GDPR principles. LI available for B2B cold email where professionally relevant.",
+    "opt_out_window_days": 10
+  },
+  "benchmarks": {
+    "open_rate_range": "15-21%",
+    "reply_rate_range": "1.5-3.4%",
+    "bounce_rate_target": "below 4%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "Turkey sits at the intersection of Europe and Asia and is the 17th largest economy globally, with a manufacturing base that has made it a significant production hub for automotive (Ford, Toyota, Renault, FIAT all have major Turkish plants), textiles, steel, and electronics. Istanbul is the commercial capital — the 5th most populous city in Europe — and concentrates finance, trade, and technology. Ankara is the administrative capital. Izmir is a significant port and industrial city. Turkish conglomerates (Koç Holding, Sabancı Holding) have revenues exceeding many mid-sized European countries' GDP.",
+  "strategy_note": "Turkish B2B outreach works best when it demonstrates specific relevance to Turkish industry — manufacturing efficiency, export market access, or supply chain optimisation are highly resonant themes. Turkish executives in the manufacturing and retail sectors tend to be relationship-oriented and prefer building trust through multiple touchpoints before commercial commitment. Istanbul's growing technology and startup sector (centred in Maslak and Levent) responds better to direct, international-style cold email. English proficiency is strong among executives at multinationals and larger Turkish corporates.",
+  "culture_note": "Turkish business culture values relationships (both personal and professional), hospitality, and negotiation. Initial formality gives way to warmth once rapport is established. Turkish businesspeople are skilled negotiators who expect some back-and-forth on commercial terms. Istanbul's business culture is notably more Western-oriented than Ankara or Anatolia.",
+  "hubs": [
+    "Istanbul (Maslak, Levent, Ataşehir)",
+    "Ankara",
+    "Izmir",
+    "Bursa",
+    "Adana",
+    "Kocaeli"
+  ],
+  "facts": [
+    "Turkey is the world's 17th largest economy and the EU's most significant non-member trading partner",
+    "Turkish automotive manufacturing produces 1+ million vehicles annually",
+    "Istanbul's Grand Bazaar hosts 4,000+ merchants and 500,000 daily visitors",
+    "Turkey is the world's 6th most visited tourist destination",
+    "Koç Holding revenue alone exceeds $50 billion — larger than many countries' total exports"
+  ],
+  "industry_note": "Manufacturing is most significant around Istanbul, Bursa (automotive), and the Marmara region. Retail & Commerce is dominated by Turkish conglomerates. Technology is a growing sector in Istanbul's Maslak district. Tourism & Hospitality is globally significant along the Turkish Riviera and in Istanbul.",
+  "url": "https://b2bdataindex.com/data-pages/turkey-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

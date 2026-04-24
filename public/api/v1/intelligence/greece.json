@@ -1,0 +1,78 @@
+{
+  "slug": "greece",
+  "name": "Greece Business Email List",
+  "country": "Greece",
+  "region": "Europe",
+  "record_count": "500K+",
+  "decision_maker_ratio_pct": 25,
+  "verification_rate_pct": 90,
+  "top_industries": [
+    "Tourism",
+    "Shipping",
+    "Professional Services"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 25,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "Local data protection law",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "National authority",
+    "penalty_max": "Varies",
+    "notes": "Standard opt-out and sender identification required.",
+    "opt_out_window_days": 10
+  },
+  "benchmarks": {
+    "open_rate_range": "18-26%",
+    "reply_rate_range": "2.1-4.8%",
+    "bounce_rate_target": "below 2.8%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "Greece has a 10 million-person economy anchored by shipping (Greece controls the world's largest merchant shipping fleet by tonnage), tourism (25 million annual visitors), and a growing technology sector. Athens is the commercial capital with the majority of corporate headquarters, financial institutions, and professional services. Thessaloniki is Greece's 2nd city with significant manufacturing, trade, and university-connected technology activity. Greece has recovered significantly from the 2010-2018 debt crisis and is now growing again, with a particular surge in technology investment — Athens has emerged as a notable European startup hub with major investments from Uber, Microsoft, and global VCs.",
+  "strategy_note": "Greek B2B cold email in Greek shows cultural respect but English is widely understood in business contexts, particularly in the shipping, tourism, and technology sectors. Greek business culture values personal relationships and trust built over time. The shipping industry in particular operates on tight relationship networks — Piraeus shipping circles are small and referral-based. Athens' technology sector is globally connected and more receptive to direct international outreach.",
+  "culture_note": "Greek business culture is relationship-oriented, warm, and family-influenced — family-owned businesses dominate the SME landscape. Business relationships are personal and built around shared meals and social interaction (coffee, taverna dinners). Patience is required; Greeks are careful decision-makers who prefer long-term reliability over quick deals.",
+  "hubs": [
+    "Athens (Syntagma, Kifissia, Maroussi business park)",
+    "Piraeus (shipping)",
+    "Thessaloniki",
+    "Heraklion (Crete)"
+  ],
+  "facts": [
+    "Greece controls the world's largest merchant shipping fleet — 20%+ of global dry bulk capacity",
+    "Greek shipping generates $20+ billion in annual revenue for the Greek economy",
+    "Athens 'Riviera' tech corridor (Hellinikon) attracted 7 billion euros in tech investment",
+    "Greece is Europe's top summer tourism destination by Mediterranean arrivals",
+    "Thessaloniki hosts one of Europe's largest annual international trade fairs"
+  ],
+  "industry_note": "Maritime & Shipping is globally dominant — concentrated in Piraeus, the world's busiest Mediterranean port. Tourism & Hospitality is the largest employment sector. Technology is growing rapidly in Athens' emerging tech corridor. Finance & Banking is significant in Athens. Agriculture (olive oil, wine, feta) generates significant exports.",
+  "url": "https://b2bdataindex.com/data-pages/greece-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

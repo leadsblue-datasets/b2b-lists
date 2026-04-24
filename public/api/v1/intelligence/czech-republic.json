@@ -1,0 +1,78 @@
+{
+  "slug": "czech-republic",
+  "name": "Czech Republic Business Email List",
+  "country": "Czech Republic",
+  "region": "Europe",
+  "record_count": "600K+",
+  "decision_maker_ratio_pct": 28,
+  "verification_rate_pct": 92,
+  "top_industries": [
+    "Manufacturing & Engineering",
+    "Technology & Software",
+    "Professional Services"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 28,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "GDPR + Electronic Communications Act",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "UOOU",
+    "penalty_max": "EUR 20M or 4% global turnover",
+    "notes": "Standard GDPR. LI basis for B2B cold email to corporate addresses.",
+    "opt_out_window_days": 1
+  },
+  "benchmarks": {
+    "open_rate_range": "14-20%",
+    "reply_rate_range": "1.4-3.2%",
+    "bounce_rate_target": "below 3.5%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "The Czech Republic is Central Europe's most developed and prosperous economy, with Prague functioning as one of the region's premier business centres. The country's manufacturing sector — particularly automotive — is disproportionately large relative to population: Skoda Auto (Volkswagen Group), Toyota/Peugeot manufacturing, and Hyundai's European plant all operate here, making the Czech Republic one of Europe's top automotive producers per capita. Prague also hosts a growing technology sector, with major global technology companies (Oracle, Red Hat, Kyndryl, Accenture) running significant Central European operations from the city.",
+  "strategy_note": "Czech B2B cold email in English works well for the international business and technology sectors; Czech is preferred for domestically-oriented companies. Czech professionals are pragmatic and somewhat reserved in initial interactions — a clear, professional email that gets to the point quickly performs better than elaborate relationship-building narratives. Prague's technology and international business community is well-connected and responds to professional direct outreach effectively.",
+  "culture_note": "Czech business culture is direct, understated, and value-oriented. Czechs are skilled negotiators who will push back on pricing but honour agreed terms reliably. Business relationships are transactional but trustworthy — a Czech company that commits will deliver. Beer is a genuine Czech social institution; business lunches and dinners often involve the Czech craft beer culture.",
+  "hubs": [
+    "Prague",
+    "Brno (tech, R&D)",
+    "Ostrava (manufacturing)",
+    "Plzeň"
+  ],
+  "facts": [
+    "Czech Republic produces 1.4 million vehicles annually — most per capita in the world",
+    "Skoda Auto (Mlada Boleslav) is Central Europe's largest single employer",
+    "Prague ranked in the top 10 European tech startup ecosystems in 2023",
+    "Czech Republic has the EU's lowest unemployment rate consistently",
+    "Budvar (Budweiser Budvar) brewery is one of the world's most celebrated beer brands"
+  ],
+  "industry_note": "Automotive Manufacturing is the defining sector — Skoda and multinational plants throughout Bohemia and Moravia. Technology & IT Services concentrate in Prague's Wenceslas Square corridor and Brno's university-connected tech cluster. Engineering & Manufacturing is widespread. Tourism is significant in Prague specifically.",
+  "url": "https://b2bdataindex.com/data-pages/czech-republic-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "mexico",
+  "name": "Mexico Business Email List",
+  "country": "Mexico",
+  "region": "Americas",
+  "record_count": "4M+",
+  "decision_maker_ratio_pct": 21,
+  "verification_rate_pct": 89,
+  "top_industries": [
+    "Manufacturing & Engineering",
+    "Retail & Commerce",
+    "Finance & Banking"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 21,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "2-4",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "LFPDPPP 2010 + NOM-151",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "INAI",
+    "penalty_max": "MXN 320M",
+    "notes": "LI available for B2B email. Privacy notice required. INAI enforcement is light for B2B cold email.",
+    "opt_out_window_days": 30
+  },
+  "benchmarks": {
+    "open_rate_range": "14-21%",
+    "reply_rate_range": "1.5-3.5%",
+    "bounce_rate_target": "below 4.8%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "Mexico is the world's 15th largest economy and Latin America's manufacturing powerhouse, serving as the primary nearshore manufacturing hub for North American companies after USMCA. The automotive sector — with plants from GM, Ford, Volkswagen, BMW, Audi, Toyota, and their supply chains — dominates the Bajío region (Guadalajara, Querétaro, San Luis Potosí, Aguascalientes). Mexico City is the commercial, financial, and technology capital with a rapidly growing startup ecosystem. Monterrey is the industrial and corporate capital of northern Mexico, home to large domestic multinationals (FEMSA, Cemex, ALFA) with global operations.",
+  "strategy_note": "Mexican B2B cold email in English works well for technology and multinationals; Spanish is important for locally-owned businesses and sectors outside technology. Relationship building (confianza — trust) is a core prerequisite for Mexican B2B procurement; referrals from trusted mutual contacts are by far the most effective entry point. For the Monterrey business community, direct outreach works relatively well given the city's more American-influenced business culture. Mexico City tech contacts (particularly at startups) respond to direct, English-language cold email effectively.",
+  "culture_note": "Mexican business culture values personal relationships, formality in initial contact (titles and surnames), and patience in building confianza. Business decisions in established Mexican companies involve relationship trust developed over multiple interactions, not just the merits of the offer. Time expectations are more flexible than in northern European or North American cultures.",
+  "hubs": [
+    "Mexico City (CDMX)",
+    "Monterrey",
+    "Guadalajara",
+    "Querétaro",
+    "Puebla",
+    "León"
+  ],
+  "facts": [
+    "Mexico is the US's largest trading partner, with $798 billion in bilateral trade in 2023",
+    "Automotive manufacturing employs 900,000+ workers directly across the Bajío region",
+    "Monterrey hosts more Fortune 500 LATAM regional offices than any city except Mexico City",
+    "Mexico City's startup ecosystem produced 12 unicorns between 2015-2024",
+    "Mexico is the world's top nearshore outsourcing destination for US companies"
+  ],
+  "industry_note": "Manufacturing dominates Mexican B2B data — automotive, electronics assembly, aerospace components. Retail & Commerce is significant in Mexico City. Technology & BPO is growing rapidly, particularly in Guadalajara (known as Mexico's Silicon Valley) and Mexico City's Polanco/Santa Fe business districts.",
+  "url": "https://b2bdataindex.com/data-pages/mexico-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

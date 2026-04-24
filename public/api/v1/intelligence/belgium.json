@@ -1,0 +1,80 @@
+{
+  "slug": "belgium",
+  "name": "Belgium Business Email List",
+  "country": "Belgium",
+  "region": "Europe",
+  "record_count": "700K+",
+  "decision_maker_ratio_pct": 30,
+  "verification_rate_pct": 93,
+  "top_industries": [
+    "Finance & Banking",
+    "Professional Services",
+    "Technology & Software"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 30,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "1-2",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "GDPR + ePrivacy Law",
+    "tier": "moderate",
+    "consent_type": "legitimate_interest",
+    "basis": "opt-out-with-LI",
+    "enforcement_body": "APD/GBA",
+    "penalty_max": "EUR 20M or 4% global turnover",
+    "notes": "LI acceptable for B2B cold email to corporate addresses where communication is professionally relevant.",
+    "opt_out_window_days": 1
+  },
+  "benchmarks": {
+    "open_rate_range": "18-26%",
+    "reply_rate_range": "2.1-4.8%",
+    "bounce_rate_target": "below 2.8%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "Belgium is a small country with outsized strategic importance — Brussels hosts the headquarters of the European Union, NATO, and over 1,400 international organisations and NGOs, making it one of the most important political and institutional B2B markets in the world. Antwerp is Europe's 2nd largest port and the global centre of the diamond trade; Ghent and Liège are significant industrial cities. The Belgian business community is trilingual (Dutch-speaking Flanders, French-speaking Wallonia, German-speaking East Cantons) and highly internationally oriented given its geographically central position in the EU.",
+  "strategy_note": "Belgian B2B cold email requires language awareness — Dutch for Flemish companies, French for Wallonian companies, and English for Brussels-based EU institutions and multinationals. English is widely understood in business contexts across all regions. Belgian executives are pragmatic and process-oriented; emails that are clear, structured, and reference compliance or regulatory context (particularly relevant given the EU institutional context) perform well. The EU institutional sector in Brussels has highly specific procurement processes — direct cold email to EU officials is less effective than participating in formal tender processes.",
+  "culture_note": "Belgian business culture varies significantly by region — Flemish business culture is pragmatic, direct, and Northern European in style; Wallonian culture is warmer, more relationship-oriented, and Southern European in flavour. Brussels business culture, serving the EU institutional world, is international and English-dominant.",
+  "hubs": [
+    "Brussels",
+    "Antwerp",
+    "Ghent",
+    "Liège",
+    "Bruges",
+    "Leuven"
+  ],
+  "facts": [
+    "Brussels hosts HQs of the EU, NATO, and 1,400+ international organisations",
+    "Antwerp handles 13% of all EU external maritime trade",
+    "Antwerp is the world's largest diamond trading centre (80%+ of global rough diamonds)",
+    "Belgium has the world's highest density of robotics use in manufacturing per worker",
+    "Belgium produces 220,000+ tonnes of chocolate annually — the highest per-capita"
+  ],
+  "industry_note": "Professional Services and EU institutional services dominate Brussels. Trade & Logistics is most significant in Antwerp. Pharmaceutical & Biotech is significant — UCB, Solvay, and a dense biotech cluster around Leuven/UCB. Manufacturing (steel, glass, chemicals) concentrates in Wallonia and the Ghent corridor. ICT is growing in Flanders.",
+  "url": "https://b2bdataindex.com/data-pages/belgium-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}

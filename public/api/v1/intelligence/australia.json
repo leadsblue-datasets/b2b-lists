@@ -1,0 +1,80 @@
+{
+  "slug": "australia",
+  "name": "Australia Business Email List",
+  "country": "Australia",
+  "region": "Asia-Pacific",
+  "record_count": "2.5M+",
+  "decision_maker_ratio_pct": 30,
+  "verification_rate_pct": 94,
+  "top_industries": [
+    "Finance & Banking",
+    "Professional Services",
+    "Construction"
+  ],
+  "decision_maker_profile": {
+    "ratio_pct": 30,
+    "titles": [
+      "CEO",
+      "Managing Director",
+      "VP Sales",
+      "Director of Operations",
+      "Head of Procurement"
+    ],
+    "avg_company_size": "10-500 employees",
+    "buying_authority": "High — direct purchase authority typical at SME level"
+  },
+  "buying_cycle": {
+    "typical_length": "See strategy note",
+    "decision_makers_involved": "1-2",
+    "best_outreach_channel": "Email + LinkedIn",
+    "follow_up_cadence": "7-touch over 21 days"
+  },
+  "pain_points": [],
+  "tech_stack_common": [
+    "HubSpot",
+    "Salesforce",
+    "Mailchimp",
+    "LinkedIn Sales Navigator",
+    "Instantly"
+  ],
+  "compliance": {
+    "law": "Spam Act 2003",
+    "tier": "moderate",
+    "consent_type": "inferred",
+    "basis": "inferred-consent",
+    "enforcement_body": "ACMA",
+    "penalty_max": "AUD 2.22M per day",
+    "notes": "Inferred consent when business email is published on company website/directory in connection with a professional role. Opt-out within 5 business days.",
+    "opt_out_window_days": 5
+  },
+  "benchmarks": {
+    "open_rate_range": "16-22%",
+    "reply_rate_range": "1.8-4%",
+    "bounce_rate_target": "below 2.8%",
+    "best_send_day": "Tuesday",
+    "best_send_time_local": "09:00",
+    "data_year": 2026
+  },
+  "market_summary": "Australia has approximately 2.5 million actively trading businesses and is among the most digitally advanced economies in Asia-Pacific. Sydney is the financial capital and the headquarters of most ASX-listed companies; Melbourne is the cultural and professional services capital with a large legal, accounting, and consulting ecosystem; Brisbane is the fastest-growing major city and a hub for construction, resources, and agribusiness. Perth is the gateway to Western Australia's vast mining and resources sector. The Australian B2B market is heavily concentrated in financial services, professional services, healthcare, mining, and construction — with a growing technology sector centred in Sydney's CBD, Pyrmont, and Melbourne's CBD.",
+  "strategy_note": "Australian B2B buyers are direct and friendly by temperament but sophisticated in their purchasing decisions. They respond to clear, honest copy — the Australian cultural aversion to pretension means that corporate jargon and inflated claims will be dismissed. Social proof from Australian clients in the same industry is highly valued. The Spam Act allows inferred consent when a business email is published in connection with a professional role, making targeted outreach to company website and LinkedIn-sourced emails generally permissible. Send times peak Tuesday to Thursday between 9am and 11am AEST.",
+  "culture_note": "Australians value straight talk, informality after initial contact is established, and a sense of humour in business communication. Overly formal or corporate language creates distance rather than credibility. The cultural concept of 'tall poppy syndrome' means that excessive boasting or self-promotion in cold email copy will backfire — understatement and demonstrated competence work better.",
+  "hubs": [
+    "Sydney",
+    "Melbourne",
+    "Brisbane",
+    "Perth",
+    "Adelaide",
+    "Canberra"
+  ],
+  "facts": [
+    "Australia is the 13th largest economy globally by GDP",
+    "Mining and resources generate 13% of Australian GDP",
+    "Financial services is Australia's largest industry sector by economic contribution",
+    "Australia has one of the world's highest rates of business ownership per capita",
+    "Australian tech sector grew 50% in 5 years, now employing 950,000+ people"
+  ],
+  "industry_note": "Finance & Banking is most dense in Sydney's CBD. Mining & Resources data is concentrated in Perth and Queensland. Construction is significant in Brisbane and Queensland. Healthcare & Professional Services are distributed across all major capitals. Technology is concentrated in Sydney's Pyrmont/CBD and Melbourne's CBD.",
+  "url": "https://b2bdataindex.com/data-pages/australia-business-email-list/",
+  "data_year": 2026,
+  "generated_at": "2026-04-24"
+}
