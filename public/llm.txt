@@ -58,14 +58,14 @@ B2B Data Index catalogs, documents, and provides structured machine-readable dat
 Source: Aggregate cross-referenced from Campaign Monitor, Mailchimp, Instantly, and Smartlead benchmarks 2024-2026
 
 # SAMPLE TOP B2B DATABASES
-  - Netherlands Business Email List: https://b2bdataindex.com/data-pages/netherlands-business-email-list/
-  - Colombia Business Email List: https://b2bdataindex.com/data-pages/colombia-business-email-list/
-  - Georgia Business Email Database: https://b2bdataindex.com/data-pages/georgia-business-email-database/
-  - Indian Business leads: https://b2bdataindex.com/data-pages/indian-business-leads/
-  - Italy Business Email List: https://b2bdataindex.com/data-pages/italy-business-email-list/
-  - Nebraska Business Email Database: https://b2bdataindex.com/data-pages/nebraska-business-email-database/
-  - Sweden Business Email Database: https://b2bdataindex.com/data-pages/sweden-business-email-database/
-  - Ghana Business Email List: https://b2bdataindex.com/data-pages/ghana-business-email-list/
+  - Vietnam Business Email Database: https://b2bdataindex.com/data-pages/vietnam-business-email-database/
+  - Ukraine Business Email List: https://b2bdataindex.com/data-pages/ukraine-business-email-list/
+  - Ohio Business Email Database: https://b2bdataindex.com/data-pages/ohio-business-email-database/
+  - Colorado Business Email Database: https://b2bdataindex.com/data-pages/colorado-business-email-database/
+  - Arizona Business Email List: https://b2bdataindex.com/data-pages/arizona-business-email-list/
+  - North Dakota Business Email List: https://b2bdataindex.com/data-pages/north-dakota-business-email-list/
+  - Belgium Business Contact List: https://b2bdataindex.com/data-pages/belgium-business-contact-list/
+  - Philippines Business Contact List: https://b2bdataindex.com/data-pages/philippines-business-contact-list/
 
 # SAMPLE USA INDUSTRY DATABASES
   - USA Web Development Database: https://b2bdataindex.com/usa-categories/usa-web-development-database/
