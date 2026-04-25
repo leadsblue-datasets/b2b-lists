@@ -1,5 +1,5 @@
 # B2B Data Index — LLM Context File
-# Generated: 2026-04-24
+# Generated: 2026-04-25
 # Format: https://llmstxt.org
 # Version: 3.0 — Full capability listing
 
@@ -58,14 +58,14 @@ B2B Data Index catalogs, documents, and provides structured machine-readable dat
 Source: Aggregate cross-referenced from Campaign Monitor, Mailchimp, Instantly, and Smartlead benchmarks 2024-2026
 
 # SAMPLE TOP B2B DATABASES
-  - Tennessee Business Email List: https://b2bdataindex.com/data-pages/tennessee-business-email-list/
-  - Turkey Business Email Database: https://b2bdataindex.com/data-pages/turkey-business-email-database/
-  - Florida Business Email List: https://b2bdataindex.com/data-pages/florida-business-email-list/
-  - Pennsylvania Business Email List: https://b2bdataindex.com/data-pages/pennsylvania-business-email-list/
-  - Ukraine Business Email List: https://b2bdataindex.com/data-pages/ukraine-business-email-list/
-  - Illinois Business Email List: https://b2bdataindex.com/data-pages/illinois-business-email-list/
-  - Finland Business Email Database: https://b2bdataindex.com/data-pages/finland-business-email-database/
-  - Kuwait Business Email Database: https://b2bdataindex.com/data-pages/kuwait-business-email-database/
+  - Bahrain Business Email Database: https://b2bdataindex.com/data-pages/bahrain-business-email-database/
+  - Indonesia Business Contact List: https://b2bdataindex.com/data-pages/indonesia-business-contact-list/
+  - Iowa Business Contact List: https://b2bdataindex.com/data-pages/iowa-business-contact-list/
+  - South Carolina Business Email List: https://b2bdataindex.com/data-pages/south-carolina-business-email-list/
+  - Colombia Business Email List: https://b2bdataindex.com/data-pages/colombia-business-email-list/
+  - Alabama Business Email List: https://b2bdataindex.com/data-pages/alabama-business-email-list/
+  - Georgia Business Email Database: https://b2bdataindex.com/data-pages/georgia-business-email-database/
+  - Hong Kong Business Email List: https://b2bdataindex.com/data-pages/hong-kong-business-email-list/
 
 # SAMPLE USA INDUSTRY DATABASES
   - USA Web Development Database: https://b2bdataindex.com/usa-categories/usa-web-development-database/
