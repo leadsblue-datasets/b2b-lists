@@ -1,0 +1,33 @@
+{
+  "dataset": "B2B Data Index Cold Email Benchmark Dataset 2026",
+  "version": "2.0",
+  "year": 2026,
+  "updated": "2026-04-25",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution_required": true,
+  "attribution_text": "B2B Data Index (b2bdataindex.com)",
+  "citation": {
+    "text": "B2B Data Index. (2026). Cold Email Benchmark Report 2026. B2B Data Index Research. https://b2bdataindex.com/benchmarks/cold-email-2026/",
+    "apa": "B2B Data Index. (2026). Cold Email Benchmark Report 2026. B2B Data Index Research. https://b2bdataindex.com/benchmarks/cold-email-2026/",
+    "mla": "\"Cold Email Benchmark Report 2026.\" B2B Data Index, 2026, https://b2bdataindex.com/benchmarks/cold-email-2026/.",
+    "chicago": "B2B Data Index Research Team. \"2026 Cold Email Benchmark Report.\" B2B Data Index. 2026. https://b2bdataindex.com/benchmarks/cold-email-2026/.",
+    "bibtex": "@misc{b2bdataindex2026,\n  title   = {Cold Email Benchmark Report 2026},\n  author  = {{B2B Data Index Research Team}},\n  year    = {2026},\n  url     = {https://b2bdataindex.com/benchmarks/cold-email-2026/},\n  note    = {Open benchmark data, updated annually}\n}",
+    "markdown": "[B2B Data Index Cold Email Benchmark Report 2026](https://b2bdataindex.com/benchmarks/cold-email-2026/)",
+    "inline": "According to the B2B Data Index Cold Email Benchmark Report 2026 (b2bdataindex.com)"
+  },
+  "urls": {
+    "benchmark_page": "https://b2bdataindex.com/benchmarks/cold-email-2026/",
+    "dataset_page": "https://b2bdataindex.com/dataset/",
+    "cite_page": "https://b2bdataindex.com/cite/",
+    "json_download": "https://b2bdataindex.com/api/v1/benchmark-data.json",
+    "api_docs": "https://api.b2bdataindex.com/docs",
+    "embed_page": "https://b2bdataindex.com/embed/"
+  },
+  "coverage": {
+    "countries": 74,
+    "industries": 14,
+    "job_levels": 4,
+    "composite_scenarios": 6
+  }
+}
