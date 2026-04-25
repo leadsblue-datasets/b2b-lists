@@ -58,14 +58,14 @@ B2B Data Index catalogs, documents, and provides structured machine-readable dat
 Source: Aggregate cross-referenced from Campaign Monitor, Mailchimp, Instantly, and Smartlead benchmarks 2024-2026
 
 # SAMPLE TOP B2B DATABASES
-  - Bahrain Business Email Database: https://b2bdataindex.com/data-pages/bahrain-business-email-database/
-  - Indonesia Business Contact List: https://b2bdataindex.com/data-pages/indonesia-business-contact-list/
-  - Iowa Business Contact List: https://b2bdataindex.com/data-pages/iowa-business-contact-list/
-  - South Carolina Business Email List: https://b2bdataindex.com/data-pages/south-carolina-business-email-list/
-  - Colombia Business Email List: https://b2bdataindex.com/data-pages/colombia-business-email-list/
-  - Alabama Business Email List: https://b2bdataindex.com/data-pages/alabama-business-email-list/
-  - Georgia Business Email Database: https://b2bdataindex.com/data-pages/georgia-business-email-database/
-  - Hong Kong Business Email List: https://b2bdataindex.com/data-pages/hong-kong-business-email-list/
+  - South Dakota Business Email Database: https://b2bdataindex.com/data-pages/south-dakota-business-email-database/
+  - New Hampshire Business Email Database: https://b2bdataindex.com/data-pages/new-hampshire-business-email-database/
+  - Spain Business Email Database: https://b2bdataindex.com/data-pages/spain-business-email-database/
+  - Russia Business Email List: https://b2bdataindex.com/data-pages/russia-business-email-list/
+  - Delaware Business Email Database: https://b2bdataindex.com/data-pages/delaware-business-email-database/
+  - Cyprus Business Email List: https://b2bdataindex.com/data-pages/cyprus-business-email-list/
+  - Minnesota Business Email Database: https://b2bdataindex.com/data-pages/minnesota-business-email-database/
+  - Indian Business leads: https://b2bdataindex.com/data-pages/indian-business-leads/
 
 # SAMPLE USA INDUSTRY DATABASES
   - USA Web Development Database: https://b2bdataindex.com/usa-categories/usa-web-development-database/
