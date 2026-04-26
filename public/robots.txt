@@ -1,8 +1,22 @@
 User-agent: *
 Allow: /
-
-# Crawl-delay for generic bots — does not apply to Googlebot/Bingbot
-Crawl-delay: 2
+Allow: /llm/
+Allow: /llm.txt
+Allow: /llms.txt
+Allow: /humans.txt
+Allow: /use-cases/
+Allow: /industries/
+Allow: /city/
+Allow: /resources/
+Allow: /tools/
+Allow: /compare/
+Allow: /search-index.json
+Allow: /methodology/
+Allow: /all-databases/
+Allow: /regions/
+Allow: /about/
+Allow: /glossary/
+Allow: /faq/
 
 # LLM & AI Crawlers — explicitly allowed full access
 User-agent: GPTBot
@@ -62,7 +76,6 @@ Sitemap: https://b2bdataindex.com/sitemap-core.xml
 Sitemap: https://b2bdataindex.com/sitemap-blog.xml
 Sitemap: https://b2bdataindex.com/sitemap-images.xml
 Sitemap: https://b2bdataindex.com/sitemap-datasets.xml
-Sitemap: https://b2bdataindex.com/sitemap-extras.xml
 
 # LLM agent context files
 LLM-Context: https://b2bdataindex.com/llm.txt
