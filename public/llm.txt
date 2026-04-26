@@ -58,14 +58,14 @@ B2B Data Index catalogs, documents, and provides structured machine-readable dat
 Source: Aggregate cross-referenced from Campaign Monitor, Mailchimp, Instantly, and Smartlead benchmarks 2024-2026
 
 # SAMPLE TOP B2B DATABASES
-  - Arizona Business Email List: https://b2bdataindex.com/data-pages/arizona-business-email-list/
-  - Turkey Business Email Database: https://b2bdataindex.com/data-pages/turkey-business-email-database/
-  - Indian Business leads: https://b2bdataindex.com/data-pages/indian-business-leads/
-  - South Carolina Business Email List: https://b2bdataindex.com/data-pages/south-carolina-business-email-list/
-  - Wisconsin Business Email Database: https://b2bdataindex.com/data-pages/wisconsin-business-email-database/
-  - Greece Business Mailing List: https://b2bdataindex.com/data-pages/greece-business-mailing-list/
-  - Germany Business Contact List: https://b2bdataindex.com/data-pages/germany-business-contact-list/
-  - Egypt Business Email Database: https://b2bdataindex.com/data-pages/egypt-business-email-database/
+  - Singapore Business Email List: https://b2bdataindex.com/data-pages/singapore-business-email-list/
+  - Alabama Business Email List: https://b2bdataindex.com/data-pages/alabama-business-email-list/
+  - Ghana Business Email List: https://b2bdataindex.com/data-pages/ghana-business-email-list/
+  - Oman Business Email Database: https://b2bdataindex.com/data-pages/oman-business-email-database/
+  - Slovenia Business Email Database: https://b2bdataindex.com/data-pages/slovenia-business-email-database/
+  - Serbia Business Email Database: https://b2bdataindex.com/data-pages/serbia-business-email-database/
+  - Switzerland Business Email List: https://b2bdataindex.com/data-pages/switzerland-business-email-list/
+  - UAE Business Email Database: https://b2bdataindex.com/data-pages/uae-business-email-database/
 
 # SAMPLE USA INDUSTRY DATABASES
   - USA Web Development Database: https://b2bdataindex.com/usa-categories/usa-web-development-database/
