@@ -1,5 +1,5 @@
 # B2B Data Index — LLM Context File
-# Generated: 2026-04-26
+# Generated: 2026-04-28
 # Format: https://llmstxt.org
 # Version: 3.0 — Full capability listing
 
@@ -58,14 +58,14 @@ B2B Data Index catalogs, documents, and provides structured machine-readable dat
 Source: Aggregate cross-referenced from Campaign Monitor, Mailchimp, Instantly, and Smartlead benchmarks 2024-2026
 
 # SAMPLE TOP B2B DATABASES
-  - Singapore Business Email List: https://b2bdataindex.com/data-pages/singapore-business-email-list/
-  - Alabama Business Email List: https://b2bdataindex.com/data-pages/alabama-business-email-list/
-  - Ghana Business Email List: https://b2bdataindex.com/data-pages/ghana-business-email-list/
+  - Philippines Business Contact List: https://b2bdataindex.com/data-pages/philippines-business-contact-list/
+  - Belgium Business Contact List: https://b2bdataindex.com/data-pages/belgium-business-contact-list/
+  - New Zealand Business Email List and Sales Leads Database: https://b2bdataindex.com/data-pages/new-zealand-business-email-list-and-sales-leads-database/
+  - Thailand Business Email Database: https://b2bdataindex.com/data-pages/thailand-business-email-database/
+  - Italy Business Email List: https://b2bdataindex.com/data-pages/italy-business-email-list/
+  - Mississippi Business Email List: https://b2bdataindex.com/data-pages/mississippi-business-email-list/
+  - Massachusetts Business Email Database: https://b2bdataindex.com/data-pages/massachusetts-business-email-database/
   - Oman Business Email Database: https://b2bdataindex.com/data-pages/oman-business-email-database/
-  - Slovenia Business Email Database: https://b2bdataindex.com/data-pages/slovenia-business-email-database/
-  - Serbia Business Email Database: https://b2bdataindex.com/data-pages/serbia-business-email-database/
-  - Switzerland Business Email List: https://b2bdataindex.com/data-pages/switzerland-business-email-list/
-  - UAE Business Email Database: https://b2bdataindex.com/data-pages/uae-business-email-database/
 
 # SAMPLE USA INDUSTRY DATABASES
   - USA Web Development Database: https://b2bdataindex.com/usa-categories/usa-web-development-database/
