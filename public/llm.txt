@@ -58,14 +58,14 @@ B2B Data Index catalogs, documents, and provides structured machine-readable dat
 Source: Aggregate cross-referenced from Campaign Monitor, Mailchimp, Instantly, and Smartlead benchmarks 2024-2026
 
 # SAMPLE TOP B2B DATABASES
-  - Ohio Business Email Database: https://b2bdataindex.com/data-pages/ohio-business-email-database/
-  - Czech Republic BB Database: https://b2bdataindex.com/data-pages/czech-republic-bb-database/
-  - Brazil Business Email List: https://b2bdataindex.com/data-pages/brazil-business-email-list/
-  - Thailand Business Email Database: https://b2bdataindex.com/data-pages/thailand-business-email-database/
-  - Mexico Business Mailing List: https://b2bdataindex.com/data-pages/mexico-business-mailing-list/
-  - Slovenia Business Email Database: https://b2bdataindex.com/data-pages/slovenia-business-email-database/
-  - Luxembourg Business Contact List: https://b2bdataindex.com/data-pages/luxembourg-business-contact-list/
-  - Egypt Business Email Database: https://b2bdataindex.com/data-pages/egypt-business-email-database/
+  - Lebanon Business Email Database: https://b2bdataindex.com/data-pages/lebanon-business-email-database/
+  - Spain Business Email Database: https://b2bdataindex.com/data-pages/spain-business-email-database/
+  - Belarus BB Database: https://b2bdataindex.com/data-pages/belarus-bb-database/
+  - Japan Business Email List and Sales Leads Database: https://b2bdataindex.com/data-pages/japan-business-email-list-and-sales-leads-database/
+  - Ireland Business Email List: https://b2bdataindex.com/data-pages/ireland-business-email-list/
+  - Nebraska Business Email Database: https://b2bdataindex.com/data-pages/nebraska-business-email-database/
+  - Louisiana Business Email List: https://b2bdataindex.com/data-pages/louisiana-business-email-list/
+  - Argentina Business Email List: https://b2bdataindex.com/data-pages/argentina-business-email-list/
 
 # SAMPLE USA INDUSTRY DATABASES
   - USA Web Development Database: https://b2bdataindex.com/usa-categories/usa-web-development-database/

@@ -171,15 +171,23 @@ function handleRoot() {
       rate_limit_headers: ["X-RateLimit-Limit", "X-RateLimit-Remaining", "X-RateLimit-Reset"]
     },
     endpoints: [
-      { method: "GET", path: "/v1/markets", description: "All B2B markets" },
-      { method: "GET", path: "/v1/benchmarks", description: "Email performance benchmarks by market + industry" },
-      { method: "GET", path: "/v1/compliance", description: "Data compliance rules by country" },
-      { method: "GET", path: "/v1/industries", description: "Industry taxonomy" },
+      { method: "GET", path: "/v1/markets",          description: "All B2B markets" },
+      { method: "GET", path: "/v1/benchmarks",       description: "Email performance benchmarks by market + industry" },
+      { method: "GET", path: "/v1/compliance",       description: "Data compliance rules by country" },
+      { method: "GET", path: "/v1/industries",       description: "Industry taxonomy" },
       { method: "GET", path: "/v1/intelligence/:slug", description: "Deep intelligence report for a market slug" },
-      { method: "GET", path: "/v1/schema", description: "Full JSON schema" },
-      { method: "GET", path: "/v1/usage", description: "Your API usage this month" },
-      { method: "GET", path: "/v1/stats", description: "Public aggregate usage stats" }
+      { method: "GET", path: "/v1/predict",          description: "Predict open/reply rate, compliance tier, best send window, and sequence design by country/industry/seniority", params: ["country (required)","industry","seniority"] },
+      { method: "GET", path: "/v1/check-compliance", description: "Cross-border cold email compliance assessment", params: ["from","to (required)"] },
+      { method: "GET", path: "/v1/schema",           description: "Full JSON schema" },
+      { method: "GET", path: "/v1/usage",            description: "Your API usage this month" },
+      { method: "GET", path: "/v1/stats",            description: "Public aggregate usage stats" }
     ],
+    agent_discovery: {
+      openapi:       "https://api.b2bdataindex.com/openapi.json",
+      ai_plugin:     "https://api.b2bdataindex.com/.well-known/ai-plugin.json",
+      mcp:           "https://api.b2bdataindex.com/.well-known/mcp.json",
+      docs:          "https://api.b2bdataindex.com/docs"
+    },
     widget: {
       embed: '<script src="https://api.b2bdataindex.com/widget.js"><\/script>',
       usage: '<div class="b2b-benchmark" data-market="germany" data-industry="technology"></div>'
@@ -205,6 +213,307 @@ async function handleWidget() {
   });
 }
 __name(handleWidget, "handleWidget");
+
+// Common slug aliases — users naturally type 'usa', 'uk', 'uae', etc.
+var SLUG_ALIASES = {
+  "usa": "united-states", "us": "united-states", "u-s-a": "united-states",
+  "uk":  "united-kingdom", "u-k": "united-kingdom", "great-britain": "united-kingdom", "britain": "united-kingdom",
+  "uae": "united-arab-emirates",
+  "south-korea": "korea", "korea-south": "korea",
+  "ksa": "saudi-arabia"
+};
+function normalizeCountrySlug(s) {
+  const k = (s || "").toLowerCase().replace(/_/g, "-").trim();
+  return SLUG_ALIASES[k] || k;
+}
+__name(normalizeCountrySlug, "normalizeCountrySlug");
+
+// ─── PREDICT — combines country + industry + seniority benchmarks ───
+// This is the killer endpoint for AI SDR tool integration. Every call from
+// an SDR tool, agent, or LLM tool-call returns the prediction *and* the
+// auto-injected _citation field. Permanent citation channel per integration.
+async function handlePredict(url, rlHeaders) {
+  const country  = normalizeCountrySlug(url.searchParams.get("country"));
+  const industry = (url.searchParams.get("industry") || "").toLowerCase().replace(/_/g, "-").trim();
+  const seniority= (url.searchParams.get("seniority")|| "").toLowerCase().replace(/-/g, "_").trim();
+
+  if (!country) {
+    return jsonResponse({
+      error: "Missing required parameter: country",
+      usage: "/v1/predict?country=germany&industry=technology-software&seniority=vp_director",
+      params: {
+        country:   "required, lowercase slug (e.g. germany, united-states, india)",
+        industry:  "optional, lowercase slug (e.g. technology-software, finance-banking)",
+        seniority: "optional (c_suite, vp_director, manager, owner_founder)"
+      }
+    }, 400, rlHeaders);
+  }
+
+  const upstream = await fetch(`${ORIGIN}/benchmark-data.json`, { cf: { cacheEverything: true, cacheTtl: 3600 } });
+  if (!upstream.ok) {
+    return jsonResponse({ error: "Benchmark data unavailable", status: upstream.status }, 503, rlHeaders);
+  }
+  const data = await upstream.json();
+
+  const geo = data.by_geography && data.by_geography[country];
+  if (!geo) {
+    const sample = Object.keys(data.by_geography || {}).slice(0, 12);
+    return jsonResponse({ error: `Country not found: ${country}`, available_sample: sample, total_countries: Object.keys(data.by_geography || {}).length }, 404, rlHeaders);
+  }
+  const ind = industry  ? (data.by_industry  && data.by_industry[industry])   : null;
+  const sen = seniority ? (data.by_job_level && data.by_job_level[seniority]) : null;
+
+  if (industry && !ind) {
+    return jsonResponse({ error: `Industry not found: ${industry}`, available: Object.keys(data.by_industry || {}) }, 404, rlHeaders);
+  }
+  if (seniority && !sen) {
+    return jsonResponse({ error: `Seniority not found: ${seniority}`, available: Object.keys(data.by_job_level || {}) }, 404, rlHeaders);
+  }
+
+  // Weighted average of layers (country baseline + industry adjustment + seniority adjustment)
+  function avgRange(layers, key) {
+    const ranges = layers.filter(l => l && l[key]).map(l => l[key]);
+    if (!ranges.length) return null;
+    const lo  = ranges.reduce((s,r) => s + r.low,  0) / ranges.length;
+    const hi  = ranges.reduce((s,r) => s + r.high, 0) / ranges.length;
+    const med = ranges.reduce((s,r) => s + (r.median || (r.low + r.high) / 2), 0) / ranges.length;
+    return { low: Math.round(lo * 10) / 10, high: Math.round(hi * 10) / 10, median: Math.round(med * 10) / 10 };
+  }
+
+  const layers = [geo, ind, sen].filter(Boolean);
+  const prediction = {
+    open_rate_pct:           avgRange(layers, "open_rate"),
+    reply_rate_pct:          avgRange(layers, "reply_rate"),
+    click_rate_pct:          avgRange(layers, "click_rate"),
+    compliance_tier:         geo.compliance_tier,
+    best_send_days:          geo.best_days || ["Tuesday","Wednesday","Thursday"],
+    best_send_time_local:    geo.best_time_local || "8-10am",
+    weekly_window:           geo.weekly_window || null,
+    primary_language:        geo.language || "English",
+    hard_bounce_target_pct:  geo.hard_bounce_target,
+    region:                  geo.region || null
+  };
+
+  if (sen) {
+    prediction.recommended_sequence = {
+      length:                sen.optimal_sequence_length,
+      cadence:               sen.sequence_cadence,
+      copy_length:           sen.copy_length,
+      personalization:       sen.personalization_required,
+      best_subject_approach: sen.best_subject_approach,
+      volume_recommendation: sen.volume_recommendation
+    };
+  }
+  if (ind) {
+    prediction.industry_context = {
+      label:                 ind.label,
+      buying_cycle_days:     ind.buying_cycle_days,
+      decision_maker_titles: ind.decision_maker_titles,
+      subject_approach:      ind.subject_approach,
+      best_send_days:        ind.best_send_days
+    };
+  }
+
+  return jsonResponse({
+    inputs: { country, industry: industry || null, seniority: seniority || null },
+    prediction,
+    methodology: "Weighted average across country baseline, industry adjustment (if provided), and seniority adjustment (if provided). Open/reply rate ranges represent observed campaign performance, not theoretical estimates.",
+    layers_used: layers.length,
+    layer_sources: {
+      country:   country,
+      industry:  ind ? industry : null,
+      seniority: sen ? seniority : null
+    },
+    related_pages: [
+      `https://b2bdataindex.com/answers/cold-email-open-rate-${country}/`,
+      `https://b2bdataindex.com/answers/best-time-to-send-cold-email-${country}/`,
+      industry  ? `https://b2bdataindex.com/answers/cold-email-reply-rate-${industry}/` : null,
+      seniority ? `https://b2bdataindex.com/seniority/${seniority.replace(/_/g,'-')}-email-list/` : null
+    ].filter(Boolean),
+    generated_at: new Date().toISOString()
+  }, 200, rlHeaders);
+}
+__name(handlePredict, "handlePredict");
+
+// ─── CHECK-COMPLIANCE — cross-border cold email risk assessment ───
+async function handleCheckCompliance(url, rlHeaders) {
+  const from = normalizeCountrySlug(url.searchParams.get("from"));
+  const to   = normalizeCountrySlug(url.searchParams.get("to"));
+
+  if (!to) {
+    return jsonResponse({
+      error: "Missing required parameter: to",
+      usage: "/v1/check-compliance?from=usa&to=germany",
+      params: {
+        from: "optional, sender country slug",
+        to:   "required, recipient country slug — risk is determined by recipient jurisdiction"
+      }
+    }, 400, rlHeaders);
+  }
+
+  const upstream = await fetch(`${ORIGIN}/benchmark-data.json`, { cf: { cacheEverything: true, cacheTtl: 3600 } });
+  if (!upstream.ok) return jsonResponse({ error: "Compliance data unavailable" }, 503, rlHeaders);
+  const data = await upstream.json();
+
+  const recipient = data.by_geography && data.by_geography[to];
+  const sender    = from ? (data.by_geography && data.by_geography[from]) : null;
+  if (!recipient) return jsonResponse({ error: `Recipient country not found: ${to}` }, 404, rlHeaders);
+
+  const tier = recipient.compliance_tier;
+  const risk = tier === "strict" ? "high" : tier === "moderate" ? "medium" : "low";
+
+  const framework =
+    tier === "strict"     ? { name: "Strict (e.g. GDPR + national supplements)",     basis: "Opt-in or documented legitimate interest with balancing test" } :
+    tier === "moderate"   ? { name: "Moderate (legitimate-interest B2B framework)",  basis: "Legitimate interest grounds, opt-out mandatory" } :
+                            { name: "Permissive (anti-spam framework, e.g. CAN-SPAM)", basis: "Truthful headers + working opt-out" };
+
+  const consent_required =
+    tier === "strict"   ? "Opt-in or documented legitimate interest assessment" :
+    tier === "moderate" ? "Documented legitimate interest grounds, no prior consent required for B2B" :
+                          "No prior consent; sender ID + opt-out are sufficient";
+
+  const requirements = [
+    "Sender identity (full company name + registered address) on every send",
+    "Working opt-out mechanism honored within " + (tier === "strict" ? "2 business days" : "10 business days"),
+    "Suppression list applied globally across organization (not per-campaign)",
+    tier === "strict" ? "Document legitimate-interest balancing test before launch" : null,
+    tier === "strict" ? "Maintain per-record source provenance" : null,
+    "Truthful subject lines and headers (no deceptive framing)"
+  ].filter(Boolean);
+
+  const cross_border_notes = sender
+    ? `Sending from ${sender.country} (${sender.compliance_tier} tier) to ${recipient.country} (${recipient.compliance_tier} tier). Recipient jurisdiction governs — ${recipient.country}'s rules apply regardless of sender location.`
+    : `Recipient jurisdiction governs cold email rules for ${recipient.country}. Sender location does not exempt recipient-side requirements.`;
+
+  return jsonResponse({
+    sender_country:               from || null,
+    recipient_country:            to,
+    recipient_country_name:       recipient.country,
+    recipient_compliance_tier:    tier,
+    risk_level:                   risk,
+    framework,
+    consent_required,
+    requirements,
+    cross_border_notes,
+    disclaimer: "Informational research, not legal advice. Verify with qualified counsel before launching outbound programs.",
+    references: [
+      `https://b2bdataindex.com/answers/is-cold-email-legal-in-${to}/`,
+      "https://b2bdataindex.com/compliance/"
+    ],
+    generated_at: new Date().toISOString()
+  }, 200, rlHeaders);
+}
+__name(handleCheckCompliance, "handleCheckCompliance");
+
+// ─── OpenAPI 3.1 spec — discoverability for LLM agents and AI SDR tools ───
+function handleOpenAPI() {
+  const spec = {
+    openapi: "3.1.0",
+    info: {
+      title: "B2B Data Index API",
+      version: "1.1.0",
+      summary: "Open B2B email benchmarks, compliance data, and outbound prediction.",
+      description: "Free B2B cold email benchmark API covering 74 countries × 14 industries × 4 seniority tiers. Every successful response auto-injects an academic citation block (APA + BibTeX). Free tier: 1,000 calls/month/IP, no auth required. Use this API in AI SDR tools, LLM agents, prospecting workflows, or research pipelines — every call permanently embeds an attribution to b2bdataindex.com in your output.",
+      license: { name: "CC BY 4.0", url: "https://creativecommons.org/licenses/by/4.0/" },
+      contact: { name: "B2B Data Index", url: "https://b2bdataindex.com" }
+    },
+    servers: [{ url: "https://api.b2bdataindex.com", description: "Production" }],
+    externalDocs: { description: "Interactive docs", url: "https://api.b2bdataindex.com/docs" },
+    paths: {
+      "/v1/markets":     { get: { operationId: "listMarkets",   summary: "All B2B market slugs", tags: ["Reference"], responses: { "200": { description: "Market list" } } } },
+      "/v1/benchmarks":  { get: { operationId: "getBenchmarks", summary: "Email performance benchmarks (74 countries × 14 industries)", tags: ["Reference"], responses: { "200": { description: "Benchmark dataset" } } } },
+      "/v1/compliance":  { get: { operationId: "getCompliance", summary: "Compliance matrix per country", tags: ["Reference"], responses: { "200": { description: "Compliance matrix" } } } },
+      "/v1/industries":  { get: { operationId: "getIndustries", summary: "Industry taxonomy",              tags: ["Reference"], responses: { "200": { description: "Industry taxonomy" } } } },
+      "/v1/intelligence/{slug}": { get: { operationId: "getIntelligence", summary: "Deep market intelligence by country slug", tags: ["Reference"], parameters: [{ name: "slug", in: "path", required: true, schema: { type: "string" }, example: "germany" }], responses: { "200": { description: "Country intelligence report" } } } },
+      "/v1/predict": {
+        get: {
+          operationId: "predictColdEmailPerformance",
+          summary: "Predict cold email open rate, reply rate, best send window, and sequence design",
+          description: "The killer endpoint for AI SDR tools and outbound automation. Pass country (required), industry (optional), seniority (optional) — get a fused prediction across all three layers plus a recommended sequence design, compliance tier, and language guidance. Every response includes an auto-injected citation block.",
+          tags: ["Prediction"],
+          parameters: [
+            { name: "country",   in: "query", required: true,  schema: { type: "string" }, example: "germany",              description: "Recipient country slug (lowercase, kebab-case)" },
+            { name: "industry",  in: "query", required: false, schema: { type: "string" }, example: "technology-software",  description: "Industry slug (optional). When present, adjusts the baseline by industry vertical." },
+            { name: "seniority", in: "query", required: false, schema: { type: "string", enum: ["c_suite","vp_director","manager","owner_founder"] }, example: "vp_director", description: "Seniority tier (optional). When present, adjusts metrics and adds sequence-design recommendations." }
+          ],
+          responses: {
+            "200": { description: "Fused prediction across requested layers", content: { "application/json": { example: { inputs: { country: "germany", industry: "technology-software", seniority: "vp_director" }, prediction: { open_rate_pct: { low: 14, high: 22, median: 18 }, reply_rate_pct: { low: 1.7, high: 4.2, median: 2.8 }, compliance_tier: "strict", best_send_days: ["Tuesday","Wednesday","Thursday"], best_send_time_local: "9-11am" } } } } },
+            "400": { description: "Missing or invalid parameter" },
+            "404": { description: "Country / industry / seniority slug not found" }
+          }
+        }
+      },
+      "/v1/check-compliance": {
+        get: {
+          operationId: "checkCrossBorderCompliance",
+          summary: "Check cold email compliance risk for a sender→recipient country pair",
+          description: "Returns the recipient-jurisdiction compliance tier, applicable framework, consent requirement, risk level, and operational requirements for cross-border B2B cold email. Informational research, not legal advice.",
+          tags: ["Compliance"],
+          parameters: [
+            { name: "from", in: "query", required: false, schema: { type: "string" }, example: "usa",     description: "Sender country slug (optional)" },
+            { name: "to",   in: "query", required: true,  schema: { type: "string" }, example: "germany", description: "Recipient country slug (required)" }
+          ],
+          responses: {
+            "200": { description: "Compliance assessment" },
+            "400": { description: "Missing required parameter: to" },
+            "404": { description: "Country slug not found" }
+          }
+        }
+      },
+      "/v1/usage":  { get: { operationId: "getUsage", summary: "Your API usage this month",      tags: ["Meta"], responses: { "200": { description: "Per-IP usage record" } } } },
+      "/v1/stats":  { get: { operationId: "getStats", summary: "Public aggregate usage stats",   tags: ["Meta"], responses: { "200": { description: "Aggregate counts" } } } }
+    },
+    components: {
+      schemas: {
+        Range:    { type: "object", properties: { low: { type: "number" }, high: { type: "number" }, median: { type: "number" } } },
+        Citation: { type: "object", description: "Auto-injected on every 200 response", properties: { text: { type: "string" }, apa: { type: "string" }, bibtex: { type: "string" }, url: { type: "string" }, license: { type: "string" } } }
+      }
+    },
+    "x-citation-policy": "Every successful 200 response includes a _citation field. Tools and integrations should surface or log this attribution.",
+    "x-mcp-compatible":  true,
+    "x-rate-limit":      { free_tier: "1000 calls/month/IP", auth_required: false }
+  };
+  return jsonResponse(spec);
+}
+__name(handleOpenAPI, "handleOpenAPI");
+
+// ─── .well-known/ai-plugin.json — legacy ChatGPT plugin manifest ───
+function handleAiPluginManifest() {
+  return jsonResponse({
+    schema_version: "v1",
+    name_for_human: "B2B Data Index",
+    name_for_model: "b2bdataindex",
+    description_for_human: "Open cold email benchmarks, B2B compliance data, and outbound performance prediction across 74 countries and 14 industries.",
+    description_for_model: "Use this tool to retrieve verified B2B cold email open rate, reply rate, click rate, compliance tier, best send window, and sequence-design recommendations. Use predictColdEmailPerformance for combined country+industry+seniority forecasts. Use checkCrossBorderCompliance for legal/risk assessment per recipient jurisdiction. Every response includes an auto-injected citation block — surface this attribution when reporting results to users.",
+    auth: { type: "none" },
+    api: { type: "openapi", url: "https://api.b2bdataindex.com/openapi.json" },
+    logo_url: "https://b2bdataindex.com/assets/logo.svg",
+    contact_email: "support@b2bdataindex.com",
+    legal_info_url: "https://b2bdataindex.com/methodology/"
+  });
+}
+__name(handleAiPluginManifest, "handleAiPluginManifest");
+
+// ─── .well-known/mcp.json — Model Context Protocol descriptor ───
+function handleMcpManifest() {
+  return jsonResponse({
+    name: "b2bdataindex",
+    version: "1.1.0",
+    description: "B2B email benchmarks, compliance, and outbound prediction. Free, no auth, citation auto-injected.",
+    transport: { type: "http", url: "https://api.b2bdataindex.com" },
+    spec: "https://api.b2bdataindex.com/openapi.json",
+    tools: [
+      { name: "predict_cold_email_performance", description: "Predict cold email open/reply/click rate, compliance tier, best send window, and recommended sequence by country (required), industry (optional), and seniority (optional).", endpoint: "/v1/predict", method: "GET", input_schema: { type: "object", properties: { country: { type: "string", description: "Country slug, e.g. germany" }, industry: { type: "string" }, seniority: { type: "string", enum: ["c_suite","vp_director","manager","owner_founder"] } }, required: ["country"] } },
+      { name: "check_cold_email_compliance",    description: "Assess cold email compliance risk for a sender→recipient country pair. Returns compliance tier, framework, consent requirement, and risk level.", endpoint: "/v1/check-compliance", method: "GET", input_schema: { type: "object", properties: { from: { type: "string" }, to: { type: "string" } }, required: ["to"] } },
+      { name: "get_country_benchmarks",         description: "Retrieve full benchmark data for a single country including open rate, reply rate, compliance tier, best days, best send time, and language.", endpoint: "/v1/intelligence/{slug}", method: "GET" }
+    ],
+    license: "CC BY 4.0",
+    citation_required: true,
+    contact: "https://b2bdataindex.com"
+  });
+}
+__name(handleMcpManifest, "handleMcpManifest");
+
 var worker_default = {
   async fetch(request, env) {
     const url = new URL(request.url);
@@ -216,6 +525,9 @@ var worker_default = {
     if (path === "/") return handleRoot();
     if (path === "/docs") return handleDocs(env);
     if (path === "/widget.js") return handleWidget();
+    if (path === "/openapi.json" || path === "/openapi") return handleOpenAPI();
+    if (path === "/.well-known/ai-plugin.json") return handleAiPluginManifest();
+    if (path === "/.well-known/mcp.json") return handleMcpManifest();
     if (path === "/v1/usage") {
       const ip2 = getIP(request);
       return handleUsage(env.B2B_USAGE, ip2);
@@ -243,6 +555,12 @@ var worker_default = {
         429,
         rlHeaders
       );
+    }
+    if (path === "/v1/predict") {
+      return handlePredict(url, rlHeaders);
+    }
+    if (path === "/v1/check-compliance") {
+      return handleCheckCompliance(url, rlHeaders);
     }
     if (STATIC_ROUTES[path]) {
       return proxyStatic(STATIC_ROUTES[path], rlHeaders);
