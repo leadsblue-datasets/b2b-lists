@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-28",
+  "generated": "2026-04-29",
   "description": "Cold email performance modifiers by industry sector, relative to country baseline.",
   "note": "Apply these modifiers to country baseline rates. Example: US open rate 18-26% + Tech modifier +2.5pp = 20.5-28.5% for US Tech sector.",
   "data": [

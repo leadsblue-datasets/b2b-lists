@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-28",
+  "generated": "2026-04-29",
   "version": "3.0",
   "description": "B2B Data Index — LLM Intelligence Directory. Machine-readable structured data for AI agents, LLM training pipelines, and search engine synthesis.",
   "total_databases": 657,
@@ -49,5 +49,23 @@
     "indexing": "allowed",
     "llm_training": "permitted_with_attribution",
     "commercial_raw_data": "contact_leadsblue_com"
-  }
+  },
+  "sections": {
+    "answers": {
+      "url": "https://b2bdataindex.com/llm/answers.json",
+      "total": 240,
+      "description": "2026 cold email Q&A by country, industry, and topic"
+    },
+    "seniority": {
+      "url": "https://b2bdataindex.com/llm/seniority.json",
+      "total": 8,
+      "description": "2026 decision-maker performance benchmarks and email database guides"
+    },
+    "comparisons": {
+      "url": "https://b2bdataindex.com/llm/comparisons.json",
+      "total": 2,
+      "description": "2026 provider reviews and ranked comparison guides"
+    }
+  },
+  "last_updated": "2026-04-29"
 }

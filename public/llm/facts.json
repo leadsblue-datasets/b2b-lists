@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-28",
+  "generated": "2026-04-29",
   "description": "Structured factual claims from B2B Data Index research. Each claim is citable with category, market, metric, value, and source page.",
   "total_claims": 219,
   "schema": {
@@ -2202,6 +2202,1464 @@
       "unit": "percent",
       "year": 2026,
       "source_page": "/data-pages/turkey-consumer-email-database/"
+    },
+    {
+      "id": "country.united-states.open_rate.2026",
+      "claim": "Cold email open rates in United States range from 20% to 28% (median 24%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-united-states/",
+      "year": 2026
+    },
+    {
+      "id": "country.united-states.reply_rate.2026",
+      "claim": "Cold email reply rates in United States range from 3% to 8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-united-states/",
+      "year": 2026
+    },
+    {
+      "id": "country.united-states.compliance.2026",
+      "claim": "United States cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-united-states/",
+      "year": 2026
+    },
+    {
+      "id": "country.united-kingdom.open_rate.2026",
+      "claim": "Cold email open rates in United Kingdom range from 16% to 24% (median 20%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-united-kingdom/",
+      "year": 2026
+    },
+    {
+      "id": "country.united-kingdom.reply_rate.2026",
+      "claim": "Cold email reply rates in United Kingdom range from 2% to 5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-united-kingdom/",
+      "year": 2026
+    },
+    {
+      "id": "country.united-kingdom.compliance.2026",
+      "claim": "United Kingdom cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-united-kingdom/",
+      "year": 2026
+    },
+    {
+      "id": "country.germany.open_rate.2026",
+      "claim": "Cold email open rates in Germany range from 12% to 18% (median 14%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-germany/",
+      "year": 2026
+    },
+    {
+      "id": "country.germany.reply_rate.2026",
+      "claim": "Cold email reply rates in Germany range from 1.2% to 3% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-germany/",
+      "year": 2026
+    },
+    {
+      "id": "country.germany.compliance.2026",
+      "claim": "Germany cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-germany/",
+      "year": 2026
+    },
+    {
+      "id": "country.france.open_rate.2026",
+      "claim": "Cold email open rates in France range from 13% to 19% (median 16%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-france/",
+      "year": 2026
+    },
+    {
+      "id": "country.france.reply_rate.2026",
+      "claim": "Cold email reply rates in France range from 1.4% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-france/",
+      "year": 2026
+    },
+    {
+      "id": "country.france.compliance.2026",
+      "claim": "France cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-france/",
+      "year": 2026
+    },
+    {
+      "id": "country.india.open_rate.2026",
+      "claim": "Cold email open rates in India range from 20% to 30% (median 25%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-india/",
+      "year": 2026
+    },
+    {
+      "id": "country.india.reply_rate.2026",
+      "claim": "Cold email reply rates in India range from 2.5% to 6.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-india/",
+      "year": 2026
+    },
+    {
+      "id": "country.india.compliance.2026",
+      "claim": "India cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-india/",
+      "year": 2026
+    },
+    {
+      "id": "country.canada.open_rate.2026",
+      "claim": "Cold email open rates in Canada range from 17% to 25% (median 21%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-canada/",
+      "year": 2026
+    },
+    {
+      "id": "country.canada.reply_rate.2026",
+      "claim": "Cold email reply rates in Canada range from 2% to 5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-canada/",
+      "year": 2026
+    },
+    {
+      "id": "country.canada.compliance.2026",
+      "claim": "Canada cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-canada/",
+      "year": 2026
+    },
+    {
+      "id": "country.australia.open_rate.2026",
+      "claim": "Cold email open rates in Australia range from 16% to 24% (median 20%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-australia/",
+      "year": 2026
+    },
+    {
+      "id": "country.australia.reply_rate.2026",
+      "claim": "Cold email reply rates in Australia range from 1.8% to 4.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-australia/",
+      "year": 2026
+    },
+    {
+      "id": "country.australia.compliance.2026",
+      "claim": "Australia cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-australia/",
+      "year": 2026
+    },
+    {
+      "id": "country.japan.open_rate.2026",
+      "claim": "Cold email open rates in Japan range from 10% to 16% (median 12%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-japan/",
+      "year": 2026
+    },
+    {
+      "id": "country.japan.reply_rate.2026",
+      "claim": "Cold email reply rates in Japan range from 0.8% to 2.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-japan/",
+      "year": 2026
+    },
+    {
+      "id": "country.japan.compliance.2026",
+      "claim": "Japan cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-japan/",
+      "year": 2026
+    },
+    {
+      "id": "country.singapore.open_rate.2026",
+      "claim": "Cold email open rates in Singapore range from 17% to 26% (median 21%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-singapore/",
+      "year": 2026
+    },
+    {
+      "id": "country.singapore.reply_rate.2026",
+      "claim": "Cold email reply rates in Singapore range from 2% to 5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-singapore/",
+      "year": 2026
+    },
+    {
+      "id": "country.singapore.compliance.2026",
+      "claim": "Singapore cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-singapore/",
+      "year": 2026
+    },
+    {
+      "id": "country.uae.open_rate.2026",
+      "claim": "Cold email open rates in UAE range from 19% to 28% (median 23%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-uae/",
+      "year": 2026
+    },
+    {
+      "id": "country.uae.reply_rate.2026",
+      "claim": "Cold email reply rates in UAE range from 2.2% to 5.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-uae/",
+      "year": 2026
+    },
+    {
+      "id": "country.uae.compliance.2026",
+      "claim": "UAE cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-uae/",
+      "year": 2026
+    },
+    {
+      "id": "country.netherlands.open_rate.2026",
+      "claim": "Cold email open rates in Netherlands range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-netherlands/",
+      "year": 2026
+    },
+    {
+      "id": "country.netherlands.reply_rate.2026",
+      "claim": "Cold email reply rates in Netherlands range from 1.5% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-netherlands/",
+      "year": 2026
+    },
+    {
+      "id": "country.netherlands.compliance.2026",
+      "claim": "Netherlands cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-netherlands/",
+      "year": 2026
+    },
+    {
+      "id": "country.sweden.open_rate.2026",
+      "claim": "Cold email open rates in Sweden range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-sweden/",
+      "year": 2026
+    },
+    {
+      "id": "country.sweden.reply_rate.2026",
+      "claim": "Cold email reply rates in Sweden range from 1.7% to 4.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-sweden/",
+      "year": 2026
+    },
+    {
+      "id": "country.sweden.compliance.2026",
+      "claim": "Sweden cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-sweden/",
+      "year": 2026
+    },
+    {
+      "id": "country.israel.open_rate.2026",
+      "claim": "Cold email open rates in Israel range from 18% to 27% (median 22%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-israel/",
+      "year": 2026
+    },
+    {
+      "id": "country.israel.reply_rate.2026",
+      "claim": "Cold email reply rates in Israel range from 2% to 5.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-israel/",
+      "year": 2026
+    },
+    {
+      "id": "country.israel.compliance.2026",
+      "claim": "Israel cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-israel/",
+      "year": 2026
+    },
+    {
+      "id": "country.south-korea.open_rate.2026",
+      "claim": "Cold email open rates in South Korea range from 12% to 18% (median 14%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-south-korea/",
+      "year": 2026
+    },
+    {
+      "id": "country.south-korea.reply_rate.2026",
+      "claim": "Cold email reply rates in South Korea range from 1% to 2.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-south-korea/",
+      "year": 2026
+    },
+    {
+      "id": "country.south-korea.compliance.2026",
+      "claim": "South Korea cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-south-korea/",
+      "year": 2026
+    },
+    {
+      "id": "country.brazil.open_rate.2026",
+      "claim": "Cold email open rates in Brazil range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-brazil/",
+      "year": 2026
+    },
+    {
+      "id": "country.brazil.reply_rate.2026",
+      "claim": "Cold email reply rates in Brazil range from 1.8% to 4.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-brazil/",
+      "year": 2026
+    },
+    {
+      "id": "country.brazil.compliance.2026",
+      "claim": "Brazil cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-brazil/",
+      "year": 2026
+    },
+    {
+      "id": "country.mexico.open_rate.2026",
+      "claim": "Cold email open rates in Mexico range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-mexico/",
+      "year": 2026
+    },
+    {
+      "id": "country.mexico.reply_rate.2026",
+      "claim": "Cold email reply rates in Mexico range from 1.5% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-mexico/",
+      "year": 2026
+    },
+    {
+      "id": "country.mexico.compliance.2026",
+      "claim": "Mexico cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-mexico/",
+      "year": 2026
+    },
+    {
+      "id": "country.switzerland.open_rate.2026",
+      "claim": "Cold email open rates in Switzerland range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-switzerland/",
+      "year": 2026
+    },
+    {
+      "id": "country.switzerland.reply_rate.2026",
+      "claim": "Cold email reply rates in Switzerland range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-switzerland/",
+      "year": 2026
+    },
+    {
+      "id": "country.switzerland.compliance.2026",
+      "claim": "Switzerland cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-switzerland/",
+      "year": 2026
+    },
+    {
+      "id": "country.saudi-arabia.open_rate.2026",
+      "claim": "Cold email open rates in Saudi Arabia range from 16% to 24% (median 20%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-saudi-arabia/",
+      "year": 2026
+    },
+    {
+      "id": "country.saudi-arabia.reply_rate.2026",
+      "claim": "Cold email reply rates in Saudi Arabia range from 1.6% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-saudi-arabia/",
+      "year": 2026
+    },
+    {
+      "id": "country.saudi-arabia.compliance.2026",
+      "claim": "Saudi Arabia cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-saudi-arabia/",
+      "year": 2026
+    },
+    {
+      "id": "country.south-africa.open_rate.2026",
+      "claim": "Cold email open rates in South Africa range from 16% to 24% (median 20%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-south-africa/",
+      "year": 2026
+    },
+    {
+      "id": "country.south-africa.reply_rate.2026",
+      "claim": "Cold email reply rates in South Africa range from 1.7% to 4.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-south-africa/",
+      "year": 2026
+    },
+    {
+      "id": "country.south-africa.compliance.2026",
+      "claim": "South Africa cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-south-africa/",
+      "year": 2026
+    },
+    {
+      "id": "country.nigeria.open_rate.2026",
+      "claim": "Cold email open rates in Nigeria range from 18% to 28% (median 22%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-nigeria/",
+      "year": 2026
+    },
+    {
+      "id": "country.nigeria.reply_rate.2026",
+      "claim": "Cold email reply rates in Nigeria range from 2% to 5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-nigeria/",
+      "year": 2026
+    },
+    {
+      "id": "country.nigeria.compliance.2026",
+      "claim": "Nigeria cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-nigeria/",
+      "year": 2026
+    },
+    {
+      "id": "country.turkey.open_rate.2026",
+      "claim": "Cold email open rates in Turkey range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-turkey/",
+      "year": 2026
+    },
+    {
+      "id": "country.turkey.reply_rate.2026",
+      "claim": "Cold email reply rates in Turkey range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-turkey/",
+      "year": 2026
+    },
+    {
+      "id": "country.turkey.compliance.2026",
+      "claim": "Turkey cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-turkey/",
+      "year": 2026
+    },
+    {
+      "id": "country.poland.open_rate.2026",
+      "claim": "Cold email open rates in Poland range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-poland/",
+      "year": 2026
+    },
+    {
+      "id": "country.poland.reply_rate.2026",
+      "claim": "Cold email reply rates in Poland range from 1.4% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-poland/",
+      "year": 2026
+    },
+    {
+      "id": "country.poland.compliance.2026",
+      "claim": "Poland cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-poland/",
+      "year": 2026
+    },
+    {
+      "id": "country.ireland.open_rate.2026",
+      "claim": "Cold email open rates in Ireland range from 16% to 25% (median 20%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-ireland/",
+      "year": 2026
+    },
+    {
+      "id": "country.ireland.reply_rate.2026",
+      "claim": "Cold email reply rates in Ireland range from 1.8% to 4.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-ireland/",
+      "year": 2026
+    },
+    {
+      "id": "country.ireland.compliance.2026",
+      "claim": "Ireland cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-ireland/",
+      "year": 2026
+    },
+    {
+      "id": "country.hong-kong.open_rate.2026",
+      "claim": "Cold email open rates in Hong Kong range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-hong-kong/",
+      "year": 2026
+    },
+    {
+      "id": "country.hong-kong.reply_rate.2026",
+      "claim": "Cold email reply rates in Hong Kong range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-hong-kong/",
+      "year": 2026
+    },
+    {
+      "id": "country.hong-kong.compliance.2026",
+      "claim": "Hong Kong cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-hong-kong/",
+      "year": 2026
+    },
+    {
+      "id": "country.china.open_rate.2026",
+      "claim": "Cold email open rates in China range from 8% to 15% (median 11%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-china/",
+      "year": 2026
+    },
+    {
+      "id": "country.china.reply_rate.2026",
+      "claim": "Cold email reply rates in China range from 0.6% to 2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-china/",
+      "year": 2026
+    },
+    {
+      "id": "country.china.compliance.2026",
+      "claim": "China cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-china/",
+      "year": 2026
+    },
+    {
+      "id": "country.new-zealand.open_rate.2026",
+      "claim": "Cold email open rates in New Zealand range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-new-zealand/",
+      "year": 2026
+    },
+    {
+      "id": "country.new-zealand.reply_rate.2026",
+      "claim": "Cold email reply rates in New Zealand range from 1.6% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-new-zealand/",
+      "year": 2026
+    },
+    {
+      "id": "country.new-zealand.compliance.2026",
+      "claim": "New Zealand cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-new-zealand/",
+      "year": 2026
+    },
+    {
+      "id": "country.denmark.open_rate.2026",
+      "claim": "Cold email open rates in Denmark range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-denmark/",
+      "year": 2026
+    },
+    {
+      "id": "country.denmark.reply_rate.2026",
+      "claim": "Cold email reply rates in Denmark range from 1.7% to 4.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-denmark/",
+      "year": 2026
+    },
+    {
+      "id": "country.denmark.compliance.2026",
+      "claim": "Denmark cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-denmark/",
+      "year": 2026
+    },
+    {
+      "id": "country.norway.open_rate.2026",
+      "claim": "Cold email open rates in Norway range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-norway/",
+      "year": 2026
+    },
+    {
+      "id": "country.norway.reply_rate.2026",
+      "claim": "Cold email reply rates in Norway range from 1.7% to 4.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-norway/",
+      "year": 2026
+    },
+    {
+      "id": "country.norway.compliance.2026",
+      "claim": "Norway cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-norway/",
+      "year": 2026
+    },
+    {
+      "id": "country.finland.open_rate.2026",
+      "claim": "Cold email open rates in Finland range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-finland/",
+      "year": 2026
+    },
+    {
+      "id": "country.finland.reply_rate.2026",
+      "claim": "Cold email reply rates in Finland range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-finland/",
+      "year": 2026
+    },
+    {
+      "id": "country.finland.compliance.2026",
+      "claim": "Finland cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-finland/",
+      "year": 2026
+    },
+    {
+      "id": "country.malaysia.open_rate.2026",
+      "claim": "Cold email open rates in Malaysia range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-malaysia/",
+      "year": 2026
+    },
+    {
+      "id": "country.malaysia.reply_rate.2026",
+      "claim": "Cold email reply rates in Malaysia range from 1.6% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-malaysia/",
+      "year": 2026
+    },
+    {
+      "id": "country.malaysia.compliance.2026",
+      "claim": "Malaysia cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-malaysia/",
+      "year": 2026
+    },
+    {
+      "id": "country.philippines.open_rate.2026",
+      "claim": "Cold email open rates in Philippines range from 17% to 26% (median 21%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-philippines/",
+      "year": 2026
+    },
+    {
+      "id": "country.philippines.reply_rate.2026",
+      "claim": "Cold email reply rates in Philippines range from 2% to 5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-philippines/",
+      "year": 2026
+    },
+    {
+      "id": "country.philippines.compliance.2026",
+      "claim": "Philippines cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-philippines/",
+      "year": 2026
+    },
+    {
+      "id": "country.indonesia.open_rate.2026",
+      "claim": "Cold email open rates in Indonesia range from 16% to 25% (median 20%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-indonesia/",
+      "year": 2026
+    },
+    {
+      "id": "country.indonesia.reply_rate.2026",
+      "claim": "Cold email reply rates in Indonesia range from 1.8% to 4.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-indonesia/",
+      "year": 2026
+    },
+    {
+      "id": "country.indonesia.compliance.2026",
+      "claim": "Indonesia cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-indonesia/",
+      "year": 2026
+    },
+    {
+      "id": "country.thailand.open_rate.2026",
+      "claim": "Cold email open rates in Thailand range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-thailand/",
+      "year": 2026
+    },
+    {
+      "id": "country.thailand.reply_rate.2026",
+      "claim": "Cold email reply rates in Thailand range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-thailand/",
+      "year": 2026
+    },
+    {
+      "id": "country.thailand.compliance.2026",
+      "claim": "Thailand cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-thailand/",
+      "year": 2026
+    },
+    {
+      "id": "country.argentina.open_rate.2026",
+      "claim": "Cold email open rates in Argentina range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-argentina/",
+      "year": 2026
+    },
+    {
+      "id": "country.argentina.reply_rate.2026",
+      "claim": "Cold email reply rates in Argentina range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-argentina/",
+      "year": 2026
+    },
+    {
+      "id": "country.argentina.compliance.2026",
+      "claim": "Argentina cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-argentina/",
+      "year": 2026
+    },
+    {
+      "id": "country.spain.open_rate.2026",
+      "claim": "Cold email open rates in Spain range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-spain/",
+      "year": 2026
+    },
+    {
+      "id": "country.spain.reply_rate.2026",
+      "claim": "Cold email reply rates in Spain range from 1.4% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-spain/",
+      "year": 2026
+    },
+    {
+      "id": "country.spain.compliance.2026",
+      "claim": "Spain cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-spain/",
+      "year": 2026
+    },
+    {
+      "id": "country.italy.open_rate.2026",
+      "claim": "Cold email open rates in Italy range from 12% to 19% (median 15%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-italy/",
+      "year": 2026
+    },
+    {
+      "id": "country.italy.reply_rate.2026",
+      "claim": "Cold email reply rates in Italy range from 1.2% to 3% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-italy/",
+      "year": 2026
+    },
+    {
+      "id": "country.italy.compliance.2026",
+      "claim": "Italy cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-italy/",
+      "year": 2026
+    },
+    {
+      "id": "country.belgium.open_rate.2026",
+      "claim": "Cold email open rates in Belgium range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-belgium/",
+      "year": 2026
+    },
+    {
+      "id": "country.belgium.reply_rate.2026",
+      "claim": "Cold email reply rates in Belgium range from 1.4% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-belgium/",
+      "year": 2026
+    },
+    {
+      "id": "country.belgium.compliance.2026",
+      "claim": "Belgium cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-belgium/",
+      "year": 2026
+    },
+    {
+      "id": "country.austria.open_rate.2026",
+      "claim": "Cold email open rates in Austria range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-austria/",
+      "year": 2026
+    },
+    {
+      "id": "country.austria.reply_rate.2026",
+      "claim": "Cold email reply rates in Austria range from 1.4% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-austria/",
+      "year": 2026
+    },
+    {
+      "id": "country.austria.compliance.2026",
+      "claim": "Austria cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-austria/",
+      "year": 2026
+    },
+    {
+      "id": "country.portugal.open_rate.2026",
+      "claim": "Cold email open rates in Portugal range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-portugal/",
+      "year": 2026
+    },
+    {
+      "id": "country.portugal.reply_rate.2026",
+      "claim": "Cold email reply rates in Portugal range from 1.4% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-portugal/",
+      "year": 2026
+    },
+    {
+      "id": "country.portugal.compliance.2026",
+      "claim": "Portugal cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-portugal/",
+      "year": 2026
+    },
+    {
+      "id": "country.czech-republic.open_rate.2026",
+      "claim": "Cold email open rates in Czech Republic range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-czech-republic/",
+      "year": 2026
+    },
+    {
+      "id": "country.czech-republic.reply_rate.2026",
+      "claim": "Cold email reply rates in Czech Republic range from 1.4% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-czech-republic/",
+      "year": 2026
+    },
+    {
+      "id": "country.czech-republic.compliance.2026",
+      "claim": "Czech Republic cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-czech-republic/",
+      "year": 2026
+    },
+    {
+      "id": "country.egypt.open_rate.2026",
+      "claim": "Cold email open rates in Egypt range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-egypt/",
+      "year": 2026
+    },
+    {
+      "id": "country.egypt.reply_rate.2026",
+      "claim": "Cold email reply rates in Egypt range from 1.6% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-egypt/",
+      "year": 2026
+    },
+    {
+      "id": "country.egypt.compliance.2026",
+      "claim": "Egypt cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-egypt/",
+      "year": 2026
+    },
+    {
+      "id": "country.qatar.open_rate.2026",
+      "claim": "Cold email open rates in Qatar range from 16% to 24% (median 20%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-qatar/",
+      "year": 2026
+    },
+    {
+      "id": "country.qatar.reply_rate.2026",
+      "claim": "Cold email reply rates in Qatar range from 1.7% to 4.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-qatar/",
+      "year": 2026
+    },
+    {
+      "id": "country.qatar.compliance.2026",
+      "claim": "Qatar cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-qatar/",
+      "year": 2026
+    },
+    {
+      "id": "country.kuwait.open_rate.2026",
+      "claim": "Cold email open rates in Kuwait range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-kuwait/",
+      "year": 2026
+    },
+    {
+      "id": "country.kuwait.reply_rate.2026",
+      "claim": "Cold email reply rates in Kuwait range from 1.6% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-kuwait/",
+      "year": 2026
+    },
+    {
+      "id": "country.kuwait.compliance.2026",
+      "claim": "Kuwait cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-kuwait/",
+      "year": 2026
+    },
+    {
+      "id": "country.vietnam.open_rate.2026",
+      "claim": "Cold email open rates in Vietnam range from 16% to 25% (median 20%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-vietnam/",
+      "year": 2026
+    },
+    {
+      "id": "country.vietnam.reply_rate.2026",
+      "claim": "Cold email reply rates in Vietnam range from 1.7% to 4.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-vietnam/",
+      "year": 2026
+    },
+    {
+      "id": "country.vietnam.compliance.2026",
+      "claim": "Vietnam cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-vietnam/",
+      "year": 2026
+    },
+    {
+      "id": "country.colombia.open_rate.2026",
+      "claim": "Cold email open rates in Colombia range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-colombia/",
+      "year": 2026
+    },
+    {
+      "id": "country.colombia.reply_rate.2026",
+      "claim": "Cold email reply rates in Colombia range from 1.4% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-colombia/",
+      "year": 2026
+    },
+    {
+      "id": "country.colombia.compliance.2026",
+      "claim": "Colombia cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-colombia/",
+      "year": 2026
+    },
+    {
+      "id": "country.chile.open_rate.2026",
+      "claim": "Cold email open rates in Chile range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-chile/",
+      "year": 2026
+    },
+    {
+      "id": "country.chile.reply_rate.2026",
+      "claim": "Cold email reply rates in Chile range from 1.6% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-chile/",
+      "year": 2026
+    },
+    {
+      "id": "country.chile.compliance.2026",
+      "claim": "Chile cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-chile/",
+      "year": 2026
+    },
+    {
+      "id": "country.peru.open_rate.2026",
+      "claim": "Cold email open rates in Peru range from 12% to 20% (median 16%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-peru/",
+      "year": 2026
+    },
+    {
+      "id": "country.peru.reply_rate.2026",
+      "claim": "Cold email reply rates in Peru range from 1.4% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-peru/",
+      "year": 2026
+    },
+    {
+      "id": "country.peru.compliance.2026",
+      "claim": "Peru cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-peru/",
+      "year": 2026
+    },
+    {
+      "id": "country.greece.open_rate.2026",
+      "claim": "Cold email open rates in Greece range from 12% to 19% (median 15%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-greece/",
+      "year": 2026
+    },
+    {
+      "id": "country.greece.reply_rate.2026",
+      "claim": "Cold email reply rates in Greece range from 1.2% to 3% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-greece/",
+      "year": 2026
+    },
+    {
+      "id": "country.greece.compliance.2026",
+      "claim": "Greece cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-greece/",
+      "year": 2026
+    },
+    {
+      "id": "country.romania.open_rate.2026",
+      "claim": "Cold email open rates in Romania range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-romania/",
+      "year": 2026
+    },
+    {
+      "id": "country.romania.reply_rate.2026",
+      "claim": "Cold email reply rates in Romania range from 1.3% to 3.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-romania/",
+      "year": 2026
+    },
+    {
+      "id": "country.romania.compliance.2026",
+      "claim": "Romania cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-romania/",
+      "year": 2026
+    },
+    {
+      "id": "country.hungary.open_rate.2026",
+      "claim": "Cold email open rates in Hungary range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-hungary/",
+      "year": 2026
+    },
+    {
+      "id": "country.hungary.reply_rate.2026",
+      "claim": "Cold email reply rates in Hungary range from 1.3% to 3.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-hungary/",
+      "year": 2026
+    },
+    {
+      "id": "country.hungary.compliance.2026",
+      "claim": "Hungary cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-hungary/",
+      "year": 2026
+    },
+    {
+      "id": "country.pakistan.open_rate.2026",
+      "claim": "Cold email open rates in Pakistan range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-pakistan/",
+      "year": 2026
+    },
+    {
+      "id": "country.pakistan.reply_rate.2026",
+      "claim": "Cold email reply rates in Pakistan range from 1.6% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-pakistan/",
+      "year": 2026
+    },
+    {
+      "id": "country.pakistan.compliance.2026",
+      "claim": "Pakistan cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-pakistan/",
+      "year": 2026
+    },
+    {
+      "id": "country.morocco.open_rate.2026",
+      "claim": "Cold email open rates in Morocco range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-morocco/",
+      "year": 2026
+    },
+    {
+      "id": "country.morocco.reply_rate.2026",
+      "claim": "Cold email reply rates in Morocco range from 1.4% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-morocco/",
+      "year": 2026
+    },
+    {
+      "id": "country.morocco.compliance.2026",
+      "claim": "Morocco cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-morocco/",
+      "year": 2026
+    },
+    {
+      "id": "country.bangladesh.open_rate.2026",
+      "claim": "Cold email open rates in Bangladesh range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-bangladesh/",
+      "year": 2026
+    },
+    {
+      "id": "country.bangladesh.reply_rate.2026",
+      "claim": "Cold email reply rates in Bangladesh range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-bangladesh/",
+      "year": 2026
+    },
+    {
+      "id": "country.bangladesh.compliance.2026",
+      "claim": "Bangladesh cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-bangladesh/",
+      "year": 2026
+    },
+    {
+      "id": "country.russia.open_rate.2026",
+      "claim": "Cold email open rates in Russia range from 10% to 17% (median 13%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-russia/",
+      "year": 2026
+    },
+    {
+      "id": "country.russia.reply_rate.2026",
+      "claim": "Cold email reply rates in Russia range from 0.9% to 2.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-russia/",
+      "year": 2026
+    },
+    {
+      "id": "country.russia.compliance.2026",
+      "claim": "Russia cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-russia/",
+      "year": 2026
+    },
+    {
+      "id": "country.croatia.open_rate.2026",
+      "claim": "Cold email open rates in Croatia range from 12% to 19% (median 15%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-croatia/",
+      "year": 2026
+    },
+    {
+      "id": "country.croatia.reply_rate.2026",
+      "claim": "Cold email reply rates in Croatia range from 1.2% to 3% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-croatia/",
+      "year": 2026
+    },
+    {
+      "id": "country.croatia.compliance.2026",
+      "claim": "Croatia cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-croatia/",
+      "year": 2026
+    },
+    {
+      "id": "country.cyprus.open_rate.2026",
+      "claim": "Cold email open rates in Cyprus range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-cyprus/",
+      "year": 2026
+    },
+    {
+      "id": "country.cyprus.reply_rate.2026",
+      "claim": "Cold email reply rates in Cyprus range from 1.3% to 3.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-cyprus/",
+      "year": 2026
+    },
+    {
+      "id": "country.cyprus.compliance.2026",
+      "claim": "Cyprus cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-cyprus/",
+      "year": 2026
+    },
+    {
+      "id": "country.estonia.open_rate.2026",
+      "claim": "Cold email open rates in Estonia range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-estonia/",
+      "year": 2026
+    },
+    {
+      "id": "country.estonia.reply_rate.2026",
+      "claim": "Cold email reply rates in Estonia range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-estonia/",
+      "year": 2026
+    },
+    {
+      "id": "country.estonia.compliance.2026",
+      "claim": "Estonia cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-estonia/",
+      "year": 2026
+    },
+    {
+      "id": "country.latvia.open_rate.2026",
+      "claim": "Cold email open rates in Latvia range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-latvia/",
+      "year": 2026
+    },
+    {
+      "id": "country.latvia.reply_rate.2026",
+      "claim": "Cold email reply rates in Latvia range from 1.3% to 3.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-latvia/",
+      "year": 2026
+    },
+    {
+      "id": "country.latvia.compliance.2026",
+      "claim": "Latvia cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-latvia/",
+      "year": 2026
+    },
+    {
+      "id": "country.lithuania.open_rate.2026",
+      "claim": "Cold email open rates in Lithuania range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-lithuania/",
+      "year": 2026
+    },
+    {
+      "id": "country.lithuania.reply_rate.2026",
+      "claim": "Cold email reply rates in Lithuania range from 1.3% to 3.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-lithuania/",
+      "year": 2026
+    },
+    {
+      "id": "country.lithuania.compliance.2026",
+      "claim": "Lithuania cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-lithuania/",
+      "year": 2026
+    },
+    {
+      "id": "country.luxembourg.open_rate.2026",
+      "claim": "Cold email open rates in Luxembourg range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-luxembourg/",
+      "year": 2026
+    },
+    {
+      "id": "country.luxembourg.reply_rate.2026",
+      "claim": "Cold email reply rates in Luxembourg range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-luxembourg/",
+      "year": 2026
+    },
+    {
+      "id": "country.luxembourg.compliance.2026",
+      "claim": "Luxembourg cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-luxembourg/",
+      "year": 2026
+    },
+    {
+      "id": "country.serbia.open_rate.2026",
+      "claim": "Cold email open rates in Serbia range from 12% to 19% (median 15%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-serbia/",
+      "year": 2026
+    },
+    {
+      "id": "country.serbia.reply_rate.2026",
+      "claim": "Cold email reply rates in Serbia range from 1.2% to 3% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-serbia/",
+      "year": 2026
+    },
+    {
+      "id": "country.serbia.compliance.2026",
+      "claim": "Serbia cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-serbia/",
+      "year": 2026
+    },
+    {
+      "id": "country.ukraine.open_rate.2026",
+      "claim": "Cold email open rates in Ukraine range from 11% to 18% (median 14%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-ukraine/",
+      "year": 2026
+    },
+    {
+      "id": "country.ukraine.reply_rate.2026",
+      "claim": "Cold email reply rates in Ukraine range from 1.1% to 2.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-ukraine/",
+      "year": 2026
+    },
+    {
+      "id": "country.ukraine.compliance.2026",
+      "claim": "Ukraine cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-ukraine/",
+      "year": 2026
+    },
+    {
+      "id": "country.bahrain.open_rate.2026",
+      "claim": "Cold email open rates in Bahrain range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-bahrain/",
+      "year": 2026
+    },
+    {
+      "id": "country.bahrain.reply_rate.2026",
+      "claim": "Cold email reply rates in Bahrain range from 1.6% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-bahrain/",
+      "year": 2026
+    },
+    {
+      "id": "country.bahrain.compliance.2026",
+      "claim": "Bahrain cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-bahrain/",
+      "year": 2026
+    },
+    {
+      "id": "country.oman.open_rate.2026",
+      "claim": "Cold email open rates in Oman range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-oman/",
+      "year": 2026
+    },
+    {
+      "id": "country.oman.reply_rate.2026",
+      "claim": "Cold email reply rates in Oman range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-oman/",
+      "year": 2026
+    },
+    {
+      "id": "country.oman.compliance.2026",
+      "claim": "Oman cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-oman/",
+      "year": 2026
+    },
+    {
+      "id": "country.lebanon.open_rate.2026",
+      "claim": "Cold email open rates in Lebanon range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-lebanon/",
+      "year": 2026
+    },
+    {
+      "id": "country.lebanon.reply_rate.2026",
+      "claim": "Cold email reply rates in Lebanon range from 1.4% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-lebanon/",
+      "year": 2026
+    },
+    {
+      "id": "country.lebanon.compliance.2026",
+      "claim": "Lebanon cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-lebanon/",
+      "year": 2026
+    },
+    {
+      "id": "country.ghana.open_rate.2026",
+      "claim": "Cold email open rates in Ghana range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-ghana/",
+      "year": 2026
+    },
+    {
+      "id": "country.ghana.reply_rate.2026",
+      "claim": "Cold email reply rates in Ghana range from 1.6% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-ghana/",
+      "year": 2026
+    },
+    {
+      "id": "country.ghana.compliance.2026",
+      "claim": "Ghana cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-ghana/",
+      "year": 2026
+    },
+    {
+      "id": "country.iceland.open_rate.2026",
+      "claim": "Cold email open rates in Iceland range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-iceland/",
+      "year": 2026
+    },
+    {
+      "id": "country.iceland.reply_rate.2026",
+      "claim": "Cold email reply rates in Iceland range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-iceland/",
+      "year": 2026
+    },
+    {
+      "id": "country.iceland.compliance.2026",
+      "claim": "Iceland cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-iceland/",
+      "year": 2026
+    },
+    {
+      "id": "country.malta.open_rate.2026",
+      "claim": "Cold email open rates in Malta range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-malta/",
+      "year": 2026
+    },
+    {
+      "id": "country.malta.reply_rate.2026",
+      "claim": "Cold email reply rates in Malta range from 1.3% to 3.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-malta/",
+      "year": 2026
+    },
+    {
+      "id": "country.malta.compliance.2026",
+      "claim": "Malta cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-malta/",
+      "year": 2026
+    },
+    {
+      "id": "country.slovenia.open_rate.2026",
+      "claim": "Cold email open rates in Slovenia range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-slovenia/",
+      "year": 2026
+    },
+    {
+      "id": "country.slovenia.reply_rate.2026",
+      "claim": "Cold email reply rates in Slovenia range from 1.3% to 3.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-slovenia/",
+      "year": 2026
+    },
+    {
+      "id": "country.slovenia.compliance.2026",
+      "claim": "Slovenia cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-slovenia/",
+      "year": 2026
+    },
+    {
+      "id": "country.montenegro.open_rate.2026",
+      "claim": "Cold email open rates in Montenegro range from 11% to 18% (median 14%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-montenegro/",
+      "year": 2026
+    },
+    {
+      "id": "country.montenegro.reply_rate.2026",
+      "claim": "Cold email reply rates in Montenegro range from 1.1% to 2.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-montenegro/",
+      "year": 2026
+    },
+    {
+      "id": "country.montenegro.compliance.2026",
+      "claim": "Montenegro cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-montenegro/",
+      "year": 2026
+    },
+    {
+      "id": "country.sri-lanka.open_rate.2026",
+      "claim": "Cold email open rates in Sri Lanka range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-sri-lanka/",
+      "year": 2026
+    },
+    {
+      "id": "country.sri-lanka.reply_rate.2026",
+      "claim": "Cold email reply rates in Sri Lanka range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-sri-lanka/",
+      "year": 2026
+    },
+    {
+      "id": "country.sri-lanka.compliance.2026",
+      "claim": "Sri Lanka cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-sri-lanka/",
+      "year": 2026
+    },
+    {
+      "id": "country.togo.open_rate.2026",
+      "claim": "Cold email open rates in Togo range from 12% to 19% (median 15%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-togo/",
+      "year": 2026
+    },
+    {
+      "id": "country.togo.reply_rate.2026",
+      "claim": "Cold email reply rates in Togo range from 1.2% to 3% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-togo/",
+      "year": 2026
+    },
+    {
+      "id": "country.togo.compliance.2026",
+      "claim": "Togo cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-togo/",
+      "year": 2026
+    },
+    {
+      "id": "country.bulgaria.open_rate.2026",
+      "claim": "Cold email open rates in Bulgaria range from 12% to 19% (median 15%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-bulgaria/",
+      "year": 2026
+    },
+    {
+      "id": "country.bulgaria.reply_rate.2026",
+      "claim": "Cold email reply rates in Bulgaria range from 1.2% to 3% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-bulgaria/",
+      "year": 2026
+    },
+    {
+      "id": "country.bulgaria.compliance.2026",
+      "claim": "Bulgaria cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-bulgaria/",
+      "year": 2026
+    },
+    {
+      "id": "country.belarus.open_rate.2026",
+      "claim": "Cold email open rates in Belarus range from 10% to 17% (median 13%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-belarus/",
+      "year": 2026
+    },
+    {
+      "id": "country.belarus.reply_rate.2026",
+      "claim": "Cold email reply rates in Belarus range from 0.9% to 2.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-belarus/",
+      "year": 2026
+    },
+    {
+      "id": "country.belarus.compliance.2026",
+      "claim": "Belarus cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-belarus/",
+      "year": 2026
+    },
+    {
+      "id": "industry.technology-software.reply_rate.2026",
+      "claim": "Technology & Software cold email reply rates range from 3.5% to 7.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-technology-software/",
+      "year": 2026
+    },
+    {
+      "id": "industry.healthcare-medical.reply_rate.2026",
+      "claim": "Healthcare & Medical cold email reply rates range from 2% to 4.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-healthcare-medical/",
+      "year": 2026
+    },
+    {
+      "id": "industry.manufacturing-engineering.reply_rate.2026",
+      "claim": "Manufacturing & Engineering cold email reply rates range from 1.8% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-manufacturing-engineering/",
+      "year": 2026
+    },
+    {
+      "id": "industry.finance-banking.reply_rate.2026",
+      "claim": "Finance & Banking cold email reply rates range from 1.5% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-finance-banking/",
+      "year": 2026
+    },
+    {
+      "id": "industry.professional-services.reply_rate.2026",
+      "claim": "Professional Services cold email reply rates range from 2.5% to 6% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-professional-services/",
+      "year": 2026
+    },
+    {
+      "id": "industry.real-estate.reply_rate.2026",
+      "claim": "Real Estate cold email reply rates range from 2% to 5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-real-estate/",
+      "year": 2026
+    },
+    {
+      "id": "industry.construction.reply_rate.2026",
+      "claim": "Construction cold email reply rates range from 1.8% to 4.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-construction/",
+      "year": 2026
+    },
+    {
+      "id": "industry.legal.reply_rate.2026",
+      "claim": "Legal cold email reply rates range from 1.8% to 4.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-legal/",
+      "year": 2026
+    },
+    {
+      "id": "industry.ecommerce.reply_rate.2026",
+      "claim": "E-commerce cold email reply rates range from 3% to 7% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-ecommerce/",
+      "year": 2026
+    },
+    {
+      "id": "industry.oil-energy.reply_rate.2026",
+      "claim": "Oil & Energy cold email reply rates range from 1.5% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-oil-energy/",
+      "year": 2026
+    },
+    {
+      "id": "industry.education-training.reply_rate.2026",
+      "claim": "Education & Training cold email reply rates range from 1.8% to 4.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-education-training/",
+      "year": 2026
+    },
+    {
+      "id": "industry.retail-commerce.reply_rate.2026",
+      "claim": "Retail & Commerce cold email reply rates range from 1.5% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-retail-commerce/",
+      "year": 2026
+    },
+    {
+      "id": "industry.agriculture-food.reply_rate.2026",
+      "claim": "Agriculture & Food cold email reply rates range from 1.6% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-agriculture-food/",
+      "year": 2026
+    },
+    {
+      "id": "industry.transportation-logistics.reply_rate.2026",
+      "claim": "Transportation & Logistics cold email reply rates range from 1.8% to 4.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-transportation-logistics/",
+      "year": 2026
+    },
+    {
+      "id": "seniority.cto.2026",
+      "claim": "Chief Technology Officer cold email reply rate is 0.8–2.5% (median 1.4%) in 2026.",
+      "source": "https://b2bdataindex.com/seniority/cto-email-list/",
+      "year": 2026
+    },
+    {
+      "id": "seniority.cfo.2026",
+      "claim": "Chief Financial Officer cold email reply rate is 0.8–2.5% (median 1.4%) in 2026.",
+      "source": "https://b2bdataindex.com/seniority/cfo-email-list/",
+      "year": 2026
+    },
+    {
+      "id": "seniority.ceo.2026",
+      "claim": "Chief Executive Officer cold email reply rate is 0.8–2.5% (median 1.4%) in 2026.",
+      "source": "https://b2bdataindex.com/seniority/ceo-email-list/",
+      "year": 2026
+    },
+    {
+      "id": "seniority.vp-sales.2026",
+      "claim": "Vice President of Sales cold email reply rate is 1.5–4% (median 2.5%) in 2026.",
+      "source": "https://b2bdataindex.com/seniority/vp-sales-email-list/",
+      "year": 2026
+    },
+    {
+      "id": "seniority.vp-marketing.2026",
+      "claim": "Vice President of Marketing cold email reply rate is 1.5–4% (median 2.5%) in 2026.",
+      "source": "https://b2bdataindex.com/seniority/vp-marketing-email-list/",
+      "year": 2026
+    },
+    {
+      "id": "seniority.founder.2026",
+      "claim": "Founder / Co-Founder cold email reply rate is 3–8% (median 5.5%) in 2026.",
+      "source": "https://b2bdataindex.com/seniority/founder-email-list/",
+      "year": 2026
+    },
+    {
+      "id": "seniority.decision-maker.2026",
+      "claim": "B2B Decision-Maker (Multi-Role) cold email reply rate is 1.5–4% (median 2.5%) in 2026.",
+      "source": "https://b2bdataindex.com/seniority/decision-maker-email-list/",
+      "year": 2026
     }
   ]
 }

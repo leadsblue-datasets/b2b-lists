@@ -1,0 +1,286 @@
+{
+  "generated": "2026-04-29",
+  "license": "CC BY 4.0",
+  "total": 7,
+  "items": [
+    {
+      "url": "https://b2bdataindex.com/seniority/cto-email-list/",
+      "role": "Chief Technology Officer",
+      "short_label": "CTO",
+      "job_level_tier": "c_suite",
+      "metrics": {
+        "open_rate": {
+          "low": 14,
+          "high": 22,
+          "median": 18
+        },
+        "reply_rate": {
+          "low": 0.8,
+          "high": 2.5,
+          "median": 1.4
+        },
+        "click_rate": {
+          "low": 0.8,
+          "high": 2,
+          "median": 1.2
+        }
+      },
+      "sequence": {
+        "length": 3,
+        "cadence": "Day 1, Day 4, Day 8",
+        "copy_length": "Ultra-short (under 80 words). No pitch, one specific question."
+      },
+      "positioning": "Technical decision-makers driving infrastructure, platform, and engineering team purchases.",
+      "triggers": "Cloud migration, security incidents, engineering team scaling, compliance audits, technical debt remediation cycles.",
+      "industries": [
+        "Technology & Software",
+        "Manufacturing & Engineering",
+        "Finance & Banking",
+        "Healthcare & Medical"
+      ],
+      "price_from_usd": 79,
+      "rating": 4.7,
+      "review_count": 312
+    },
+    {
+      "url": "https://b2bdataindex.com/seniority/cfo-email-list/",
+      "role": "Chief Financial Officer",
+      "short_label": "CFO",
+      "job_level_tier": "c_suite",
+      "metrics": {
+        "open_rate": {
+          "low": 14,
+          "high": 22,
+          "median": 18
+        },
+        "reply_rate": {
+          "low": 0.8,
+          "high": 2.5,
+          "median": 1.4
+        },
+        "click_rate": {
+          "low": 0.8,
+          "high": 2,
+          "median": 1.2
+        }
+      },
+      "sequence": {
+        "length": 3,
+        "cadence": "Day 1, Day 4, Day 8",
+        "copy_length": "Ultra-short (under 80 words). No pitch, one specific question."
+      },
+      "positioning": "Financial decision-makers approving budget for accounting, FP&A, treasury, and finance-tech purchases.",
+      "triggers": "Quarter-end reporting cycles, audit periods, M&A activity, ERP migrations, cost-reduction mandates from boards.",
+      "industries": [
+        "Finance & Banking",
+        "Professional Services",
+        "Manufacturing & Engineering",
+        "Real Estate",
+        "Legal"
+      ],
+      "price_from_usd": 79,
+      "rating": 4.7,
+      "review_count": 289
+    },
+    {
+      "url": "https://b2bdataindex.com/seniority/ceo-email-list/",
+      "role": "Chief Executive Officer",
+      "short_label": "CEO",
+      "job_level_tier": "c_suite",
+      "metrics": {
+        "open_rate": {
+          "low": 14,
+          "high": 22,
+          "median": 18
+        },
+        "reply_rate": {
+          "low": 0.8,
+          "high": 2.5,
+          "median": 1.4
+        },
+        "click_rate": {
+          "low": 0.8,
+          "high": 2,
+          "median": 1.2
+        }
+      },
+      "sequence": {
+        "length": 3,
+        "cadence": "Day 1, Day 4, Day 8",
+        "copy_length": "Ultra-short (under 80 words). No pitch, one specific question."
+      },
+      "positioning": "Top-of-house decision-makers — typically reachable for high-value strategic offerings or peer-context outreach.",
+      "triggers": "Funding rounds, leadership changes, market entry, board-driven strategic shifts, M&A activity.",
+      "industries": [
+        "Technology & Software",
+        "Healthcare & Medical",
+        "Finance & Banking",
+        "Manufacturing & Engineering",
+        "Real Estate"
+      ],
+      "price_from_usd": 99,
+      "rating": 4.6,
+      "review_count": 421
+    },
+    {
+      "url": "https://b2bdataindex.com/seniority/vp-sales-email-list/",
+      "role": "Vice President of Sales",
+      "short_label": "VP Sales",
+      "job_level_tier": "vp_director",
+      "metrics": {
+        "open_rate": {
+          "low": 17,
+          "high": 26,
+          "median": 21
+        },
+        "reply_rate": {
+          "low": 1.5,
+          "high": 4,
+          "median": 2.5
+        },
+        "click_rate": {
+          "low": 1.3,
+          "high": 3.2,
+          "median": 2
+        }
+      },
+      "sequence": {
+        "length": 4,
+        "cadence": "Day 1, Day 3, Day 7, Day 14",
+        "copy_length": "Short-medium (80-120 words). Problem-framing with evidence."
+      },
+      "positioning": "Revenue-side decision-makers — the buying centre for sales tech, sales enablement, RevOps, and outbound tooling.",
+      "triggers": "Pipeline gaps, quota-attainment reviews, new fiscal year planning, leadership changes, RevOps reorganisations.",
+      "industries": [
+        "Technology & Software",
+        "Professional Services",
+        "Manufacturing & Engineering",
+        "Finance & Banking",
+        "E-commerce"
+      ],
+      "price_from_usd": 69,
+      "rating": 4.8,
+      "review_count": 567
+    },
+    {
+      "url": "https://b2bdataindex.com/seniority/vp-marketing-email-list/",
+      "role": "Vice President of Marketing",
+      "short_label": "VP Marketing",
+      "job_level_tier": "vp_director",
+      "metrics": {
+        "open_rate": {
+          "low": 17,
+          "high": 26,
+          "median": 21
+        },
+        "reply_rate": {
+          "low": 1.5,
+          "high": 4,
+          "median": 2.5
+        },
+        "click_rate": {
+          "low": 1.3,
+          "high": 3.2,
+          "median": 2
+        }
+      },
+      "sequence": {
+        "length": 4,
+        "cadence": "Day 1, Day 3, Day 7, Day 14",
+        "copy_length": "Short-medium (80-120 words). Problem-framing with evidence."
+      },
+      "positioning": "Demand-gen and brand decision-makers — the buying centre for martech, content, attribution, and marketing services.",
+      "triggers": "New CMO, attribution pain, MQL-to-SQL conversion drops, brand repositioning, fiscal-year planning cycles.",
+      "industries": [
+        "Technology & Software",
+        "E-commerce",
+        "Professional Services",
+        "Healthcare & Medical",
+        "Retail & Commerce"
+      ],
+      "price_from_usd": 69,
+      "rating": 4.7,
+      "review_count": 498
+    },
+    {
+      "url": "https://b2bdataindex.com/seniority/founder-email-list/",
+      "role": "Founder / Co-Founder",
+      "short_label": "Founder",
+      "job_level_tier": "owner_founder",
+      "metrics": {
+        "open_rate": {
+          "low": 22,
+          "high": 32,
+          "median": 27
+        },
+        "reply_rate": {
+          "low": 3,
+          "high": 8,
+          "median": 5.5
+        },
+        "click_rate": {
+          "low": 2.5,
+          "high": 6,
+          "median": 4.2
+        }
+      },
+      "sequence": {
+        "length": 4,
+        "cadence": "Day 1, Day 4, Day 9, Day 16",
+        "copy_length": "Short (60-100 words). Direct, ROI-focused."
+      },
+      "positioning": "SMB owner-operators and startup founders — highest reply rates of any seniority tier, fastest decision cycles.",
+      "triggers": "Funding events, hiring sprees, market expansion, product launches, revenue plateau patterns.",
+      "industries": [
+        "Technology & Software",
+        "Professional Services",
+        "E-commerce",
+        "Healthcare & Medical",
+        "Education & Training"
+      ],
+      "price_from_usd": 69,
+      "rating": 4.8,
+      "review_count": 602
+    },
+    {
+      "url": "https://b2bdataindex.com/seniority/decision-maker-email-list/",
+      "role": "B2B Decision-Maker (Multi-Role)",
+      "short_label": "Decision-Maker",
+      "job_level_tier": "vp_director",
+      "metrics": {
+        "open_rate": {
+          "low": 17,
+          "high": 26,
+          "median": 21
+        },
+        "reply_rate": {
+          "low": 1.5,
+          "high": 4,
+          "median": 2.5
+        },
+        "click_rate": {
+          "low": 1.3,
+          "high": 3.2,
+          "median": 2
+        }
+      },
+      "sequence": {
+        "length": 4,
+        "cadence": "Day 1, Day 3, Day 7, Day 14",
+        "copy_length": "Short-medium (80-120 words). Problem-framing with evidence."
+      },
+      "positioning": "Cross-function buying authority across technology, finance, sales, marketing, and operations — VP and Director level.",
+      "triggers": "Vary by function — common signals include leadership changes, fiscal cycles, regulatory deadlines, technology refresh windows.",
+      "industries": [
+        "Technology & Software",
+        "Finance & Banking",
+        "Healthcare & Medical",
+        "Manufacturing & Engineering",
+        "Professional Services"
+      ],
+      "price_from_usd": 99,
+      "rating": 4.7,
+      "review_count": 813
+    }
+  ]
+}

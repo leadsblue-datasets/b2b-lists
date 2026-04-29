@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-28",
+  "generated": "2026-04-29",
   "description": "Cold email benchmarks indexed by country. Format: open rate range (min/max percent), reply rate range, bounce rate range.",
   "data": [
     {

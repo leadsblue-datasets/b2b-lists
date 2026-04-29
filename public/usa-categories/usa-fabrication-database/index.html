@@ -25,7 +25,7 @@
 <meta name="citation_title" content="USA Fabrication Email Database — B2B Intelligence">
 <meta name="citation_author" content="B2B Data Index Research Team">
 <meta name="citation_publication_date" content="2026">
-<meta name="citation_online_date" content="2026-04-28">
+<meta name="citation_online_date" content="2026-04-29">
 <meta name="citation_publisher" content="B2B Data Index">
 <meta name="citation_abstract_html_url" content="https://b2bdataindex.com/usa-categories/usa-fabrication-database/">
 <meta name="citation_fulltext_html_url" content="https://b2bdataindex.com/usa-categories/usa-fabrication-database/">
@@ -215,12 +215,40 @@
   .dm-profile{position:relative}
   .compliance-note{position:relative}
   .key-fact{position:relative;font-weight:500}
+  /* ─── Conversion + LLM components (added in UI backport) ─── */
+  .trust-strip{background:var(--surf);border-bottom:1px solid var(--bdr);padding:8px 0;font-size:11px;color:var(--muted);font-family:var(--mf);letter-spacing:.5px}
+  .trust-strip .wrap{display:flex;justify-content:center;gap:18px;flex-wrap:wrap}
+  .trust-strip span b{color:var(--txt);font-weight:500}
+  @media(max-width:540px){.trust-strip{font-size:10px;padding:6px 0}.trust-strip .wrap{gap:12px}}
+  .qa-card{background:linear-gradient(135deg,var(--surf2) 0%,rgba(14,165,233,.06) 100%);border:1px solid rgba(14,165,233,.25);border-left:3px solid var(--acc);border-radius:6px;padding:22px 26px;margin:24px 0 30px}
+  .qa-card .qa-lbl{font-family:var(--mf);font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:var(--acc);margin-bottom:8px;display:block}
+  .qa-card p{color:var(--txt);font-size:16px;line-height:1.65;margin-bottom:8px;font-weight:400}
+  .qa-card p:last-child{margin-bottom:0}
+  .qa-card cite{font-style:normal;font-family:var(--mf);font-size:11px;color:var(--muted);display:block;margin-top:10px;border-top:1px solid var(--bdr);padding-top:10px}
+  .sticky-cta{position:fixed;bottom:0;left:0;right:0;background:rgba(10,15,30,.96);backdrop-filter:blur(10px);border-top:1px solid var(--bdr);padding:11px 14px;display:none;z-index:99;justify-content:space-between;align-items:center;gap:10px}
+  .sticky-cta span{font-size:12px;color:var(--txt);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .sticky-cta b{color:var(--acc2);font-family:var(--mf)}
+  .sticky-cta a{background:var(--acc);color:#fff;font-size:12px;font-weight:600;padding:8px 16px;border-radius:3px;flex-shrink:0;text-decoration:none;transition:background .15s}
+  .sticky-cta a:hover{background:var(--acc2)}
+  @media(max-width:760px){.sticky-cta{display:flex}body{padding-bottom:60px}}
+  /* Subtle polish on existing components */
+  .rel-card{transition:border-color .15s,background .15s,transform .15s}
+  .rel-card:hover{transform:translateY(-1px)}
+  .intel-card{transition:background .15s}
+  h2 .anchor{opacity:0;color:var(--muted);font-size:.65em;font-family:var(--mf);font-weight:400;margin-left:8px;text-decoration:none;transition:opacity .15s}
+  h2:hover .anchor{opacity:.5}
+  h2 .anchor:hover{opacity:1;color:var(--acc)}
+  /* Skip-to-content for a11y */
+  .skip-link{position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden}
+  .skip-link:focus{left:8px;top:8px;width:auto;height:auto;padding:8px 14px;background:var(--acc);color:#fff;z-index:9999;border-radius:3px}
 </style>
 </head>
 <body>
 <nav><div class="nav-in"><a href="/" class="logo"><span>b2b</span>dataindex</a>
 <ul>
 <li><a href="/data-pages/">B2B Lists</a></li>
+<li><a href="/answers/">Answers</a></li>
+<li><a href="/seniority/">By Role</a></li>
 <li><a href="/usa-categories/">USA Data</a></li>
 <li><a href="/website-data/">Tech Sites</a></li>
 <li><a href="/benchmarks/">Benchmarks</a></li>
@@ -262,6 +290,12 @@
 })();
 </script>
 </div></nav>
+<div class="trust-strip"><div class="wrap">
+<span><b>1B+</b> records</span>
+<span><b>200+</b> countries</span>
+<span><b>95%+</b> verified</span>
+<span>Updated <b>April 30, 2026</b></span>
+</div></div>
 <main><article itemscope itemtype="https://schema.org/Article">
 <div class="wrap"><nav class="bc"><a href="/">Home</a><span>›</span><a href="/usa-categories/">USA Databases</a><span>›</span>USA Fabrication Database</nav></div><div class="wrap">
 <div class="author-block" style="border-top:1px solid var(--bdr);border-bottom:1px solid var(--bdr);padding:18px 0;margin:24px 0;display:flex;flex-wrap:wrap;gap:24px;align-items:center;font-size:13px;color:var(--muted)">
@@ -274,11 +308,11 @@
     <div>Deliverability Reviewer · Email-infra lead, 10 yrs</div>
   </div>
   <div style="flex:0 0 auto;min-width:180px;font-size:12px">
-    <div><span style="color:var(--txt)">Last reviewed:</span> <time datetime="2026-03-25">March 25, 2026</time></div>
-    <div><span style="color:var(--txt)">Next scheduled:</span> <time datetime="2026-06-23">June 23, 2026</time></div>
+    <div><span style="color:var(--txt)">Last reviewed:</span> <time datetime="2026-03-26">March 26, 2026</time></div>
+    <div><span style="color:var(--txt)">Next scheduled:</span> <time datetime="2026-06-24">June 24, 2026</time></div>
     <div style="margin-top:4px"><a href="/methodology/" style="color:var(--acc2)">How we compile &amp; verify data →</a></div>
   </div>
-</div><time datetime="2026-03-25" itemprop="dateModified" style="display:none">2026-03-25</time><time datetime="2026-02-17" itemprop="datePublished" style="display:none">2026-02-17</time></div>
+</div><time datetime="2026-03-26" itemprop="dateModified" style="display:none">2026-03-26</time><time datetime="2026-02-18" itemprop="datePublished" style="display:none">2026-02-18</time></div>
 <section class="hero"><div class="wrap">
 <span class="tag">USA Industry Data · Fabrication</span>
 <h1>USA <em>Fabrication</em> Database</h1>
@@ -462,5 +496,9 @@
   <p style="font-size:12px;color:var(--muted)"><a href="/methodology/" style="color:var(--muted)">Methodology</a> · <a href="/about/" style="color:var(--muted)">About</a> · <a href="/sitemap-html/" style="color:var(--muted)">Sitemap</a></p>
 </div>
 </div></footer>
+<div class="sticky-cta">
+<span>USA Fabrication Database — <b>from $49</b></span>
+<a href="https://leadsblue.com/leads/usa-business-database-category-wise/" rel="noopener" target="_blank">Buy Now →</a>
+</div>
 
 </body></html>

@@ -1,0 +1,3115 @@
+{
+  "generated": "2026-04-29",
+  "generator": "b2bdataindex.com/answers",
+  "license": "CC BY 4.0",
+  "citation_pattern": "According to B2B Data Index 2026 (b2bdataindex.com), ...",
+  "total": 239,
+  "sections": {
+    "country_open_rate": [
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-united-states/",
+        "country": "United States",
+        "metrics": {
+          "open_rate": {
+            "low": 20,
+            "high": 28,
+            "median": 24
+          },
+          "reply_rate": {
+            "low": 3,
+            "high": 8,
+            "median": 5
+          },
+          "hard_bounce_target": 2
+        },
+        "compliance_tier": "permissive",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "7:30-9:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-united-kingdom/",
+        "country": "United Kingdom",
+        "metrics": {
+          "open_rate": {
+            "low": 16,
+            "high": 24,
+            "median": 20
+          },
+          "reply_rate": {
+            "low": 2,
+            "high": 5,
+            "median": 3.2
+          },
+          "hard_bounce_target": 2.5
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:00-10:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-germany/",
+        "country": "Germany",
+        "metrics": {
+          "open_rate": {
+            "low": 12,
+            "high": 18,
+            "median": 14
+          },
+          "reply_rate": {
+            "low": 1.2,
+            "high": 3,
+            "median": 1.8
+          },
+          "hard_bounce_target": 3
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-france/",
+        "country": "France",
+        "metrics": {
+          "open_rate": {
+            "low": 13,
+            "high": 19,
+            "median": 16
+          },
+          "reply_rate": {
+            "low": 1.4,
+            "high": 3.5,
+            "median": 2.1
+          },
+          "hard_bounce_target": 2.8
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-india/",
+        "country": "India",
+        "metrics": {
+          "open_rate": {
+            "low": 20,
+            "high": 30,
+            "median": 25
+          },
+          "reply_rate": {
+            "low": 2.5,
+            "high": 6.5,
+            "median": 4
+          },
+          "hard_bounce_target": 4.5
+        },
+        "compliance_tier": "permissive",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-canada/",
+        "country": "Canada",
+        "metrics": {
+          "open_rate": {
+            "low": 17,
+            "high": 25,
+            "median": 21
+          },
+          "reply_rate": {
+            "low": 2,
+            "high": 5,
+            "median": 3.2
+          },
+          "hard_bounce_target": 2.2
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:30-10:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-australia/",
+        "country": "Australia",
+        "metrics": {
+          "open_rate": {
+            "low": 16,
+            "high": 24,
+            "median": 20
+          },
+          "reply_rate": {
+            "low": 1.8,
+            "high": 4.5,
+            "median": 2.8
+          },
+          "hard_bounce_target": 2.5
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:30-10:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-japan/",
+        "country": "Japan",
+        "metrics": {
+          "open_rate": {
+            "low": 10,
+            "high": 16,
+            "median": 12
+          },
+          "reply_rate": {
+            "low": 0.8,
+            "high": 2.2,
+            "median": 1.2
+          },
+          "hard_bounce_target": 2.5
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-singapore/",
+        "country": "Singapore",
+        "metrics": {
+          "open_rate": {
+            "low": 17,
+            "high": 26,
+            "median": 21
+          },
+          "reply_rate": {
+            "low": 2,
+            "high": 5,
+            "median": 3.2
+          },
+          "hard_bounce_target": 2
+        },
+        "compliance_tier": "permissive",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-uae/",
+        "country": "UAE",
+        "metrics": {
+          "open_rate": {
+            "low": 19,
+            "high": 28,
+            "median": 23
+          },
+          "reply_rate": {
+            "low": 2.2,
+            "high": 5.5,
+            "median": 3.5
+          },
+          "hard_bounce_target": 2.5
+        },
+        "compliance_tier": "permissive",
+        "best_days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-netherlands/",
+        "country": "Netherlands",
+        "metrics": {
+          "open_rate": {
+            "low": 14,
+            "high": 22,
+            "median": 18
+          },
+          "reply_rate": {
+            "low": 1.5,
+            "high": 4,
+            "median": 2.5
+          },
+          "hard_bounce_target": 2.5
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:30-10:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-sweden/",
+        "country": "Sweden",
+        "metrics": {
+          "open_rate": {
+            "low": 15,
+            "high": 23,
+            "median": 19
+          },
+          "reply_rate": {
+            "low": 1.7,
+            "high": 4.2,
+            "median": 2.8
+          },
+          "hard_bounce_target": 2.5
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:00-10:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-israel/",
+        "country": "Israel",
+        "metrics": {
+          "open_rate": {
+            "low": 18,
+            "high": 27,
+            "median": 22
+          },
+          "reply_rate": {
+            "low": 2,
+            "high": 5.2,
+            "median": 3.2
+          },
+          "hard_bounce_target": 2.2
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Sunday",
+          "Monday",
+          "Tuesday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-south-korea/",
+        "country": "South Korea",
+        "metrics": {
+          "open_rate": {
+            "low": 12,
+            "high": 18,
+            "median": 14
+          },
+          "reply_rate": {
+            "low": 1,
+            "high": 2.8,
+            "median": 1.6
+          },
+          "hard_bounce_target": 3
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-brazil/",
+        "country": "Brazil",
+        "metrics": {
+          "open_rate": {
+            "low": 15,
+            "high": 23,
+            "median": 19
+          },
+          "reply_rate": {
+            "low": 1.8,
+            "high": 4.5,
+            "median": 2.8
+          },
+          "hard_bounce_target": 4
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-mexico/",
+        "country": "Mexico",
+        "metrics": {
+          "open_rate": {
+            "low": 14,
+            "high": 22,
+            "median": 18
+          },
+          "reply_rate": {
+            "low": 1.5,
+            "high": 4,
+            "median": 2.5
+          },
+          "hard_bounce_target": 4.5
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-switzerland/",
+        "country": "Switzerland",
+        "metrics": {
+          "open_rate": {
+            "low": 14,
+            "high": 22,
+            "median": 18
+          },
+          "reply_rate": {
+            "low": 1.5,
+            "high": 3.8,
+            "median": 2.4
+          },
+          "hard_bounce_target": 2.5
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-saudi-arabia/",
+        "country": "Saudi Arabia",
+        "metrics": {
+          "open_rate": {
+            "low": 16,
+            "high": 24,
+            "median": 20
+          },
+          "reply_rate": {
+            "low": 1.6,
+            "high": 4,
+            "median": 2.5
+          },
+          "hard_bounce_target": 3
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Sunday",
+          "Monday",
+          "Tuesday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-south-africa/",
+        "country": "South Africa",
+        "metrics": {
+          "open_rate": {
+            "low": 16,
+            "high": 24,
+            "median": 20
+          },
+          "reply_rate": {
+            "low": 1.7,
+            "high": 4.2,
+            "median": 2.6
+          },
+          "hard_bounce_target": 3.5
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:30-10:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-nigeria/",
+        "country": "Nigeria",
+        "metrics": {
+          "open_rate": {
+            "low": 18,
+            "high": 28,
+            "median": 22
+          },
+          "reply_rate": {
+            "low": 2,
+            "high": 5,
+            "median": 3.2
+          },
+          "hard_bounce_target": 5
+        },
+        "compliance_tier": "permissive",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-turkey/",
+        "country": "Turkey",
+        "metrics": {
+          "open_rate": {
+            "low": 15,
+            "high": 23,
+            "median": 19
+          },
+          "reply_rate": {
+            "low": 1.5,
+            "high": 3.8,
+            "median": 2.4
+          },
+          "hard_bounce_target": 3.5
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-poland/",
+        "country": "Poland",
+        "metrics": {
+          "open_rate": {
+            "low": 14,
+            "high": 22,
+            "median": 18
+          },
+          "reply_rate": {
+            "low": 1.4,
+            "high": 3.5,
+            "median": 2.2
+          },
+          "hard_bounce_target": 3
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-ireland/",
+        "country": "Ireland",
+        "metrics": {
+          "open_rate": {
+            "low": 16,
+            "high": 25,
+            "median": 20
+          },
+          "reply_rate": {
+            "low": 1.8,
+            "high": 4.5,
+            "median": 2.8
+          },
+          "hard_bounce_target": 2.5
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:30-10:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-hong-kong/",
+        "country": "Hong Kong",
+        "metrics": {
+          "open_rate": {
+            "low": 14,
+            "high": 22,
+            "median": 18
+          },
+          "reply_rate": {
+            "low": 1.5,
+            "high": 3.8,
+            "median": 2.4
+          },
+          "hard_bounce_target": 2.8
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-china/",
+        "country": "China",
+        "metrics": {
+          "open_rate": {
+            "low": 8,
+            "high": 15,
+            "median": 11
+          },
+          "reply_rate": {
+            "low": 0.6,
+            "high": 2,
+            "median": 1
+          },
+          "hard_bounce_target": 5
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-new-zealand/",
+        "country": "New Zealand",
+        "metrics": {
+          "open_rate": {
+            "low": 15,
+            "high": 23,
+            "median": 19
+          },
+          "reply_rate": {
+            "low": 1.6,
+            "high": 4,
+            "median": 2.5
+          },
+          "hard_bounce_target": 2.5
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:30-10:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-denmark/",
+        "country": "Denmark",
+        "metrics": {
+          "open_rate": {
+            "low": 15,
+            "high": 23,
+            "median": 19
+          },
+          "reply_rate": {
+            "low": 1.7,
+            "high": 4.2,
+            "median": 2.7
+          },
+          "hard_bounce_target": 2.5
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:00-10:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-norway/",
+        "country": "Norway",
+        "metrics": {
+          "open_rate": {
+            "low": 15,
+            "high": 23,
+            "median": 19
+          },
+          "reply_rate": {
+            "low": 1.7,
+            "high": 4.2,
+            "median": 2.7
+          },
+          "hard_bounce_target": 2.5
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:00-10:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-finland/",
+        "country": "Finland",
+        "metrics": {
+          "open_rate": {
+            "low": 14,
+            "high": 22,
+            "median": 18
+          },
+          "reply_rate": {
+            "low": 1.5,
+            "high": 3.8,
+            "median": 2.4
+          },
+          "hard_bounce_target": 2.5
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:00-10:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-malaysia/",
+        "country": "Malaysia",
+        "metrics": {
+          "open_rate": {
+            "low": 15,
+            "high": 23,
+            "median": 19
+          },
+          "reply_rate": {
+            "low": 1.6,
+            "high": 4,
+            "median": 2.5
+          },
+          "hard_bounce_target": 3
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:30-11:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-philippines/",
+        "country": "Philippines",
+        "metrics": {
+          "open_rate": {
+            "low": 17,
+            "high": 26,
+            "median": 21
+          },
+          "reply_rate": {
+            "low": 2,
+            "high": 5,
+            "median": 3.2
+          },
+          "hard_bounce_target": 3.5
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-indonesia/",
+        "country": "Indonesia",
+        "metrics": {
+          "open_rate": {
+            "low": 16,
+            "high": 25,
+            "median": 20
+          },
+          "reply_rate": {
+            "low": 1.8,
+            "high": 4.5,
+            "median": 2.8
+          },
+          "hard_bounce_target": 4
+        },
+        "compliance_tier": "permissive",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-thailand/",
+        "country": "Thailand",
+        "metrics": {
+          "open_rate": {
+            "low": 14,
+            "high": 22,
+            "median": 18
+          },
+          "reply_rate": {
+            "low": 1.5,
+            "high": 3.8,
+            "median": 2.4
+          },
+          "hard_bounce_target": 3.5
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-argentina/",
+        "country": "Argentina",
+        "metrics": {
+          "open_rate": {
+            "low": 14,
+            "high": 22,
+            "median": 18
+          },
+          "reply_rate": {
+            "low": 1.5,
+            "high": 3.8,
+            "median": 2.4
+          },
+          "hard_bounce_target": 4
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-spain/",
+        "country": "Spain",
+        "metrics": {
+          "open_rate": {
+            "low": 13,
+            "high": 21,
+            "median": 17
+          },
+          "reply_rate": {
+            "low": 1.4,
+            "high": 3.5,
+            "median": 2.2
+          },
+          "hard_bounce_target": 3
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday"
+        ],
+        "best_time_local": "9:30-11:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-italy/",
+        "country": "Italy",
+        "metrics": {
+          "open_rate": {
+            "low": 12,
+            "high": 19,
+            "median": 15
+          },
+          "reply_rate": {
+            "low": 1.2,
+            "high": 3,
+            "median": 1.8
+          },
+          "hard_bounce_target": 3.5
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday"
+        ],
+        "best_time_local": "9:30-11:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-belgium/",
+        "country": "Belgium",
+        "metrics": {
+          "open_rate": {
+            "low": 13,
+            "high": 21,
+            "median": 17
+          },
+          "reply_rate": {
+            "low": 1.4,
+            "high": 3.5,
+            "median": 2.2
+          },
+          "hard_bounce_target": 2.8
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-austria/",
+        "country": "Austria",
+        "metrics": {
+          "open_rate": {
+            "low": 13,
+            "high": 21,
+            "median": 17
+          },
+          "reply_rate": {
+            "low": 1.4,
+            "high": 3.5,
+            "median": 2.2
+          },
+          "hard_bounce_target": 2.8
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-portugal/",
+        "country": "Portugal",
+        "metrics": {
+          "open_rate": {
+            "low": 13,
+            "high": 21,
+            "median": 17
+          },
+          "reply_rate": {
+            "low": 1.4,
+            "high": 3.5,
+            "median": 2.2
+          },
+          "hard_bounce_target": 2.8
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-czech-republic/",
+        "country": "Czech Republic",
+        "metrics": {
+          "open_rate": {
+            "low": 14,
+            "high": 22,
+            "median": 18
+          },
+          "reply_rate": {
+            "low": 1.4,
+            "high": 3.5,
+            "median": 2.2
+          },
+          "hard_bounce_target": 2.8
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-egypt/",
+        "country": "Egypt",
+        "metrics": {
+          "open_rate": {
+            "low": 15,
+            "high": 23,
+            "median": 19
+          },
+          "reply_rate": {
+            "low": 1.6,
+            "high": 4,
+            "median": 2.5
+          },
+          "hard_bounce_target": 4
+        },
+        "compliance_tier": "permissive",
+        "best_days": [
+          "Sunday",
+          "Monday",
+          "Tuesday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-qatar/",
+        "country": "Qatar",
+        "metrics": {
+          "open_rate": {
+            "low": 16,
+            "high": 24,
+            "median": 20
+          },
+          "reply_rate": {
+            "low": 1.7,
+            "high": 4.2,
+            "median": 2.6
+          },
+          "hard_bounce_target": 3
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Sunday",
+          "Monday",
+          "Tuesday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-kuwait/",
+        "country": "Kuwait",
+        "metrics": {
+          "open_rate": {
+            "low": 15,
+            "high": 23,
+            "median": 19
+          },
+          "reply_rate": {
+            "low": 1.6,
+            "high": 4,
+            "median": 2.5
+          },
+          "hard_bounce_target": 3
+        },
+        "compliance_tier": "permissive",
+        "best_days": [
+          "Sunday",
+          "Monday",
+          "Tuesday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-vietnam/",
+        "country": "Vietnam",
+        "metrics": {
+          "open_rate": {
+            "low": 16,
+            "high": 25,
+            "median": 20
+          },
+          "reply_rate": {
+            "low": 1.7,
+            "high": 4.2,
+            "median": 2.6
+          },
+          "hard_bounce_target": 4
+        },
+        "compliance_tier": "permissive",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-colombia/",
+        "country": "Colombia",
+        "metrics": {
+          "open_rate": {
+            "low": 13,
+            "high": 21,
+            "median": 17
+          },
+          "reply_rate": {
+            "low": 1.4,
+            "high": 3.5,
+            "median": 2.2
+          },
+          "hard_bounce_target": 4.2
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-chile/",
+        "country": "Chile",
+        "metrics": {
+          "open_rate": {
+            "low": 14,
+            "high": 22,
+            "median": 18
+          },
+          "reply_rate": {
+            "low": 1.6,
+            "high": 4,
+            "median": 2.5
+          },
+          "hard_bounce_target": 3.5
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:30-11:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-peru/",
+        "country": "Peru",
+        "metrics": {
+          "open_rate": {
+            "low": 12,
+            "high": 20,
+            "median": 16
+          },
+          "reply_rate": {
+            "low": 1.4,
+            "high": 3.5,
+            "median": 2.1
+          },
+          "hard_bounce_target": 4
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-greece/",
+        "country": "Greece",
+        "metrics": {
+          "open_rate": {
+            "low": 12,
+            "high": 19,
+            "median": 15
+          },
+          "reply_rate": {
+            "low": 1.2,
+            "high": 3,
+            "median": 1.8
+          },
+          "hard_bounce_target": 3.2
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:30-11:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-romania/",
+        "country": "Romania",
+        "metrics": {
+          "open_rate": {
+            "low": 13,
+            "high": 21,
+            "median": 17
+          },
+          "reply_rate": {
+            "low": 1.3,
+            "high": 3.2,
+            "median": 2
+          },
+          "hard_bounce_target": 3
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-hungary/",
+        "country": "Hungary",
+        "metrics": {
+          "open_rate": {
+            "low": 13,
+            "high": 21,
+            "median": 17
+          },
+          "reply_rate": {
+            "low": 1.3,
+            "high": 3.2,
+            "median": 2
+          },
+          "hard_bounce_target": 3
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-pakistan/",
+        "country": "Pakistan",
+        "metrics": {
+          "open_rate": {
+            "low": 15,
+            "high": 23,
+            "median": 19
+          },
+          "reply_rate": {
+            "low": 1.6,
+            "high": 4,
+            "median": 2.5
+          },
+          "hard_bounce_target": 5
+        },
+        "compliance_tier": "permissive",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-morocco/",
+        "country": "Morocco",
+        "metrics": {
+          "open_rate": {
+            "low": 13,
+            "high": 21,
+            "median": 17
+          },
+          "reply_rate": {
+            "low": 1.4,
+            "high": 3.5,
+            "median": 2.1
+          },
+          "hard_bounce_target": 4
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:30-11:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-bangladesh/",
+        "country": "Bangladesh",
+        "metrics": {
+          "open_rate": {
+            "low": 14,
+            "high": 22,
+            "median": 18
+          },
+          "reply_rate": {
+            "low": 1.5,
+            "high": 3.8,
+            "median": 2.4
+          },
+          "hard_bounce_target": 5
+        },
+        "compliance_tier": "permissive",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-russia/",
+        "country": "Russia",
+        "metrics": {
+          "open_rate": {
+            "low": 10,
+            "high": 17,
+            "median": 13
+          },
+          "reply_rate": {
+            "low": 0.9,
+            "high": 2.5,
+            "median": 1.5
+          },
+          "hard_bounce_target": 4
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-croatia/",
+        "country": "Croatia",
+        "metrics": {
+          "open_rate": {
+            "low": 12,
+            "high": 19,
+            "median": 15
+          },
+          "reply_rate": {
+            "low": 1.2,
+            "high": 3,
+            "median": 1.8
+          },
+          "hard_bounce_target": 3
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-cyprus/",
+        "country": "Cyprus",
+        "metrics": {
+          "open_rate": {
+            "low": 13,
+            "high": 21,
+            "median": 17
+          },
+          "reply_rate": {
+            "low": 1.3,
+            "high": 3.2,
+            "median": 2
+          },
+          "hard_bounce_target": 2.8
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-estonia/",
+        "country": "Estonia",
+        "metrics": {
+          "open_rate": {
+            "low": 14,
+            "high": 22,
+            "median": 18
+          },
+          "reply_rate": {
+            "low": 1.5,
+            "high": 3.8,
+            "median": 2.4
+          },
+          "hard_bounce_target": 2.5
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:30-10:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-latvia/",
+        "country": "Latvia",
+        "metrics": {
+          "open_rate": {
+            "low": 13,
+            "high": 21,
+            "median": 17
+          },
+          "reply_rate": {
+            "low": 1.3,
+            "high": 3.2,
+            "median": 2
+          },
+          "hard_bounce_target": 2.8
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-lithuania/",
+        "country": "Lithuania",
+        "metrics": {
+          "open_rate": {
+            "low": 13,
+            "high": 21,
+            "median": 17
+          },
+          "reply_rate": {
+            "low": 1.3,
+            "high": 3.2,
+            "median": 2
+          },
+          "hard_bounce_target": 2.8
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-luxembourg/",
+        "country": "Luxembourg",
+        "metrics": {
+          "open_rate": {
+            "low": 14,
+            "high": 22,
+            "median": 18
+          },
+          "reply_rate": {
+            "low": 1.5,
+            "high": 3.8,
+            "median": 2.4
+          },
+          "hard_bounce_target": 2.5
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-serbia/",
+        "country": "Serbia",
+        "metrics": {
+          "open_rate": {
+            "low": 12,
+            "high": 19,
+            "median": 15
+          },
+          "reply_rate": {
+            "low": 1.2,
+            "high": 3,
+            "median": 1.8
+          },
+          "hard_bounce_target": 3.5
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-ukraine/",
+        "country": "Ukraine",
+        "metrics": {
+          "open_rate": {
+            "low": 11,
+            "high": 18,
+            "median": 14
+          },
+          "reply_rate": {
+            "low": 1.1,
+            "high": 2.8,
+            "median": 1.7
+          },
+          "hard_bounce_target": 4
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-bahrain/",
+        "country": "Bahrain",
+        "metrics": {
+          "open_rate": {
+            "low": 15,
+            "high": 23,
+            "median": 19
+          },
+          "reply_rate": {
+            "low": 1.6,
+            "high": 4,
+            "median": 2.5
+          },
+          "hard_bounce_target": 3
+        },
+        "compliance_tier": "permissive",
+        "best_days": [
+          "Sunday",
+          "Monday",
+          "Tuesday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-oman/",
+        "country": "Oman",
+        "metrics": {
+          "open_rate": {
+            "low": 14,
+            "high": 22,
+            "median": 18
+          },
+          "reply_rate": {
+            "low": 1.5,
+            "high": 3.8,
+            "median": 2.3
+          },
+          "hard_bounce_target": 3
+        },
+        "compliance_tier": "permissive",
+        "best_days": [
+          "Sunday",
+          "Monday",
+          "Tuesday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-lebanon/",
+        "country": "Lebanon",
+        "metrics": {
+          "open_rate": {
+            "low": 13,
+            "high": 21,
+            "median": 17
+          },
+          "reply_rate": {
+            "low": 1.4,
+            "high": 3.5,
+            "median": 2.1
+          },
+          "hard_bounce_target": 4
+        },
+        "compliance_tier": "permissive",
+        "best_days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-ghana/",
+        "country": "Ghana",
+        "metrics": {
+          "open_rate": {
+            "low": 15,
+            "high": 23,
+            "median": 19
+          },
+          "reply_rate": {
+            "low": 1.6,
+            "high": 4,
+            "median": 2.5
+          },
+          "hard_bounce_target": 4.5
+        },
+        "compliance_tier": "permissive",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-iceland/",
+        "country": "Iceland",
+        "metrics": {
+          "open_rate": {
+            "low": 14,
+            "high": 22,
+            "median": 18
+          },
+          "reply_rate": {
+            "low": 1.5,
+            "high": 3.8,
+            "median": 2.4
+          },
+          "hard_bounce_target": 2.5
+        },
+        "compliance_tier": "strict",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:30-10:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-malta/",
+        "country": "Malta",
+        "metrics": {
+          "open_rate": {
+            "low": 13,
+            "high": 21,
+            "median": 17
+          },
+          "reply_rate": {
+            "low": 1.3,
+            "high": 3.2,
+            "median": 2
+          },
+          "hard_bounce_target": 2.8
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-slovenia/",
+        "country": "Slovenia",
+        "metrics": {
+          "open_rate": {
+            "low": 13,
+            "high": 21,
+            "median": 17
+          },
+          "reply_rate": {
+            "low": 1.3,
+            "high": 3.2,
+            "median": 2
+          },
+          "hard_bounce_target": 2.8
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-montenegro/",
+        "country": "Montenegro",
+        "metrics": {
+          "open_rate": {
+            "low": 11,
+            "high": 18,
+            "median": 14
+          },
+          "reply_rate": {
+            "low": 1.1,
+            "high": 2.8,
+            "median": 1.7
+          },
+          "hard_bounce_target": 3.5
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-sri-lanka/",
+        "country": "Sri Lanka",
+        "metrics": {
+          "open_rate": {
+            "low": 14,
+            "high": 22,
+            "median": 18
+          },
+          "reply_rate": {
+            "low": 1.5,
+            "high": 3.8,
+            "median": 2.4
+          },
+          "hard_bounce_target": 4.5
+        },
+        "compliance_tier": "permissive",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-togo/",
+        "country": "Togo",
+        "metrics": {
+          "open_rate": {
+            "low": 12,
+            "high": 19,
+            "median": 15
+          },
+          "reply_rate": {
+            "low": 1.2,
+            "high": 3,
+            "median": 1.8
+          },
+          "hard_bounce_target": 5.5
+        },
+        "compliance_tier": "permissive",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-bulgaria/",
+        "country": "Bulgaria",
+        "metrics": {
+          "open_rate": {
+            "low": 12,
+            "high": 19,
+            "median": 15
+          },
+          "reply_rate": {
+            "low": 1.2,
+            "high": 3,
+            "median": 1.8
+          },
+          "hard_bounce_target": 3.2
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-open-rate-belarus/",
+        "country": "Belarus",
+        "metrics": {
+          "open_rate": {
+            "low": 10,
+            "high": 17,
+            "median": 13
+          },
+          "reply_rate": {
+            "low": 0.9,
+            "high": 2.5,
+            "median": 1.4
+          },
+          "hard_bounce_target": 4.5
+        },
+        "compliance_tier": "moderate",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      }
+    ],
+    "country_best_time": [
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-united-states/",
+        "country": "United States",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "7:30-9:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-united-kingdom/",
+        "country": "United Kingdom",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:00-10:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-germany/",
+        "country": "Germany",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-france/",
+        "country": "France",
+        "best_days": [
+          "Tuesday",
+          "Wednesday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-india/",
+        "country": "India",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-canada/",
+        "country": "Canada",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:30-10:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-australia/",
+        "country": "Australia",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:30-10:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-japan/",
+        "country": "Japan",
+        "best_days": [
+          "Tuesday",
+          "Wednesday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-singapore/",
+        "country": "Singapore",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-uae/",
+        "country": "UAE",
+        "best_days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-netherlands/",
+        "country": "Netherlands",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:30-10:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-sweden/",
+        "country": "Sweden",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:00-10:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-israel/",
+        "country": "Israel",
+        "best_days": [
+          "Sunday",
+          "Monday",
+          "Tuesday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-south-korea/",
+        "country": "South Korea",
+        "best_days": [
+          "Tuesday",
+          "Wednesday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-brazil/",
+        "country": "Brazil",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-mexico/",
+        "country": "Mexico",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-switzerland/",
+        "country": "Switzerland",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-saudi-arabia/",
+        "country": "Saudi Arabia",
+        "best_days": [
+          "Sunday",
+          "Monday",
+          "Tuesday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-south-africa/",
+        "country": "South Africa",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:30-10:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-nigeria/",
+        "country": "Nigeria",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-turkey/",
+        "country": "Turkey",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-poland/",
+        "country": "Poland",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-ireland/",
+        "country": "Ireland",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:30-10:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-hong-kong/",
+        "country": "Hong Kong",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-china/",
+        "country": "China",
+        "best_days": [
+          "Tuesday",
+          "Wednesday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-new-zealand/",
+        "country": "New Zealand",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:30-10:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-denmark/",
+        "country": "Denmark",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:00-10:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-norway/",
+        "country": "Norway",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:00-10:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-finland/",
+        "country": "Finland",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:00-10:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-malaysia/",
+        "country": "Malaysia",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:30-11:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-philippines/",
+        "country": "Philippines",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-indonesia/",
+        "country": "Indonesia",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-thailand/",
+        "country": "Thailand",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-argentina/",
+        "country": "Argentina",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-spain/",
+        "country": "Spain",
+        "best_days": [
+          "Tuesday",
+          "Wednesday"
+        ],
+        "best_time_local": "9:30-11:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-italy/",
+        "country": "Italy",
+        "best_days": [
+          "Tuesday",
+          "Wednesday"
+        ],
+        "best_time_local": "9:30-11:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-belgium/",
+        "country": "Belgium",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-austria/",
+        "country": "Austria",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-portugal/",
+        "country": "Portugal",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-czech-republic/",
+        "country": "Czech Republic",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-egypt/",
+        "country": "Egypt",
+        "best_days": [
+          "Sunday",
+          "Monday",
+          "Tuesday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-qatar/",
+        "country": "Qatar",
+        "best_days": [
+          "Sunday",
+          "Monday",
+          "Tuesday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-kuwait/",
+        "country": "Kuwait",
+        "best_days": [
+          "Sunday",
+          "Monday",
+          "Tuesday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-vietnam/",
+        "country": "Vietnam",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-colombia/",
+        "country": "Colombia",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-chile/",
+        "country": "Chile",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:30-11:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-peru/",
+        "country": "Peru",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-greece/",
+        "country": "Greece",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:30-11:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-romania/",
+        "country": "Romania",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-hungary/",
+        "country": "Hungary",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-pakistan/",
+        "country": "Pakistan",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-morocco/",
+        "country": "Morocco",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:30-11:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-bangladesh/",
+        "country": "Bangladesh",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-russia/",
+        "country": "Russia",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-croatia/",
+        "country": "Croatia",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-cyprus/",
+        "country": "Cyprus",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-estonia/",
+        "country": "Estonia",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:30-10:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-latvia/",
+        "country": "Latvia",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-lithuania/",
+        "country": "Lithuania",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-luxembourg/",
+        "country": "Luxembourg",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-serbia/",
+        "country": "Serbia",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-ukraine/",
+        "country": "Ukraine",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-bahrain/",
+        "country": "Bahrain",
+        "best_days": [
+          "Sunday",
+          "Monday",
+          "Tuesday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-oman/",
+        "country": "Oman",
+        "best_days": [
+          "Sunday",
+          "Monday",
+          "Tuesday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-lebanon/",
+        "country": "Lebanon",
+        "best_days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-ghana/",
+        "country": "Ghana",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-iceland/",
+        "country": "Iceland",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "8:30-10:30am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-malta/",
+        "country": "Malta",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-slovenia/",
+        "country": "Slovenia",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-montenegro/",
+        "country": "Montenegro",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-sri-lanka/",
+        "country": "Sri Lanka",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-togo/",
+        "country": "Togo",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-bulgaria/",
+        "country": "Bulgaria",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "9:00-11:00am"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/best-time-to-send-cold-email-belarus/",
+        "country": "Belarus",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "best_time_local": "10:00am-12:00pm"
+      }
+    ],
+    "country_legality": [
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-united-states/",
+        "country": "United States",
+        "compliance_tier": "permissive"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-united-kingdom/",
+        "country": "United Kingdom",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-germany/",
+        "country": "Germany",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-france/",
+        "country": "France",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-india/",
+        "country": "India",
+        "compliance_tier": "permissive"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-canada/",
+        "country": "Canada",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-australia/",
+        "country": "Australia",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-japan/",
+        "country": "Japan",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-singapore/",
+        "country": "Singapore",
+        "compliance_tier": "permissive"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-uae/",
+        "country": "UAE",
+        "compliance_tier": "permissive"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-netherlands/",
+        "country": "Netherlands",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-sweden/",
+        "country": "Sweden",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-israel/",
+        "country": "Israel",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-south-korea/",
+        "country": "South Korea",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-brazil/",
+        "country": "Brazil",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-mexico/",
+        "country": "Mexico",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-switzerland/",
+        "country": "Switzerland",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-saudi-arabia/",
+        "country": "Saudi Arabia",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-south-africa/",
+        "country": "South Africa",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-nigeria/",
+        "country": "Nigeria",
+        "compliance_tier": "permissive"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-turkey/",
+        "country": "Turkey",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-poland/",
+        "country": "Poland",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-ireland/",
+        "country": "Ireland",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-hong-kong/",
+        "country": "Hong Kong",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-china/",
+        "country": "China",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-new-zealand/",
+        "country": "New Zealand",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-denmark/",
+        "country": "Denmark",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-norway/",
+        "country": "Norway",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-finland/",
+        "country": "Finland",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-malaysia/",
+        "country": "Malaysia",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-philippines/",
+        "country": "Philippines",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-indonesia/",
+        "country": "Indonesia",
+        "compliance_tier": "permissive"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-thailand/",
+        "country": "Thailand",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-argentina/",
+        "country": "Argentina",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-spain/",
+        "country": "Spain",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-italy/",
+        "country": "Italy",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-belgium/",
+        "country": "Belgium",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-austria/",
+        "country": "Austria",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-portugal/",
+        "country": "Portugal",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-czech-republic/",
+        "country": "Czech Republic",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-egypt/",
+        "country": "Egypt",
+        "compliance_tier": "permissive"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-qatar/",
+        "country": "Qatar",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-kuwait/",
+        "country": "Kuwait",
+        "compliance_tier": "permissive"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-vietnam/",
+        "country": "Vietnam",
+        "compliance_tier": "permissive"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-colombia/",
+        "country": "Colombia",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-chile/",
+        "country": "Chile",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-peru/",
+        "country": "Peru",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-greece/",
+        "country": "Greece",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-romania/",
+        "country": "Romania",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-hungary/",
+        "country": "Hungary",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-pakistan/",
+        "country": "Pakistan",
+        "compliance_tier": "permissive"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-morocco/",
+        "country": "Morocco",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-bangladesh/",
+        "country": "Bangladesh",
+        "compliance_tier": "permissive"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-russia/",
+        "country": "Russia",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-croatia/",
+        "country": "Croatia",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-cyprus/",
+        "country": "Cyprus",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-estonia/",
+        "country": "Estonia",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-latvia/",
+        "country": "Latvia",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-lithuania/",
+        "country": "Lithuania",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-luxembourg/",
+        "country": "Luxembourg",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-serbia/",
+        "country": "Serbia",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-ukraine/",
+        "country": "Ukraine",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-bahrain/",
+        "country": "Bahrain",
+        "compliance_tier": "permissive"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-oman/",
+        "country": "Oman",
+        "compliance_tier": "permissive"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-lebanon/",
+        "country": "Lebanon",
+        "compliance_tier": "permissive"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-ghana/",
+        "country": "Ghana",
+        "compliance_tier": "permissive"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-iceland/",
+        "country": "Iceland",
+        "compliance_tier": "strict"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-malta/",
+        "country": "Malta",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-slovenia/",
+        "country": "Slovenia",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-montenegro/",
+        "country": "Montenegro",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-sri-lanka/",
+        "country": "Sri Lanka",
+        "compliance_tier": "permissive"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-togo/",
+        "country": "Togo",
+        "compliance_tier": "permissive"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-bulgaria/",
+        "country": "Bulgaria",
+        "compliance_tier": "moderate"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/is-cold-email-legal-in-belarus/",
+        "country": "Belarus",
+        "compliance_tier": "moderate"
+      }
+    ],
+    "industry_reply_rate": [
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-reply-rate-technology-software/",
+        "industry": "Technology & Software",
+        "reply_rate": {
+          "low": 3.5,
+          "high": 7.5,
+          "median": 5
+        },
+        "open_rate": {
+          "low": 22,
+          "high": 32,
+          "median": 26
+        },
+        "buying_cycle_days": 21
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-reply-rate-healthcare-medical/",
+        "industry": "Healthcare & Medical",
+        "reply_rate": {
+          "low": 2,
+          "high": 4.5,
+          "median": 3
+        },
+        "open_rate": {
+          "low": 18,
+          "high": 26,
+          "median": 22
+        },
+        "buying_cycle_days": 60
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-reply-rate-manufacturing-engineering/",
+        "industry": "Manufacturing & Engineering",
+        "reply_rate": {
+          "low": 1.8,
+          "high": 4,
+          "median": 2.6
+        },
+        "open_rate": {
+          "low": 16,
+          "high": 24,
+          "median": 20
+        },
+        "buying_cycle_days": 90
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-reply-rate-finance-banking/",
+        "industry": "Finance & Banking",
+        "reply_rate": {
+          "low": 1.5,
+          "high": 3.5,
+          "median": 2.2
+        },
+        "open_rate": {
+          "low": 14,
+          "high": 22,
+          "median": 18
+        },
+        "buying_cycle_days": 90
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-reply-rate-professional-services/",
+        "industry": "Professional Services",
+        "reply_rate": {
+          "low": 2.5,
+          "high": 6,
+          "median": 4
+        },
+        "open_rate": {
+          "low": 18,
+          "high": 28,
+          "median": 23
+        },
+        "buying_cycle_days": 21
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-reply-rate-real-estate/",
+        "industry": "Real Estate",
+        "reply_rate": {
+          "low": 2,
+          "high": 5,
+          "median": 3.2
+        },
+        "open_rate": {
+          "low": 17,
+          "high": 27,
+          "median": 22
+        },
+        "buying_cycle_days": 21
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-reply-rate-construction/",
+        "industry": "Construction",
+        "reply_rate": {
+          "low": 1.8,
+          "high": 4.2,
+          "median": 2.8
+        },
+        "open_rate": {
+          "low": 16,
+          "high": 24,
+          "median": 20
+        },
+        "buying_cycle_days": 45
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-reply-rate-legal/",
+        "industry": "Legal",
+        "reply_rate": {
+          "low": 1.8,
+          "high": 4.5,
+          "median": 2.8
+        },
+        "open_rate": {
+          "low": 17,
+          "high": 27,
+          "median": 22
+        },
+        "buying_cycle_days": 30
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-reply-rate-ecommerce/",
+        "industry": "E-commerce",
+        "reply_rate": {
+          "low": 3,
+          "high": 7,
+          "median": 4.8
+        },
+        "open_rate": {
+          "low": 20,
+          "high": 30,
+          "median": 25
+        },
+        "buying_cycle_days": 14
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-reply-rate-oil-energy/",
+        "industry": "Oil & Energy",
+        "reply_rate": {
+          "low": 1.5,
+          "high": 3.5,
+          "median": 2.2
+        },
+        "open_rate": {
+          "low": 14,
+          "high": 22,
+          "median": 18
+        },
+        "buying_cycle_days": 120
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-reply-rate-education-training/",
+        "industry": "Education & Training",
+        "reply_rate": {
+          "low": 1.8,
+          "high": 4.2,
+          "median": 2.8
+        },
+        "open_rate": {
+          "low": 17,
+          "high": 26,
+          "median": 21
+        },
+        "buying_cycle_days": 60
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-reply-rate-retail-commerce/",
+        "industry": "Retail & Commerce",
+        "reply_rate": {
+          "low": 1.5,
+          "high": 3.5,
+          "median": 2.2
+        },
+        "open_rate": {
+          "low": 14,
+          "high": 22,
+          "median": 18
+        },
+        "buying_cycle_days": 30
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-reply-rate-agriculture-food/",
+        "industry": "Agriculture & Food",
+        "reply_rate": {
+          "low": 1.6,
+          "high": 3.8,
+          "median": 2.4
+        },
+        "open_rate": {
+          "low": 15,
+          "high": 24,
+          "median": 19
+        },
+        "buying_cycle_days": 45
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/cold-email-reply-rate-transportation-logistics/",
+        "industry": "Transportation & Logistics",
+        "reply_rate": {
+          "low": 1.8,
+          "high": 4.2,
+          "median": 2.8
+        },
+        "open_rate": {
+          "low": 16,
+          "high": 25,
+          "median": 20
+        },
+        "buying_cycle_days": 30
+      }
+    ],
+    "standalone": [
+      {
+        "url": "https://b2bdataindex.com/answers/what-is-a-good-cold-email-reply-rate/",
+        "topic": "Good cold email reply rate benchmark"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/how-to-buy-b2b-email-list/",
+        "topic": "How to buy a B2B email list"
+      },
+      {
+        "url": "https://b2bdataindex.com/answers/b2b-email-list-cost/",
+        "topic": "B2B email list cost guide"
+      }
+    ]
+  }
+}

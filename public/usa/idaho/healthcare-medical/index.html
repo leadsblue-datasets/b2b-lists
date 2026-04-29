@@ -17,7 +17,7 @@
 <meta name="citation_title" content="Idaho Healthcare & Medical B2B Database — Decision Makers and Cold Email Guide 2026">
 <meta name="citation_author" content="B2B Data Index Research Team">
 <meta name="citation_publication_date" content="2026">
-<meta name="citation_online_date" content="2026-04-28">
+<meta name="citation_online_date" content="2026-04-29">
 <meta name="citation_publisher" content="B2B Data Index">
 <meta name="citation_abstract_html_url" content="https://b2bdataindex.com/usa/idaho/healthcare-medical/">
 <meta name="citation_fulltext_html_url" content="https://b2bdataindex.com/usa/idaho/healthcare-medical/">
@@ -205,6 +205,32 @@
   .dm-profile{position:relative}
   .compliance-note{position:relative}
   .key-fact{position:relative;font-weight:500}
+  /* ─── Conversion + LLM components (added in UI backport) ─── */
+  .trust-strip{background:var(--surf);border-bottom:1px solid var(--bdr);padding:8px 0;font-size:11px;color:var(--muted);font-family:var(--mf);letter-spacing:.5px}
+  .trust-strip .wrap{display:flex;justify-content:center;gap:18px;flex-wrap:wrap}
+  .trust-strip span b{color:var(--txt);font-weight:500}
+  @media(max-width:540px){.trust-strip{font-size:10px;padding:6px 0}.trust-strip .wrap{gap:12px}}
+  .qa-card{background:linear-gradient(135deg,var(--surf2) 0%,rgba(14,165,233,.06) 100%);border:1px solid rgba(14,165,233,.25);border-left:3px solid var(--acc);border-radius:6px;padding:22px 26px;margin:24px 0 30px}
+  .qa-card .qa-lbl{font-family:var(--mf);font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:var(--acc);margin-bottom:8px;display:block}
+  .qa-card p{color:var(--txt);font-size:16px;line-height:1.65;margin-bottom:8px;font-weight:400}
+  .qa-card p:last-child{margin-bottom:0}
+  .qa-card cite{font-style:normal;font-family:var(--mf);font-size:11px;color:var(--muted);display:block;margin-top:10px;border-top:1px solid var(--bdr);padding-top:10px}
+  .sticky-cta{position:fixed;bottom:0;left:0;right:0;background:rgba(10,15,30,.96);backdrop-filter:blur(10px);border-top:1px solid var(--bdr);padding:11px 14px;display:none;z-index:99;justify-content:space-between;align-items:center;gap:10px}
+  .sticky-cta span{font-size:12px;color:var(--txt);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .sticky-cta b{color:var(--acc2);font-family:var(--mf)}
+  .sticky-cta a{background:var(--acc);color:#fff;font-size:12px;font-weight:600;padding:8px 16px;border-radius:3px;flex-shrink:0;text-decoration:none;transition:background .15s}
+  .sticky-cta a:hover{background:var(--acc2)}
+  @media(max-width:760px){.sticky-cta{display:flex}body{padding-bottom:60px}}
+  /* Subtle polish on existing components */
+  .rel-card{transition:border-color .15s,background .15s,transform .15s}
+  .rel-card:hover{transform:translateY(-1px)}
+  .intel-card{transition:background .15s}
+  h2 .anchor{opacity:0;color:var(--muted);font-size:.65em;font-family:var(--mf);font-weight:400;margin-left:8px;text-decoration:none;transition:opacity .15s}
+  h2:hover .anchor{opacity:.5}
+  h2 .anchor:hover{opacity:1;color:var(--acc)}
+  /* Skip-to-content for a11y */
+  .skip-link{position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden}
+  .skip-link:focus{left:8px;top:8px;width:auto;height:auto;padding:8px 14px;background:var(--acc);color:#fff;z-index:9999;border-radius:3px}
 
 .tmpl-card{background:var(--surf);border:1px solid var(--bdr);border-radius:6px;padding:28px 32px;margin-bottom:24px}
 .tmpl-industry{font-family:var(--mf);font-size:10px;color:var(--acc);letter-spacing:2px;text-transform:uppercase;margin-bottom:6px;display:block}

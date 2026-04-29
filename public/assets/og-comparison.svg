@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0a0f1e"/>
+    <stop offset="1" stop-color="#111827"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0.7" cy="0.3" r="0.5">
+    <stop offset="0" stop-color="#ec4899" stop-opacity="0.15"/>
+    <stop offset="1" stop-color="#ec4899" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<rect width="1200" height="630" fill="url(#glow)"/>
+<text x="80" y="120" font-family="IBM Plex Mono, monospace" font-size="16" fill="#ec4899" letter-spacing="3">B2B DATA INDEX · COMPARISON</text>
+<text x="80" y="280" font-family="DM Serif Display, Georgia, serif" font-size="84" fill="#ffffff">Provider Comparison</text>
+<text x="80" y="340" font-family="DM Serif Display, Georgia, serif" font-size="84" fill="#ec4899" font-style="italic">2026 Benchmark</text>
+<text x="80" y="430" font-family="IBM Plex Sans, sans-serif" font-size="22" fill="#94a3b8">Verified data · 200+ countries · 14 industries · 7 decision-maker tiers</text>
+<g transform="translate(80, 540)">
+  <text x="0" y="0" font-family="IBM Plex Mono, monospace" font-size="14" fill="#94a3b8" letter-spacing="2">b2bdataindex.com</text>
+</g>
+<g transform="translate(1080, 540)">
+  <text x="0" y="0" font-family="IBM Plex Mono, monospace" font-size="14" fill="#94a3b8" text-anchor="end">Updated 2026-04-29</text>
+</g>
+<rect x="80" y="475" width="60" height="2" fill="#ec4899"/>
+</svg>

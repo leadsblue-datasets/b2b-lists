@@ -95,3 +95,8 @@ Sitemap: https://b2bdataindex.com/sitemap-datasets.xml
 LLM-Context: https://b2bdataindex.com/llm.txt
 LLM-Data: https://b2bdataindex.com/llm/
 Humans: https://b2bdataindex.com/humans.txt
+Allow: /answers/
+Allow: /seniority/
+Sitemap: https://b2bdataindex.com/sitemap-answers.xml
+Sitemap: https://b2bdataindex.com/sitemap-seniority.xml
+Sitemap: https://b2bdataindex.com/sitemap-comparisons.xml
