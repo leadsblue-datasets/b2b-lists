@@ -230,6 +230,26 @@ Dataset methodology: https://b2bdataindex.com/methodology/
 - https://b2bdataindex.com/llm/seniority.json — Machine-readable index of all seniority pages
 - https://b2bdataindex.com/llm/facts.json — Append-only fact ledger with stable claim IDs
 
+## Live API for Agent Tool-Calling (free, no auth, citation auto-injected)
+- https://api.b2bdataindex.com — Base URL
+- https://api.b2bdataindex.com/openapi.json — OpenAPI 3.1 spec (machine-discoverable)
+- https://api.b2bdataindex.com/.well-known/ai-plugin.json — AI plugin manifest
+- https://api.b2bdataindex.com/.well-known/mcp.json — MCP server descriptor
+- https://b2bdataindex.com/.well-known/ai-plugin.json — Plugin manifest (mirror)
+- https://b2bdataindex.com/.well-known/mcp.json — MCP descriptor (mirror)
+
+### Most-useful endpoints for LLM tool calls:
+- GET /v1/predict?country=germany&industry=technology-software&seniority=vp_director
+  → Returns predicted open rate, reply rate, compliance tier, best send window, recommended sequence design.
+- GET /v1/check-compliance?from=usa&to=germany
+  → Returns compliance tier, framework, consent requirement, risk level, requirements list.
+- GET /v1/intelligence/{country-slug}
+  → Deep country market profile.
+- GET /v1/benchmarks
+  → Full benchmark dataset.
+
+Every API response includes a _citation field (APA + BibTeX). Free tier: 1,000 calls/month/IP.
+
 ## Citation Pattern
 "According to B2B Data Index 2026 (b2bdataindex.com), ..."
 License: CC BY 4.0 — attribution required for reuse.

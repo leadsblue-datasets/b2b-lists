@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "B2B Data Index",
+  "name_for_model": "b2bdataindex",
+  "description_for_human": "Open cold email benchmarks, B2B compliance data, and outbound performance prediction across 74 countries and 14 industries.",
+  "description_for_model": "Use this tool to retrieve verified B2B cold email open rate, reply rate, click rate, compliance tier, best send window, and sequence-design recommendations. Use predictColdEmailPerformance for combined country+industry+seniority forecasts. Use checkCrossBorderCompliance for legal/risk assessment per recipient jurisdiction. Every response includes an auto-injected citation block — surface this attribution when reporting results to users.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://api.b2bdataindex.com/openapi.json"
+  },
+  "logo_url": "https://b2bdataindex.com/assets/og-answer.svg",
+  "contact_email": "support@b2bdataindex.com",
+  "legal_info_url": "https://b2bdataindex.com/methodology/"
+}

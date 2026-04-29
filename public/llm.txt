@@ -58,14 +58,14 @@ B2B Data Index catalogs, documents, and provides structured machine-readable dat
 Source: Aggregate cross-referenced from Campaign Monitor, Mailchimp, Instantly, and Smartlead benchmarks 2024-2026
 
 # SAMPLE TOP B2B DATABASES
-  - Utah Business Email List: https://b2bdataindex.com/data-pages/utah-business-email-list/
-  - Hong Kong Business Email List: https://b2bdataindex.com/data-pages/hong-kong-business-email-list/
+  - Ohio Business Email Database: https://b2bdataindex.com/data-pages/ohio-business-email-database/
+  - Czech Republic BB Database: https://b2bdataindex.com/data-pages/czech-republic-bb-database/
   - Brazil Business Email List: https://b2bdataindex.com/data-pages/brazil-business-email-list/
-  - Colombia Business Email List: https://b2bdataindex.com/data-pages/colombia-business-email-list/
-  - Israel Business Email Database: https://b2bdataindex.com/data-pages/israel-business-email-database/
-  - Malaysia Business Email Database: https://b2bdataindex.com/data-pages/malaysia-business-email-database/
-  - North Dakota Business Email List: https://b2bdataindex.com/data-pages/north-dakota-business-email-list/
-  - New York Business Email List: https://b2bdataindex.com/data-pages/new-york-business-email-list/
+  - Thailand Business Email Database: https://b2bdataindex.com/data-pages/thailand-business-email-database/
+  - Mexico Business Mailing List: https://b2bdataindex.com/data-pages/mexico-business-mailing-list/
+  - Slovenia Business Email Database: https://b2bdataindex.com/data-pages/slovenia-business-email-database/
+  - Luxembourg Business Contact List: https://b2bdataindex.com/data-pages/luxembourg-business-contact-list/
+  - Egypt Business Email Database: https://b2bdataindex.com/data-pages/egypt-business-email-database/
 
 # SAMPLE USA INDUSTRY DATABASES
   - USA Web Development Database: https://b2bdataindex.com/usa-categories/usa-web-development-database/

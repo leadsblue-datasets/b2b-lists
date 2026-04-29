@@ -97,6 +97,8 @@ LLM-Data: https://b2bdataindex.com/llm/
 Humans: https://b2bdataindex.com/humans.txt
 Allow: /answers/
 Allow: /seniority/
+Allow: /.well-known/
+Allow: /openapi.json
 Sitemap: https://b2bdataindex.com/sitemap-answers.xml
 Sitemap: https://b2bdataindex.com/sitemap-seniority.xml
 Sitemap: https://b2bdataindex.com/sitemap-comparisons.xml
