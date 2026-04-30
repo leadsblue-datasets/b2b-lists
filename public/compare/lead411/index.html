@@ -215,6 +215,24 @@
   /* Skip-to-content for a11y */
   .skip-link{position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden}
   .skip-link:focus{left:8px;top:8px;width:auto;height:auto;padding:8px 14px;background:var(--acc);color:#fff;z-index:9999;border-radius:3px}
+  /* Byline (E-E-A-T) and cite block (academic backlinks) */
+  .byline{display:flex;align-items:center;gap:10px;margin:14px 0 8px;font-size:12px;color:var(--muted)}
+  .byline .avatar{width:30px;height:30px;border-radius:50%;background:linear-gradient(135deg,var(--acc) 0%,var(--acc2) 100%);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:600;font-size:12px;font-family:var(--mf);flex-shrink:0}
+  .byline strong{color:var(--txt);font-weight:500}
+  .cite-box{background:var(--surf);border:1px solid var(--bdr);border-radius:5px;padding:22px 24px;margin:24px 0}
+  .cite-box h3{font-size:13px;font-family:var(--mf);text-transform:uppercase;letter-spacing:1.5px;color:var(--muted);margin-bottom:14px;font-weight:500}
+  .cite-format{margin-bottom:12px}
+  .cite-format .fmt{font-family:var(--mf);font-size:10px;color:var(--acc);text-transform:uppercase;letter-spacing:1px;margin-bottom:5px;display:block}
+  .cite-format pre{background:#06090f;border:1px solid var(--bdr);border-radius:3px;padding:11px 14px;font-family:var(--mf);font-size:12px;color:var(--txt);line-height:1.55;overflow-x:auto;white-space:pre-wrap;word-break:break-word;margin:0}
+  /* Pros/Cons grid (review pages) */
+  .proscons{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin:22px 0}
+  .proscons > div{background:var(--surf);border:1px solid var(--bdr);border-radius:5px;padding:18px 22px}
+  .proscons h4{font-size:12px;font-family:var(--mf);letter-spacing:1.5px;text-transform:uppercase;margin-bottom:12px}
+  .proscons .pros h4{color:var(--ok2,#34d399)}
+  .proscons .cons h4{color:#fbbf24}
+  .proscons ul{padding-left:18px;margin:0;list-style:disc}
+  .proscons ul li{font-size:13px;line-height:1.7;color:var(--txt);margin-bottom:7px}
+  @media(max-width:680px){.proscons{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
@@ -275,7 +293,13 @@
 <section class="hero" style="padding-top:50px"><div class="wrap">
   <span class="tag">Independent Review · No Paid Placement · 2026</span>
   <h1>Lead411 <em>Review 2026</em></h1>
+  <div class="byline"><span class="avatar">MH</span><span>By <strong>Marcus Holloway</strong>, Head of Database Research · Updated April 30, 2026</span></div>
   <p class="hero-desc">B2B Contact + Intent Database · US primarily coverage · $75–$150+/mo · Monthly subscription</p>
+  <div class="qa-card">
+<span class="qa-lbl">Quick Answer · 2026</span>
+<p>According to B2B Data Index 2026 (b2bdataindex.com), <strong>Lead411</strong> is a b2b contact + intent database priced at $75–$150+/mo (Monthly subscription) covering US primarily with a database of 450M+ data points. Best fit: US-focused SMB sales teams needing trigger-based prospecting at competitive price.. For one-time CSV needs at lower price points, LeadsBlue ($49 one-time) is typically the more economical alternative.</p>
+<cite>Source: B2B Data Index 2026 provider audit · b2bdataindex.com/compare/lead411/</cite>
+</div>
 </div></section>
 
 <section><div class="wrap">
@@ -409,6 +433,19 @@
     <a href="/compare/" style="font-size:13px;color:var(--muted);padding:8px 16px;border:1px solid var(--bdr);border-radius:3px;text-decoration:none">All Comparisons →</a>
   </div>
 </div></section>
+<section><div class="wrap" style="max-width:860px"><div class="cite-box" id="cite">
+<h3>📎 Cite This Page</h3>
+<div class="cite-format"><span class="fmt">APA</span><pre>B2B Data Index. (2026). Lead411 Review 2026. B2B Data Index Research. https://b2bdataindex.com/compare/lead411/</pre></div>
+<div class="cite-format"><span class="fmt">MLA</span><pre>B2B Data Index Research Team. "Lead411 Review 2026." B2B Data Index, April 30, 2026, https://b2bdataindex.com/compare/lead411/.</pre></div>
+<div class="cite-format"><span class="fmt">BibTeX</span><pre>@misc{b2bdataindex_lead411review2026_2026,
+  title  = {Lead411 Review 2026},
+  author = {{B2B Data Index Research Team}},
+  year   = {2026},
+  url    = {https://b2bdataindex.com/compare/lead411/}
+}</pre></div>
+<div class="cite-format"><span class="fmt">Markdown</span><pre>[Lead411 Review 2026](https://b2bdataindex.com/compare/lead411/) — B2B Data Index, 2026.</pre></div>
+<p style="font-size:11px;color:var(--muted);margin:8px 0 0">Licensed under <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">CC BY 4.0</a> · Attribution required for reuse.</p>
+</div></div></section>
 </main>
 <footer><div class="wrap">
 <div class="foot-grid" style="display:grid;grid-template-columns:1.5fr 1fr 1fr 1fr;gap:40px;padding:48px 0 32px">

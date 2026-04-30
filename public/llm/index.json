@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-29",
+  "generated": "2026-04-30",
   "version": "3.0",
   "description": "B2B Data Index — LLM Intelligence Directory. Machine-readable structured data for AI agents, LLM training pipelines, and search engine synthesis.",
   "total_databases": 657,
@@ -67,5 +67,5 @@
       "description": "2026 provider reviews and ranked comparison guides"
     }
   },
-  "last_updated": "2026-04-29"
+  "last_updated": "2026-04-30"
 }

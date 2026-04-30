@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+  <loc>https://b2bdataindex.com/api/v1/answers.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
   <loc>https://b2bdataindex.com/api/v1/benchmark-data.json</loc>
   <changefreq>monthly</changefreq>
   <priority>0.60</priority>
 </url>
 <url>
+  <loc>https://b2bdataindex.com/api/v1/benchmark-embeds.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
   <loc>https://b2bdataindex.com/api/v1/benchmarks.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/api/v1/cite.json</loc>
   <changefreq>monthly</changefreq>
   <priority>0.60</priority>
 </url>
@@ -281,6 +296,16 @@
   <priority>0.60</priority>
 </url>
 <url>
+  <loc>https://b2bdataindex.com/llm/answers.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/llm/comparisons.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
   <loc>https://b2bdataindex.com/llm/consumer-stats.json</loc>
   <changefreq>monthly</changefreq>
   <priority>0.60</priority>
@@ -312,6 +337,11 @@
 </url>
 <url>
   <loc>https://b2bdataindex.com/llm/market-stats.json</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://b2bdataindex.com/llm/seniority.json</loc>
   <changefreq>monthly</changefreq>
   <priority>0.60</priority>
 </url>

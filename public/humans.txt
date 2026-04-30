@@ -17,7 +17,7 @@
   Google Search Console — indexing and performance data
 
 /* SITE */
-  Last update: 2026-04-29
+  Last update: 2026-04-30
   Language: English
   Doctype: HTML5
   IDE: Node.js static site generator
