@@ -1,0 +1,15 @@
+# B2B Data Index — Cloudflare Pages redirects
+/data-pages      /data-pages/      301
+/consumer-data   /consumer-data/   301
+/targeted-lists  /targeted-lists/  301
+/usa-categories  /usa-categories/  301
+/website-data    /website-data/    301
+/blog            /blog/            301
+/methodology     /methodology/     301
+/regions         /regions/         301
+/all-databases   /all-databases/   301
+/llm             /llm/             301
+/compare         /compare/         301
+/compliance      /compliance/      301
+/updates         /updates/         301
+/sitemap-html    /sitemap-html/    301

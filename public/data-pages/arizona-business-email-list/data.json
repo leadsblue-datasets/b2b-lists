@@ -1,0 +1,38 @@
+{
+  "name": "Arizona Business Email List",
+  "location": "Arizona",
+  "slug": "arizona-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/arizona-business-email-list/",
+  "records": 2951370,
+  "industries": {
+    "Professional Services": 19,
+    "Healthcare & Medical": 18,
+    "Retail & Commerce": 16,
+    "Energy & Utilities": 15,
+    "Technology & Software": 12,
+    "Education & Training": 11,
+    "Construction & Real Estate": 9
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 53,
+    "SME (11–100 employees)": 26,
+    "Mid-market (101–500)": 8,
+    "Enterprise (500+)": 13
+  },
+  "benchmarks": {
+    "open_rate": "26%",
+    "reply_rate": "6.1%",
+    "ctr": "8.9%",
+    "bounce_rate": "1.7%"
+  },
+  "data_quality": {
+    "verification_rate": "96%",
+    "decision_maker_ratio": "50%",
+    "last_verified": "Q2-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-arizona-business-email-leads-database/"
+}

@@ -1,0 +1,3665 @@
+{
+  "generated": "2026-07-19",
+  "description": "Structured factual claims from B2B Data Index research. Each claim is citable with category, market, metric, value, and source page.",
+  "total_claims": 219,
+  "schema": {
+    "claim": "string",
+    "category": "string",
+    "market": "string",
+    "metric": "string",
+    "value": "string|number",
+    "unit": "string",
+    "year": "number",
+    "source_page": "string (relative URL)"
+  },
+  "claims": [
+    {
+      "claim": "US B2B cold email average open rate is 18-26% with industry-segmented copy",
+      "category": "benchmark",
+      "market": "United States",
+      "metric": "open_rate",
+      "value": "18-26",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/benchmarks/"
+    },
+    {
+      "claim": "UK B2B cold email average open rate is 16-24% per Campaign Monitor and Mailchimp benchmarks",
+      "category": "benchmark",
+      "market": "United Kingdom",
+      "metric": "open_rate",
+      "value": "16-24",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/benchmarks/"
+    },
+    {
+      "claim": "India B2B cold email average open rate reaches 20-28% due to high digital adoption",
+      "category": "benchmark",
+      "market": "India",
+      "metric": "open_rate",
+      "value": "20-28",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/benchmarks/"
+    },
+    {
+      "claim": "Germany B2B cold email average open rate is 12-18% reflecting strict GDPR enforcement",
+      "category": "benchmark",
+      "market": "Germany",
+      "metric": "open_rate",
+      "value": "12-18",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/benchmarks/"
+    },
+    {
+      "claim": "Australia B2B cold email average open rate is 16-22% under Spam Act 2003 framework",
+      "category": "benchmark",
+      "market": "Australia",
+      "metric": "open_rate",
+      "value": "16-22",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/benchmarks/"
+    },
+    {
+      "claim": "Canada B2B cold email average open rate is 17-25% with CASL-compliant implied consent campaigns",
+      "category": "benchmark",
+      "market": "Canada",
+      "metric": "open_rate",
+      "value": "17-25",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/benchmarks/"
+    },
+    {
+      "claim": "Singapore B2B cold email average open rate is 19-27% among highest in APAC",
+      "category": "benchmark",
+      "market": "Singapore",
+      "metric": "open_rate",
+      "value": "19-27",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/benchmarks/"
+    },
+    {
+      "claim": "Netherlands B2B cold email average open rate is 14-21% under GDPR legitimate interest basis",
+      "category": "benchmark",
+      "market": "Netherlands",
+      "metric": "open_rate",
+      "value": "14-21",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/benchmarks/"
+    },
+    {
+      "claim": "Global B2B cold email average reply rate is 2.1-5.5% across all markets and industries",
+      "category": "benchmark",
+      "market": "Global",
+      "metric": "reply_rate",
+      "value": "2.1-5.5",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/benchmarks/"
+    },
+    {
+      "claim": "US B2B cold email average reply rate is 2.1-4.8% for industry-segmented campaigns",
+      "category": "benchmark",
+      "market": "United States",
+      "metric": "reply_rate",
+      "value": "2.1-4.8",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/benchmarks/"
+    },
+    {
+      "claim": "Industry-segmented B2B cold email campaigns achieve 35-60% higher reply rates than generic sends",
+      "category": "benchmark",
+      "market": "Global",
+      "metric": "segmentation_lift",
+      "value": "35-60",
+      "unit": "percent_improvement",
+      "year": 2026,
+      "source_page": "/benchmarks/"
+    },
+    {
+      "claim": "Technology sector B2B cold email reply rate premium is plus 1.5 percentage points vs baseline",
+      "category": "benchmark",
+      "market": "Global",
+      "metric": "reply_rate",
+      "value": "+1.5",
+      "unit": "percentage_points",
+      "year": 2026,
+      "source_page": "/benchmarks/by-industry/"
+    },
+    {
+      "claim": "B2B email databases decay at approximately 22-25% annually as professionals change roles and companies close",
+      "category": "data_quality",
+      "market": "Global",
+      "metric": "annual_decay_rate",
+      "value": "22-25",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/methodology/"
+    },
+    {
+      "claim": "Quarterly re-verification maintains B2B email deliverability above 94% in most markets",
+      "category": "data_quality",
+      "market": "Global",
+      "metric": "verification_rate",
+      "value": "94",
+      "unit": "percent_minimum",
+      "year": 2026,
+      "source_page": "/methodology/"
+    },
+    {
+      "claim": "Hard bounce rates above 2% damage sender domain reputation and trigger ISP blacklisting",
+      "category": "deliverability",
+      "market": "Global",
+      "metric": "bounce_threshold",
+      "value": "2",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/methodology/"
+    },
+    {
+      "claim": "Decision-maker concentration in B2B databases typically ranges from 38-52% of total records",
+      "category": "data_quality",
+      "market": "Global",
+      "metric": "decision_maker_ratio",
+      "value": "38-52",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/methodology/"
+    },
+    {
+      "claim": "The CAN-SPAM Act requires B2B emailers to include a physical postal address and honour opt-out requests within 10 business days",
+      "category": "compliance",
+      "market": "United States",
+      "metric": "opt_out_days",
+      "value": "10",
+      "unit": "business_days",
+      "year": 2026,
+      "source_page": "/compliance/"
+    },
+    {
+      "claim": "GDPR Article 6(1)(f) legitimate interest is the standard legal basis for B2B cold email to corporate addresses in EU member states",
+      "category": "compliance",
+      "market": "European Union",
+      "metric": "legal_basis",
+      "value": "legitimate_interest",
+      "unit": "legal_framework",
+      "year": 2026,
+      "source_page": "/compliance/"
+    },
+    {
+      "claim": "CASL requires express or implied consent for all commercial electronic messages; implied consent lasts 24 months after a business transaction",
+      "category": "compliance",
+      "market": "Canada",
+      "metric": "consent_duration",
+      "value": "24",
+      "unit": "months",
+      "year": 2026,
+      "source_page": "/compliance/"
+    },
+    {
+      "claim": "Germany interprets B2B email more strictly than other EU countries — UWG Section 7 requires prior consent or existing customer relationship",
+      "category": "compliance",
+      "market": "Germany",
+      "metric": "cold_email_status",
+      "value": "restricted",
+      "unit": "legal_status",
+      "year": 2026,
+      "source_page": "/compliance/"
+    },
+    {
+      "claim": "UK GDPR and PECR permit B2B cold email to corporate email addresses under legitimate interest basis for professionally relevant communications",
+      "category": "compliance",
+      "market": "United Kingdom",
+      "metric": "cold_email_status",
+      "value": "conditional",
+      "unit": "legal_status",
+      "year": 2026,
+      "source_page": "/compliance/"
+    },
+    {
+      "claim": "GDPR maximum penalty is 20 million euros or 4 percent of global annual turnover, whichever is higher",
+      "category": "compliance",
+      "market": "European Union",
+      "metric": "max_penalty",
+      "value": "20000000 EUR or 4% global turnover",
+      "unit": "currency_or_percent",
+      "year": 2026,
+      "source_page": "/compliance/"
+    },
+    {
+      "claim": "B2B email databases under 100K records cost $49 as a one-time purchase with no subscription",
+      "category": "pricing",
+      "market": "Global",
+      "metric": "price_micro",
+      "value": "49",
+      "unit": "USD_one_time",
+      "year": 2026,
+      "source_page": "/"
+    },
+    {
+      "claim": "B2B email databases with 5M+ records cost $249 as a one-time purchase from LeadsBlue",
+      "category": "pricing",
+      "market": "Global",
+      "metric": "price_large",
+      "value": "249",
+      "unit": "USD_one_time",
+      "year": 2026,
+      "source_page": "/"
+    },
+    {
+      "claim": "US B2B database record counts range from 5 million to 14 million verified business contacts",
+      "category": "market_data",
+      "market": "United States",
+      "metric": "record_count",
+      "value": "5000000-14000000",
+      "unit": "records",
+      "year": 2026,
+      "source_page": "/data-pages/"
+    },
+    {
+      "claim": "India B2B database record counts range from 4 million to 18 million verified business contacts",
+      "category": "market_data",
+      "market": "India",
+      "metric": "record_count",
+      "value": "4000000-18000000",
+      "unit": "records",
+      "year": 2026,
+      "source_page": "/data-pages/"
+    },
+    {
+      "claim": "UK B2B database contains 700K to 4.5 million verified business contacts across 7 industry sectors",
+      "category": "market_data",
+      "market": "United Kingdom",
+      "metric": "record_count",
+      "value": "700000-4500000",
+      "unit": "records",
+      "year": 2026,
+      "source_page": "/data-pages/"
+    },
+    {
+      "claim": "Instantly, Smartlead, HubSpot, Apollo, Salesforce and Pipedrive all accept CSV import format used by LeadsBlue databases",
+      "category": "tool_compatibility",
+      "market": "Global",
+      "metric": "compatible_platforms",
+      "value": "CSV_XLSX",
+      "unit": "file_format",
+      "year": 2026,
+      "source_page": "/methodology/"
+    },
+    {
+      "claim": "Cold email warm-up period of 4-6 weeks is standard before launching full volume campaigns from new sending domains",
+      "category": "deliverability",
+      "market": "Global",
+      "metric": "warmup_period",
+      "value": "4-6",
+      "unit": "weeks",
+      "year": 2026,
+      "source_page": "/methodology/"
+    },
+    {
+      "claim": "Argentina B2B cold email campaigns average 27% open rates with 50% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Argentina",
+      "metric": "open_rate",
+      "value": "27%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/argentina-business-email-list/"
+    },
+    {
+      "claim": "Australia B2B cold email campaigns average 26.5% open rates with 45% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Australia",
+      "metric": "open_rate",
+      "value": "26.5%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/australia-business-email-database/"
+    },
+    {
+      "claim": "Austria B2B cold email campaigns average 22.8% open rates with 52% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Austria",
+      "metric": "open_rate",
+      "value": "22.8%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/austria-business-email-list/"
+    },
+    {
+      "claim": "Bahrain B2B cold email campaigns average 31.2% open rates with 38% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Bahrain",
+      "metric": "open_rate",
+      "value": "31.2%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/bahrain-business-email-database/"
+    },
+    {
+      "claim": "Bangladesh B2B cold email campaigns average 29.8% open rates with 41% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Bangladesh",
+      "metric": "open_rate",
+      "value": "29.8%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/bangladesh-business-mailing-list/"
+    },
+    {
+      "claim": "Belarus B2B cold email campaigns average 20.6% open rates with 44% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Belarus",
+      "metric": "open_rate",
+      "value": "20.6%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/belarus-bb-database/"
+    },
+    {
+      "claim": "Belgium B2B cold email campaigns average 19.2% open rates with 51% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Belgium",
+      "metric": "open_rate",
+      "value": "19.2%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/belgium-business-contact-list/"
+    },
+    {
+      "claim": "Brazil B2B cold email campaigns average 31.1% open rates with 48% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Brazil",
+      "metric": "open_rate",
+      "value": "31.1%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/brazil-business-email-list/"
+    },
+    {
+      "claim": "Bulgaria B2B cold email campaigns average 31.7% open rates with 38% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Bulgaria",
+      "metric": "open_rate",
+      "value": "31.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/bulgaria-business-email-database/"
+    },
+    {
+      "claim": "Canada B2B cold email campaigns average 23.4% open rates with 46% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Canada",
+      "metric": "open_rate",
+      "value": "23.4%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/canada-business-contact-list/"
+    },
+    {
+      "claim": "Chile B2B cold email campaigns average 24.3% open rates with 50% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Chile",
+      "metric": "open_rate",
+      "value": "24.3%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/chile-business-email-list/"
+    },
+    {
+      "claim": "China B2B cold email campaigns average 30.5% open rates with 51% decision-maker concentration",
+      "category": "benchmark",
+      "market": "China",
+      "metric": "open_rate",
+      "value": "30.5%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/china-business-email-database/"
+    },
+    {
+      "claim": "Croatia B2B cold email campaigns average 27.9% open rates with 44% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Croatia",
+      "metric": "open_rate",
+      "value": "27.9%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/croatia-business-mailing-list/"
+    },
+    {
+      "claim": "Cyprus B2B cold email campaigns average 20.7% open rates with 39% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Cyprus",
+      "metric": "open_rate",
+      "value": "20.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/cyprus-business-email-list/"
+    },
+    {
+      "claim": "Czech Republic B2B cold email campaigns average 18.5% open rates with 48% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Czech Republic",
+      "metric": "open_rate",
+      "value": "18.5%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/czech-republic-bb-database/"
+    },
+    {
+      "claim": "Denmark B2B cold email campaigns average 31.7% open rates with 49% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Denmark",
+      "metric": "open_rate",
+      "value": "31.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/denmark-business-email-list/"
+    },
+    {
+      "claim": "Egypt B2B cold email campaigns average 26.7% open rates with 38% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Egypt",
+      "metric": "open_rate",
+      "value": "26.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/egypt-business-email-database/"
+    },
+    {
+      "claim": "Estonia B2B cold email campaigns average 22.1% open rates with 40% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Estonia",
+      "metric": "open_rate",
+      "value": "22.1%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/estonia-business-contact-list/"
+    },
+    {
+      "claim": "Finland B2B cold email campaigns average 18.8% open rates with 41% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Finland",
+      "metric": "open_rate",
+      "value": "18.8%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/finland-business-email-database/"
+    },
+    {
+      "claim": "France B2B cold email campaigns average 30.7% open rates with 52% decision-maker concentration",
+      "category": "benchmark",
+      "market": "France",
+      "metric": "open_rate",
+      "value": "30.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/france-business-email-list/"
+    },
+    {
+      "claim": "Germany B2B cold email campaigns average 23.6% open rates with 41% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Germany",
+      "metric": "open_rate",
+      "value": "23.6%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/germany-business-contact-list/"
+    },
+    {
+      "claim": "Ghana B2B cold email campaigns average 29.7% open rates with 44% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Ghana",
+      "metric": "open_rate",
+      "value": "29.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/ghana-business-email-list/"
+    },
+    {
+      "claim": "Greece B2B cold email campaigns average 21.3% open rates with 49% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Greece",
+      "metric": "open_rate",
+      "value": "21.3%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/greece-business-mailing-list/"
+    },
+    {
+      "claim": "Hungary B2B cold email campaigns average 20.2% open rates with 39% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Hungary",
+      "metric": "open_rate",
+      "value": "20.2%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/hungary-business-email-list/"
+    },
+    {
+      "claim": "Iceland B2B cold email campaigns average 18.2% open rates with 42% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Iceland",
+      "metric": "open_rate",
+      "value": "18.2%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/iceland-business-email-database/"
+    },
+    {
+      "claim": "Indonesia B2B cold email campaigns average 18.6% open rates with 38% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Indonesia",
+      "metric": "open_rate",
+      "value": "18.6%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/indonesia-business-contact-list/"
+    },
+    {
+      "claim": "Israel B2B cold email campaigns average 28% open rates with 51% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Israel",
+      "metric": "open_rate",
+      "value": "28%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/israel-business-email-database/"
+    },
+    {
+      "claim": "Italy B2B cold email campaigns average 19.7% open rates with 38% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Italy",
+      "metric": "open_rate",
+      "value": "19.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/italy-business-email-list/"
+    },
+    {
+      "claim": "Japan B2B cold email campaigns average 30.2% open rates with 46% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Japan",
+      "metric": "open_rate",
+      "value": "30.2%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/japan-business-email-list-and-sales-leads-database/"
+    },
+    {
+      "claim": "Kuwait B2B cold email campaigns average 18.7% open rates with 50% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Kuwait",
+      "metric": "open_rate",
+      "value": "18.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/kuwait-business-email-database/"
+    },
+    {
+      "claim": "Latvia B2B cold email campaigns average 22.3% open rates with 46% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Latvia",
+      "metric": "open_rate",
+      "value": "22.3%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/latvia-business-email-list/"
+    },
+    {
+      "claim": "Lebanon B2B cold email campaigns average 24.3% open rates with 42% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Lebanon",
+      "metric": "open_rate",
+      "value": "24.3%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/lebanon-business-email-database/"
+    },
+    {
+      "claim": "Lithuania B2B cold email campaigns average 20% open rates with 48% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Lithuania",
+      "metric": "open_rate",
+      "value": "20%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/lithuania-business-email-list/"
+    },
+    {
+      "claim": "Luxembourg B2B cold email campaigns average 18.7% open rates with 44% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Luxembourg",
+      "metric": "open_rate",
+      "value": "18.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/luxembourg-business-contact-list/"
+    },
+    {
+      "claim": "Malaysia B2B cold email campaigns average 18.2% open rates with 47% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Malaysia",
+      "metric": "open_rate",
+      "value": "18.2%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/malaysia-business-email-database/"
+    },
+    {
+      "claim": "Malta B2B cold email campaigns average 26.3% open rates with 43% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Malta",
+      "metric": "open_rate",
+      "value": "26.3%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/malta-business-email-list/"
+    },
+    {
+      "claim": "Mexico B2B cold email campaigns average 27.9% open rates with 46% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Mexico",
+      "metric": "open_rate",
+      "value": "27.9%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/mexico-business-mailing-list/"
+    },
+    {
+      "claim": "Montenegro B2B cold email campaigns average 20.3% open rates with 50% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Montenegro",
+      "metric": "open_rate",
+      "value": "20.3%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/montenegro-business-email-list/"
+    },
+    {
+      "claim": "Morocco B2B cold email campaigns average 26.2% open rates with 44% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Morocco",
+      "metric": "open_rate",
+      "value": "26.2%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/morocco-business-email-database/"
+    },
+    {
+      "claim": "Netherlands B2B cold email campaigns average 22.7% open rates with 46% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Netherlands",
+      "metric": "open_rate",
+      "value": "22.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/netherlands-business-email-list/"
+    },
+    {
+      "claim": "New Zealand B2B cold email campaigns average 19.7% open rates with 42% decision-maker concentration",
+      "category": "benchmark",
+      "market": "New Zealand",
+      "metric": "open_rate",
+      "value": "19.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/new-zealand-business-email-list-and-sales-leads-database/"
+    },
+    {
+      "claim": "Norway B2B cold email campaigns average 22.9% open rates with 51% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Norway",
+      "metric": "open_rate",
+      "value": "22.9%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/norway-business-contact-list/"
+    },
+    {
+      "claim": "Oman B2B cold email campaigns average 19.6% open rates with 45% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Oman",
+      "metric": "open_rate",
+      "value": "19.6%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/oman-business-email-database/"
+    },
+    {
+      "claim": "Pakistan B2B cold email campaigns average 28.5% open rates with 41% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Pakistan",
+      "metric": "open_rate",
+      "value": "28.5%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/pakistan-business-email-list/"
+    },
+    {
+      "claim": "Peru B2B cold email campaigns average 18.1% open rates with 50% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Peru",
+      "metric": "open_rate",
+      "value": "18.1%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/peru-business-email-database/"
+    },
+    {
+      "claim": "Philippines B2B cold email campaigns average 26.7% open rates with 39% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Philippines",
+      "metric": "open_rate",
+      "value": "26.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/philippines-business-contact-list/"
+    },
+    {
+      "claim": "Poland B2B cold email campaigns average 24.8% open rates with 51% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Poland",
+      "metric": "open_rate",
+      "value": "24.8%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/poland-business-email-list/"
+    },
+    {
+      "claim": "Portugal B2B cold email campaigns average 18.1% open rates with 42% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Portugal",
+      "metric": "open_rate",
+      "value": "18.1%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/portugal-business-email-database/"
+    },
+    {
+      "claim": "Qatar B2B cold email campaigns average 27.1% open rates with 40% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Qatar",
+      "metric": "open_rate",
+      "value": "27.1%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/qatar-business-email-list/"
+    },
+    {
+      "claim": "Romania B2B cold email campaigns average 22% open rates with 47% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Romania",
+      "metric": "open_rate",
+      "value": "22%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/romania-business-email-database/"
+    },
+    {
+      "claim": "Russia B2B cold email campaigns average 31.7% open rates with 52% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Russia",
+      "metric": "open_rate",
+      "value": "31.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/russia-business-email-list/"
+    },
+    {
+      "claim": "Saudi Arabia B2B cold email campaigns average 24.7% open rates with 49% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Saudi Arabia",
+      "metric": "open_rate",
+      "value": "24.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/saudi-arabia-business-email-list/"
+    },
+    {
+      "claim": "Serbia B2B cold email campaigns average 30.4% open rates with 48% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Serbia",
+      "metric": "open_rate",
+      "value": "30.4%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/serbia-business-email-database/"
+    },
+    {
+      "claim": "Singapore B2B cold email campaigns average 30.4% open rates with 45% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Singapore",
+      "metric": "open_rate",
+      "value": "30.4%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/singapore-business-email-list/"
+    },
+    {
+      "claim": "Slovenia B2B cold email campaigns average 21.3% open rates with 38% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Slovenia",
+      "metric": "open_rate",
+      "value": "21.3%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/slovenia-business-email-database/"
+    },
+    {
+      "claim": "South Africa B2B cold email campaigns average 28% open rates with 45% decision-maker concentration",
+      "category": "benchmark",
+      "market": "South Africa",
+      "metric": "open_rate",
+      "value": "28%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/south-africa-business-mailing-list/"
+    },
+    {
+      "claim": "Spain B2B cold email campaigns average 24.3% open rates with 42% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Spain",
+      "metric": "open_rate",
+      "value": "24.3%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/spain-business-email-database/"
+    },
+    {
+      "claim": "Sri Lanka B2B cold email campaigns average 27.5% open rates with 48% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Sri Lanka",
+      "metric": "open_rate",
+      "value": "27.5%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/sri-lanka-business-email-list/"
+    },
+    {
+      "claim": "Sweden B2B cold email campaigns average 31.9% open rates with 46% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Sweden",
+      "metric": "open_rate",
+      "value": "31.9%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/sweden-business-email-database/"
+    },
+    {
+      "claim": "Switzerland B2B cold email campaigns average 26.9% open rates with 46% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Switzerland",
+      "metric": "open_rate",
+      "value": "26.9%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/switzerland-business-email-list/"
+    },
+    {
+      "claim": "Thailand B2B cold email campaigns average 29.5% open rates with 47% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Thailand",
+      "metric": "open_rate",
+      "value": "29.5%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/thailand-business-email-database/"
+    },
+    {
+      "claim": "Togo B2B cold email campaigns average 19% open rates with 42% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Togo",
+      "metric": "open_rate",
+      "value": "19%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/togo-business-email-list/"
+    },
+    {
+      "claim": "Turkey B2B cold email campaigns average 29.5% open rates with 42% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Turkey",
+      "metric": "open_rate",
+      "value": "29.5%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/turkey-business-email-database/"
+    },
+    {
+      "claim": "Ukraine B2B cold email campaigns average 19.9% open rates with 45% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Ukraine",
+      "metric": "open_rate",
+      "value": "19.9%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/ukraine-business-email-list/"
+    },
+    {
+      "claim": "UAE B2B cold email campaigns average 26% open rates with 44% decision-maker concentration",
+      "category": "benchmark",
+      "market": "UAE",
+      "metric": "open_rate",
+      "value": "26%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/uae-business-email-database/"
+    },
+    {
+      "claim": "USA B2B cold email campaigns average 19.5% open rates with 50% decision-maker concentration",
+      "category": "benchmark",
+      "market": "USA",
+      "metric": "open_rate",
+      "value": "19.5%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/usa-business-email-list/"
+    },
+    {
+      "claim": "Vietnam B2B cold email campaigns average 20.7% open rates with 38% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Vietnam",
+      "metric": "open_rate",
+      "value": "20.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/vietnam-business-email-database/"
+    },
+    {
+      "claim": "Alabama B2B cold email campaigns average 24.7% open rates with 45% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Alabama",
+      "metric": "open_rate",
+      "value": "24.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/alabama-business-email-list/"
+    },
+    {
+      "claim": "Alaska B2B cold email campaigns average 27% open rates with 44% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Alaska",
+      "metric": "open_rate",
+      "value": "27%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/alaska-business-email-database/"
+    },
+    {
+      "claim": "Arizona B2B cold email campaigns average 26% open rates with 50% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Arizona",
+      "metric": "open_rate",
+      "value": "26%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/arizona-business-email-list/"
+    },
+    {
+      "claim": "Arkansas B2B cold email campaigns average 18.3% open rates with 44% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Arkansas",
+      "metric": "open_rate",
+      "value": "18.3%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/arkansas-business-email-database/"
+    },
+    {
+      "claim": "California B2B cold email campaigns average 20.9% open rates with 38% decision-maker concentration",
+      "category": "benchmark",
+      "market": "California",
+      "metric": "open_rate",
+      "value": "20.9%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/california-business-email-list/"
+    },
+    {
+      "claim": "Colorado B2B cold email campaigns average 22.1% open rates with 52% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Colorado",
+      "metric": "open_rate",
+      "value": "22.1%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/colorado-business-email-database/"
+    },
+    {
+      "claim": "Connecticut B2B cold email campaigns average 30% open rates with 51% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Connecticut",
+      "metric": "open_rate",
+      "value": "30%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/connecticut-business-contact-list/"
+    },
+    {
+      "claim": "Delaware B2B cold email campaigns average 24.7% open rates with 51% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Delaware",
+      "metric": "open_rate",
+      "value": "24.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/delaware-business-email-database/"
+    },
+    {
+      "claim": "Florida B2B cold email campaigns average 26.5% open rates with 51% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Florida",
+      "metric": "open_rate",
+      "value": "26.5%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/florida-business-email-list/"
+    },
+    {
+      "claim": "Georgia B2B cold email campaigns average 28.2% open rates with 38% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Georgia",
+      "metric": "open_rate",
+      "value": "28.2%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/georgia-business-email-database/"
+    },
+    {
+      "claim": "Hawaii B2B cold email campaigns average 21.6% open rates with 47% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Hawaii",
+      "metric": "open_rate",
+      "value": "21.6%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/hawaii-business-email-list/"
+    },
+    {
+      "claim": "Idaho B2B cold email campaigns average 31.1% open rates with 47% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Idaho",
+      "metric": "open_rate",
+      "value": "31.1%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/idaho-business-email-database/"
+    },
+    {
+      "claim": "Illinois B2B cold email campaigns average 20.8% open rates with 45% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Illinois",
+      "metric": "open_rate",
+      "value": "20.8%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/illinois-business-email-list/"
+    },
+    {
+      "claim": "Indiana B2B cold email campaigns average 21.6% open rates with 44% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Indiana",
+      "metric": "open_rate",
+      "value": "21.6%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/indiana-business-email-database/"
+    },
+    {
+      "claim": "Iowa B2B cold email campaigns average 20.3% open rates with 45% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Iowa",
+      "metric": "open_rate",
+      "value": "20.3%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/iowa-business-contact-list/"
+    },
+    {
+      "claim": "Kansas B2B cold email campaigns average 24.6% open rates with 51% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Kansas",
+      "metric": "open_rate",
+      "value": "24.6%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/kansas-business-email-list/"
+    },
+    {
+      "claim": "Kentucky B2B cold email campaigns average 28.5% open rates with 50% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Kentucky",
+      "metric": "open_rate",
+      "value": "28.5%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/kentucky-business-email-database/"
+    },
+    {
+      "claim": "Louisiana B2B cold email campaigns average 26.7% open rates with 41% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Louisiana",
+      "metric": "open_rate",
+      "value": "26.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/louisiana-business-email-list/"
+    },
+    {
+      "claim": "Maine B2B cold email campaigns average 29.3% open rates with 41% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Maine",
+      "metric": "open_rate",
+      "value": "29.3%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/maine-business-email-database/"
+    },
+    {
+      "claim": "Maryland B2B cold email campaigns average 28% open rates with 45% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Maryland",
+      "metric": "open_rate",
+      "value": "28%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/maryland-business-email-list/"
+    },
+    {
+      "claim": "Massachusetts B2B cold email campaigns average 21.1% open rates with 47% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Massachusetts",
+      "metric": "open_rate",
+      "value": "21.1%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/massachusetts-business-email-database/"
+    },
+    {
+      "claim": "Michigan B2B cold email campaigns average 24.9% open rates with 41% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Michigan",
+      "metric": "open_rate",
+      "value": "24.9%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/michigan-business-email-list/"
+    },
+    {
+      "claim": "Minnesota B2B cold email campaigns average 27.2% open rates with 51% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Minnesota",
+      "metric": "open_rate",
+      "value": "27.2%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/minnesota-business-email-database/"
+    },
+    {
+      "claim": "Mississippi B2B cold email campaigns average 27.2% open rates with 48% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Mississippi",
+      "metric": "open_rate",
+      "value": "27.2%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/mississippi-business-email-list/"
+    },
+    {
+      "claim": "Missouri B2B cold email campaigns average 29.5% open rates with 47% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Missouri",
+      "metric": "open_rate",
+      "value": "29.5%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/missouri-business-email-database/"
+    },
+    {
+      "claim": "Montana B2B cold email campaigns average 28.9% open rates with 42% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Montana",
+      "metric": "open_rate",
+      "value": "28.9%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/montana-business-email-list/"
+    },
+    {
+      "claim": "Nebraska B2B cold email campaigns average 22.5% open rates with 41% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Nebraska",
+      "metric": "open_rate",
+      "value": "22.5%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/nebraska-business-email-database/"
+    },
+    {
+      "claim": "Nevada B2B cold email campaigns average 28.7% open rates with 51% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Nevada",
+      "metric": "open_rate",
+      "value": "28.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/nevada-business-email-list/"
+    },
+    {
+      "claim": "New Hampshire B2B cold email campaigns average 31.6% open rates with 49% decision-maker concentration",
+      "category": "benchmark",
+      "market": "New Hampshire",
+      "metric": "open_rate",
+      "value": "31.6%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/new-hampshire-business-email-database/"
+    },
+    {
+      "claim": "New Jersey B2B cold email campaigns average 27.9% open rates with 40% decision-maker concentration",
+      "category": "benchmark",
+      "market": "New Jersey",
+      "metric": "open_rate",
+      "value": "27.9%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/new-jersey-business-email-list/"
+    },
+    {
+      "claim": "New Mexico B2B cold email campaigns average 22.9% open rates with 43% decision-maker concentration",
+      "category": "benchmark",
+      "market": "New Mexico",
+      "metric": "open_rate",
+      "value": "22.9%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/new-mexico-business-email-database/"
+    },
+    {
+      "claim": "New York B2B cold email campaigns average 18.2% open rates with 38% decision-maker concentration",
+      "category": "benchmark",
+      "market": "New York",
+      "metric": "open_rate",
+      "value": "18.2%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/new-york-business-email-list/"
+    },
+    {
+      "claim": "North Carolina B2B cold email campaigns average 28.4% open rates with 44% decision-maker concentration",
+      "category": "benchmark",
+      "market": "North Carolina",
+      "metric": "open_rate",
+      "value": "28.4%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/north-carolina-business-email-database/"
+    },
+    {
+      "claim": "North Dakota B2B cold email campaigns average 31.9% open rates with 48% decision-maker concentration",
+      "category": "benchmark",
+      "market": "North Dakota",
+      "metric": "open_rate",
+      "value": "31.9%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/north-dakota-business-email-list/"
+    },
+    {
+      "claim": "Ohio B2B cold email campaigns average 18.4% open rates with 40% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Ohio",
+      "metric": "open_rate",
+      "value": "18.4%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/ohio-business-email-database/"
+    },
+    {
+      "claim": "Oklahoma B2B cold email campaigns average 23.6% open rates with 50% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Oklahoma",
+      "metric": "open_rate",
+      "value": "23.6%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/oklahoma-business-email-list/"
+    },
+    {
+      "claim": "Oregon B2B cold email campaigns average 25.1% open rates with 51% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Oregon",
+      "metric": "open_rate",
+      "value": "25.1%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/oregon-business-email-database/"
+    },
+    {
+      "claim": "Pennsylvania B2B cold email campaigns average 30.3% open rates with 43% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Pennsylvania",
+      "metric": "open_rate",
+      "value": "30.3%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/pennsylvania-business-email-list/"
+    },
+    {
+      "claim": "Rhode Island B2B cold email campaigns average 29.4% open rates with 46% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Rhode Island",
+      "metric": "open_rate",
+      "value": "29.4%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/rhode-island-business-email-database/"
+    },
+    {
+      "claim": "South Carolina B2B cold email campaigns average 24.3% open rates with 50% decision-maker concentration",
+      "category": "benchmark",
+      "market": "South Carolina",
+      "metric": "open_rate",
+      "value": "24.3%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/south-carolina-business-email-list/"
+    },
+    {
+      "claim": "South Dakota B2B cold email campaigns average 26.3% open rates with 48% decision-maker concentration",
+      "category": "benchmark",
+      "market": "South Dakota",
+      "metric": "open_rate",
+      "value": "26.3%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/south-dakota-business-email-database/"
+    },
+    {
+      "claim": "Tennessee B2B cold email campaigns average 18.4% open rates with 47% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Tennessee",
+      "metric": "open_rate",
+      "value": "18.4%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/tennessee-business-email-list/"
+    },
+    {
+      "claim": "Texas B2B cold email campaigns average 23.7% open rates with 39% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Texas",
+      "metric": "open_rate",
+      "value": "23.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/texas-business-email-database/"
+    },
+    {
+      "claim": "Utah B2B cold email campaigns average 28.2% open rates with 40% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Utah",
+      "metric": "open_rate",
+      "value": "28.2%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/utah-business-email-list/"
+    },
+    {
+      "claim": "Vermont B2B cold email campaigns average 27.8% open rates with 46% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Vermont",
+      "metric": "open_rate",
+      "value": "27.8%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/vermont-business-email-database/"
+    },
+    {
+      "claim": "Virginia B2B cold email campaigns average 30.1% open rates with 40% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Virginia",
+      "metric": "open_rate",
+      "value": "30.1%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/virginia-business-email-list/"
+    },
+    {
+      "claim": "Washington B2B cold email campaigns average 19% open rates with 41% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Washington",
+      "metric": "open_rate",
+      "value": "19%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/washington-business-email-database/"
+    },
+    {
+      "claim": "West Virginia B2B cold email campaigns average 19.4% open rates with 49% decision-maker concentration",
+      "category": "benchmark",
+      "market": "West Virginia",
+      "metric": "open_rate",
+      "value": "19.4%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/west-virginia-business-email-list/"
+    },
+    {
+      "claim": "Wisconsin B2B cold email campaigns average 27.2% open rates with 40% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Wisconsin",
+      "metric": "open_rate",
+      "value": "27.2%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/wisconsin-business-email-database/"
+    },
+    {
+      "claim": "Wyoming B2B cold email campaigns average 18.1% open rates with 41% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Wyoming",
+      "metric": "open_rate",
+      "value": "18.1%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/wyoming-business-email-list/"
+    },
+    {
+      "claim": "United Kingdom B2B cold email campaigns average 26.9% open rates with 39% decision-maker concentration",
+      "category": "benchmark",
+      "market": "United Kingdom",
+      "metric": "open_rate",
+      "value": "26.9%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/united-kingdom-business-email-list/"
+    },
+    {
+      "claim": "Ireland B2B cold email campaigns average 19.8% open rates with 45% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Ireland",
+      "metric": "open_rate",
+      "value": "19.8%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/ireland-business-email-list/"
+    },
+    {
+      "claim": "Hong Kong B2B cold email campaigns average 25.6% open rates with 49% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Hong Kong",
+      "metric": "open_rate",
+      "value": "25.6%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/hong-kong-business-email-list/"
+    },
+    {
+      "claim": "USA B2B cold email campaigns average 24.5% open rates with 42% decision-maker concentration",
+      "category": "benchmark",
+      "market": "USA",
+      "metric": "open_rate",
+      "value": "24.5%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/usa-business-database-category-wise/"
+    },
+    {
+      "claim": "South Korea B2B cold email campaigns average 29.4% open rates with 39% decision-maker concentration",
+      "category": "benchmark",
+      "market": "South Korea",
+      "metric": "open_rate",
+      "value": "29.4%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/south-korea-business-email-list/"
+    },
+    {
+      "claim": "Colombia B2B cold email campaigns average 31.9% open rates with 40% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Colombia",
+      "metric": "open_rate",
+      "value": "31.9%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/colombia-business-email-list/"
+    },
+    {
+      "claim": "Indian Business leads B2B cold email campaigns average 29.4% open rates with 38% decision-maker concentration",
+      "category": "benchmark",
+      "market": "Indian Business leads",
+      "metric": "open_rate",
+      "value": "29.4%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/indian-business-leads/"
+    },
+    {
+      "claim": "Australia B2B cold email campaigns average 29.4% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Australia",
+      "metric": "open_rate",
+      "value": "29.4%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/australia-consumer-email-list/"
+    },
+    {
+      "claim": "Canada B2B cold email campaigns average 30.2% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Canada",
+      "metric": "open_rate",
+      "value": "30.2%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/canada-consumer-email-database/"
+    },
+    {
+      "claim": "United Kingdom B2B cold email campaigns average 32.7% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "United Kingdom",
+      "metric": "open_rate",
+      "value": "32.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/united-kingdom-consumer-email-list/"
+    },
+    {
+      "claim": "France B2B cold email campaigns average 31.9% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "France",
+      "metric": "open_rate",
+      "value": "31.9%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/france-consumer-mailing-list/"
+    },
+    {
+      "claim": "Germany B2B cold email campaigns average 22.9% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Germany",
+      "metric": "open_rate",
+      "value": "22.9%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/germany-consumer-email-list/"
+    },
+    {
+      "claim": "Italy B2B cold email campaigns average 36% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Italy",
+      "metric": "open_rate",
+      "value": "36%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/italy-consumer-email-database/"
+    },
+    {
+      "claim": "MSN Outlook , Office B2B cold email campaigns average 26.8% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "MSN Outlook , Office",
+      "metric": "open_rate",
+      "value": "26.8%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/msn-outlook-office-email-list-database/"
+    },
+    {
+      "claim": "New Zealand B2B cold email campaigns average 24.4% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "New Zealand",
+      "metric": "open_rate",
+      "value": "24.4%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/new-zealand-consumer-mailing-list/"
+    },
+    {
+      "claim": "South Africa B2B cold email campaigns average 26.2% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "South Africa",
+      "metric": "open_rate",
+      "value": "26.2%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/south-africa-consumer-email-list/"
+    },
+    {
+      "claim": "Spain B2B cold email campaigns average 29.4% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Spain",
+      "metric": "open_rate",
+      "value": "29.4%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/spain-consumer-email-database/"
+    },
+    {
+      "claim": "Switzerland B2B cold email campaigns average 31.6% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Switzerland",
+      "metric": "open_rate",
+      "value": "31.6%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/switzerland-consumer-mailing-list/"
+    },
+    {
+      "claim": "UAE B2B cold email campaigns average 27% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "UAE",
+      "metric": "open_rate",
+      "value": "27%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/uae-consumer-email-list/"
+    },
+    {
+      "claim": "Yahoo Users B2B cold email campaigns average 31% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Yahoo Users",
+      "metric": "open_rate",
+      "value": "31%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/yahoo-users-email-list/"
+    },
+    {
+      "claim": "Austria B2B cold email campaigns average 24.3% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Austria",
+      "metric": "open_rate",
+      "value": "24.3%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/austria-consumer-email-database/"
+    },
+    {
+      "claim": "Brazil B2B cold email campaigns average 22.2% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Brazil",
+      "metric": "open_rate",
+      "value": "22.2%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/brazil-consumer-email-list/"
+    },
+    {
+      "claim": "China B2B cold email campaigns average 28.6% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "China",
+      "metric": "open_rate",
+      "value": "28.6%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/china-consumer-email-list/"
+    },
+    {
+      "claim": "Denmark B2B cold email campaigns average 25.5% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Denmark",
+      "metric": "open_rate",
+      "value": "25.5%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/denmark-consumer-email-database/"
+    },
+    {
+      "claim": "Hong Kong B2B cold email campaigns average 24.1% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Hong Kong",
+      "metric": "open_rate",
+      "value": "24.1%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/hong-kong-consumer-mailing-list/"
+    },
+    {
+      "claim": "Indonesia B2B cold email campaigns average 34.4% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Indonesia",
+      "metric": "open_rate",
+      "value": "34.4%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/indonesia-consumer-email-list/"
+    },
+    {
+      "claim": "Japan B2B cold email campaigns average 28% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Japan",
+      "metric": "open_rate",
+      "value": "28%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/japan-consumer-email-database/"
+    },
+    {
+      "claim": "Netherlands B2B cold email campaigns average 31.2% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Netherlands",
+      "metric": "open_rate",
+      "value": "31.2%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/netherlands-consumer-mailing-list/"
+    },
+    {
+      "claim": "Belgium B2B cold email campaigns average 23.9% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Belgium",
+      "metric": "open_rate",
+      "value": "23.9%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/belgium-consumer-email-list/"
+    },
+    {
+      "claim": "Argentina B2B cold email campaigns average 25.7% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Argentina",
+      "metric": "open_rate",
+      "value": "25.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/argentina-consumer-email-list/"
+    },
+    {
+      "claim": "Czech Republic B2B cold email campaigns average 28.2% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Czech Republic",
+      "metric": "open_rate",
+      "value": "28.2%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/czech-republic-consumer-mailing-list/"
+    },
+    {
+      "claim": "Finland B2B cold email campaigns average 25.4% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Finland",
+      "metric": "open_rate",
+      "value": "25.4%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/finland-consumer-email-list/"
+    },
+    {
+      "claim": "Greece B2B cold email campaigns average 33.7% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Greece",
+      "metric": "open_rate",
+      "value": "33.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/greece-consumer-email-database/"
+    },
+    {
+      "claim": "Hungary B2B cold email campaigns average 32.3% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Hungary",
+      "metric": "open_rate",
+      "value": "32.3%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/hungary-consumer-email-list/"
+    },
+    {
+      "claim": "Iceland B2B cold email campaigns average 28.7% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Iceland",
+      "metric": "open_rate",
+      "value": "28.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/iceland-consumer-mailing-list/"
+    },
+    {
+      "claim": "Mexico B2B cold email campaigns average 29.3% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Mexico",
+      "metric": "open_rate",
+      "value": "29.3%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/mexico-consumer-email-list/"
+    },
+    {
+      "claim": "Norway B2B cold email campaigns average 28.1% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Norway",
+      "metric": "open_rate",
+      "value": "28.1%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/norway-consumer-email-database/"
+    },
+    {
+      "claim": "Pakistan B2B cold email campaigns average 29.6% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Pakistan",
+      "metric": "open_rate",
+      "value": "29.6%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/pakistan-consumer-email-list/"
+    },
+    {
+      "claim": "Poland B2B cold email campaigns average 26% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Poland",
+      "metric": "open_rate",
+      "value": "26%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/poland-consumer-mailing-list/"
+    },
+    {
+      "claim": "Portugal B2B cold email campaigns average 28% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Portugal",
+      "metric": "open_rate",
+      "value": "28%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/portugal-consumer-email-list/"
+    },
+    {
+      "claim": "Singapore B2B cold email campaigns average 24.6% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Singapore",
+      "metric": "open_rate",
+      "value": "24.6%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/singapore-consumer-email-database/"
+    },
+    {
+      "claim": "Sweden B2B cold email campaigns average 30.1% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Sweden",
+      "metric": "open_rate",
+      "value": "30.1%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/sweden-consumer-email-list/"
+    },
+    {
+      "claim": "Taiwan B2B cold email campaigns average 26.1% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Taiwan",
+      "metric": "open_rate",
+      "value": "26.1%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/taiwan-consumer-mailing-list/"
+    },
+    {
+      "claim": "Colombia B2B cold email campaigns average 29.2% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Colombia",
+      "metric": "open_rate",
+      "value": "29.2%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/colombia-consumer-email-list/"
+    },
+    {
+      "claim": "Ireland B2B cold email campaigns average 25.8% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Ireland",
+      "metric": "open_rate",
+      "value": "25.8%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/ireland-consumer-email-database/"
+    },
+    {
+      "claim": "Israel B2B cold email campaigns average 35% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Israel",
+      "metric": "open_rate",
+      "value": "35%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/israel-consumer-email-list/"
+    },
+    {
+      "claim": "South Korea B2B cold email campaigns average 26.3% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "South Korea",
+      "metric": "open_rate",
+      "value": "26.3%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/south-korea-consumer-mailing-list/"
+    },
+    {
+      "claim": "Sri Lanka B2B cold email campaigns average 26.5% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Sri Lanka",
+      "metric": "open_rate",
+      "value": "26.5%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/sri-lanka-consumer-email-list/"
+    },
+    {
+      "claim": "Albania B2B cold email campaigns average 31.4% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Albania",
+      "metric": "open_rate",
+      "value": "31.4%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/albania-consumer-mailing-list/"
+    },
+    {
+      "claim": "Bangladesh B2B cold email campaigns average 26.6% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Bangladesh",
+      "metric": "open_rate",
+      "value": "26.6%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/bangladesh-consumer-email-list/"
+    },
+    {
+      "claim": "Costa Rica B2B cold email campaigns average 23.3% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Costa Rica",
+      "metric": "open_rate",
+      "value": "23.3%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/costa-rica-consumer-email-list/"
+    },
+    {
+      "claim": "Ecuador B2B cold email campaigns average 32.5% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Ecuador",
+      "metric": "open_rate",
+      "value": "32.5%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/ecuador-consumer-mailing-list/"
+    },
+    {
+      "claim": "Egypt B2B cold email campaigns average 26% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Egypt",
+      "metric": "open_rate",
+      "value": "26%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/egypt-consumer-email-list/"
+    },
+    {
+      "claim": "Honduras B2B cold email campaigns average 32.8% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Honduras",
+      "metric": "open_rate",
+      "value": "32.8%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/honduras-consumer-email-database/"
+    },
+    {
+      "claim": "Iran B2B cold email campaigns average 23.2% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Iran",
+      "metric": "open_rate",
+      "value": "23.2%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/iran-consumer-email-list/"
+    },
+    {
+      "claim": "Kazakhstan B2B cold email campaigns average 28% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Kazakhstan",
+      "metric": "open_rate",
+      "value": "28%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/kazakhstan-consumer-mailing-list/"
+    },
+    {
+      "claim": "Latin America B2B cold email campaigns average 33.1% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Latin America",
+      "metric": "open_rate",
+      "value": "33.1%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/latin-america-consumer-email-list/"
+    },
+    {
+      "claim": "Latvia B2B cold email campaigns average 26% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Latvia",
+      "metric": "open_rate",
+      "value": "26%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/latvia-consumer-email-list/"
+    },
+    {
+      "claim": "Luxembourg B2B cold email campaigns average 34.1% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Luxembourg",
+      "metric": "open_rate",
+      "value": "34.1%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/luxembourg-consumer-mailing-list/"
+    },
+    {
+      "claim": "Malaysia B2B cold email campaigns average 34.3% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Malaysia",
+      "metric": "open_rate",
+      "value": "34.3%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/malaysia-consumer-email-list/"
+    },
+    {
+      "claim": "Romania B2B cold email campaigns average 32.5% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Romania",
+      "metric": "open_rate",
+      "value": "32.5%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/romania-consumer-email-database/"
+    },
+    {
+      "claim": "Russia B2B cold email campaigns average 31.1% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Russia",
+      "metric": "open_rate",
+      "value": "31.1%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/russia-consumer-email-list/"
+    },
+    {
+      "claim": "Saudi Arabia B2B cold email campaigns average 31.8% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Saudi Arabia",
+      "metric": "open_rate",
+      "value": "31.8%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/saudi-arabia-consumer-email-list/"
+    },
+    {
+      "claim": "Slovenia B2B cold email campaigns average 31.8% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Slovenia",
+      "metric": "open_rate",
+      "value": "31.8%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/slovenia-consumer-mailing-list/"
+    },
+    {
+      "claim": "Tanzania B2B cold email campaigns average 28.1% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Tanzania",
+      "metric": "open_rate",
+      "value": "28.1%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/tanzania-consumer-email-list/"
+    },
+    {
+      "claim": "Tonga B2B cold email campaigns average 29.5% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Tonga",
+      "metric": "open_rate",
+      "value": "29.5%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/tonga-consumer-mailing-list/"
+    },
+    {
+      "claim": "Ukraine B2B cold email campaigns average 33.6% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Ukraine",
+      "metric": "open_rate",
+      "value": "33.6%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/ukraine-consumer-email-list/"
+    },
+    {
+      "claim": "Uruguay B2B cold email campaigns average 33.2% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Uruguay",
+      "metric": "open_rate",
+      "value": "33.2%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/uruguay-consumer-email-database/"
+    },
+    {
+      "claim": "Thailand B2B cold email campaigns average 30.2% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Thailand",
+      "metric": "open_rate",
+      "value": "30.2%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/thailand-consumer-email-list/"
+    },
+    {
+      "claim": "Comcast Users B2B cold email campaigns average 24.7% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Comcast Users",
+      "metric": "open_rate",
+      "value": "24.7%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/comcast-users-email-list/"
+    },
+    {
+      "claim": "Chile B2B cold email campaigns average 34.9% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Chile",
+      "metric": "open_rate",
+      "value": "34.9%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/chile-consumer-mailing-list/"
+    },
+    {
+      "claim": "Philippines B2B cold email campaigns average 23.3% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Philippines",
+      "metric": "open_rate",
+      "value": "23.3%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/philippines-consumer-email-list/"
+    },
+    {
+      "claim": "Turkey B2B cold email campaigns average 23% open rates with undefined decision-maker concentration",
+      "category": "benchmark",
+      "market": "Turkey",
+      "metric": "open_rate",
+      "value": "23%",
+      "unit": "percent",
+      "year": 2026,
+      "source_page": "/data-pages/turkey-consumer-email-database/"
+    },
+    {
+      "id": "country.united-states.open_rate.2026",
+      "claim": "Cold email open rates in United States range from 20% to 28% (median 24%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-united-states/",
+      "year": 2026
+    },
+    {
+      "id": "country.united-states.reply_rate.2026",
+      "claim": "Cold email reply rates in United States range from 3% to 8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-united-states/",
+      "year": 2026
+    },
+    {
+      "id": "country.united-states.compliance.2026",
+      "claim": "United States cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-united-states/",
+      "year": 2026
+    },
+    {
+      "id": "country.united-kingdom.open_rate.2026",
+      "claim": "Cold email open rates in United Kingdom range from 16% to 24% (median 20%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-united-kingdom/",
+      "year": 2026
+    },
+    {
+      "id": "country.united-kingdom.reply_rate.2026",
+      "claim": "Cold email reply rates in United Kingdom range from 2% to 5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-united-kingdom/",
+      "year": 2026
+    },
+    {
+      "id": "country.united-kingdom.compliance.2026",
+      "claim": "United Kingdom cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-united-kingdom/",
+      "year": 2026
+    },
+    {
+      "id": "country.germany.open_rate.2026",
+      "claim": "Cold email open rates in Germany range from 12% to 18% (median 14%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-germany/",
+      "year": 2026
+    },
+    {
+      "id": "country.germany.reply_rate.2026",
+      "claim": "Cold email reply rates in Germany range from 1.2% to 3% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-germany/",
+      "year": 2026
+    },
+    {
+      "id": "country.germany.compliance.2026",
+      "claim": "Germany cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-germany/",
+      "year": 2026
+    },
+    {
+      "id": "country.france.open_rate.2026",
+      "claim": "Cold email open rates in France range from 13% to 19% (median 16%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-france/",
+      "year": 2026
+    },
+    {
+      "id": "country.france.reply_rate.2026",
+      "claim": "Cold email reply rates in France range from 1.4% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-france/",
+      "year": 2026
+    },
+    {
+      "id": "country.france.compliance.2026",
+      "claim": "France cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-france/",
+      "year": 2026
+    },
+    {
+      "id": "country.india.open_rate.2026",
+      "claim": "Cold email open rates in India range from 20% to 30% (median 25%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-india/",
+      "year": 2026
+    },
+    {
+      "id": "country.india.reply_rate.2026",
+      "claim": "Cold email reply rates in India range from 2.5% to 6.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-india/",
+      "year": 2026
+    },
+    {
+      "id": "country.india.compliance.2026",
+      "claim": "India cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-india/",
+      "year": 2026
+    },
+    {
+      "id": "country.canada.open_rate.2026",
+      "claim": "Cold email open rates in Canada range from 17% to 25% (median 21%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-canada/",
+      "year": 2026
+    },
+    {
+      "id": "country.canada.reply_rate.2026",
+      "claim": "Cold email reply rates in Canada range from 2% to 5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-canada/",
+      "year": 2026
+    },
+    {
+      "id": "country.canada.compliance.2026",
+      "claim": "Canada cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-canada/",
+      "year": 2026
+    },
+    {
+      "id": "country.australia.open_rate.2026",
+      "claim": "Cold email open rates in Australia range from 16% to 24% (median 20%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-australia/",
+      "year": 2026
+    },
+    {
+      "id": "country.australia.reply_rate.2026",
+      "claim": "Cold email reply rates in Australia range from 1.8% to 4.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-australia/",
+      "year": 2026
+    },
+    {
+      "id": "country.australia.compliance.2026",
+      "claim": "Australia cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-australia/",
+      "year": 2026
+    },
+    {
+      "id": "country.japan.open_rate.2026",
+      "claim": "Cold email open rates in Japan range from 10% to 16% (median 12%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-japan/",
+      "year": 2026
+    },
+    {
+      "id": "country.japan.reply_rate.2026",
+      "claim": "Cold email reply rates in Japan range from 0.8% to 2.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-japan/",
+      "year": 2026
+    },
+    {
+      "id": "country.japan.compliance.2026",
+      "claim": "Japan cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-japan/",
+      "year": 2026
+    },
+    {
+      "id": "country.singapore.open_rate.2026",
+      "claim": "Cold email open rates in Singapore range from 17% to 26% (median 21%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-singapore/",
+      "year": 2026
+    },
+    {
+      "id": "country.singapore.reply_rate.2026",
+      "claim": "Cold email reply rates in Singapore range from 2% to 5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-singapore/",
+      "year": 2026
+    },
+    {
+      "id": "country.singapore.compliance.2026",
+      "claim": "Singapore cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-singapore/",
+      "year": 2026
+    },
+    {
+      "id": "country.uae.open_rate.2026",
+      "claim": "Cold email open rates in UAE range from 19% to 28% (median 23%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-uae/",
+      "year": 2026
+    },
+    {
+      "id": "country.uae.reply_rate.2026",
+      "claim": "Cold email reply rates in UAE range from 2.2% to 5.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-uae/",
+      "year": 2026
+    },
+    {
+      "id": "country.uae.compliance.2026",
+      "claim": "UAE cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-uae/",
+      "year": 2026
+    },
+    {
+      "id": "country.netherlands.open_rate.2026",
+      "claim": "Cold email open rates in Netherlands range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-netherlands/",
+      "year": 2026
+    },
+    {
+      "id": "country.netherlands.reply_rate.2026",
+      "claim": "Cold email reply rates in Netherlands range from 1.5% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-netherlands/",
+      "year": 2026
+    },
+    {
+      "id": "country.netherlands.compliance.2026",
+      "claim": "Netherlands cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-netherlands/",
+      "year": 2026
+    },
+    {
+      "id": "country.sweden.open_rate.2026",
+      "claim": "Cold email open rates in Sweden range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-sweden/",
+      "year": 2026
+    },
+    {
+      "id": "country.sweden.reply_rate.2026",
+      "claim": "Cold email reply rates in Sweden range from 1.7% to 4.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-sweden/",
+      "year": 2026
+    },
+    {
+      "id": "country.sweden.compliance.2026",
+      "claim": "Sweden cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-sweden/",
+      "year": 2026
+    },
+    {
+      "id": "country.israel.open_rate.2026",
+      "claim": "Cold email open rates in Israel range from 18% to 27% (median 22%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-israel/",
+      "year": 2026
+    },
+    {
+      "id": "country.israel.reply_rate.2026",
+      "claim": "Cold email reply rates in Israel range from 2% to 5.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-israel/",
+      "year": 2026
+    },
+    {
+      "id": "country.israel.compliance.2026",
+      "claim": "Israel cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-israel/",
+      "year": 2026
+    },
+    {
+      "id": "country.south-korea.open_rate.2026",
+      "claim": "Cold email open rates in South Korea range from 12% to 18% (median 14%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-south-korea/",
+      "year": 2026
+    },
+    {
+      "id": "country.south-korea.reply_rate.2026",
+      "claim": "Cold email reply rates in South Korea range from 1% to 2.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-south-korea/",
+      "year": 2026
+    },
+    {
+      "id": "country.south-korea.compliance.2026",
+      "claim": "South Korea cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-south-korea/",
+      "year": 2026
+    },
+    {
+      "id": "country.brazil.open_rate.2026",
+      "claim": "Cold email open rates in Brazil range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-brazil/",
+      "year": 2026
+    },
+    {
+      "id": "country.brazil.reply_rate.2026",
+      "claim": "Cold email reply rates in Brazil range from 1.8% to 4.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-brazil/",
+      "year": 2026
+    },
+    {
+      "id": "country.brazil.compliance.2026",
+      "claim": "Brazil cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-brazil/",
+      "year": 2026
+    },
+    {
+      "id": "country.mexico.open_rate.2026",
+      "claim": "Cold email open rates in Mexico range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-mexico/",
+      "year": 2026
+    },
+    {
+      "id": "country.mexico.reply_rate.2026",
+      "claim": "Cold email reply rates in Mexico range from 1.5% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-mexico/",
+      "year": 2026
+    },
+    {
+      "id": "country.mexico.compliance.2026",
+      "claim": "Mexico cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-mexico/",
+      "year": 2026
+    },
+    {
+      "id": "country.switzerland.open_rate.2026",
+      "claim": "Cold email open rates in Switzerland range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-switzerland/",
+      "year": 2026
+    },
+    {
+      "id": "country.switzerland.reply_rate.2026",
+      "claim": "Cold email reply rates in Switzerland range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-switzerland/",
+      "year": 2026
+    },
+    {
+      "id": "country.switzerland.compliance.2026",
+      "claim": "Switzerland cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-switzerland/",
+      "year": 2026
+    },
+    {
+      "id": "country.saudi-arabia.open_rate.2026",
+      "claim": "Cold email open rates in Saudi Arabia range from 16% to 24% (median 20%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-saudi-arabia/",
+      "year": 2026
+    },
+    {
+      "id": "country.saudi-arabia.reply_rate.2026",
+      "claim": "Cold email reply rates in Saudi Arabia range from 1.6% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-saudi-arabia/",
+      "year": 2026
+    },
+    {
+      "id": "country.saudi-arabia.compliance.2026",
+      "claim": "Saudi Arabia cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-saudi-arabia/",
+      "year": 2026
+    },
+    {
+      "id": "country.south-africa.open_rate.2026",
+      "claim": "Cold email open rates in South Africa range from 16% to 24% (median 20%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-south-africa/",
+      "year": 2026
+    },
+    {
+      "id": "country.south-africa.reply_rate.2026",
+      "claim": "Cold email reply rates in South Africa range from 1.7% to 4.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-south-africa/",
+      "year": 2026
+    },
+    {
+      "id": "country.south-africa.compliance.2026",
+      "claim": "South Africa cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-south-africa/",
+      "year": 2026
+    },
+    {
+      "id": "country.nigeria.open_rate.2026",
+      "claim": "Cold email open rates in Nigeria range from 18% to 28% (median 22%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-nigeria/",
+      "year": 2026
+    },
+    {
+      "id": "country.nigeria.reply_rate.2026",
+      "claim": "Cold email reply rates in Nigeria range from 2% to 5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-nigeria/",
+      "year": 2026
+    },
+    {
+      "id": "country.nigeria.compliance.2026",
+      "claim": "Nigeria cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-nigeria/",
+      "year": 2026
+    },
+    {
+      "id": "country.turkey.open_rate.2026",
+      "claim": "Cold email open rates in Turkey range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-turkey/",
+      "year": 2026
+    },
+    {
+      "id": "country.turkey.reply_rate.2026",
+      "claim": "Cold email reply rates in Turkey range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-turkey/",
+      "year": 2026
+    },
+    {
+      "id": "country.turkey.compliance.2026",
+      "claim": "Turkey cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-turkey/",
+      "year": 2026
+    },
+    {
+      "id": "country.poland.open_rate.2026",
+      "claim": "Cold email open rates in Poland range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-poland/",
+      "year": 2026
+    },
+    {
+      "id": "country.poland.reply_rate.2026",
+      "claim": "Cold email reply rates in Poland range from 1.4% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-poland/",
+      "year": 2026
+    },
+    {
+      "id": "country.poland.compliance.2026",
+      "claim": "Poland cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-poland/",
+      "year": 2026
+    },
+    {
+      "id": "country.ireland.open_rate.2026",
+      "claim": "Cold email open rates in Ireland range from 16% to 25% (median 20%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-ireland/",
+      "year": 2026
+    },
+    {
+      "id": "country.ireland.reply_rate.2026",
+      "claim": "Cold email reply rates in Ireland range from 1.8% to 4.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-ireland/",
+      "year": 2026
+    },
+    {
+      "id": "country.ireland.compliance.2026",
+      "claim": "Ireland cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-ireland/",
+      "year": 2026
+    },
+    {
+      "id": "country.hong-kong.open_rate.2026",
+      "claim": "Cold email open rates in Hong Kong range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-hong-kong/",
+      "year": 2026
+    },
+    {
+      "id": "country.hong-kong.reply_rate.2026",
+      "claim": "Cold email reply rates in Hong Kong range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-hong-kong/",
+      "year": 2026
+    },
+    {
+      "id": "country.hong-kong.compliance.2026",
+      "claim": "Hong Kong cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-hong-kong/",
+      "year": 2026
+    },
+    {
+      "id": "country.china.open_rate.2026",
+      "claim": "Cold email open rates in China range from 8% to 15% (median 11%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-china/",
+      "year": 2026
+    },
+    {
+      "id": "country.china.reply_rate.2026",
+      "claim": "Cold email reply rates in China range from 0.6% to 2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-china/",
+      "year": 2026
+    },
+    {
+      "id": "country.china.compliance.2026",
+      "claim": "China cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-china/",
+      "year": 2026
+    },
+    {
+      "id": "country.new-zealand.open_rate.2026",
+      "claim": "Cold email open rates in New Zealand range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-new-zealand/",
+      "year": 2026
+    },
+    {
+      "id": "country.new-zealand.reply_rate.2026",
+      "claim": "Cold email reply rates in New Zealand range from 1.6% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-new-zealand/",
+      "year": 2026
+    },
+    {
+      "id": "country.new-zealand.compliance.2026",
+      "claim": "New Zealand cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-new-zealand/",
+      "year": 2026
+    },
+    {
+      "id": "country.denmark.open_rate.2026",
+      "claim": "Cold email open rates in Denmark range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-denmark/",
+      "year": 2026
+    },
+    {
+      "id": "country.denmark.reply_rate.2026",
+      "claim": "Cold email reply rates in Denmark range from 1.7% to 4.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-denmark/",
+      "year": 2026
+    },
+    {
+      "id": "country.denmark.compliance.2026",
+      "claim": "Denmark cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-denmark/",
+      "year": 2026
+    },
+    {
+      "id": "country.norway.open_rate.2026",
+      "claim": "Cold email open rates in Norway range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-norway/",
+      "year": 2026
+    },
+    {
+      "id": "country.norway.reply_rate.2026",
+      "claim": "Cold email reply rates in Norway range from 1.7% to 4.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-norway/",
+      "year": 2026
+    },
+    {
+      "id": "country.norway.compliance.2026",
+      "claim": "Norway cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-norway/",
+      "year": 2026
+    },
+    {
+      "id": "country.finland.open_rate.2026",
+      "claim": "Cold email open rates in Finland range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-finland/",
+      "year": 2026
+    },
+    {
+      "id": "country.finland.reply_rate.2026",
+      "claim": "Cold email reply rates in Finland range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-finland/",
+      "year": 2026
+    },
+    {
+      "id": "country.finland.compliance.2026",
+      "claim": "Finland cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-finland/",
+      "year": 2026
+    },
+    {
+      "id": "country.malaysia.open_rate.2026",
+      "claim": "Cold email open rates in Malaysia range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-malaysia/",
+      "year": 2026
+    },
+    {
+      "id": "country.malaysia.reply_rate.2026",
+      "claim": "Cold email reply rates in Malaysia range from 1.6% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-malaysia/",
+      "year": 2026
+    },
+    {
+      "id": "country.malaysia.compliance.2026",
+      "claim": "Malaysia cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-malaysia/",
+      "year": 2026
+    },
+    {
+      "id": "country.philippines.open_rate.2026",
+      "claim": "Cold email open rates in Philippines range from 17% to 26% (median 21%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-philippines/",
+      "year": 2026
+    },
+    {
+      "id": "country.philippines.reply_rate.2026",
+      "claim": "Cold email reply rates in Philippines range from 2% to 5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-philippines/",
+      "year": 2026
+    },
+    {
+      "id": "country.philippines.compliance.2026",
+      "claim": "Philippines cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-philippines/",
+      "year": 2026
+    },
+    {
+      "id": "country.indonesia.open_rate.2026",
+      "claim": "Cold email open rates in Indonesia range from 16% to 25% (median 20%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-indonesia/",
+      "year": 2026
+    },
+    {
+      "id": "country.indonesia.reply_rate.2026",
+      "claim": "Cold email reply rates in Indonesia range from 1.8% to 4.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-indonesia/",
+      "year": 2026
+    },
+    {
+      "id": "country.indonesia.compliance.2026",
+      "claim": "Indonesia cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-indonesia/",
+      "year": 2026
+    },
+    {
+      "id": "country.thailand.open_rate.2026",
+      "claim": "Cold email open rates in Thailand range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-thailand/",
+      "year": 2026
+    },
+    {
+      "id": "country.thailand.reply_rate.2026",
+      "claim": "Cold email reply rates in Thailand range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-thailand/",
+      "year": 2026
+    },
+    {
+      "id": "country.thailand.compliance.2026",
+      "claim": "Thailand cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-thailand/",
+      "year": 2026
+    },
+    {
+      "id": "country.argentina.open_rate.2026",
+      "claim": "Cold email open rates in Argentina range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-argentina/",
+      "year": 2026
+    },
+    {
+      "id": "country.argentina.reply_rate.2026",
+      "claim": "Cold email reply rates in Argentina range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-argentina/",
+      "year": 2026
+    },
+    {
+      "id": "country.argentina.compliance.2026",
+      "claim": "Argentina cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-argentina/",
+      "year": 2026
+    },
+    {
+      "id": "country.spain.open_rate.2026",
+      "claim": "Cold email open rates in Spain range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-spain/",
+      "year": 2026
+    },
+    {
+      "id": "country.spain.reply_rate.2026",
+      "claim": "Cold email reply rates in Spain range from 1.4% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-spain/",
+      "year": 2026
+    },
+    {
+      "id": "country.spain.compliance.2026",
+      "claim": "Spain cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-spain/",
+      "year": 2026
+    },
+    {
+      "id": "country.italy.open_rate.2026",
+      "claim": "Cold email open rates in Italy range from 12% to 19% (median 15%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-italy/",
+      "year": 2026
+    },
+    {
+      "id": "country.italy.reply_rate.2026",
+      "claim": "Cold email reply rates in Italy range from 1.2% to 3% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-italy/",
+      "year": 2026
+    },
+    {
+      "id": "country.italy.compliance.2026",
+      "claim": "Italy cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-italy/",
+      "year": 2026
+    },
+    {
+      "id": "country.belgium.open_rate.2026",
+      "claim": "Cold email open rates in Belgium range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-belgium/",
+      "year": 2026
+    },
+    {
+      "id": "country.belgium.reply_rate.2026",
+      "claim": "Cold email reply rates in Belgium range from 1.4% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-belgium/",
+      "year": 2026
+    },
+    {
+      "id": "country.belgium.compliance.2026",
+      "claim": "Belgium cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-belgium/",
+      "year": 2026
+    },
+    {
+      "id": "country.austria.open_rate.2026",
+      "claim": "Cold email open rates in Austria range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-austria/",
+      "year": 2026
+    },
+    {
+      "id": "country.austria.reply_rate.2026",
+      "claim": "Cold email reply rates in Austria range from 1.4% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-austria/",
+      "year": 2026
+    },
+    {
+      "id": "country.austria.compliance.2026",
+      "claim": "Austria cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-austria/",
+      "year": 2026
+    },
+    {
+      "id": "country.portugal.open_rate.2026",
+      "claim": "Cold email open rates in Portugal range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-portugal/",
+      "year": 2026
+    },
+    {
+      "id": "country.portugal.reply_rate.2026",
+      "claim": "Cold email reply rates in Portugal range from 1.4% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-portugal/",
+      "year": 2026
+    },
+    {
+      "id": "country.portugal.compliance.2026",
+      "claim": "Portugal cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-portugal/",
+      "year": 2026
+    },
+    {
+      "id": "country.czech-republic.open_rate.2026",
+      "claim": "Cold email open rates in Czech Republic range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-czech-republic/",
+      "year": 2026
+    },
+    {
+      "id": "country.czech-republic.reply_rate.2026",
+      "claim": "Cold email reply rates in Czech Republic range from 1.4% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-czech-republic/",
+      "year": 2026
+    },
+    {
+      "id": "country.czech-republic.compliance.2026",
+      "claim": "Czech Republic cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-czech-republic/",
+      "year": 2026
+    },
+    {
+      "id": "country.egypt.open_rate.2026",
+      "claim": "Cold email open rates in Egypt range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-egypt/",
+      "year": 2026
+    },
+    {
+      "id": "country.egypt.reply_rate.2026",
+      "claim": "Cold email reply rates in Egypt range from 1.6% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-egypt/",
+      "year": 2026
+    },
+    {
+      "id": "country.egypt.compliance.2026",
+      "claim": "Egypt cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-egypt/",
+      "year": 2026
+    },
+    {
+      "id": "country.qatar.open_rate.2026",
+      "claim": "Cold email open rates in Qatar range from 16% to 24% (median 20%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-qatar/",
+      "year": 2026
+    },
+    {
+      "id": "country.qatar.reply_rate.2026",
+      "claim": "Cold email reply rates in Qatar range from 1.7% to 4.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-qatar/",
+      "year": 2026
+    },
+    {
+      "id": "country.qatar.compliance.2026",
+      "claim": "Qatar cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-qatar/",
+      "year": 2026
+    },
+    {
+      "id": "country.kuwait.open_rate.2026",
+      "claim": "Cold email open rates in Kuwait range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-kuwait/",
+      "year": 2026
+    },
+    {
+      "id": "country.kuwait.reply_rate.2026",
+      "claim": "Cold email reply rates in Kuwait range from 1.6% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-kuwait/",
+      "year": 2026
+    },
+    {
+      "id": "country.kuwait.compliance.2026",
+      "claim": "Kuwait cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-kuwait/",
+      "year": 2026
+    },
+    {
+      "id": "country.vietnam.open_rate.2026",
+      "claim": "Cold email open rates in Vietnam range from 16% to 25% (median 20%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-vietnam/",
+      "year": 2026
+    },
+    {
+      "id": "country.vietnam.reply_rate.2026",
+      "claim": "Cold email reply rates in Vietnam range from 1.7% to 4.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-vietnam/",
+      "year": 2026
+    },
+    {
+      "id": "country.vietnam.compliance.2026",
+      "claim": "Vietnam cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-vietnam/",
+      "year": 2026
+    },
+    {
+      "id": "country.colombia.open_rate.2026",
+      "claim": "Cold email open rates in Colombia range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-colombia/",
+      "year": 2026
+    },
+    {
+      "id": "country.colombia.reply_rate.2026",
+      "claim": "Cold email reply rates in Colombia range from 1.4% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-colombia/",
+      "year": 2026
+    },
+    {
+      "id": "country.colombia.compliance.2026",
+      "claim": "Colombia cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-colombia/",
+      "year": 2026
+    },
+    {
+      "id": "country.chile.open_rate.2026",
+      "claim": "Cold email open rates in Chile range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-chile/",
+      "year": 2026
+    },
+    {
+      "id": "country.chile.reply_rate.2026",
+      "claim": "Cold email reply rates in Chile range from 1.6% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-chile/",
+      "year": 2026
+    },
+    {
+      "id": "country.chile.compliance.2026",
+      "claim": "Chile cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-chile/",
+      "year": 2026
+    },
+    {
+      "id": "country.peru.open_rate.2026",
+      "claim": "Cold email open rates in Peru range from 12% to 20% (median 16%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-peru/",
+      "year": 2026
+    },
+    {
+      "id": "country.peru.reply_rate.2026",
+      "claim": "Cold email reply rates in Peru range from 1.4% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-peru/",
+      "year": 2026
+    },
+    {
+      "id": "country.peru.compliance.2026",
+      "claim": "Peru cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-peru/",
+      "year": 2026
+    },
+    {
+      "id": "country.greece.open_rate.2026",
+      "claim": "Cold email open rates in Greece range from 12% to 19% (median 15%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-greece/",
+      "year": 2026
+    },
+    {
+      "id": "country.greece.reply_rate.2026",
+      "claim": "Cold email reply rates in Greece range from 1.2% to 3% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-greece/",
+      "year": 2026
+    },
+    {
+      "id": "country.greece.compliance.2026",
+      "claim": "Greece cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-greece/",
+      "year": 2026
+    },
+    {
+      "id": "country.romania.open_rate.2026",
+      "claim": "Cold email open rates in Romania range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-romania/",
+      "year": 2026
+    },
+    {
+      "id": "country.romania.reply_rate.2026",
+      "claim": "Cold email reply rates in Romania range from 1.3% to 3.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-romania/",
+      "year": 2026
+    },
+    {
+      "id": "country.romania.compliance.2026",
+      "claim": "Romania cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-romania/",
+      "year": 2026
+    },
+    {
+      "id": "country.hungary.open_rate.2026",
+      "claim": "Cold email open rates in Hungary range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-hungary/",
+      "year": 2026
+    },
+    {
+      "id": "country.hungary.reply_rate.2026",
+      "claim": "Cold email reply rates in Hungary range from 1.3% to 3.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-hungary/",
+      "year": 2026
+    },
+    {
+      "id": "country.hungary.compliance.2026",
+      "claim": "Hungary cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-hungary/",
+      "year": 2026
+    },
+    {
+      "id": "country.pakistan.open_rate.2026",
+      "claim": "Cold email open rates in Pakistan range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-pakistan/",
+      "year": 2026
+    },
+    {
+      "id": "country.pakistan.reply_rate.2026",
+      "claim": "Cold email reply rates in Pakistan range from 1.6% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-pakistan/",
+      "year": 2026
+    },
+    {
+      "id": "country.pakistan.compliance.2026",
+      "claim": "Pakistan cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-pakistan/",
+      "year": 2026
+    },
+    {
+      "id": "country.morocco.open_rate.2026",
+      "claim": "Cold email open rates in Morocco range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-morocco/",
+      "year": 2026
+    },
+    {
+      "id": "country.morocco.reply_rate.2026",
+      "claim": "Cold email reply rates in Morocco range from 1.4% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-morocco/",
+      "year": 2026
+    },
+    {
+      "id": "country.morocco.compliance.2026",
+      "claim": "Morocco cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-morocco/",
+      "year": 2026
+    },
+    {
+      "id": "country.bangladesh.open_rate.2026",
+      "claim": "Cold email open rates in Bangladesh range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-bangladesh/",
+      "year": 2026
+    },
+    {
+      "id": "country.bangladesh.reply_rate.2026",
+      "claim": "Cold email reply rates in Bangladesh range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-bangladesh/",
+      "year": 2026
+    },
+    {
+      "id": "country.bangladesh.compliance.2026",
+      "claim": "Bangladesh cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-bangladesh/",
+      "year": 2026
+    },
+    {
+      "id": "country.russia.open_rate.2026",
+      "claim": "Cold email open rates in Russia range from 10% to 17% (median 13%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-russia/",
+      "year": 2026
+    },
+    {
+      "id": "country.russia.reply_rate.2026",
+      "claim": "Cold email reply rates in Russia range from 0.9% to 2.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-russia/",
+      "year": 2026
+    },
+    {
+      "id": "country.russia.compliance.2026",
+      "claim": "Russia cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-russia/",
+      "year": 2026
+    },
+    {
+      "id": "country.croatia.open_rate.2026",
+      "claim": "Cold email open rates in Croatia range from 12% to 19% (median 15%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-croatia/",
+      "year": 2026
+    },
+    {
+      "id": "country.croatia.reply_rate.2026",
+      "claim": "Cold email reply rates in Croatia range from 1.2% to 3% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-croatia/",
+      "year": 2026
+    },
+    {
+      "id": "country.croatia.compliance.2026",
+      "claim": "Croatia cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-croatia/",
+      "year": 2026
+    },
+    {
+      "id": "country.cyprus.open_rate.2026",
+      "claim": "Cold email open rates in Cyprus range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-cyprus/",
+      "year": 2026
+    },
+    {
+      "id": "country.cyprus.reply_rate.2026",
+      "claim": "Cold email reply rates in Cyprus range from 1.3% to 3.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-cyprus/",
+      "year": 2026
+    },
+    {
+      "id": "country.cyprus.compliance.2026",
+      "claim": "Cyprus cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-cyprus/",
+      "year": 2026
+    },
+    {
+      "id": "country.estonia.open_rate.2026",
+      "claim": "Cold email open rates in Estonia range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-estonia/",
+      "year": 2026
+    },
+    {
+      "id": "country.estonia.reply_rate.2026",
+      "claim": "Cold email reply rates in Estonia range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-estonia/",
+      "year": 2026
+    },
+    {
+      "id": "country.estonia.compliance.2026",
+      "claim": "Estonia cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-estonia/",
+      "year": 2026
+    },
+    {
+      "id": "country.latvia.open_rate.2026",
+      "claim": "Cold email open rates in Latvia range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-latvia/",
+      "year": 2026
+    },
+    {
+      "id": "country.latvia.reply_rate.2026",
+      "claim": "Cold email reply rates in Latvia range from 1.3% to 3.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-latvia/",
+      "year": 2026
+    },
+    {
+      "id": "country.latvia.compliance.2026",
+      "claim": "Latvia cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-latvia/",
+      "year": 2026
+    },
+    {
+      "id": "country.lithuania.open_rate.2026",
+      "claim": "Cold email open rates in Lithuania range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-lithuania/",
+      "year": 2026
+    },
+    {
+      "id": "country.lithuania.reply_rate.2026",
+      "claim": "Cold email reply rates in Lithuania range from 1.3% to 3.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-lithuania/",
+      "year": 2026
+    },
+    {
+      "id": "country.lithuania.compliance.2026",
+      "claim": "Lithuania cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-lithuania/",
+      "year": 2026
+    },
+    {
+      "id": "country.luxembourg.open_rate.2026",
+      "claim": "Cold email open rates in Luxembourg range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-luxembourg/",
+      "year": 2026
+    },
+    {
+      "id": "country.luxembourg.reply_rate.2026",
+      "claim": "Cold email reply rates in Luxembourg range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-luxembourg/",
+      "year": 2026
+    },
+    {
+      "id": "country.luxembourg.compliance.2026",
+      "claim": "Luxembourg cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-luxembourg/",
+      "year": 2026
+    },
+    {
+      "id": "country.serbia.open_rate.2026",
+      "claim": "Cold email open rates in Serbia range from 12% to 19% (median 15%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-serbia/",
+      "year": 2026
+    },
+    {
+      "id": "country.serbia.reply_rate.2026",
+      "claim": "Cold email reply rates in Serbia range from 1.2% to 3% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-serbia/",
+      "year": 2026
+    },
+    {
+      "id": "country.serbia.compliance.2026",
+      "claim": "Serbia cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-serbia/",
+      "year": 2026
+    },
+    {
+      "id": "country.ukraine.open_rate.2026",
+      "claim": "Cold email open rates in Ukraine range from 11% to 18% (median 14%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-ukraine/",
+      "year": 2026
+    },
+    {
+      "id": "country.ukraine.reply_rate.2026",
+      "claim": "Cold email reply rates in Ukraine range from 1.1% to 2.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-ukraine/",
+      "year": 2026
+    },
+    {
+      "id": "country.ukraine.compliance.2026",
+      "claim": "Ukraine cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-ukraine/",
+      "year": 2026
+    },
+    {
+      "id": "country.bahrain.open_rate.2026",
+      "claim": "Cold email open rates in Bahrain range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-bahrain/",
+      "year": 2026
+    },
+    {
+      "id": "country.bahrain.reply_rate.2026",
+      "claim": "Cold email reply rates in Bahrain range from 1.6% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-bahrain/",
+      "year": 2026
+    },
+    {
+      "id": "country.bahrain.compliance.2026",
+      "claim": "Bahrain cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-bahrain/",
+      "year": 2026
+    },
+    {
+      "id": "country.oman.open_rate.2026",
+      "claim": "Cold email open rates in Oman range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-oman/",
+      "year": 2026
+    },
+    {
+      "id": "country.oman.reply_rate.2026",
+      "claim": "Cold email reply rates in Oman range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-oman/",
+      "year": 2026
+    },
+    {
+      "id": "country.oman.compliance.2026",
+      "claim": "Oman cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-oman/",
+      "year": 2026
+    },
+    {
+      "id": "country.lebanon.open_rate.2026",
+      "claim": "Cold email open rates in Lebanon range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-lebanon/",
+      "year": 2026
+    },
+    {
+      "id": "country.lebanon.reply_rate.2026",
+      "claim": "Cold email reply rates in Lebanon range from 1.4% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-lebanon/",
+      "year": 2026
+    },
+    {
+      "id": "country.lebanon.compliance.2026",
+      "claim": "Lebanon cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-lebanon/",
+      "year": 2026
+    },
+    {
+      "id": "country.ghana.open_rate.2026",
+      "claim": "Cold email open rates in Ghana range from 15% to 23% (median 19%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-ghana/",
+      "year": 2026
+    },
+    {
+      "id": "country.ghana.reply_rate.2026",
+      "claim": "Cold email reply rates in Ghana range from 1.6% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-ghana/",
+      "year": 2026
+    },
+    {
+      "id": "country.ghana.compliance.2026",
+      "claim": "Ghana cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-ghana/",
+      "year": 2026
+    },
+    {
+      "id": "country.iceland.open_rate.2026",
+      "claim": "Cold email open rates in Iceland range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-iceland/",
+      "year": 2026
+    },
+    {
+      "id": "country.iceland.reply_rate.2026",
+      "claim": "Cold email reply rates in Iceland range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-iceland/",
+      "year": 2026
+    },
+    {
+      "id": "country.iceland.compliance.2026",
+      "claim": "Iceland cold email operates under the strict compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-iceland/",
+      "year": 2026
+    },
+    {
+      "id": "country.malta.open_rate.2026",
+      "claim": "Cold email open rates in Malta range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-malta/",
+      "year": 2026
+    },
+    {
+      "id": "country.malta.reply_rate.2026",
+      "claim": "Cold email reply rates in Malta range from 1.3% to 3.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-malta/",
+      "year": 2026
+    },
+    {
+      "id": "country.malta.compliance.2026",
+      "claim": "Malta cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-malta/",
+      "year": 2026
+    },
+    {
+      "id": "country.slovenia.open_rate.2026",
+      "claim": "Cold email open rates in Slovenia range from 13% to 21% (median 17%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-slovenia/",
+      "year": 2026
+    },
+    {
+      "id": "country.slovenia.reply_rate.2026",
+      "claim": "Cold email reply rates in Slovenia range from 1.3% to 3.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-slovenia/",
+      "year": 2026
+    },
+    {
+      "id": "country.slovenia.compliance.2026",
+      "claim": "Slovenia cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-slovenia/",
+      "year": 2026
+    },
+    {
+      "id": "country.montenegro.open_rate.2026",
+      "claim": "Cold email open rates in Montenegro range from 11% to 18% (median 14%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-montenegro/",
+      "year": 2026
+    },
+    {
+      "id": "country.montenegro.reply_rate.2026",
+      "claim": "Cold email reply rates in Montenegro range from 1.1% to 2.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-montenegro/",
+      "year": 2026
+    },
+    {
+      "id": "country.montenegro.compliance.2026",
+      "claim": "Montenegro cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-montenegro/",
+      "year": 2026
+    },
+    {
+      "id": "country.sri-lanka.open_rate.2026",
+      "claim": "Cold email open rates in Sri Lanka range from 14% to 22% (median 18%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-sri-lanka/",
+      "year": 2026
+    },
+    {
+      "id": "country.sri-lanka.reply_rate.2026",
+      "claim": "Cold email reply rates in Sri Lanka range from 1.5% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-sri-lanka/",
+      "year": 2026
+    },
+    {
+      "id": "country.sri-lanka.compliance.2026",
+      "claim": "Sri Lanka cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-sri-lanka/",
+      "year": 2026
+    },
+    {
+      "id": "country.togo.open_rate.2026",
+      "claim": "Cold email open rates in Togo range from 12% to 19% (median 15%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-togo/",
+      "year": 2026
+    },
+    {
+      "id": "country.togo.reply_rate.2026",
+      "claim": "Cold email reply rates in Togo range from 1.2% to 3% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-togo/",
+      "year": 2026
+    },
+    {
+      "id": "country.togo.compliance.2026",
+      "claim": "Togo cold email operates under the permissive compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-togo/",
+      "year": 2026
+    },
+    {
+      "id": "country.bulgaria.open_rate.2026",
+      "claim": "Cold email open rates in Bulgaria range from 12% to 19% (median 15%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-bulgaria/",
+      "year": 2026
+    },
+    {
+      "id": "country.bulgaria.reply_rate.2026",
+      "claim": "Cold email reply rates in Bulgaria range from 1.2% to 3% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-bulgaria/",
+      "year": 2026
+    },
+    {
+      "id": "country.bulgaria.compliance.2026",
+      "claim": "Bulgaria cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-bulgaria/",
+      "year": 2026
+    },
+    {
+      "id": "country.belarus.open_rate.2026",
+      "claim": "Cold email open rates in Belarus range from 10% to 17% (median 13%) in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-belarus/",
+      "year": 2026
+    },
+    {
+      "id": "country.belarus.reply_rate.2026",
+      "claim": "Cold email reply rates in Belarus range from 0.9% to 2.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-open-rate-belarus/",
+      "year": 2026
+    },
+    {
+      "id": "country.belarus.compliance.2026",
+      "claim": "Belarus cold email operates under the moderate compliance tier in 2026.",
+      "source": "https://b2bdataindex.com/answers/is-cold-email-legal-in-belarus/",
+      "year": 2026
+    },
+    {
+      "id": "industry.technology-software.reply_rate.2026",
+      "claim": "Technology & Software cold email reply rates range from 3.5% to 7.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-technology-software/",
+      "year": 2026
+    },
+    {
+      "id": "industry.healthcare-medical.reply_rate.2026",
+      "claim": "Healthcare & Medical cold email reply rates range from 2% to 4.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-healthcare-medical/",
+      "year": 2026
+    },
+    {
+      "id": "industry.manufacturing-engineering.reply_rate.2026",
+      "claim": "Manufacturing & Engineering cold email reply rates range from 1.8% to 4% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-manufacturing-engineering/",
+      "year": 2026
+    },
+    {
+      "id": "industry.finance-banking.reply_rate.2026",
+      "claim": "Finance & Banking cold email reply rates range from 1.5% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-finance-banking/",
+      "year": 2026
+    },
+    {
+      "id": "industry.professional-services.reply_rate.2026",
+      "claim": "Professional Services cold email reply rates range from 2.5% to 6% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-professional-services/",
+      "year": 2026
+    },
+    {
+      "id": "industry.real-estate.reply_rate.2026",
+      "claim": "Real Estate cold email reply rates range from 2% to 5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-real-estate/",
+      "year": 2026
+    },
+    {
+      "id": "industry.construction.reply_rate.2026",
+      "claim": "Construction cold email reply rates range from 1.8% to 4.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-construction/",
+      "year": 2026
+    },
+    {
+      "id": "industry.legal.reply_rate.2026",
+      "claim": "Legal cold email reply rates range from 1.8% to 4.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-legal/",
+      "year": 2026
+    },
+    {
+      "id": "industry.ecommerce.reply_rate.2026",
+      "claim": "E-commerce cold email reply rates range from 3% to 7% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-ecommerce/",
+      "year": 2026
+    },
+    {
+      "id": "industry.oil-energy.reply_rate.2026",
+      "claim": "Oil & Energy cold email reply rates range from 1.5% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-oil-energy/",
+      "year": 2026
+    },
+    {
+      "id": "industry.education-training.reply_rate.2026",
+      "claim": "Education & Training cold email reply rates range from 1.8% to 4.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-education-training/",
+      "year": 2026
+    },
+    {
+      "id": "industry.retail-commerce.reply_rate.2026",
+      "claim": "Retail & Commerce cold email reply rates range from 1.5% to 3.5% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-retail-commerce/",
+      "year": 2026
+    },
+    {
+      "id": "industry.agriculture-food.reply_rate.2026",
+      "claim": "Agriculture & Food cold email reply rates range from 1.6% to 3.8% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-agriculture-food/",
+      "year": 2026
+    },
+    {
+      "id": "industry.transportation-logistics.reply_rate.2026",
+      "claim": "Transportation & Logistics cold email reply rates range from 1.8% to 4.2% in 2026.",
+      "source": "https://b2bdataindex.com/answers/cold-email-reply-rate-transportation-logistics/",
+      "year": 2026
+    },
+    {
+      "id": "seniority.cto.2026",
+      "claim": "Chief Technology Officer cold email reply rate is 0.8–2.5% (median 1.4%) in 2026.",
+      "source": "https://b2bdataindex.com/seniority/cto-email-list/",
+      "year": 2026
+    },
+    {
+      "id": "seniority.cfo.2026",
+      "claim": "Chief Financial Officer cold email reply rate is 0.8–2.5% (median 1.4%) in 2026.",
+      "source": "https://b2bdataindex.com/seniority/cfo-email-list/",
+      "year": 2026
+    },
+    {
+      "id": "seniority.ceo.2026",
+      "claim": "Chief Executive Officer cold email reply rate is 0.8–2.5% (median 1.4%) in 2026.",
+      "source": "https://b2bdataindex.com/seniority/ceo-email-list/",
+      "year": 2026
+    },
+    {
+      "id": "seniority.vp-sales.2026",
+      "claim": "Vice President of Sales cold email reply rate is 1.5–4% (median 2.5%) in 2026.",
+      "source": "https://b2bdataindex.com/seniority/vp-sales-email-list/",
+      "year": 2026
+    },
+    {
+      "id": "seniority.vp-marketing.2026",
+      "claim": "Vice President of Marketing cold email reply rate is 1.5–4% (median 2.5%) in 2026.",
+      "source": "https://b2bdataindex.com/seniority/vp-marketing-email-list/",
+      "year": 2026
+    },
+    {
+      "id": "seniority.founder.2026",
+      "claim": "Founder / Co-Founder cold email reply rate is 3–8% (median 5.5%) in 2026.",
+      "source": "https://b2bdataindex.com/seniority/founder-email-list/",
+      "year": 2026
+    },
+    {
+      "id": "seniority.decision-maker.2026",
+      "claim": "B2B Decision-Maker (Multi-Role) cold email reply rate is 1.5–4% (median 2.5%) in 2026.",
+      "source": "https://b2bdataindex.com/seniority/decision-maker-email-list/",
+      "year": 2026
+    }
+  ]
+}

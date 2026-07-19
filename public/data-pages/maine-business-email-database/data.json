@@ -1,0 +1,38 @@
+{
+  "name": "Maine Business Email Database",
+  "location": "Maine",
+  "slug": "maine-business-email-database",
+  "url": "https://b2bdataindex.com/data-pages/maine-business-email-database/",
+  "records": 331836,
+  "industries": {
+    "Finance & Insurance": 19,
+    "Technology & Software": 18,
+    "Agriculture & Food": 16,
+    "Healthcare & Medical": 12,
+    "Hospitality & Tourism": 12,
+    "Energy & Utilities": 12,
+    "Manufacturing": 11
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 48,
+    "SME (11–100 employees)": 28,
+    "Mid-market (101–500)": 8,
+    "Enterprise (500+)": 16
+  },
+  "benchmarks": {
+    "open_rate": "29.3%",
+    "reply_rate": "5.5%",
+    "ctr": "9.3%",
+    "bounce_rate": "1.5%"
+  },
+  "data_quality": {
+    "verification_rate": "97%",
+    "decision_maker_ratio": "41%",
+    "last_verified": "Q1-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-maine-business-email-leads-database/"
+}

@@ -1,0 +1,14 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "B2B Data Index API",
+    "version": "1.1.0",
+    "description": "Full spec hosted at api.b2bdataindex.com/openapi.json"
+  },
+  "servers": [
+    {
+      "url": "https://api.b2bdataindex.com"
+    }
+  ],
+  "x-canonical-spec": "https://api.b2bdataindex.com/openapi.json"
+}

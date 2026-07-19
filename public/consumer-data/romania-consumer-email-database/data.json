@@ -1,0 +1,37 @@
+{
+  "name": "Romania Consumer Email Database",
+  "location": "Romania",
+  "slug": "romania-consumer-email-database",
+  "url": "https://b2bdataindex.com/consumer-data/romania-consumer-email-database/",
+  "records": 3204740,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 23,
+      "25–34": 16,
+      "35–44": 16,
+      "45–54": 18,
+      "55–64": 9,
+      "65+": 18
+    },
+    "gender": {
+      "female": "47%",
+      "male": "53%"
+    }
+  },
+  "interests": {
+    "Sports & Fitness": 19,
+    "Home & Family": 18,
+    "Entertainment & Media": 17,
+    "Technology & Gadgets": 17,
+    "Shopping & Retail": 15,
+    "Travel & Leisure": 14
+  },
+  "benchmarks": {
+    "open_rate": "32.5%",
+    "ctr": "4.7%"
+  },
+  "compliance": {
+    "framework": "GDPR (Consent Required)"
+  },
+  "product_url": "https://leadsblue.com/leads/romania-consumer-email-database/"
+}

@@ -1,0 +1,105 @@
+User-agent: *
+Allow: /
+Allow: /llm/
+Allow: /llm.txt
+Allow: /llms.txt
+Allow: /humans.txt
+Allow: /use-cases/
+Allow: /industries/
+Allow: /city/
+Allow: /resources/
+Allow: /tools/
+Allow: /compare/
+Allow: /website-data/
+Allow: /benchmarks/
+Allow: /get-b2b-data/
+Allow: /contribute/
+Allow: /cite/
+Allow: /dataset/
+Allow: /embed/
+Allow: /data-pages/
+Allow: /usa-categories/
+Allow: /consumer-data/
+Allow: /targeted-lists/
+Allow: /blog/
+Allow: /api/
+Allow: /search-index.json
+Allow: /methodology/
+Allow: /all-databases/
+Allow: /regions/
+Allow: /about/
+Allow: /glossary/
+Allow: /faq/
+
+# LLM & AI Crawlers — explicitly allowed full access
+User-agent: GPTBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: Omgilibot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+# Block image crawlers (no images to index)
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: Bingbot-Image
+Disallow: /
+
+# Sitemap index + all child sitemaps
+Sitemap: https://b2bdataindex.com/sitemap.xml
+Sitemap: https://b2bdataindex.com/sitemap-business.xml
+Sitemap: https://b2bdataindex.com/sitemap-consumer.xml
+Sitemap: https://b2bdataindex.com/sitemap-targeted.xml
+Sitemap: https://b2bdataindex.com/sitemap-usa.xml
+Sitemap: https://b2bdataindex.com/sitemap-tech.xml
+Sitemap: https://b2bdataindex.com/sitemap-core.xml
+Sitemap: https://b2bdataindex.com/sitemap-blog.xml
+Sitemap: https://b2bdataindex.com/sitemap-extras.xml
+Sitemap: https://b2bdataindex.com/sitemap-images.xml
+Sitemap: https://b2bdataindex.com/sitemap-datasets.xml
+
+# LLM agent context files
+LLM-Context: https://b2bdataindex.com/llm.txt
+LLM-Data: https://b2bdataindex.com/llm/
+Humans: https://b2bdataindex.com/humans.txt
+Allow: /answers/
+Allow: /seniority/
+Allow: /.well-known/
+Allow: /openapi.json
+Sitemap: https://b2bdataindex.com/sitemap-answers.xml
+Sitemap: https://b2bdataindex.com/sitemap-seniority.xml
+Sitemap: https://b2bdataindex.com/sitemap-comparisons.xml
+Sitemap: https://b2bdataindex.com/sitemap-v5.xml

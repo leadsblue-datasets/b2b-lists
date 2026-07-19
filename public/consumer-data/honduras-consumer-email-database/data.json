@@ -1,0 +1,37 @@
+{
+  "name": "Honduras Consumer Email Database",
+  "location": "Honduras",
+  "slug": "honduras-consumer-email-database",
+  "url": "https://b2bdataindex.com/consumer-data/honduras-consumer-email-database/",
+  "records": 1156046,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 16,
+      "25–34": 19,
+      "35–44": 13,
+      "45–54": 18,
+      "55–64": 15,
+      "65+": 19
+    },
+    "gender": {
+      "female": "52%",
+      "male": "48%"
+    }
+  },
+  "interests": {
+    "Health & Wellness": 19,
+    "Travel & Leisure": 18,
+    "Sports & Fitness": 17,
+    "Home & Family": 17,
+    "Finance & Investment": 15,
+    "Education & Self-Improvement": 14
+  },
+  "benchmarks": {
+    "open_rate": "32.8%",
+    "ctr": "5.6%"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/honduras-consumer-email-database/"
+}

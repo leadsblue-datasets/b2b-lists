@@ -1,0 +1,38 @@
+{
+  "name": "Malta Business Email List",
+  "location": "Malta",
+  "slug": "malta-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/malta-business-email-list/",
+  "records": 431111,
+  "industries": {
+    "Technology": 20,
+    "Retail & Commerce": 18,
+    "Professional Services": 17,
+    "Education": 13,
+    "Energy": 11,
+    "Finance & Banking": 11,
+    "Transportation": 10
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 54,
+    "SME (11–100 employees)": 30,
+    "Mid-market (101–500)": 11,
+    "Enterprise (500+)": 5
+  },
+  "benchmarks": {
+    "open_rate": "26.3%",
+    "reply_rate": "5.7%",
+    "ctr": "9.4%",
+    "bounce_rate": "1.6%"
+  },
+  "data_quality": {
+    "verification_rate": "97%",
+    "decision_maker_ratio": "43%",
+    "last_verified": "Q2-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/malta-business-email-leads-database/"
+}

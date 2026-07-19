@@ -1,0 +1,37 @@
+{
+  "name": "Czech Republic Consumer Mailing List",
+  "location": "Czech Republic",
+  "slug": "czech-republic-consumer-mailing-list",
+  "url": "https://b2bdataindex.com/consumer-data/czech-republic-consumer-mailing-list/",
+  "records": 8102114,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 22,
+      "25–34": 14,
+      "35–44": 17,
+      "45–54": 11,
+      "55–64": 12,
+      "65+": 24
+    },
+    "gender": {
+      "female": "56%",
+      "male": "44%"
+    }
+  },
+  "interests": {
+    "Education & Self-Improvement": 18,
+    "Shopping & Retail": 18,
+    "Home & Family": 17,
+    "Beauty & Fashion": 17,
+    "Sports & Fitness": 15,
+    "Automotive": 15
+  },
+  "benchmarks": {
+    "open_rate": "28.2%",
+    "ctr": "4%"
+  },
+  "compliance": {
+    "framework": "GDPR (Consent Required)"
+  },
+  "product_url": "https://leadsblue.com/leads/czechrepublic-consumer-email-database/"
+}

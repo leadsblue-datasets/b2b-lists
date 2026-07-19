@@ -1,0 +1,38 @@
+{
+  "name": "California Business Email List",
+  "location": "California",
+  "slug": "california-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/california-business-email-list/",
+  "records": 13313958,
+  "industries": {
+    "Technology & Software": 32,
+    "Entertainment & Media": 19,
+    "Healthcare": 15,
+    "Finance & Banking": 10,
+    "Retail & Commerce": 8,
+    "Professional Services": 9,
+    "Agriculture": 7
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 50,
+    "SME (11–100 employees)": 29,
+    "Mid-market (101–500)": 10,
+    "Enterprise (500+)": 11
+  },
+  "benchmarks": {
+    "open_rate": "20.9%",
+    "reply_rate": "4%",
+    "ctr": "5.4%",
+    "bounce_rate": "1.7%"
+  },
+  "data_quality": {
+    "verification_rate": "97%",
+    "decision_maker_ratio": "38%",
+    "last_verified": "Q1-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-california-business-email-leads-database/"
+}

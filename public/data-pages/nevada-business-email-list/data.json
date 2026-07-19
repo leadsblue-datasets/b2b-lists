@@ -1,0 +1,38 @@
+{
+  "name": "Nevada Business Email List",
+  "location": "Nevada",
+  "slug": "nevada-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/nevada-business-email-list/",
+  "records": 3792513,
+  "industries": {
+    "Technology & Software": 20,
+    "Professional Services": 15,
+    "Energy & Utilities": 15,
+    "Healthcare & Medical": 14,
+    "Retail & Commerce": 13,
+    "Agriculture & Food": 12,
+    "Manufacturing": 11
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 54,
+    "SME (11–100 employees)": 28,
+    "Mid-market (101–500)": 9,
+    "Enterprise (500+)": 9
+  },
+  "benchmarks": {
+    "open_rate": "28.7%",
+    "reply_rate": "7.8%",
+    "ctr": "4.1%",
+    "bounce_rate": "1.8%"
+  },
+  "data_quality": {
+    "verification_rate": "95%",
+    "decision_maker_ratio": "51%",
+    "last_verified": "Q2-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-nevada-business-email-leads-database/"
+}

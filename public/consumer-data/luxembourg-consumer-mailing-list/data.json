@@ -1,0 +1,37 @@
+{
+  "name": "Luxembourg Consumer Mailing List",
+  "location": "Luxembourg",
+  "slug": "luxembourg-consumer-mailing-list",
+  "url": "https://b2bdataindex.com/consumer-data/luxembourg-consumer-mailing-list/",
+  "records": 1787493,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 28,
+      "25–34": 10,
+      "35–44": 14,
+      "45–54": 13,
+      "55–64": 10,
+      "65+": 25
+    },
+    "gender": {
+      "female": "44%",
+      "male": "56%"
+    }
+  },
+  "interests": {
+    "Health & Wellness": 23,
+    "Technology & Gadgets": 20,
+    "Food & Dining": 20,
+    "Automotive": 15,
+    "Shopping & Retail": 11,
+    "Finance & Investment": 11
+  },
+  "benchmarks": {
+    "open_rate": "34.1%",
+    "ctr": "3.9%"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/luxembourg-consumer-email-database/"
+}

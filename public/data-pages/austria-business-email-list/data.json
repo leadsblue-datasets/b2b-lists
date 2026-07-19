@@ -1,0 +1,38 @@
+{
+  "name": "Austria Business Email List",
+  "location": "Austria",
+  "slug": "austria-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/austria-business-email-list/",
+  "records": 2508502,
+  "industries": {
+    "Healthcare": 21,
+    "Retail & Commerce": 21,
+    "Tourism & Hospitality": 17,
+    "Construction": 12,
+    "Energy": 10,
+    "Manufacturing & Engineering": 10,
+    "Technology": 9
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 47,
+    "SME (11–100 employees)": 25,
+    "Mid-market (101–500)": 12,
+    "Enterprise (500+)": 16
+  },
+  "benchmarks": {
+    "open_rate": "22.8%",
+    "reply_rate": "7.7%",
+    "ctr": "4.8%",
+    "bounce_rate": "1.8%"
+  },
+  "data_quality": {
+    "verification_rate": "96%",
+    "decision_maker_ratio": "52%",
+    "last_verified": "Q1-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "GDPR"
+  },
+  "product_url": "https://leadsblue.com/leads/austria-business-email-leads-database/"
+}

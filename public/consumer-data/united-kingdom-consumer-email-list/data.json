@@ -1,0 +1,37 @@
+{
+  "name": "United Kingdom Consumer Email List",
+  "location": "United Kingdom",
+  "slug": "united-kingdom-consumer-email-list",
+  "url": "https://b2bdataindex.com/consumer-data/united-kingdom-consumer-email-list/",
+  "records": 30091193,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 19,
+      "25–34": 8,
+      "35–44": 10,
+      "45–54": 20,
+      "55–64": 22,
+      "65+": 21
+    },
+    "gender": {
+      "female": "50%",
+      "male": "50%"
+    }
+  },
+  "interests": {
+    "Food & Dining": 17,
+    "Shopping & Retail": 18,
+    "Technology & Gadgets": 17,
+    "Health & Wellness": 16,
+    "Automotive": 16,
+    "Home & Family": 16
+  },
+  "benchmarks": {
+    "open_rate": "32.7%",
+    "ctr": "3.9%"
+  },
+  "compliance": {
+    "framework": "UK GDPR + PECR"
+  },
+  "product_url": "https://leadsblue.com/leads/unitedkingdom-consumer-email-database/"
+}

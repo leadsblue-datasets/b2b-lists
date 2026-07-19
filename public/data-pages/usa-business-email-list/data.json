@@ -1,0 +1,38 @@
+{
+  "name": "USA Business Email List",
+  "location": "USA",
+  "slug": "usa-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/usa-business-email-list/",
+  "records": 86581419,
+  "industries": {
+    "Technology & Software": 16,
+    "Professional Services": 16,
+    "Healthcare & Medical": 17,
+    "Finance & Insurance": 15,
+    "Retail & Commerce": 10,
+    "Manufacturing": 13,
+    "Education & Training": 13
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 53,
+    "SME (11–100 employees)": 28,
+    "Mid-market (101–500)": 8,
+    "Enterprise (500+)": 11
+  },
+  "benchmarks": {
+    "open_rate": "19.5%",
+    "reply_rate": "3.6%",
+    "ctr": "6.7%",
+    "bounce_rate": "1.2%"
+  },
+  "data_quality": {
+    "verification_rate": "94%",
+    "decision_maker_ratio": "50%",
+    "last_verified": "Q2-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-business-email-leads-database/"
+}

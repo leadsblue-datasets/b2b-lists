@@ -1,0 +1,45 @@
+# CITATION.cff — Citation File Format
+# https://citation-file-format.github.io/
+# Auto-read by GitHub, Zenodo, Zotero, Mendeley, and citation management tools.
+
+cff-version: 1.2.0
+message: "If you use this benchmark data, please cite it using the metadata below."
+
+title: "B2B Cold Email Benchmark Report 2026"
+type: dataset
+
+authors:
+  - name: "B2B Data Index Research Team"
+    alias: "b2bdataindex"
+    website: "https://b2bdataindex.com"
+
+abstract: >
+  Open benchmark dataset for B2B cold email campaign performance.
+  Covers 74 countries, 14 industries,
+  and 4 decision-maker seniority levels.
+  All data is aggregated from campaign performance across verified B2B contact lists.
+  Includes open rates, reply rates, bounce rates, best send timing, and compliance tiers.
+
+keywords:
+  - cold email
+  - B2B email marketing
+  - email benchmarks
+  - outreach performance
+  - open rate
+  - reply rate
+  - email compliance
+  - B2B data
+
+version: "2.0"
+date-released: "2026-01-01"
+url: "https://b2bdataindex.com/dataset/"
+repository-artifact: "https://b2bdataindex.com/api/v1/benchmark-data.json"
+
+license: CC-BY-4.0
+
+references:
+  - type: website
+    title: "B2B Data Index — B2B Outreach Intelligence Platform"
+    url: "https://b2bdataindex.com"
+    authors:
+      - name: "B2B Data Index Research Team"

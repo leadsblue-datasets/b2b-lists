@@ -1,0 +1,37 @@
+{
+  "name": "Ecuador Consumer Mailing List",
+  "location": "Ecuador",
+  "slug": "ecuador-consumer-mailing-list",
+  "url": "https://b2bdataindex.com/consumer-data/ecuador-consumer-mailing-list/",
+  "records": 6947049,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 22,
+      "25–34": 25,
+      "35–44": 13,
+      "45–54": 11,
+      "55–64": 10,
+      "65+": 19
+    },
+    "gender": {
+      "female": "56%",
+      "male": "44%"
+    }
+  },
+  "interests": {
+    "Education & Self-Improvement": 22,
+    "Shopping & Retail": 19,
+    "Finance & Investment": 18,
+    "Health & Wellness": 17,
+    "Home & Family": 15,
+    "Automotive": 9
+  },
+  "benchmarks": {
+    "open_rate": "32.5%",
+    "ctr": "4.1%"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/ecuador-consumer-email-database/"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Poland Consumer Mailing List",
+  "location": "Poland",
+  "slug": "poland-consumer-mailing-list",
+  "url": "https://b2bdataindex.com/consumer-data/poland-consumer-mailing-list/",
+  "records": 14795880,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 16,
+      "25–34": 12,
+      "35–44": 23,
+      "45–54": 14,
+      "55–64": 11,
+      "65+": 24
+    },
+    "gender": {
+      "female": "46%",
+      "male": "54%"
+    }
+  },
+  "interests": {
+    "Travel & Leisure": 20,
+    "Home & Family": 20,
+    "Automotive": 17,
+    "Shopping & Retail": 17,
+    "Beauty & Fashion": 14,
+    "Health & Wellness": 12
+  },
+  "benchmarks": {
+    "open_rate": "26%",
+    "ctr": "6.2%"
+  },
+  "compliance": {
+    "framework": "GDPR (Consent Required)"
+  },
+  "product_url": "https://leadsblue.com/leads/poland-consumer-email-database/"
+}

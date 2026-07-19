@@ -1,0 +1,37 @@
+{
+  "name": "Greece Consumer Email Database",
+  "location": "Greece",
+  "slug": "greece-consumer-email-database",
+  "url": "https://b2bdataindex.com/consumer-data/greece-consumer-email-database/",
+  "records": 5353531,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 31,
+      "25–34": 10,
+      "35–44": 12,
+      "45–54": 28,
+      "55–64": 9,
+      "65+": 10
+    },
+    "gender": {
+      "female": "55%",
+      "male": "45%"
+    }
+  },
+  "interests": {
+    "Sports & Fitness": 25,
+    "Education & Self-Improvement": 23,
+    "Technology & Gadgets": 17,
+    "Travel & Leisure": 13,
+    "Health & Wellness": 12,
+    "Finance & Investment": 10
+  },
+  "benchmarks": {
+    "open_rate": "33.7%",
+    "ctr": "3.3%"
+  },
+  "compliance": {
+    "framework": "GDPR (Consent Required)"
+  },
+  "product_url": "https://leadsblue.com/leads/greece-consumer-email-database/"
+}

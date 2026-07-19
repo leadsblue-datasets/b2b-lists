@@ -1,0 +1,396 @@
+{
+ "_citation": {
+  "source": "B2B Data Index",
+  "title": "B2B List Broker Review Index",
+  "url": "https://b2bdataindex.com/brokers/",
+  "license": "CC-BY-4.0",
+  "retrieved_hint": "Cite as: B2B Data Index (2026), https://b2bdataindex.com/brokers/"
+ },
+ "count": 48,
+ "brokers": [
+  {
+   "name": "Data Axle",
+   "slug": "data-axle",
+   "type": "Legacy US data compiler",
+   "pricing_model": "Licensing and custom quotes",
+   "best_for": "US enterprises that want a long-established compiler and can work through a sales process.",
+   "review": "https://b2bdataindex.com/brokers/data-axle/"
+  },
+  {
+   "name": "Exact Data",
+   "slug": "exact-data",
+   "type": "US list broker",
+   "pricing_model": "Per-record pricing by segment",
+   "best_for": "US direct marketers who want segment-built consumer or business files.",
+   "review": "https://b2bdataindex.com/brokers/exact-data/"
+  },
+  {
+   "name": "ListGIANT",
+   "slug": "listgiant",
+   "type": "US list broker",
+   "pricing_model": "Quote-based",
+   "best_for": "US campaigns that span direct mail and email and want one broker for both.",
+   "review": "https://b2bdataindex.com/brokers/listgiant/"
+  },
+  {
+   "name": "FrescoData",
+   "slug": "frescodata",
+   "type": "International list broker",
+   "pricing_model": "Custom quotes",
+   "best_for": "Campaigns targeting multiple countries through a managed broker relationship.",
+   "review": "https://b2bdataindex.com/brokers/frescodata/"
+  },
+  {
+   "name": "Thomson Data",
+   "slug": "thomson-data",
+   "type": "B2B list broker",
+   "pricing_model": "Custom quotes",
+   "best_for": "US B2B campaigns needing industry or tech-install segmentation via a broker.",
+   "review": "https://b2bdataindex.com/brokers/thomson-data/"
+  },
+  {
+   "name": "InfoClutch",
+   "slug": "infoclutch",
+   "type": "B2B list broker",
+   "pricing_model": "Custom quotes",
+   "best_for": "Vendors selling into specific software ecosystems.",
+   "review": "https://b2bdataindex.com/brokers/infoclutch/"
+  },
+  {
+   "name": "Span Global Services",
+   "slug": "span-global",
+   "type": "B2B list broker",
+   "pricing_model": "Custom quotes",
+   "best_for": "Teams that want list purchase plus append services from one vendor.",
+   "review": "https://b2bdataindex.com/brokers/span-global/"
+  },
+  {
+   "name": "Lake B2B",
+   "slug": "lake-b2b",
+   "type": "B2B list broker",
+   "pricing_model": "Custom quotes",
+   "best_for": "Healthcare-adjacent campaigns that need specialty and title targeting.",
+   "review": "https://b2bdataindex.com/brokers/lake-b2b/"
+  },
+  {
+   "name": "eSalesData",
+   "slug": "esalesdata",
+   "type": "B2B list broker",
+   "pricing_model": "Custom quotes",
+   "best_for": "US B2B teams that want a conventional broker-built file.",
+   "review": "https://b2bdataindex.com/brokers/esalesdata/"
+  },
+  {
+   "name": "AverickMedia",
+   "slug": "averickmedia",
+   "type": "B2B list broker",
+   "pricing_model": "Custom quotes",
+   "best_for": "Niche-industry campaigns that need a custom-built file.",
+   "review": "https://b2bdataindex.com/brokers/averickmedia/"
+  },
+  {
+   "name": "DataCaptive",
+   "slug": "datacaptive",
+   "type": "B2B list broker",
+   "pricing_model": "Custom quotes",
+   "best_for": "Segment-heavy B2B campaigns via a managed broker.",
+   "review": "https://b2bdataindex.com/brokers/datacaptive/"
+  },
+  {
+   "name": "Blue Mail Media",
+   "slug": "blue-mail-media",
+   "type": "B2B list broker",
+   "pricing_model": "Custom quotes",
+   "best_for": "Teams wanting broker lists plus data services together.",
+   "review": "https://b2bdataindex.com/brokers/blue-mail-media/"
+  },
+  {
+   "name": "MedicoReach",
+   "slug": "medicoreach",
+   "type": "Healthcare list specialist",
+   "pricing_model": "Custom quotes",
+   "best_for": "Medical and pharma campaigns that need specialty-level targeting.",
+   "review": "https://b2bdataindex.com/brokers/medicoreach/"
+  },
+  {
+   "name": "TargetNXT",
+   "slug": "targetnxt",
+   "type": "B2B list broker",
+   "pricing_model": "Custom quotes",
+   "best_for": "Conventional broker-built B2B files.",
+   "review": "https://b2bdataindex.com/brokers/targetnxt/"
+  },
+  {
+   "name": "InfoGlobalData",
+   "slug": "infoglobaldata",
+   "type": "B2B list broker",
+   "pricing_model": "Custom quotes",
+   "best_for": "Multi-industry campaigns through one broker.",
+   "review": "https://b2bdataindex.com/brokers/infoglobaldata/"
+  },
+  {
+   "name": "OriginLists",
+   "slug": "originlists",
+   "type": "B2B list broker",
+   "pricing_model": "Custom quotes",
+   "best_for": "Standard broker-built B2B lists.",
+   "review": "https://b2bdataindex.com/brokers/originlists/"
+  },
+  {
+   "name": "LeadsPlease",
+   "slug": "leadsplease",
+   "type": "SMB list shop",
+   "pricing_model": "Published per-record pricing, instant checkout",
+   "best_for": "US small businesses that want a quick, transparent list purchase.",
+   "review": "https://b2bdataindex.com/brokers/leadsplease/"
+  },
+  {
+   "name": "BookYourData",
+   "slug": "bookyourdata",
+   "type": "Pay-as-you-go B2B data",
+   "pricing_model": "Pay-as-you-go credits",
+   "best_for": "Teams that want verified contacts on demand without a subscription.",
+   "review": "https://b2bdataindex.com/brokers/bookyourdata/"
+  },
+  {
+   "name": "Salesfully",
+   "slug": "salesfully",
+   "type": "Budget lead database",
+   "pricing_model": "Low monthly subscription",
+   "best_for": "Price-first US prospecting with verification layered on top.",
+   "review": "https://b2bdataindex.com/brokers/salesfully/"
+  },
+  {
+   "name": "SalesRipe",
+   "slug": "salesripe",
+   "type": "SMB lead database",
+   "pricing_model": "Monthly subscription",
+   "best_for": "Small US teams wanting simple subscription lead access.",
+   "review": "https://b2bdataindex.com/brokers/salesripe/"
+  },
+  {
+   "name": "Melissa",
+   "slug": "melissa",
+   "type": "Data quality vendor with lists",
+   "pricing_model": "Tool subscriptions + list quotes",
+   "best_for": "Teams already using Melissa for hygiene that also need lists.",
+   "review": "https://b2bdataindex.com/brokers/melissa/"
+  },
+  {
+   "name": "Global Database",
+   "slug": "global-database",
+   "type": "Company intelligence platform",
+   "pricing_model": "Subscription",
+   "best_for": "Ongoing multi-country account research.",
+   "review": "https://b2bdataindex.com/brokers/global-database/"
+  },
+  {
+   "name": "Kompass",
+   "slug": "kompass",
+   "type": "Global B2B directory",
+   "pricing_model": "Directory + data subscriptions",
+   "best_for": "European company discovery and firmographic research.",
+   "review": "https://b2bdataindex.com/brokers/kompass/"
+  },
+  {
+   "name": "ReadyContacts",
+   "slug": "readycontacts",
+   "type": "Custom-curated lists",
+   "pricing_model": "Per-project quotes",
+   "best_for": "Niche ICPs where generic files miss.",
+   "review": "https://b2bdataindex.com/brokers/readycontacts/"
+  },
+  {
+   "name": "CloudLead",
+   "slug": "cloudlead",
+   "type": "Managed data research",
+   "pricing_model": "Managed service quotes",
+   "best_for": "Teams outsourcing list building entirely.",
+   "review": "https://b2bdataindex.com/brokers/cloudlead/"
+  },
+  {
+   "name": "DemandScience",
+   "slug": "demandscience",
+   "type": "Demand-gen data provider",
+   "pricing_model": "Program/subscription pricing",
+   "best_for": "Marketing teams buying programs, not raw files.",
+   "review": "https://b2bdataindex.com/brokers/demandscience/"
+  },
+  {
+   "name": "Leadbook",
+   "slug": "leadbook",
+   "type": "APAC-focused B2B data",
+   "pricing_model": "Platform credits/subscription",
+   "best_for": "Asia-Pacific outbound campaigns.",
+   "review": "https://b2bdataindex.com/brokers/leadbook/"
+  },
+  {
+   "name": "Caldwell List Company",
+   "slug": "caldwell-list",
+   "type": "Traditional list broker",
+   "pricing_model": "Brokered quotes",
+   "best_for": "Direct-mail-first campaigns with a broker relationship.",
+   "review": "https://b2bdataindex.com/brokers/caldwell-list/"
+  },
+  {
+   "name": "Accurate Append",
+   "slug": "accurate-append",
+   "type": "Append specialist",
+   "pricing_model": "Per-match pricing",
+   "best_for": "Enriching a house file rather than buying a new list.",
+   "review": "https://b2bdataindex.com/brokers/accurate-append/"
+  },
+  {
+   "name": "Datarade",
+   "slug": "datarade",
+   "type": "Data marketplace",
+   "pricing_model": "Marketplace (varies by vendor)",
+   "best_for": "Sourcing and comparing specialist data vendors.",
+   "review": "https://b2bdataindex.com/brokers/datarade/"
+  },
+  {
+   "name": "Forager.ai",
+   "slug": "forager",
+   "type": "Fresh-data provider",
+   "pricing_model": "Subscription/credits",
+   "best_for": "Teams prioritizing recency of contact data.",
+   "review": "https://b2bdataindex.com/brokers/forager/"
+  },
+  {
+   "name": "LimeLeads",
+   "slug": "limeleads",
+   "type": "US B2B list shop",
+   "pricing_model": "Credits",
+   "best_for": "Quick US contact pulls without a sales call.",
+   "review": "https://b2bdataindex.com/brokers/limeleads/"
+  },
+  {
+   "name": "US Data Corporation",
+   "slug": "us-data-corporation",
+   "type": "US list broker",
+   "pricing_model": "Quote-based",
+   "best_for": "US multi-channel list buys through a broker.",
+   "review": "https://b2bdataindex.com/brokers/us-data-corporation/"
+  },
+  {
+   "name": "Amerilist",
+   "slug": "amerilist",
+   "type": "US list broker",
+   "pricing_model": "Quote-based",
+   "best_for": "US multi-channel campaigns wanting one broker across mail and email.",
+   "review": "https://b2bdataindex.com/brokers/amerilist/"
+  },
+  {
+   "name": "MegaLeads",
+   "slug": "megaleads",
+   "type": "Budget lead database",
+   "pricing_model": "Monthly subscription",
+   "best_for": "Budget-first US prospecting with verification layered on top.",
+   "review": "https://b2bdataindex.com/brokers/megaleads/"
+  },
+  {
+   "name": "GoLeads",
+   "slug": "goleads",
+   "type": "SMB lead lists",
+   "pricing_model": "Subscription/list pricing",
+   "best_for": "Local and territory-based US sales prospecting.",
+   "review": "https://b2bdataindex.com/brokers/goleads/"
+  },
+  {
+   "name": "Sprint Data Solutions",
+   "slug": "sprint-data-solutions",
+   "type": "Direct marketing list broker",
+   "pricing_model": "Quote-based",
+   "best_for": "Direct-mail-first campaigns and unusual niche segments via brokerage.",
+   "review": "https://b2bdataindex.com/brokers/sprint-data-solutions/"
+  },
+  {
+   "name": "Dataman Group",
+   "slug": "dataman-group",
+   "type": "Direct marketing list broker",
+   "pricing_model": "Quote-based",
+   "best_for": "SMB direct-mail campaigns wanting guided list selection.",
+   "review": "https://b2bdataindex.com/brokers/dataman-group/"
+  },
+  {
+   "name": "ProspectCloud",
+   "slug": "prospectcloud",
+   "type": "Curated list service",
+   "pricing_model": "Per-project quotes",
+   "best_for": "Defined ICPs where compiled files miss and curation earns its premium.",
+   "review": "https://b2bdataindex.com/brokers/prospectcloud/"
+  },
+  {
+   "name": "Ampliz",
+   "slug": "ampliz",
+   "type": "APAC & healthcare data platform",
+   "pricing_model": "Platform credits/subscription",
+   "best_for": "APAC campaigns and healthcare targeting through one platform.",
+   "review": "https://b2bdataindex.com/brokers/ampliz/"
+  },
+  {
+   "name": "LogiChannel",
+   "slug": "logichannel",
+   "type": "B2B list broker",
+   "pricing_model": "Custom quotes",
+   "best_for": "Conventional broker-built B2B files, comparison-quoted against peers.",
+   "review": "https://b2bdataindex.com/brokers/logichannel/"
+  },
+  {
+   "name": "TDInsights",
+   "slug": "tdinsights",
+   "type": "B2B list broker",
+   "pricing_model": "Custom quotes",
+   "best_for": "Generalist broker quotes for standard B2B specs.",
+   "review": "https://b2bdataindex.com/brokers/tdinsights/"
+  },
+  {
+   "name": "Mails.Store",
+   "slug": "mails-store",
+   "type": "B2B list vendor",
+   "pricing_model": "Catalog pricing/quotes",
+   "best_for": "Catalog browsing of standard B2B segments with diligence applied.",
+   "review": "https://b2bdataindex.com/brokers/mails-store/"
+  },
+  {
+   "name": "InfoDataPlace",
+   "slug": "infodataplace",
+   "type": "B2B list vendor",
+   "pricing_model": "Custom quotes",
+   "best_for": "Comparison-quoting alongside other generalist vendors.",
+   "review": "https://b2bdataindex.com/brokers/infodataplace/"
+  },
+  {
+   "name": "Salesgenie (Data Axle Genie)",
+   "slug": "salesgenie",
+   "type": "SMB self-serve database",
+   "pricing_model": "Subscription tiers",
+   "best_for": "US SMBs wanting the legacy compiler's data without the enterprise sales motion.",
+   "review": "https://b2bdataindex.com/brokers/salesgenie/"
+  },
+  {
+   "name": "Email Data Group",
+   "slug": "email-data-group",
+   "type": "B2B list broker",
+   "pricing_model": "Custom quotes",
+   "best_for": "List-plus-append purchases through one vendor.",
+   "review": "https://b2bdataindex.com/brokers/email-data-group/"
+  },
+  {
+   "name": "Latest Database",
+   "slug": "latest-database",
+   "type": "Bulk list vendor",
+   "pricing_model": "Catalog pricing",
+   "best_for": "Bulk-volume buyers who treat verification as mandatory infrastructure.",
+   "review": "https://b2bdataindex.com/brokers/latest-database/"
+  },
+  {
+   "name": "D&B Hoovers",
+   "slug": "dnb-hoovers",
+   "type": "Enterprise firmographic platform",
+   "pricing_model": "Enterprise subscription",
+   "best_for": "Enterprise account intelligence and hierarchy mapping, paired with contact-level sources.",
+   "review": "https://b2bdataindex.com/brokers/dnb-hoovers/"
+  }
+ ]
+}

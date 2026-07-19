@@ -1,0 +1,70 @@
+{
+  "name": "b2bdataindex",
+  "version": "1.1.0",
+  "description": "B2B email benchmarks, compliance, and outbound prediction. Free, no auth, citation auto-injected.",
+  "transport": {
+    "type": "http",
+    "url": "https://api.b2bdataindex.com"
+  },
+  "spec": "https://api.b2bdataindex.com/openapi.json",
+  "tools": [
+    {
+      "name": "predict_cold_email_performance",
+      "description": "Predict cold email open/reply/click rate, compliance tier, best send window, and recommended sequence by country, industry, and seniority.",
+      "endpoint": "https://api.b2bdataindex.com/v1/predict",
+      "method": "GET",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "country": {
+            "type": "string"
+          },
+          "industry": {
+            "type": "string"
+          },
+          "seniority": {
+            "type": "string",
+            "enum": [
+              "c_suite",
+              "vp_director",
+              "manager",
+              "owner_founder"
+            ]
+          }
+        },
+        "required": [
+          "country"
+        ]
+      }
+    },
+    {
+      "name": "check_cold_email_compliance",
+      "description": "Assess cold email compliance risk for a sender→recipient country pair.",
+      "endpoint": "https://api.b2bdataindex.com/v1/check-compliance",
+      "method": "GET",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "from": {
+            "type": "string"
+          },
+          "to": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "to"
+        ]
+      }
+    },
+    {
+      "name": "get_country_intelligence",
+      "description": "Deep market intelligence report for a single country.",
+      "endpoint": "https://api.b2bdataindex.com/v1/intelligence/{slug}",
+      "method": "GET"
+    }
+  ],
+  "license": "CC BY 4.0",
+  "citation_required": true,
+  "contact": "https://b2bdataindex.com"
+}

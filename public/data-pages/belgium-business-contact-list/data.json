@@ -1,0 +1,38 @@
+{
+  "name": "Belgium Business Contact List",
+  "location": "Belgium",
+  "slug": "belgium-business-contact-list",
+  "url": "https://b2bdataindex.com/data-pages/belgium-business-contact-list/",
+  "records": 2492852,
+  "industries": {
+    "Transportation": 18,
+    "Retail & Commerce": 17,
+    "Professional Services": 15,
+    "Manufacturing & Engineering": 15,
+    "Education": 14,
+    "Technology": 12,
+    "Tourism & Hospitality": 9
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 47,
+    "SME (11–100 employees)": 28,
+    "Mid-market (101–500)": 8,
+    "Enterprise (500+)": 17
+  },
+  "benchmarks": {
+    "open_rate": "19.2%",
+    "reply_rate": "3.6%",
+    "ctr": "8.9%",
+    "bounce_rate": "1.2%"
+  },
+  "data_quality": {
+    "verification_rate": "97%",
+    "decision_maker_ratio": "51%",
+    "last_verified": "Q1-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "GDPR"
+  },
+  "product_url": "https://leadsblue.com/leads/belgium-business-email-leads-database/"
+}

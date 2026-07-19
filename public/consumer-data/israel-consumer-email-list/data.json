@@ -1,0 +1,37 @@
+{
+  "name": "Israel Consumer Email List",
+  "location": "Israel",
+  "slug": "israel-consumer-email-list",
+  "url": "https://b2bdataindex.com/consumer-data/israel-consumer-email-list/",
+  "records": 3504232,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 20,
+      "25–34": 12,
+      "35–44": 14,
+      "45–54": 21,
+      "55–64": 14,
+      "65+": 19
+    },
+    "gender": {
+      "female": "49%",
+      "male": "51%"
+    }
+  },
+  "interests": {
+    "Finance & Investment": 23,
+    "Travel & Leisure": 18,
+    "Sports & Fitness": 18,
+    "Technology & Gadgets": 15,
+    "Entertainment & Media": 14,
+    "Food & Dining": 12
+  },
+  "benchmarks": {
+    "open_rate": "35%",
+    "ctr": "5.4%"
+  },
+  "compliance": {
+    "framework": "Regional Guidelines"
+  },
+  "product_url": "https://leadsblue.com/leads/israel-consumer-email-database/"
+}

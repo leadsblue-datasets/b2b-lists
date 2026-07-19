@@ -1,0 +1,37 @@
+{
+  "name": "Belgium Consumer Email List",
+  "location": "Belgium",
+  "slug": "belgium-consumer-email-list",
+  "url": "https://b2bdataindex.com/consumer-data/belgium-consumer-email-list/",
+  "records": 3490759,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 11,
+      "25–34": 24,
+      "35–44": 20,
+      "45–54": 20,
+      "55–64": 13,
+      "65+": 12
+    },
+    "gender": {
+      "female": "46%",
+      "male": "54%"
+    }
+  },
+  "interests": {
+    "Automotive": 20,
+    "Shopping & Retail": 17,
+    "Home & Family": 16,
+    "Entertainment & Media": 16,
+    "Technology & Gadgets": 16,
+    "Beauty & Fashion": 15
+  },
+  "benchmarks": {
+    "open_rate": "23.9%",
+    "ctr": "5.6%"
+  },
+  "compliance": {
+    "framework": "GDPR (Consent Required)"
+  },
+  "product_url": "https://leadsblue.com/leads/belgium-consumer-email-database/"
+}

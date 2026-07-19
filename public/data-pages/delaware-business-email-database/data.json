@@ -1,0 +1,38 @@
+{
+  "name": "Delaware Business Email Database",
+  "location": "Delaware",
+  "slug": "delaware-business-email-database",
+  "url": "https://b2bdataindex.com/data-pages/delaware-business-email-database/",
+  "records": 338083,
+  "industries": {
+    "Hospitality & Tourism": 20,
+    "Energy & Utilities": 18,
+    "Finance & Insurance": 18,
+    "Construction & Real Estate": 16,
+    "Transportation & Logistics": 12,
+    "Retail & Commerce": 10,
+    "Manufacturing": 6
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 55,
+    "SME (11–100 employees)": 25,
+    "Mid-market (101–500)": 8,
+    "Enterprise (500+)": 12
+  },
+  "benchmarks": {
+    "open_rate": "24.7%",
+    "reply_rate": "7.3%",
+    "ctr": "7.2%",
+    "bounce_rate": "1.9%"
+  },
+  "data_quality": {
+    "verification_rate": "96%",
+    "decision_maker_ratio": "51%",
+    "last_verified": "Q2-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-delaware-business-email-leads-database/"
+}

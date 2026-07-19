@@ -1,0 +1,38 @@
+{
+  "name": "South Carolina Business Email List",
+  "location": "South Carolina",
+  "slug": "south-carolina-business-email-list",
+  "url": "https://b2bdataindex.com/data-pages/south-carolina-business-email-list/",
+  "records": 1909139,
+  "industries": {
+    "Energy & Utilities": 17,
+    "Education & Training": 17,
+    "Construction & Real Estate": 16,
+    "Manufacturing": 15,
+    "Finance & Insurance": 14,
+    "Professional Services": 13,
+    "Technology & Software": 8
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 55,
+    "SME (11–100 employees)": 25,
+    "Mid-market (101–500)": 8,
+    "Enterprise (500+)": 12
+  },
+  "benchmarks": {
+    "open_rate": "24.3%",
+    "reply_rate": "3.7%",
+    "ctr": "8.7%",
+    "bounce_rate": "1%"
+  },
+  "data_quality": {
+    "verification_rate": "96%",
+    "decision_maker_ratio": "50%",
+    "last_verified": "Q1-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM Act"
+  },
+  "product_url": "https://leadsblue.com/leads/usa-state-south-carolina-business-email-leads-database/"
+}

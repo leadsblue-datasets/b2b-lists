@@ -1,0 +1,37 @@
+{
+  "name": "Colombia Consumer Email List",
+  "location": "Colombia",
+  "slug": "colombia-consumer-email-list",
+  "url": "https://b2bdataindex.com/consumer-data/colombia-consumer-email-list/",
+  "records": 1491862,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 13,
+      "25–34": 16,
+      "35–44": 20,
+      "45–54": 13,
+      "55–64": 17,
+      "65+": 21
+    },
+    "gender": {
+      "female": "50%",
+      "male": "50%"
+    }
+  },
+  "interests": {
+    "Finance & Investment": 18,
+    "Technology & Gadgets": 18,
+    "Sports & Fitness": 17,
+    "Home & Family": 17,
+    "Beauty & Fashion": 15,
+    "Shopping & Retail": 15
+  },
+  "benchmarks": {
+    "open_rate": "29.2%",
+    "ctr": "8.1%"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/colombia-consumer-email-database/"
+}

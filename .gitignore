@@ -1,0 +1,16 @@
+# Ignore everything at the root...
+/*
+
+# ...except the two folders that go to GitHub (and this file)
+!/public
+!/b2b-api
+!/.gitignore
+
+# API junk (recreated by npm install / wrangler)
+b2b-api/node_modules/
+b2b-api/.wrangler/
+b2b-api/.env
+
+# OS junk
+Thumbs.db
+.DS_Store

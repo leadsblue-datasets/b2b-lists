@@ -1,0 +1,37 @@
+{
+  "name": "Portugal Consumer Email List",
+  "location": "Portugal",
+  "slug": "portugal-consumer-email-list",
+  "url": "https://b2bdataindex.com/consumer-data/portugal-consumer-email-list/",
+  "records": 4613567,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 16,
+      "25–34": 11,
+      "35–44": 19,
+      "45–54": 20,
+      "55–64": 22,
+      "65+": 12
+    },
+    "gender": {
+      "female": "45%",
+      "male": "55%"
+    }
+  },
+  "interests": {
+    "Health & Wellness": 17,
+    "Home & Family": 18,
+    "Technology & Gadgets": 17,
+    "Beauty & Fashion": 16,
+    "Finance & Investment": 16,
+    "Travel & Leisure": 16
+  },
+  "benchmarks": {
+    "open_rate": "28%",
+    "ctr": "5.8%"
+  },
+  "compliance": {
+    "framework": "GDPR (Consent Required)"
+  },
+  "product_url": "https://leadsblue.com/leads/portugal-consumer-email-database/"
+}

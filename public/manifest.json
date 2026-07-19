@@ -1,0 +1,21 @@
+{
+  "name": "B2B Data Index",
+  "short_name": "B2BDataIndex",
+  "description": "657+ verified email databases for B2B outreach, consumer marketing, and targeted campaigns.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#0a0f1e",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "/assets/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": [
+    "business",
+    "productivity"
+  ],
+  "lang": "en"
+}

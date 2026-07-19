@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#0a0f1e"/>
+  <rect width="1200" height="630" fill="url(#grad)" opacity="0.4"/>
+  <defs>
+    <radialGradient id="grad" cx="30%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#0a0f1e" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <text x="80" y="200" font-family="Georgia,serif" font-size="72" font-weight="400" fill="#ffffff" letter-spacing="-2">B2B Data Index</text>
+  <text x="80" y="270" font-family="Arial,sans-serif" font-size="28" fill="#94a3b8" font-weight="300">657+ Verified Email Databases · 200+ Countries</text>
+  <line x1="80" y1="310" x2="400" y2="310" stroke="#0ea5e9" stroke-width="2"/>
+  <text x="80" y="380" font-family="Arial,sans-serif" font-size="22" fill="#38bdf8">B2B Business · Consumer · Targeted · USA · Tech Sites</text>
+  <text x="80" y="430" font-family="Arial,sans-serif" font-size="18" fill="#64748b">Powered by LeadsBlue · b2bdataindex.com</text>
+  <rect x="80" y="500" width="180" height="44" rx="4" fill="#0ea5e9"/>
+  <text x="170" y="528" font-family="Arial,sans-serif" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="600">Browse Databases</text>
+</svg>

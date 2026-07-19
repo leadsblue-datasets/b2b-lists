@@ -1,0 +1,37 @@
+{
+  "name": "Italy Consumer Email Database",
+  "location": "Italy",
+  "slug": "italy-consumer-email-database",
+  "url": "https://b2bdataindex.com/consumer-data/italy-consumer-email-database/",
+  "records": 9303546,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 21,
+      "25–34": 20,
+      "35–44": 20,
+      "45–54": 9,
+      "55–64": 12,
+      "65+": 18
+    },
+    "gender": {
+      "female": "50%",
+      "male": "50%"
+    }
+  },
+  "interests": {
+    "Health & Wellness": 22,
+    "Beauty & Fashion": 19,
+    "Automotive": 16,
+    "Finance & Investment": 16,
+    "Entertainment & Media": 14,
+    "Travel & Leisure": 13
+  },
+  "benchmarks": {
+    "open_rate": "36%",
+    "ctr": "8.5%"
+  },
+  "compliance": {
+    "framework": "GDPR (Consent Required)"
+  },
+  "product_url": "https://leadsblue.com/leads/italy-consumer-email-database/"
+}

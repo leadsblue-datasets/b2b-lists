@@ -1,0 +1,604 @@
+{
+ "_citation": {
+  "source": "B2B Data Index",
+  "title": "Email Law by Country (74 markets)",
+  "url": "https://b2bdataindex.com/compliance/",
+  "license": "CC-BY-4.0",
+  "retrieved_hint": "Cite as: B2B Data Index (2026), https://b2bdataindex.com/compliance/"
+ },
+ "disclaimer": "General information, not legal advice.",
+ "countries": [
+  {
+   "country": "United States",
+   "slug": "united-states",
+   "tier": "permissive",
+   "law": "CAN-SPAM Act",
+   "b2b_basis": "Opt-out",
+   "guide": "https://b2bdataindex.com/compliance/united-states/"
+  },
+  {
+   "country": "United Kingdom",
+   "slug": "united-kingdom",
+   "tier": "strict",
+   "law": "PECR + UK GDPR",
+   "b2b_basis": "Opt-out for corporate subscribers",
+   "guide": "https://b2bdataindex.com/compliance/united-kingdom/"
+  },
+  {
+   "country": "Germany",
+   "slug": "germany",
+   "tier": "strict",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/germany/"
+  },
+  {
+   "country": "France",
+   "slug": "france",
+   "tier": "strict",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/france/"
+  },
+  {
+   "country": "India",
+   "slug": "india",
+   "tier": "permissive",
+   "law": "DPDP Act 2023",
+   "b2b_basis": "No dedicated spam statute; data-protection duties apply",
+   "guide": "https://b2bdataindex.com/compliance/india/"
+  },
+  {
+   "country": "Canada",
+   "slug": "canada",
+   "tier": "strict",
+   "law": "CASL",
+   "b2b_basis": "Express or implied consent",
+   "guide": "https://b2bdataindex.com/compliance/canada/"
+  },
+  {
+   "country": "Australia",
+   "slug": "australia",
+   "tier": "moderate",
+   "law": "Spam Act 2003",
+   "b2b_basis": "Express or inferred consent",
+   "guide": "https://b2bdataindex.com/compliance/australia/"
+  },
+  {
+   "country": "Japan",
+   "slug": "japan",
+   "tier": "strict",
+   "law": "Act on Specified Commercial Transactions / Anti-Spam Law",
+   "b2b_basis": "Opt-in with B2B accommodations",
+   "guide": "https://b2bdataindex.com/compliance/japan/"
+  },
+  {
+   "country": "Singapore",
+   "slug": "singapore",
+   "tier": "permissive",
+   "law": "PDPA + Spam Control Act",
+   "b2b_basis": "Opt-out for business contact information",
+   "guide": "https://b2bdataindex.com/compliance/singapore/"
+  },
+  {
+   "country": "UAE",
+   "slug": "uae",
+   "tier": "permissive",
+   "law": "Federal Data Protection Law (2021)",
+   "b2b_basis": "Consent-oriented with business practice accommodations",
+   "guide": "https://b2bdataindex.com/compliance/uae/"
+  },
+  {
+   "country": "Netherlands",
+   "slug": "netherlands",
+   "tier": "strict",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/netherlands/"
+  },
+  {
+   "country": "Sweden",
+   "slug": "sweden",
+   "tier": "strict",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/sweden/"
+  },
+  {
+   "country": "Israel",
+   "slug": "israel",
+   "tier": "moderate",
+   "law": "Communications Law Amendment 40",
+   "b2b_basis": "Opt-in with B2B accommodations",
+   "guide": "https://b2bdataindex.com/compliance/israel/"
+  },
+  {
+   "country": "South Korea",
+   "slug": "south-korea",
+   "tier": "strict",
+   "law": "Network Act",
+   "b2b_basis": "Opt-in, strictly enforced",
+   "guide": "https://b2bdataindex.com/compliance/south-korea/"
+  },
+  {
+   "country": "Brazil",
+   "slug": "brazil",
+   "tier": "moderate",
+   "law": "LGPD",
+   "b2b_basis": "Legal basis required (legitimate interest available)",
+   "guide": "https://b2bdataindex.com/compliance/brazil/"
+  },
+  {
+   "country": "Mexico",
+   "slug": "mexico",
+   "tier": "moderate",
+   "law": "LFPDPPP",
+   "b2b_basis": "Notice and opt-out oriented",
+   "guide": "https://b2bdataindex.com/compliance/mexico/"
+  },
+  {
+   "country": "Switzerland",
+   "slug": "switzerland",
+   "tier": "moderate",
+   "law": "FADP (revised) + UCA",
+   "b2b_basis": "Consent or established relationship; strict on bulk",
+   "guide": "https://b2bdataindex.com/compliance/switzerland/"
+  },
+  {
+   "country": "Saudi Arabia",
+   "slug": "saudi-arabia",
+   "tier": "moderate",
+   "law": "PDPL",
+   "b2b_basis": "Consent-oriented with business accommodations",
+   "guide": "https://b2bdataindex.com/compliance/saudi-arabia/"
+  },
+  {
+   "country": "South Africa",
+   "slug": "south-africa",
+   "tier": "moderate",
+   "law": "POPIA",
+   "b2b_basis": "Opt-in for direct marketing with one-approach allowance",
+   "guide": "https://b2bdataindex.com/compliance/south-africa/"
+  },
+  {
+   "country": "Nigeria",
+   "slug": "nigeria",
+   "tier": "permissive",
+   "law": "NDPA 2023",
+   "b2b_basis": "Legal basis with legitimate interest",
+   "guide": "https://b2bdataindex.com/compliance/nigeria/"
+  },
+  {
+   "country": "Turkey",
+   "slug": "turkey",
+   "tier": "moderate",
+   "law": "KVKK + Electronic Commerce Law",
+   "b2b_basis": "Opt-in via IYS registry",
+   "guide": "https://b2bdataindex.com/compliance/turkey/"
+  },
+  {
+   "country": "Poland",
+   "slug": "poland",
+   "tier": "moderate",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/poland/"
+  },
+  {
+   "country": "Ireland",
+   "slug": "ireland",
+   "tier": "strict",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/ireland/"
+  },
+  {
+   "country": "Hong Kong",
+   "slug": "hong-kong",
+   "tier": "moderate",
+   "law": "PDPO + UEMO",
+   "b2b_basis": "Opt-out with mandatory unsubscribe",
+   "guide": "https://b2bdataindex.com/compliance/hong-kong/"
+  },
+  {
+   "country": "China",
+   "slug": "china",
+   "tier": "strict",
+   "law": "PIPL + email measures",
+   "b2b_basis": "Opt-in, strict",
+   "guide": "https://b2bdataindex.com/compliance/china/"
+  },
+  {
+   "country": "New Zealand",
+   "slug": "new-zealand",
+   "tier": "moderate",
+   "law": "Unsolicited Electronic Messages Act 2007",
+   "b2b_basis": "Express, inferred, or deemed consent",
+   "guide": "https://b2bdataindex.com/compliance/new-zealand/"
+  },
+  {
+   "country": "Denmark",
+   "slug": "denmark",
+   "tier": "strict",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/denmark/"
+  },
+  {
+   "country": "Norway",
+   "slug": "norway",
+   "tier": "strict",
+   "law": "Marketing Control Act",
+   "b2b_basis": "Opt-in for individuals; B2B role addresses workable",
+   "guide": "https://b2bdataindex.com/compliance/norway/"
+  },
+  {
+   "country": "Finland",
+   "slug": "finland",
+   "tier": "strict",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/finland/"
+  },
+  {
+   "country": "Malaysia",
+   "slug": "malaysia",
+   "tier": "moderate",
+   "law": "PDPA 2010",
+   "b2b_basis": "Notice-based with opt-out",
+   "guide": "https://b2bdataindex.com/compliance/malaysia/"
+  },
+  {
+   "country": "Philippines",
+   "slug": "philippines",
+   "tier": "moderate",
+   "law": "Data Privacy Act 2012",
+   "b2b_basis": "Legal basis with legitimate interest",
+   "guide": "https://b2bdataindex.com/compliance/philippines/"
+  },
+  {
+   "country": "Indonesia",
+   "slug": "indonesia",
+   "tier": "permissive",
+   "law": "PDP Law 2022",
+   "b2b_basis": "Consent-oriented, implementing",
+   "guide": "https://b2bdataindex.com/compliance/indonesia/"
+  },
+  {
+   "country": "Thailand",
+   "slug": "thailand",
+   "tier": "moderate",
+   "law": "PDPA 2019",
+   "b2b_basis": "Legal basis with legitimate interest",
+   "guide": "https://b2bdataindex.com/compliance/thailand/"
+  },
+  {
+   "country": "Argentina",
+   "slug": "argentina",
+   "tier": "moderate",
+   "law": "PDPA Law 25.326",
+   "b2b_basis": "Opt-out with registry",
+   "guide": "https://b2bdataindex.com/compliance/argentina/"
+  },
+  {
+   "country": "Spain",
+   "slug": "spain",
+   "tier": "strict",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/spain/"
+  },
+  {
+   "country": "Italy",
+   "slug": "italy",
+   "tier": "strict",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/italy/"
+  },
+  {
+   "country": "Belgium",
+   "slug": "belgium",
+   "tier": "strict",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/belgium/"
+  },
+  {
+   "country": "Austria",
+   "slug": "austria",
+   "tier": "strict",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/austria/"
+  },
+  {
+   "country": "Portugal",
+   "slug": "portugal",
+   "tier": "strict",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/portugal/"
+  },
+  {
+   "country": "Czech Republic",
+   "slug": "czech-republic",
+   "tier": "moderate",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/czech-republic/"
+  },
+  {
+   "country": "Egypt",
+   "slug": "egypt",
+   "tier": "permissive",
+   "law": "PDPL 2020",
+   "b2b_basis": "Consent-oriented, implementing",
+   "guide": "https://b2bdataindex.com/compliance/egypt/"
+  },
+  {
+   "country": "Qatar",
+   "slug": "qatar",
+   "tier": "moderate",
+   "law": "PDPPL",
+   "b2b_basis": "Consent-oriented",
+   "guide": "https://b2bdataindex.com/compliance/qatar/"
+  },
+  {
+   "country": "Kuwait",
+   "slug": "kuwait",
+   "tier": "permissive",
+   "law": "DPPR (CITRA)",
+   "b2b_basis": "Regulatory framework via CITRA",
+   "guide": "https://b2bdataindex.com/compliance/kuwait/"
+  },
+  {
+   "country": "Vietnam",
+   "slug": "vietnam",
+   "tier": "permissive",
+   "law": "Decree 13/2023 (PDPD)",
+   "b2b_basis": "Consent-centric",
+   "guide": "https://b2bdataindex.com/compliance/vietnam/"
+  },
+  {
+   "country": "Colombia",
+   "slug": "colombia",
+   "tier": "strict",
+   "law": "Law 1581/2012",
+   "b2b_basis": "Consent-oriented with SIC enforcement",
+   "guide": "https://b2bdataindex.com/compliance/colombia/"
+  },
+  {
+   "country": "Chile",
+   "slug": "chile",
+   "tier": "moderate",
+   "law": "Law 21.719 (2024 reform)",
+   "b2b_basis": "Modernized GDPR-pattern",
+   "guide": "https://b2bdataindex.com/compliance/chile/"
+  },
+  {
+   "country": "Peru",
+   "slug": "peru",
+   "tier": "moderate",
+   "law": "Law 29733",
+   "b2b_basis": "Consent-oriented",
+   "guide": "https://b2bdataindex.com/compliance/peru/"
+  },
+  {
+   "country": "Greece",
+   "slug": "greece",
+   "tier": "moderate",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/greece/"
+  },
+  {
+   "country": "Romania",
+   "slug": "romania",
+   "tier": "moderate",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/romania/"
+  },
+  {
+   "country": "Hungary",
+   "slug": "hungary",
+   "tier": "moderate",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/hungary/"
+  },
+  {
+   "country": "Pakistan",
+   "slug": "pakistan",
+   "tier": "permissive",
+   "law": "PECA + draft PDPB",
+   "b2b_basis": "Limited dedicated enforcement",
+   "guide": "https://b2bdataindex.com/compliance/pakistan/"
+  },
+  {
+   "country": "Morocco",
+   "slug": "morocco",
+   "tier": "moderate",
+   "law": "Law 09-08",
+   "b2b_basis": "Notice and consent oriented",
+   "guide": "https://b2bdataindex.com/compliance/morocco/"
+  },
+  {
+   "country": "Bangladesh",
+   "slug": "bangladesh",
+   "tier": "permissive",
+   "law": "Draft/limited framework",
+   "b2b_basis": "No dedicated regime enforced",
+   "guide": "https://b2bdataindex.com/compliance/bangladesh/"
+  },
+  {
+   "country": "Russia",
+   "slug": "russia",
+   "tier": "strict",
+   "law": "Federal Law on Personal Data + Advertising Law",
+   "b2b_basis": "Consent required",
+   "guide": "https://b2bdataindex.com/compliance/russia/"
+  },
+  {
+   "country": "Croatia",
+   "slug": "croatia",
+   "tier": "moderate",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/croatia/"
+  },
+  {
+   "country": "Cyprus",
+   "slug": "cyprus",
+   "tier": "moderate",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/cyprus/"
+  },
+  {
+   "country": "Estonia",
+   "slug": "estonia",
+   "tier": "strict",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/estonia/"
+  },
+  {
+   "country": "Latvia",
+   "slug": "latvia",
+   "tier": "strict",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/latvia/"
+  },
+  {
+   "country": "Lithuania",
+   "slug": "lithuania",
+   "tier": "strict",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/lithuania/"
+  },
+  {
+   "country": "Luxembourg",
+   "slug": "luxembourg",
+   "tier": "strict",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/luxembourg/"
+  },
+  {
+   "country": "Serbia",
+   "slug": "serbia",
+   "tier": "moderate",
+   "law": "Data Protection Law (GDPR-modeled)",
+   "b2b_basis": "GDPR-pattern",
+   "guide": "https://b2bdataindex.com/compliance/serbia/"
+  },
+  {
+   "country": "Ukraine",
+   "slug": "ukraine",
+   "tier": "moderate",
+   "law": "Data protection law (EU-aligned reform)",
+   "b2b_basis": "Consent-oriented, evolving",
+   "guide": "https://b2bdataindex.com/compliance/ukraine/"
+  },
+  {
+   "country": "Bahrain",
+   "slug": "bahrain",
+   "tier": "permissive",
+   "law": "PDPL 2018",
+   "b2b_basis": "GDPR-influenced",
+   "guide": "https://b2bdataindex.com/compliance/bahrain/"
+  },
+  {
+   "country": "Oman",
+   "slug": "oman",
+   "tier": "permissive",
+   "law": "PDPL 2022",
+   "b2b_basis": "Consent-oriented",
+   "guide": "https://b2bdataindex.com/compliance/oman/"
+  },
+  {
+   "country": "Lebanon",
+   "slug": "lebanon",
+   "tier": "permissive",
+   "law": "E-transactions Law 81/2018",
+   "b2b_basis": "Basic framework",
+   "guide": "https://b2bdataindex.com/compliance/lebanon/"
+  },
+  {
+   "country": "Ghana",
+   "slug": "ghana",
+   "tier": "permissive",
+   "law": "Data Protection Act 2012",
+   "b2b_basis": "Registration + opt-out oriented",
+   "guide": "https://b2bdataindex.com/compliance/ghana/"
+  },
+  {
+   "country": "Iceland",
+   "slug": "iceland",
+   "tier": "strict",
+   "law": "EEA implementation",
+   "b2b_basis": "GDPR-aligned via EEA",
+   "guide": "https://b2bdataindex.com/compliance/iceland/"
+  },
+  {
+   "country": "Malta",
+   "slug": "malta",
+   "tier": "moderate",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/malta/"
+  },
+  {
+   "country": "Slovenia",
+   "slug": "slovenia",
+   "tier": "moderate",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/slovenia/"
+  },
+  {
+   "country": "Montenegro",
+   "slug": "montenegro",
+   "tier": "moderate",
+   "law": "Data protection law (EU-accession alignment)",
+   "b2b_basis": "GDPR-pattern",
+   "guide": "https://b2bdataindex.com/compliance/montenegro/"
+  },
+  {
+   "country": "Sri Lanka",
+   "slug": "sri-lanka",
+   "tier": "permissive",
+   "law": "PDPA 2022",
+   "b2b_basis": "GDPR-pattern, phasing in",
+   "guide": "https://b2bdataindex.com/compliance/sri-lanka/"
+  },
+  {
+   "country": "Togo",
+   "slug": "togo",
+   "tier": "permissive",
+   "law": "General data-protection framework",
+   "b2b_basis": "Tier-based practice",
+   "guide": "https://b2bdataindex.com/compliance/togo/"
+  },
+  {
+   "country": "Bulgaria",
+   "slug": "bulgaria",
+   "tier": "moderate",
+   "law": "GDPR + national ePrivacy implementation",
+   "b2b_basis": "Legitimate interest for B2B (varies by national transposition)",
+   "guide": "https://b2bdataindex.com/compliance/bulgaria/"
+  },
+  {
+   "country": "Belarus",
+   "slug": "belarus",
+   "tier": "moderate",
+   "law": "Personal Data Law (2021)",
+   "b2b_basis": "Consent-centric",
+   "guide": "https://b2bdataindex.com/compliance/belarus/"
+  }
+ ]
+}

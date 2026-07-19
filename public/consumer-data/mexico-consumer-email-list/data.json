@@ -1,0 +1,37 @@
+{
+  "name": "Mexico Consumer Email List",
+  "location": "Mexico",
+  "slug": "mexico-consumer-email-list",
+  "url": "https://b2bdataindex.com/consumer-data/mexico-consumer-email-list/",
+  "records": 18845320,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 16,
+      "25–34": 20,
+      "35–44": 22,
+      "45–54": 16,
+      "55–64": 12,
+      "65+": 14
+    },
+    "gender": {
+      "female": "48%",
+      "male": "52%"
+    }
+  },
+  "interests": {
+    "Entertainment & Media": 18,
+    "Finance & Investment": 18,
+    "Technology & Gadgets": 17,
+    "Shopping & Retail": 16,
+    "Health & Wellness": 16,
+    "Sports & Fitness": 15
+  },
+  "benchmarks": {
+    "open_rate": "29.3%",
+    "ctr": "7.8%"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/mexico-consumer-email-database/"
+}

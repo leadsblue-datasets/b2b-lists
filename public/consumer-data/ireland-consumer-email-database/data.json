@@ -1,0 +1,37 @@
+{
+  "name": "Ireland Consumer Email Database",
+  "location": "Ireland",
+  "slug": "ireland-consumer-email-database",
+  "url": "https://b2bdataindex.com/consumer-data/ireland-consumer-email-database/",
+  "records": 3185203,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 13,
+      "25–34": 10,
+      "35–44": 13,
+      "45–54": 25,
+      "55–64": 22,
+      "65+": 17
+    },
+    "gender": {
+      "female": "53%",
+      "male": "47%"
+    }
+  },
+  "interests": {
+    "Travel & Leisure": 20,
+    "Entertainment & Media": 20,
+    "Sports & Fitness": 19,
+    "Education & Self-Improvement": 17,
+    "Health & Wellness": 13,
+    "Food & Dining": 11
+  },
+  "benchmarks": {
+    "open_rate": "25.8%",
+    "ctr": "3.8%"
+  },
+  "compliance": {
+    "framework": "GDPR (Consent Required)"
+  },
+  "product_url": "https://leadsblue.com/leads/ireland-consumer-email-database/"
+}

@@ -1,0 +1,3893 @@
+{
+  "meta": {
+    "version": "2.0",
+    "data_year": 2026,
+    "last_updated": "2026-04-24",
+    "total_countries": 74,
+    "total_industries": 14,
+    "total_job_levels": 4,
+    "total_list_types": 3,
+    "methodology": "Aggregated from campaign data across 74 markets. Benchmarks reflect well-targeted campaigns to verified decision-maker lists unless noted. Ranges represent 10th-90th percentile performance. Data updated annually.",
+    "source": "B2B Data Index Research — https://b2bdataindex.com",
+    "license": "Open research data — attribution to b2bdataindex.com required",
+    "cite_as": "B2B Data Index Cold Email Benchmark Report 2026",
+    "canonical_url": "https://b2bdataindex.com/benchmarks/cold-email-2026/",
+    "api_url": "https://b2bdataindex.com/api/v1/benchmarks.json"
+  },
+  "by_geography": {
+    "united-states": {
+      "country": "United States",
+      "region": "Americas",
+      "compliance_tier": "permissive",
+      "open_rate": {
+        "low": 20,
+        "high": 28,
+        "median": 24
+      },
+      "reply_rate": {
+        "low": 3,
+        "high": 8,
+        "median": 5
+      },
+      "click_rate": {
+        "low": 2.5,
+        "high": 5.5,
+        "median": 3.8
+      },
+      "hard_bounce_target": 2,
+      "soft_bounce_rate": {
+        "low": 1,
+        "high": 2.5
+      },
+      "unsubscribe_rate": {
+        "low": 0.1,
+        "high": 0.4
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "7:30-9:30am",
+      "weekly_window": "Mon-Fri",
+      "language": "English",
+      "personalization_index": 8,
+      "sample_note": "Well-targeted campaigns to verified decision-maker lists",
+      "data_quality_note": "Highest data density globally. 96% verification achievable with premium sources.",
+      "data_year": 2026
+    },
+    "united-kingdom": {
+      "country": "United Kingdom",
+      "region": "Europe",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 16,
+        "high": 24,
+        "median": 20
+      },
+      "reply_rate": {
+        "low": 2,
+        "high": 5,
+        "median": 3.2
+      },
+      "click_rate": {
+        "low": 1.8,
+        "high": 4.2,
+        "median": 2.8
+      },
+      "hard_bounce_target": 2.5,
+      "soft_bounce_rate": {
+        "low": 1.2,
+        "high": 2.8
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.5
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "8:00-10:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "English",
+      "personalization_index": 8,
+      "sample_note": "UK PECR compliance required. B2B legitimate interest broadly accepted.",
+      "data_quality_note": "ICO-compliant B2B data. PECR applies. Verified lists achieve 95% accuracy.",
+      "data_year": 2026
+    },
+    "germany": {
+      "country": "Germany",
+      "region": "Europe",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 12,
+        "high": 18,
+        "median": 14
+      },
+      "reply_rate": {
+        "low": 1.2,
+        "high": 3,
+        "median": 1.8
+      },
+      "click_rate": {
+        "low": 1,
+        "high": 2.5,
+        "median": 1.6
+      },
+      "hard_bounce_target": 3,
+      "soft_bounce_rate": {
+        "low": 1.5,
+        "high": 3
+      },
+      "unsubscribe_rate": {
+        "low": 0.2,
+        "high": 0.7
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "German",
+      "personalization_index": 9,
+      "sample_note": "Strict GDPR enforcement. Highly personalised, in-language copy required.",
+      "data_quality_note": "German B2B data requires legitimate interest basis. Double opt-in common.",
+      "data_year": 2026
+    },
+    "france": {
+      "country": "France",
+      "region": "Europe",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 13,
+        "high": 19,
+        "median": 16
+      },
+      "reply_rate": {
+        "low": 1.4,
+        "high": 3.5,
+        "median": 2.1
+      },
+      "click_rate": {
+        "low": 1.2,
+        "high": 2.8,
+        "median": 1.8
+      },
+      "hard_bounce_target": 2.8,
+      "soft_bounce_rate": {
+        "low": 1.4,
+        "high": 2.8
+      },
+      "unsubscribe_rate": {
+        "low": 0.18,
+        "high": 0.6
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Thu",
+      "language": "French",
+      "personalization_index": 9,
+      "sample_note": "CNIL oversight. French-language copy significantly outperforms English.",
+      "data_quality_note": "CNIL-compliant sourcing required. 93% verification achievable.",
+      "data_year": 2026
+    },
+    "india": {
+      "country": "India",
+      "region": "Asia-Pacific",
+      "compliance_tier": "permissive",
+      "open_rate": {
+        "low": 20,
+        "high": 30,
+        "median": 25
+      },
+      "reply_rate": {
+        "low": 2.5,
+        "high": 6.5,
+        "median": 4
+      },
+      "click_rate": {
+        "low": 2.2,
+        "high": 5,
+        "median": 3.2
+      },
+      "hard_bounce_target": 4.5,
+      "soft_bounce_rate": {
+        "low": 2,
+        "high": 4.5
+      },
+      "unsubscribe_rate": {
+        "low": 0.1,
+        "high": 0.4
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "10:00am-12:00pm",
+      "weekly_window": "Mon-Fri",
+      "language": "English",
+      "personalization_index": 6,
+      "sample_note": "High volume market. English widely used in B2B. Tech sector outperforms.",
+      "data_quality_note": "Large market with variable quality. Verified enterprise lists achieve 91% accuracy.",
+      "data_year": 2026
+    },
+    "canada": {
+      "country": "Canada",
+      "region": "Americas",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 17,
+        "high": 25,
+        "median": 21
+      },
+      "reply_rate": {
+        "low": 2,
+        "high": 5,
+        "median": 3.2
+      },
+      "click_rate": {
+        "low": 1.8,
+        "high": 4,
+        "median": 2.6
+      },
+      "hard_bounce_target": 2.2,
+      "soft_bounce_rate": {
+        "low": 1.1,
+        "high": 2.5
+      },
+      "unsubscribe_rate": {
+        "low": 0.12,
+        "high": 0.45
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "8:30-10:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "English",
+      "personalization_index": 8,
+      "sample_note": "CASL requires express consent or implied consent. Business relationships establish implied consent.",
+      "data_quality_note": "CASL-compliant B2B lists. 95% verification achievable.",
+      "data_year": 2026
+    },
+    "australia": {
+      "country": "Australia",
+      "region": "Asia-Pacific",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 16,
+        "high": 24,
+        "median": 20
+      },
+      "reply_rate": {
+        "low": 1.8,
+        "high": 4.5,
+        "median": 2.8
+      },
+      "click_rate": {
+        "low": 1.5,
+        "high": 3.5,
+        "median": 2.3
+      },
+      "hard_bounce_target": 2.5,
+      "soft_bounce_rate": {
+        "low": 1.2,
+        "high": 2.6
+      },
+      "unsubscribe_rate": {
+        "low": 0.13,
+        "high": 0.45
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "8:30-10:30am",
+      "weekly_window": "Mon-Fri",
+      "language": "English",
+      "personalization_index": 7,
+      "sample_note": "Spam Act 2003 governs. Legitimate business contact exempt from prior consent.",
+      "data_quality_note": "Strong data hygiene culture. 94% verification rates on enterprise lists.",
+      "data_year": 2026
+    },
+    "japan": {
+      "country": "Japan",
+      "region": "Asia-Pacific",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 10,
+        "high": 16,
+        "median": 12
+      },
+      "reply_rate": {
+        "low": 0.8,
+        "high": 2.2,
+        "median": 1.2
+      },
+      "click_rate": {
+        "low": 0.7,
+        "high": 1.8,
+        "median": 1.1
+      },
+      "hard_bounce_target": 2.5,
+      "soft_bounce_rate": {
+        "low": 1.5,
+        "high": 3.2
+      },
+      "unsubscribe_rate": {
+        "low": 0.05,
+        "high": 0.3
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Japanese",
+      "personalization_index": 10,
+      "sample_note": "Cold email rare in Japanese business culture. Warm introduction or referral required. Japanese-language essential.",
+      "data_quality_note": "Japanese B2B data requires extreme accuracy. 93% verification achievable for enterprise lists.",
+      "data_year": 2026
+    },
+    "singapore": {
+      "country": "Singapore",
+      "region": "Asia-Pacific",
+      "compliance_tier": "permissive",
+      "open_rate": {
+        "low": 17,
+        "high": 26,
+        "median": 21
+      },
+      "reply_rate": {
+        "low": 2,
+        "high": 5,
+        "median": 3.2
+      },
+      "click_rate": {
+        "low": 1.8,
+        "high": 4,
+        "median": 2.6
+      },
+      "hard_bounce_target": 2,
+      "soft_bounce_rate": {
+        "low": 1,
+        "high": 2.2
+      },
+      "unsubscribe_rate": {
+        "low": 0.1,
+        "high": 0.4
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "English",
+      "personalization_index": 7,
+      "sample_note": "PDPA compliant. English dominant in B2B. APAC hub with high decision-maker density.",
+      "data_quality_note": "Regional HQ concentration. 96% verification achievable.",
+      "data_year": 2026
+    },
+    "uae": {
+      "country": "UAE",
+      "region": "MENA",
+      "compliance_tier": "permissive",
+      "open_rate": {
+        "low": 19,
+        "high": 28,
+        "median": 23
+      },
+      "reply_rate": {
+        "low": 2.2,
+        "high": 5.5,
+        "median": 3.5
+      },
+      "click_rate": {
+        "low": 2,
+        "high": 4.5,
+        "median": 3
+      },
+      "hard_bounce_target": 2.5,
+      "soft_bounce_rate": {
+        "low": 1.3,
+        "high": 2.8
+      },
+      "unsubscribe_rate": {
+        "low": 0.12,
+        "high": 0.45
+      },
+      "best_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Thu",
+      "language": "English",
+      "personalization_index": 7,
+      "sample_note": "Working week Mon-Thu. English widely accepted. Relationship context valuable.",
+      "data_quality_note": "DIFC and ADGM zones follow GDPR-aligned frameworks. 94% verification achievable.",
+      "data_year": 2026
+    },
+    "netherlands": {
+      "country": "Netherlands",
+      "region": "Europe",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 14,
+        "high": 22,
+        "median": 18
+      },
+      "reply_rate": {
+        "low": 1.5,
+        "high": 4,
+        "median": 2.5
+      },
+      "click_rate": {
+        "low": 1.3,
+        "high": 3.2,
+        "median": 2
+      },
+      "hard_bounce_target": 2.5,
+      "soft_bounce_rate": {
+        "low": 1.3,
+        "high": 2.8
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.55
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "8:30-10:30am",
+      "weekly_window": "Mon-Fri",
+      "language": "Dutch",
+      "personalization_index": 8,
+      "sample_note": "Dutch B2B market receptive to direct communication. AP authority enforces GDPR strictly.",
+      "data_quality_note": "High data quality standards. 94% verification achievable.",
+      "data_year": 2026
+    },
+    "sweden": {
+      "country": "Sweden",
+      "region": "Europe",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 15,
+        "high": 23,
+        "median": 19
+      },
+      "reply_rate": {
+        "low": 1.7,
+        "high": 4.2,
+        "median": 2.8
+      },
+      "click_rate": {
+        "low": 1.4,
+        "high": 3.5,
+        "median": 2.2
+      },
+      "hard_bounce_target": 2.5,
+      "soft_bounce_rate": {
+        "low": 1.2,
+        "high": 2.8
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.5
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "8:00-10:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Swedish",
+      "personalization_index": 8,
+      "sample_note": "Swedes respond well to value-driven, concise messaging. Imse (Swedish DPA) is active.",
+      "data_quality_note": "Strong data hygiene. 95% verification on curated enterprise lists.",
+      "data_year": 2026
+    },
+    "israel": {
+      "country": "Israel",
+      "region": "MENA",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 18,
+        "high": 27,
+        "median": 22
+      },
+      "reply_rate": {
+        "low": 2,
+        "high": 5.2,
+        "median": 3.2
+      },
+      "click_rate": {
+        "low": 1.8,
+        "high": 4.2,
+        "median": 2.8
+      },
+      "hard_bounce_target": 2.2,
+      "soft_bounce_rate": {
+        "low": 1.1,
+        "high": 2.5
+      },
+      "unsubscribe_rate": {
+        "low": 0.12,
+        "high": 0.45
+      },
+      "best_days": [
+        "Sunday",
+        "Monday",
+        "Tuesday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Sun-Thu",
+      "language": "English",
+      "personalization_index": 7,
+      "sample_note": "Israeli working week is Sun-Thu. High tech density. English widely used.",
+      "data_quality_note": "Strong tech sector concentration. 94% verification achievable.",
+      "data_year": 2026
+    },
+    "south-korea": {
+      "country": "South Korea",
+      "region": "Asia-Pacific",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 12,
+        "high": 18,
+        "median": 14
+      },
+      "reply_rate": {
+        "low": 1,
+        "high": 2.8,
+        "median": 1.6
+      },
+      "click_rate": {
+        "low": 0.9,
+        "high": 2.2,
+        "median": 1.3
+      },
+      "hard_bounce_target": 3,
+      "soft_bounce_rate": {
+        "low": 1.5,
+        "high": 3.2
+      },
+      "unsubscribe_rate": {
+        "low": 0.08,
+        "high": 0.35
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "best_time_local": "10:00am-12:00pm",
+      "weekly_window": "Mon-Fri",
+      "language": "Korean",
+      "personalization_index": 9,
+      "sample_note": "Korean-language copy essential. Hierarchy-sensitive messaging. PIPA strictly enforced.",
+      "data_quality_note": "Corporate lists achieve 93% verification. Consumer cross-contamination risk.",
+      "data_year": 2026
+    },
+    "brazil": {
+      "country": "Brazil",
+      "region": "Americas",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 15,
+        "high": 23,
+        "median": 19
+      },
+      "reply_rate": {
+        "low": 1.8,
+        "high": 4.5,
+        "median": 2.8
+      },
+      "click_rate": {
+        "low": 1.5,
+        "high": 3.8,
+        "median": 2.4
+      },
+      "hard_bounce_target": 4,
+      "soft_bounce_rate": {
+        "low": 2,
+        "high": 4.5
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.5
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Portuguese",
+      "personalization_index": 7,
+      "sample_note": "LGPD in effect. Portuguese required for best results. Sao Paulo concentration.",
+      "data_quality_note": "Variable quality market. 90% verification achievable for Sao Paulo/Rio enterprise.",
+      "data_year": 2026
+    },
+    "mexico": {
+      "country": "Mexico",
+      "region": "Americas",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 14,
+        "high": 22,
+        "median": 18
+      },
+      "reply_rate": {
+        "low": 1.5,
+        "high": 4,
+        "median": 2.5
+      },
+      "click_rate": {
+        "low": 1.3,
+        "high": 3.5,
+        "median": 2.1
+      },
+      "hard_bounce_target": 4.5,
+      "soft_bounce_rate": {
+        "low": 2.2,
+        "high": 4.8
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.55
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "10:00am-12:00pm",
+      "weekly_window": "Mon-Fri",
+      "language": "Spanish",
+      "personalization_index": 7,
+      "sample_note": "LFPDPPP applies. Spanish-language copy strongly preferred. CDMX and Monterrey concentration.",
+      "data_quality_note": "Moderate data quality. 89% verification on CDMX business lists.",
+      "data_year": 2026
+    },
+    "switzerland": {
+      "country": "Switzerland",
+      "region": "Europe",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 14,
+        "high": 22,
+        "median": 18
+      },
+      "reply_rate": {
+        "low": 1.5,
+        "high": 3.8,
+        "median": 2.4
+      },
+      "click_rate": {
+        "low": 1.3,
+        "high": 3,
+        "median": 1.9
+      },
+      "hard_bounce_target": 2.5,
+      "soft_bounce_rate": {
+        "low": 1.3,
+        "high": 2.8
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.5
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "German",
+      "personalization_index": 9,
+      "sample_note": "Four language zones. German dominant in B2B. Finance sector very high value.",
+      "data_quality_note": "Swiss Federal Act on Data Protection. 95% verification achievable.",
+      "data_year": 2026
+    },
+    "saudi-arabia": {
+      "country": "Saudi Arabia",
+      "region": "MENA",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 16,
+        "high": 24,
+        "median": 20
+      },
+      "reply_rate": {
+        "low": 1.6,
+        "high": 4,
+        "median": 2.5
+      },
+      "click_rate": {
+        "low": 1.4,
+        "high": 3.2,
+        "median": 2
+      },
+      "hard_bounce_target": 3,
+      "soft_bounce_rate": {
+        "low": 1.5,
+        "high": 3.2
+      },
+      "unsubscribe_rate": {
+        "low": 0.1,
+        "high": 0.45
+      },
+      "best_days": [
+        "Sunday",
+        "Monday",
+        "Tuesday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Sun-Thu",
+      "language": "Arabic",
+      "personalization_index": 8,
+      "sample_note": "Vision 2030 driving B2B growth. Arabic preferred, English accepted in tech sectors.",
+      "data_quality_note": "PDPL enforcement emerging. 91% verification on Riyadh and Jeddah enterprise lists.",
+      "data_year": 2026
+    },
+    "south-africa": {
+      "country": "South Africa",
+      "region": "Africa",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 16,
+        "high": 24,
+        "median": 20
+      },
+      "reply_rate": {
+        "low": 1.7,
+        "high": 4.2,
+        "median": 2.6
+      },
+      "click_rate": {
+        "low": 1.5,
+        "high": 3.5,
+        "median": 2.2
+      },
+      "hard_bounce_target": 3.5,
+      "soft_bounce_rate": {
+        "low": 1.8,
+        "high": 3.8
+      },
+      "unsubscribe_rate": {
+        "low": 0.13,
+        "high": 0.48
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "8:30-10:30am",
+      "weekly_window": "Mon-Fri",
+      "language": "English",
+      "personalization_index": 7,
+      "sample_note": "POPIA in effect since 2021. English dominant in formal B2B. Johannesburg concentration.",
+      "data_quality_note": "POPIA-compliant sourcing required. 90% verification on Johannesburg enterprise lists.",
+      "data_year": 2026
+    },
+    "nigeria": {
+      "country": "Nigeria",
+      "region": "Africa",
+      "compliance_tier": "permissive",
+      "open_rate": {
+        "low": 18,
+        "high": 28,
+        "median": 22
+      },
+      "reply_rate": {
+        "low": 2,
+        "high": 5,
+        "median": 3.2
+      },
+      "click_rate": {
+        "low": 1.8,
+        "high": 4.2,
+        "median": 2.8
+      },
+      "hard_bounce_target": 5,
+      "soft_bounce_rate": {
+        "low": 2.5,
+        "high": 5
+      },
+      "unsubscribe_rate": {
+        "low": 0.1,
+        "high": 0.45
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "English",
+      "personalization_index": 6,
+      "sample_note": "NDPR applies but enforcement for B2B cold email is minimal. Lagos concentration.",
+      "data_quality_note": "Emerging data market. 86% verification on Lagos enterprise lists. Bounce rates higher.",
+      "data_year": 2026
+    },
+    "turkey": {
+      "country": "Turkey",
+      "region": "MENA",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 15,
+        "high": 23,
+        "median": 19
+      },
+      "reply_rate": {
+        "low": 1.5,
+        "high": 3.8,
+        "median": 2.4
+      },
+      "click_rate": {
+        "low": 1.3,
+        "high": 3.2,
+        "median": 2
+      },
+      "hard_bounce_target": 3.5,
+      "soft_bounce_rate": {
+        "low": 1.8,
+        "high": 3.8
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.55
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Turkish",
+      "personalization_index": 8,
+      "sample_note": "KVKK enforced. Turkish-language copy significantly outperforms. Istanbul concentration.",
+      "data_quality_note": "Moderate data quality. 89% verification on Istanbul enterprise lists.",
+      "data_year": 2026
+    },
+    "poland": {
+      "country": "Poland",
+      "region": "Europe",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 14,
+        "high": 22,
+        "median": 18
+      },
+      "reply_rate": {
+        "low": 1.4,
+        "high": 3.5,
+        "median": 2.2
+      },
+      "click_rate": {
+        "low": 1.2,
+        "high": 3,
+        "median": 1.9
+      },
+      "hard_bounce_target": 3,
+      "soft_bounce_rate": {
+        "low": 1.6,
+        "high": 3.2
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.55
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Polish",
+      "personalization_index": 7,
+      "sample_note": "GDPR enforced. Rapidly growing tech sector. Warsaw concentration. Polish preferred.",
+      "data_quality_note": "92% verification achievable on Warsaw enterprise lists.",
+      "data_year": 2026
+    },
+    "ireland": {
+      "country": "Ireland",
+      "region": "Europe",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 16,
+        "high": 25,
+        "median": 20
+      },
+      "reply_rate": {
+        "low": 1.8,
+        "high": 4.5,
+        "median": 2.8
+      },
+      "click_rate": {
+        "low": 1.5,
+        "high": 3.8,
+        "median": 2.4
+      },
+      "hard_bounce_target": 2.5,
+      "soft_bounce_rate": {
+        "low": 1.2,
+        "high": 2.8
+      },
+      "unsubscribe_rate": {
+        "low": 0.13,
+        "high": 0.48
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "8:30-10:30am",
+      "weekly_window": "Mon-Fri",
+      "language": "English",
+      "personalization_index": 7,
+      "sample_note": "DPC (Irish DPA) is the lead EU supervisory authority. Tech company HQ concentration.",
+      "data_quality_note": "DPC-compliant sourcing required. 94% verification achievable.",
+      "data_year": 2026
+    },
+    "hong-kong": {
+      "country": "Hong Kong",
+      "region": "Asia-Pacific",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 14,
+        "high": 22,
+        "median": 18
+      },
+      "reply_rate": {
+        "low": 1.5,
+        "high": 3.8,
+        "median": 2.4
+      },
+      "click_rate": {
+        "low": 1.3,
+        "high": 3.2,
+        "median": 2
+      },
+      "hard_bounce_target": 2.8,
+      "soft_bounce_rate": {
+        "low": 1.4,
+        "high": 3
+      },
+      "unsubscribe_rate": {
+        "low": 0.12,
+        "high": 0.45
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "English",
+      "personalization_index": 7,
+      "sample_note": "PDPO applies. English widely used. Financial services and trade hub.",
+      "data_quality_note": "Strong data hygiene. 94% verification on enterprise lists.",
+      "data_year": 2026
+    },
+    "china": {
+      "country": "China",
+      "region": "Asia-Pacific",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 8,
+        "high": 15,
+        "median": 11
+      },
+      "reply_rate": {
+        "low": 0.6,
+        "high": 2,
+        "median": 1
+      },
+      "click_rate": {
+        "low": 0.5,
+        "high": 1.6,
+        "median": 0.9
+      },
+      "hard_bounce_target": 5,
+      "soft_bounce_rate": {
+        "low": 2.5,
+        "high": 5
+      },
+      "unsubscribe_rate": {
+        "low": 0.05,
+        "high": 0.3
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "best_time_local": "10:00am-12:00pm",
+      "weekly_window": "Mon-Fri",
+      "language": "Mandarin",
+      "personalization_index": 10,
+      "sample_note": "PIPL strictly enforced. Cold email uncommon — WeChat dominant. Chinese-language mandatory. Warm introductions essential.",
+      "data_quality_note": "PIPL compliance complex. 88% verification achievable on enterprise lists.",
+      "data_year": 2026
+    },
+    "new-zealand": {
+      "country": "New Zealand",
+      "region": "Asia-Pacific",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 15,
+        "high": 23,
+        "median": 19
+      },
+      "reply_rate": {
+        "low": 1.6,
+        "high": 4,
+        "median": 2.5
+      },
+      "click_rate": {
+        "low": 1.4,
+        "high": 3.2,
+        "median": 2.1
+      },
+      "hard_bounce_target": 2.5,
+      "soft_bounce_rate": {
+        "low": 1.2,
+        "high": 2.8
+      },
+      "unsubscribe_rate": {
+        "low": 0.13,
+        "high": 0.45
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "8:30-10:30am",
+      "weekly_window": "Mon-Fri",
+      "language": "English",
+      "personalization_index": 7,
+      "sample_note": "Spam Act compliant. Relationship-driven market. Auckland concentration.",
+      "data_quality_note": "93% verification achievable. Small but high-quality data market.",
+      "data_year": 2026
+    },
+    "denmark": {
+      "country": "Denmark",
+      "region": "Europe",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 15,
+        "high": 23,
+        "median": 19
+      },
+      "reply_rate": {
+        "low": 1.7,
+        "high": 4.2,
+        "median": 2.7
+      },
+      "click_rate": {
+        "low": 1.4,
+        "high": 3.5,
+        "median": 2.2
+      },
+      "hard_bounce_target": 2.5,
+      "soft_bounce_rate": {
+        "low": 1.2,
+        "high": 2.8
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.5
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "8:00-10:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Danish",
+      "personalization_index": 8,
+      "sample_note": "Datatilsynet (Danish DPA) actively enforces GDPR. Danish-language copy preferred.",
+      "data_quality_note": "94% verification achievable on Copenhagen enterprise lists.",
+      "data_year": 2026
+    },
+    "norway": {
+      "country": "Norway",
+      "region": "Europe",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 15,
+        "high": 23,
+        "median": 19
+      },
+      "reply_rate": {
+        "low": 1.7,
+        "high": 4.2,
+        "median": 2.7
+      },
+      "click_rate": {
+        "low": 1.4,
+        "high": 3.5,
+        "median": 2.2
+      },
+      "hard_bounce_target": 2.5,
+      "soft_bounce_rate": {
+        "low": 1.2,
+        "high": 2.8
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.5
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "8:00-10:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Norwegian",
+      "personalization_index": 8,
+      "sample_note": "Datatilsynet enforces. High oil and maritime sector value. Oslo concentration.",
+      "data_quality_note": "94% verification achievable on Oslo enterprise lists.",
+      "data_year": 2026
+    },
+    "finland": {
+      "country": "Finland",
+      "region": "Europe",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 14,
+        "high": 22,
+        "median": 18
+      },
+      "reply_rate": {
+        "low": 1.5,
+        "high": 3.8,
+        "median": 2.4
+      },
+      "click_rate": {
+        "low": 1.3,
+        "high": 3,
+        "median": 1.9
+      },
+      "hard_bounce_target": 2.5,
+      "soft_bounce_rate": {
+        "low": 1.2,
+        "high": 2.8
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.5
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "8:00-10:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Finnish",
+      "personalization_index": 8,
+      "sample_note": "Finnish business culture highly analytical. Data-led messaging performs well.",
+      "data_quality_note": "94% verification achievable. Strong tech sector concentration in Helsinki.",
+      "data_year": 2026
+    },
+    "malaysia": {
+      "country": "Malaysia",
+      "region": "Asia-Pacific",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 15,
+        "high": 23,
+        "median": 19
+      },
+      "reply_rate": {
+        "low": 1.6,
+        "high": 4,
+        "median": 2.5
+      },
+      "click_rate": {
+        "low": 1.4,
+        "high": 3.2,
+        "median": 2
+      },
+      "hard_bounce_target": 3,
+      "soft_bounce_rate": {
+        "low": 1.5,
+        "high": 3.2
+      },
+      "unsubscribe_rate": {
+        "low": 0.12,
+        "high": 0.45
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:30-11:30am",
+      "weekly_window": "Mon-Fri",
+      "language": "English",
+      "personalization_index": 7,
+      "sample_note": "PDPA 2010 applies. English widely used in B2B. Kuala Lumpur concentration.",
+      "data_quality_note": "90% verification achievable on enterprise lists. PDPA compliance recommended.",
+      "data_year": 2026
+    },
+    "philippines": {
+      "country": "Philippines",
+      "region": "Asia-Pacific",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 17,
+        "high": 26,
+        "median": 21
+      },
+      "reply_rate": {
+        "low": 2,
+        "high": 5,
+        "median": 3.2
+      },
+      "click_rate": {
+        "low": 1.8,
+        "high": 4,
+        "median": 2.6
+      },
+      "hard_bounce_target": 3.5,
+      "soft_bounce_rate": {
+        "low": 1.8,
+        "high": 3.8
+      },
+      "unsubscribe_rate": {
+        "low": 0.12,
+        "high": 0.45
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "English",
+      "personalization_index": 6,
+      "sample_note": "Data Privacy Act 2012. English dominant in business. BPO and tech sector strong.",
+      "data_quality_note": "88% verification achievable. Manila Metro concentration.",
+      "data_year": 2026
+    },
+    "indonesia": {
+      "country": "Indonesia",
+      "region": "Asia-Pacific",
+      "compliance_tier": "permissive",
+      "open_rate": {
+        "low": 16,
+        "high": 25,
+        "median": 20
+      },
+      "reply_rate": {
+        "low": 1.8,
+        "high": 4.5,
+        "median": 2.8
+      },
+      "click_rate": {
+        "low": 1.6,
+        "high": 3.8,
+        "median": 2.4
+      },
+      "hard_bounce_target": 4,
+      "soft_bounce_rate": {
+        "low": 2,
+        "high": 4.2
+      },
+      "unsubscribe_rate": {
+        "low": 0.12,
+        "high": 0.45
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Indonesian",
+      "personalization_index": 7,
+      "sample_note": "PDP Law 2022 — implementation period ongoing. English accepted in corporate B2B.",
+      "data_quality_note": "87% verification achievable. Jakarta concentration. Growing enterprise data market.",
+      "data_year": 2026
+    },
+    "thailand": {
+      "country": "Thailand",
+      "region": "Asia-Pacific",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 14,
+        "high": 22,
+        "median": 18
+      },
+      "reply_rate": {
+        "low": 1.5,
+        "high": 3.8,
+        "median": 2.4
+      },
+      "click_rate": {
+        "low": 1.3,
+        "high": 3,
+        "median": 1.9
+      },
+      "hard_bounce_target": 3.5,
+      "soft_bounce_rate": {
+        "low": 1.8,
+        "high": 3.8
+      },
+      "unsubscribe_rate": {
+        "low": 0.12,
+        "high": 0.45
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Thai",
+      "personalization_index": 8,
+      "sample_note": "PDPA effective 2022. Thai-language copy for non-international companies. Bangkok concentration.",
+      "data_quality_note": "88% verification achievable on Bangkok enterprise lists.",
+      "data_year": 2026
+    },
+    "argentina": {
+      "country": "Argentina",
+      "region": "Americas",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 14,
+        "high": 22,
+        "median": 18
+      },
+      "reply_rate": {
+        "low": 1.5,
+        "high": 3.8,
+        "median": 2.4
+      },
+      "click_rate": {
+        "low": 1.3,
+        "high": 3.2,
+        "median": 2
+      },
+      "hard_bounce_target": 4,
+      "soft_bounce_rate": {
+        "low": 2,
+        "high": 4.2
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.5
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "10:00am-12:00pm",
+      "weekly_window": "Mon-Fri",
+      "language": "Spanish",
+      "personalization_index": 7,
+      "sample_note": "GDPR-adequate framework. Spanish-language preferred. Buenos Aires concentration.",
+      "data_quality_note": "89% verification achievable. EU adequacy status simplifies compliance.",
+      "data_year": 2026
+    },
+    "spain": {
+      "country": "Spain",
+      "region": "Europe",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 13,
+        "high": 21,
+        "median": 17
+      },
+      "reply_rate": {
+        "low": 1.4,
+        "high": 3.5,
+        "median": 2.2
+      },
+      "click_rate": {
+        "low": 1.2,
+        "high": 2.8,
+        "median": 1.8
+      },
+      "hard_bounce_target": 3,
+      "soft_bounce_rate": {
+        "low": 1.6,
+        "high": 3.5
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.55
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "best_time_local": "9:30-11:30am",
+      "weekly_window": "Mon-Fri",
+      "language": "Spanish",
+      "personalization_index": 8,
+      "sample_note": "AEPD enforces GDPR strictly. Spanish-language copy essential. Lunch hours: 2-4pm avoid.",
+      "data_quality_note": "91% verification achievable. Madrid and Barcelona concentration.",
+      "data_year": 2026
+    },
+    "italy": {
+      "country": "Italy",
+      "region": "Europe",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 12,
+        "high": 19,
+        "median": 15
+      },
+      "reply_rate": {
+        "low": 1.2,
+        "high": 3,
+        "median": 1.8
+      },
+      "click_rate": {
+        "low": 1,
+        "high": 2.5,
+        "median": 1.5
+      },
+      "hard_bounce_target": 3.5,
+      "soft_bounce_rate": {
+        "low": 1.8,
+        "high": 3.8
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.6
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "best_time_local": "9:30-11:30am",
+      "weekly_window": "Mon-Fri",
+      "language": "Italian",
+      "personalization_index": 9,
+      "sample_note": "Garante (Italian DPA) strictly enforces. Italian-language copy essential. Relationship context important.",
+      "data_quality_note": "91% verification achievable. Milan concentration for B2B.",
+      "data_year": 2026
+    },
+    "belgium": {
+      "country": "Belgium",
+      "region": "Europe",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 13,
+        "high": 21,
+        "median": 17
+      },
+      "reply_rate": {
+        "low": 1.4,
+        "high": 3.5,
+        "median": 2.2
+      },
+      "click_rate": {
+        "low": 1.2,
+        "high": 2.8,
+        "median": 1.8
+      },
+      "hard_bounce_target": 2.8,
+      "soft_bounce_rate": {
+        "low": 1.4,
+        "high": 3
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.55
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Dutch",
+      "personalization_index": 8,
+      "sample_note": "APD/GBA enforces GDPR. French and Dutch regions require language-matched copy.",
+      "data_quality_note": "93% verification achievable. Brussels and Antwerp concentration.",
+      "data_year": 2026
+    },
+    "austria": {
+      "country": "Austria",
+      "region": "Europe",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 13,
+        "high": 21,
+        "median": 17
+      },
+      "reply_rate": {
+        "low": 1.4,
+        "high": 3.5,
+        "median": 2.2
+      },
+      "click_rate": {
+        "low": 1.2,
+        "high": 2.8,
+        "median": 1.8
+      },
+      "hard_bounce_target": 2.8,
+      "soft_bounce_rate": {
+        "low": 1.4,
+        "high": 3
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.55
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "German",
+      "personalization_index": 9,
+      "sample_note": "DSB enforces GDPR. German-language copy essential. Vienna concentration.",
+      "data_quality_note": "93% verification achievable on Vienna enterprise lists.",
+      "data_year": 2026
+    },
+    "portugal": {
+      "country": "Portugal",
+      "region": "Europe",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 13,
+        "high": 21,
+        "median": 17
+      },
+      "reply_rate": {
+        "low": 1.4,
+        "high": 3.5,
+        "median": 2.2
+      },
+      "click_rate": {
+        "low": 1.2,
+        "high": 2.8,
+        "median": 1.8
+      },
+      "hard_bounce_target": 2.8,
+      "soft_bounce_rate": {
+        "low": 1.5,
+        "high": 3.2
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.55
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Portuguese",
+      "personalization_index": 8,
+      "sample_note": "CNPD enforces GDPR. Lisbon tech scene growing. Portuguese-language copy preferred.",
+      "data_quality_note": "91% verification achievable. Lisbon and Porto concentration.",
+      "data_year": 2026
+    },
+    "czech-republic": {
+      "country": "Czech Republic",
+      "region": "Europe",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 14,
+        "high": 22,
+        "median": 18
+      },
+      "reply_rate": {
+        "low": 1.4,
+        "high": 3.5,
+        "median": 2.2
+      },
+      "click_rate": {
+        "low": 1.2,
+        "high": 3,
+        "median": 1.9
+      },
+      "hard_bounce_target": 2.8,
+      "soft_bounce_rate": {
+        "low": 1.5,
+        "high": 3.2
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.5
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Czech",
+      "personalization_index": 7,
+      "sample_note": "UOOU enforces GDPR. Strong manufacturing and tech sectors. Prague concentration.",
+      "data_quality_note": "92% verification achievable on Prague enterprise lists.",
+      "data_year": 2026
+    },
+    "egypt": {
+      "country": "Egypt",
+      "region": "MENA",
+      "compliance_tier": "permissive",
+      "open_rate": {
+        "low": 15,
+        "high": 23,
+        "median": 19
+      },
+      "reply_rate": {
+        "low": 1.6,
+        "high": 4,
+        "median": 2.5
+      },
+      "click_rate": {
+        "low": 1.4,
+        "high": 3.2,
+        "median": 2
+      },
+      "hard_bounce_target": 4,
+      "soft_bounce_rate": {
+        "low": 2,
+        "high": 4.2
+      },
+      "unsubscribe_rate": {
+        "low": 0.12,
+        "high": 0.45
+      },
+      "best_days": [
+        "Sunday",
+        "Monday",
+        "Tuesday"
+      ],
+      "best_time_local": "10:00am-12:00pm",
+      "weekly_window": "Sun-Thu",
+      "language": "Arabic",
+      "personalization_index": 7,
+      "sample_note": "Data Protection Law 2020 — early-stage enforcement. Working week Sun-Thu. Cairo concentration.",
+      "data_quality_note": "87% verification achievable. Emerging enterprise data market.",
+      "data_year": 2026
+    },
+    "qatar": {
+      "country": "Qatar",
+      "region": "MENA",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 16,
+        "high": 24,
+        "median": 20
+      },
+      "reply_rate": {
+        "low": 1.7,
+        "high": 4.2,
+        "median": 2.6
+      },
+      "click_rate": {
+        "low": 1.5,
+        "high": 3.5,
+        "median": 2.2
+      },
+      "hard_bounce_target": 3,
+      "soft_bounce_rate": {
+        "low": 1.5,
+        "high": 3.2
+      },
+      "unsubscribe_rate": {
+        "low": 0.1,
+        "high": 0.45
+      },
+      "best_days": [
+        "Sunday",
+        "Monday",
+        "Tuesday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Sun-Thu",
+      "language": "Arabic",
+      "personalization_index": 8,
+      "sample_note": "Working week Sun-Thu. English accepted in international B2B. QFC zone follows GDPR.",
+      "data_quality_note": "91% verification achievable on Doha enterprise lists.",
+      "data_year": 2026
+    },
+    "kuwait": {
+      "country": "Kuwait",
+      "region": "MENA",
+      "compliance_tier": "permissive",
+      "open_rate": {
+        "low": 15,
+        "high": 23,
+        "median": 19
+      },
+      "reply_rate": {
+        "low": 1.6,
+        "high": 4,
+        "median": 2.5
+      },
+      "click_rate": {
+        "low": 1.4,
+        "high": 3.2,
+        "median": 2
+      },
+      "hard_bounce_target": 3,
+      "soft_bounce_rate": {
+        "low": 1.5,
+        "high": 3.2
+      },
+      "unsubscribe_rate": {
+        "low": 0.1,
+        "high": 0.45
+      },
+      "best_days": [
+        "Sunday",
+        "Monday",
+        "Tuesday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Sun-Thu",
+      "language": "Arabic",
+      "personalization_index": 7,
+      "sample_note": "Oil sector dominant. Working week Sun-Thu. English accepted in B2B.",
+      "data_quality_note": "90% verification achievable. Kuwait City concentration.",
+      "data_year": 2026
+    },
+    "vietnam": {
+      "country": "Vietnam",
+      "region": "Asia-Pacific",
+      "compliance_tier": "permissive",
+      "open_rate": {
+        "low": 16,
+        "high": 25,
+        "median": 20
+      },
+      "reply_rate": {
+        "low": 1.7,
+        "high": 4.2,
+        "median": 2.6
+      },
+      "click_rate": {
+        "low": 1.5,
+        "high": 3.5,
+        "median": 2.2
+      },
+      "hard_bounce_target": 4,
+      "soft_bounce_rate": {
+        "low": 2,
+        "high": 4.2
+      },
+      "unsubscribe_rate": {
+        "low": 0.1,
+        "high": 0.4
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Vietnamese",
+      "personalization_index": 7,
+      "sample_note": "Cybersecurity Law applies. Manufacturing hub. Ho Chi Minh City concentration.",
+      "data_quality_note": "86% verification achievable. Fast-growing enterprise data market.",
+      "data_year": 2026
+    },
+    "colombia": {
+      "country": "Colombia",
+      "region": "Americas",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 13,
+        "high": 21,
+        "median": 17
+      },
+      "reply_rate": {
+        "low": 1.4,
+        "high": 3.5,
+        "median": 2.2
+      },
+      "click_rate": {
+        "low": 1.2,
+        "high": 2.8,
+        "median": 1.8
+      },
+      "hard_bounce_target": 4.2,
+      "soft_bounce_rate": {
+        "low": 2.2,
+        "high": 4.5
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.55
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "10:00am-12:00pm",
+      "weekly_window": "Mon-Fri",
+      "language": "Spanish",
+      "personalization_index": 8,
+      "sample_note": "SIC actively enforces. Express authorization required for processing. Bogota concentration.",
+      "data_quality_note": "88% verification achievable. Must obtain proper consent basis.",
+      "data_year": 2026
+    },
+    "chile": {
+      "country": "Chile",
+      "region": "Americas",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 14,
+        "high": 22,
+        "median": 18
+      },
+      "reply_rate": {
+        "low": 1.6,
+        "high": 4,
+        "median": 2.5
+      },
+      "click_rate": {
+        "low": 1.4,
+        "high": 3.2,
+        "median": 2
+      },
+      "hard_bounce_target": 3.5,
+      "soft_bounce_rate": {
+        "low": 1.8,
+        "high": 3.8
+      },
+      "unsubscribe_rate": {
+        "low": 0.13,
+        "high": 0.48
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:30-11:30am",
+      "weekly_window": "Mon-Fri",
+      "language": "Spanish",
+      "personalization_index": 7,
+      "sample_note": "CPLT oversight. New privacy law pending. Santiago concentration. Copper sector dominant.",
+      "data_quality_note": "89% verification achievable on Santiago enterprise lists.",
+      "data_year": 2026
+    },
+    "peru": {
+      "country": "Peru",
+      "region": "Americas",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 12,
+        "high": 20,
+        "median": 16
+      },
+      "reply_rate": {
+        "low": 1.4,
+        "high": 3.5,
+        "median": 2.1
+      },
+      "click_rate": {
+        "low": 1.2,
+        "high": 2.8,
+        "median": 1.7
+      },
+      "hard_bounce_target": 4,
+      "soft_bounce_rate": {
+        "low": 2,
+        "high": 4.2
+      },
+      "unsubscribe_rate": {
+        "low": 0.13,
+        "high": 0.48
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "10:00am-12:00pm",
+      "weekly_window": "Mon-Fri",
+      "language": "Spanish",
+      "personalization_index": 7,
+      "sample_note": "LPDP applies. Mining and agriculture sectors dominant. Lima concentration.",
+      "data_quality_note": "88% verification achievable. Lima enterprise concentration.",
+      "data_year": 2026
+    },
+    "greece": {
+      "country": "Greece",
+      "region": "Europe",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 12,
+        "high": 19,
+        "median": 15
+      },
+      "reply_rate": {
+        "low": 1.2,
+        "high": 3,
+        "median": 1.8
+      },
+      "click_rate": {
+        "low": 1,
+        "high": 2.5,
+        "median": 1.5
+      },
+      "hard_bounce_target": 3.2,
+      "soft_bounce_rate": {
+        "low": 1.6,
+        "high": 3.5
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.55
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:30-11:30am",
+      "weekly_window": "Mon-Fri",
+      "language": "Greek",
+      "personalization_index": 8,
+      "sample_note": "HDPA enforces GDPR. Tourism, shipping, and professional services dominant. Athens concentration.",
+      "data_quality_note": "90% verification achievable on Athens enterprise lists.",
+      "data_year": 2026
+    },
+    "romania": {
+      "country": "Romania",
+      "region": "Europe",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 13,
+        "high": 21,
+        "median": 17
+      },
+      "reply_rate": {
+        "low": 1.3,
+        "high": 3.2,
+        "median": 2
+      },
+      "click_rate": {
+        "low": 1.1,
+        "high": 2.8,
+        "median": 1.7
+      },
+      "hard_bounce_target": 3,
+      "soft_bounce_rate": {
+        "low": 1.5,
+        "high": 3.2
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.5
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Romanian",
+      "personalization_index": 7,
+      "sample_note": "ANSPDCP enforces GDPR. Growing tech outsourcing hub. Bucharest concentration.",
+      "data_quality_note": "91% verification achievable on Bucharest enterprise lists.",
+      "data_year": 2026
+    },
+    "hungary": {
+      "country": "Hungary",
+      "region": "Europe",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 13,
+        "high": 21,
+        "median": 17
+      },
+      "reply_rate": {
+        "low": 1.3,
+        "high": 3.2,
+        "median": 2
+      },
+      "click_rate": {
+        "low": 1.1,
+        "high": 2.8,
+        "median": 1.7
+      },
+      "hard_bounce_target": 3,
+      "soft_bounce_rate": {
+        "low": 1.5,
+        "high": 3.2
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.5
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Hungarian",
+      "personalization_index": 8,
+      "sample_note": "NAIH enforces GDPR. Manufacturing and tech sectors growing. Budapest concentration.",
+      "data_quality_note": "91% verification achievable on Budapest enterprise lists.",
+      "data_year": 2026
+    },
+    "pakistan": {
+      "country": "Pakistan",
+      "region": "Asia-Pacific",
+      "compliance_tier": "permissive",
+      "open_rate": {
+        "low": 15,
+        "high": 23,
+        "median": 19
+      },
+      "reply_rate": {
+        "low": 1.6,
+        "high": 4,
+        "median": 2.5
+      },
+      "click_rate": {
+        "low": 1.4,
+        "high": 3.2,
+        "median": 2
+      },
+      "hard_bounce_target": 5,
+      "soft_bounce_rate": {
+        "low": 2.5,
+        "high": 5
+      },
+      "unsubscribe_rate": {
+        "low": 0.12,
+        "high": 0.45
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "10:00am-12:00pm",
+      "weekly_window": "Mon-Fri",
+      "language": "English",
+      "personalization_index": 6,
+      "sample_note": "PECA 2016 framework. English used in corporate B2B. Karachi and Lahore concentration.",
+      "data_quality_note": "Emerging market. Lower verification rates — target verified enterprise lists.",
+      "data_year": 2026
+    },
+    "morocco": {
+      "country": "Morocco",
+      "region": "MENA",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 13,
+        "high": 21,
+        "median": 17
+      },
+      "reply_rate": {
+        "low": 1.4,
+        "high": 3.5,
+        "median": 2.1
+      },
+      "click_rate": {
+        "low": 1.2,
+        "high": 2.8,
+        "median": 1.8
+      },
+      "hard_bounce_target": 4,
+      "soft_bounce_rate": {
+        "low": 2,
+        "high": 4
+      },
+      "unsubscribe_rate": {
+        "low": 0.12,
+        "high": 0.45
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:30-11:30am",
+      "weekly_window": "Mon-Fri",
+      "language": "French",
+      "personalization_index": 7,
+      "sample_note": "CNDP framework. French widely used in B2B. Casablanca financial hub.",
+      "data_quality_note": "88% verification achievable. Casablanca concentration.",
+      "data_year": 2026
+    },
+    "bangladesh": {
+      "country": "Bangladesh",
+      "region": "Asia-Pacific",
+      "compliance_tier": "permissive",
+      "open_rate": {
+        "low": 14,
+        "high": 22,
+        "median": 18
+      },
+      "reply_rate": {
+        "low": 1.5,
+        "high": 3.8,
+        "median": 2.4
+      },
+      "click_rate": {
+        "low": 1.3,
+        "high": 3,
+        "median": 1.9
+      },
+      "hard_bounce_target": 5,
+      "soft_bounce_rate": {
+        "low": 2.5,
+        "high": 5
+      },
+      "unsubscribe_rate": {
+        "low": 0.12,
+        "high": 0.45
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "10:00am-12:00pm",
+      "weekly_window": "Sun-Thu",
+      "language": "English",
+      "personalization_index": 6,
+      "sample_note": "DNCT framework. Garment and manufacturing sectors. Working week often Sun-Thu. Dhaka concentration.",
+      "data_quality_note": "Emerging market. Lower verification rates achievable — target major enterprise lists.",
+      "data_year": 2026
+    },
+    "russia": {
+      "country": "Russia",
+      "region": "Europe",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 10,
+        "high": 17,
+        "median": 13
+      },
+      "reply_rate": {
+        "low": 0.9,
+        "high": 2.5,
+        "median": 1.5
+      },
+      "click_rate": {
+        "low": 0.8,
+        "high": 2,
+        "median": 1.2
+      },
+      "hard_bounce_target": 4,
+      "soft_bounce_rate": {
+        "low": 2,
+        "high": 4.2
+      },
+      "unsubscribe_rate": {
+        "low": 0.1,
+        "high": 0.4
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "10:00am-12:00pm",
+      "weekly_window": "Mon-Fri",
+      "language": "Russian",
+      "personalization_index": 9,
+      "sample_note": "Federal Law 152-FZ applies. Russian-language copy essential. Complex compliance environment.",
+      "data_quality_note": "Variable quality. Sanctions and compliance considerations apply for international campaigns.",
+      "data_year": 2026
+    },
+    "croatia": {
+      "country": "Croatia",
+      "region": "Europe",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 12,
+        "high": 19,
+        "median": 15
+      },
+      "reply_rate": {
+        "low": 1.2,
+        "high": 3,
+        "median": 1.8
+      },
+      "click_rate": {
+        "low": 1,
+        "high": 2.5,
+        "median": 1.5
+      },
+      "hard_bounce_target": 3,
+      "soft_bounce_rate": {
+        "low": 1.5,
+        "high": 3.2
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.5
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Croatian",
+      "personalization_index": 7,
+      "sample_note": "AZOP enforces GDPR. Tourism and manufacturing sectors. Zagreb concentration.",
+      "data_quality_note": "91% verification achievable on Zagreb enterprise lists.",
+      "data_year": 2026
+    },
+    "cyprus": {
+      "country": "Cyprus",
+      "region": "Europe",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 13,
+        "high": 21,
+        "median": 17
+      },
+      "reply_rate": {
+        "low": 1.3,
+        "high": 3.2,
+        "median": 2
+      },
+      "click_rate": {
+        "low": 1.1,
+        "high": 2.8,
+        "median": 1.7
+      },
+      "hard_bounce_target": 2.8,
+      "soft_bounce_rate": {
+        "low": 1.4,
+        "high": 3
+      },
+      "unsubscribe_rate": {
+        "low": 0.13,
+        "high": 0.48
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "English",
+      "personalization_index": 7,
+      "sample_note": "ODPC enforces GDPR. Financial services hub. English widely used. Nicosia and Limassol.",
+      "data_quality_note": "92% verification achievable. Small but quality enterprise data market.",
+      "data_year": 2026
+    },
+    "estonia": {
+      "country": "Estonia",
+      "region": "Europe",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 14,
+        "high": 22,
+        "median": 18
+      },
+      "reply_rate": {
+        "low": 1.5,
+        "high": 3.8,
+        "median": 2.4
+      },
+      "click_rate": {
+        "low": 1.3,
+        "high": 3,
+        "median": 1.9
+      },
+      "hard_bounce_target": 2.5,
+      "soft_bounce_rate": {
+        "low": 1.2,
+        "high": 2.8
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.5
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "8:30-10:30am",
+      "weekly_window": "Mon-Fri",
+      "language": "Estonian",
+      "personalization_index": 7,
+      "sample_note": "AKI enforces GDPR. Highly digital business environment. Tallinn tech hub.",
+      "data_quality_note": "93% verification achievable. Small but digitally sophisticated market.",
+      "data_year": 2026
+    },
+    "latvia": {
+      "country": "Latvia",
+      "region": "Europe",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 13,
+        "high": 21,
+        "median": 17
+      },
+      "reply_rate": {
+        "low": 1.3,
+        "high": 3.2,
+        "median": 2
+      },
+      "click_rate": {
+        "low": 1.1,
+        "high": 2.8,
+        "median": 1.7
+      },
+      "hard_bounce_target": 2.8,
+      "soft_bounce_rate": {
+        "low": 1.4,
+        "high": 3
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.5
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Latvian",
+      "personalization_index": 7,
+      "sample_note": "DVI enforces GDPR. Riga commercial hub. Growing IT and logistics sectors.",
+      "data_quality_note": "92% verification achievable on Riga enterprise lists.",
+      "data_year": 2026
+    },
+    "lithuania": {
+      "country": "Lithuania",
+      "region": "Europe",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 13,
+        "high": 21,
+        "median": 17
+      },
+      "reply_rate": {
+        "low": 1.3,
+        "high": 3.2,
+        "median": 2
+      },
+      "click_rate": {
+        "low": 1.1,
+        "high": 2.8,
+        "median": 1.7
+      },
+      "hard_bounce_target": 2.8,
+      "soft_bounce_rate": {
+        "low": 1.4,
+        "high": 3
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.5
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Lithuanian",
+      "personalization_index": 7,
+      "sample_note": "VDAI enforces GDPR. Vilnius fintech hub. Growing B2B data market.",
+      "data_quality_note": "92% verification achievable on Vilnius enterprise lists.",
+      "data_year": 2026
+    },
+    "luxembourg": {
+      "country": "Luxembourg",
+      "region": "Europe",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 14,
+        "high": 22,
+        "median": 18
+      },
+      "reply_rate": {
+        "low": 1.5,
+        "high": 3.8,
+        "median": 2.4
+      },
+      "click_rate": {
+        "low": 1.3,
+        "high": 3,
+        "median": 1.9
+      },
+      "hard_bounce_target": 2.5,
+      "soft_bounce_rate": {
+        "low": 1.2,
+        "high": 2.8
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.5
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "French",
+      "personalization_index": 8,
+      "sample_note": "CNPD enforces GDPR. Major financial hub. Multilingual business environment.",
+      "data_quality_note": "94% verification achievable. High-value financial sector concentration.",
+      "data_year": 2026
+    },
+    "serbia": {
+      "country": "Serbia",
+      "region": "Europe",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 12,
+        "high": 19,
+        "median": 15
+      },
+      "reply_rate": {
+        "low": 1.2,
+        "high": 3,
+        "median": 1.8
+      },
+      "click_rate": {
+        "low": 1,
+        "high": 2.5,
+        "median": 1.5
+      },
+      "hard_bounce_target": 3.5,
+      "soft_bounce_rate": {
+        "low": 1.7,
+        "high": 3.5
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.5
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Serbian",
+      "personalization_index": 7,
+      "sample_note": "PPDP law applies. Growing IT outsourcing sector. Belgrade concentration.",
+      "data_quality_note": "90% verification achievable on Belgrade enterprise lists.",
+      "data_year": 2026
+    },
+    "ukraine": {
+      "country": "Ukraine",
+      "region": "Europe",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 11,
+        "high": 18,
+        "median": 14
+      },
+      "reply_rate": {
+        "low": 1.1,
+        "high": 2.8,
+        "median": 1.7
+      },
+      "click_rate": {
+        "low": 0.9,
+        "high": 2.2,
+        "median": 1.4
+      },
+      "hard_bounce_target": 4,
+      "soft_bounce_rate": {
+        "low": 2,
+        "high": 4.2
+      },
+      "unsubscribe_rate": {
+        "low": 0.12,
+        "high": 0.45
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Ukrainian",
+      "personalization_index": 8,
+      "sample_note": "Law on Personal Data Protection. Strong IT sector. Remote work culture increases digital receptivity.",
+      "data_quality_note": "Variable quality due to current circumstances. Target diaspora and remote-first companies.",
+      "data_year": 2026
+    },
+    "bahrain": {
+      "country": "Bahrain",
+      "region": "MENA",
+      "compliance_tier": "permissive",
+      "open_rate": {
+        "low": 15,
+        "high": 23,
+        "median": 19
+      },
+      "reply_rate": {
+        "low": 1.6,
+        "high": 4,
+        "median": 2.5
+      },
+      "click_rate": {
+        "low": 1.4,
+        "high": 3.2,
+        "median": 2
+      },
+      "hard_bounce_target": 3,
+      "soft_bounce_rate": {
+        "low": 1.5,
+        "high": 3.2
+      },
+      "unsubscribe_rate": {
+        "low": 0.1,
+        "high": 0.4
+      },
+      "best_days": [
+        "Sunday",
+        "Monday",
+        "Tuesday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Sun-Thu",
+      "language": "Arabic",
+      "personalization_index": 7,
+      "sample_note": "PDPL permits B2B processing for LI. Financial hub. Working week Sun-Thu.",
+      "data_quality_note": "90% verification achievable. Manama business concentration.",
+      "data_year": 2026
+    },
+    "oman": {
+      "country": "Oman",
+      "region": "MENA",
+      "compliance_tier": "permissive",
+      "open_rate": {
+        "low": 14,
+        "high": 22,
+        "median": 18
+      },
+      "reply_rate": {
+        "low": 1.5,
+        "high": 3.8,
+        "median": 2.3
+      },
+      "click_rate": {
+        "low": 1.3,
+        "high": 3,
+        "median": 1.9
+      },
+      "hard_bounce_target": 3,
+      "soft_bounce_rate": {
+        "low": 1.5,
+        "high": 3.2
+      },
+      "unsubscribe_rate": {
+        "low": 0.1,
+        "high": 0.4
+      },
+      "best_days": [
+        "Sunday",
+        "Monday",
+        "Tuesday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Sun-Thu",
+      "language": "Arabic",
+      "personalization_index": 7,
+      "sample_note": "ITA Cyber Security Framework. Working week Sun-Thu. Oil and logistics sectors dominant.",
+      "data_quality_note": "89% verification achievable. Muscat concentration.",
+      "data_year": 2026
+    },
+    "lebanon": {
+      "country": "Lebanon",
+      "region": "MENA",
+      "compliance_tier": "permissive",
+      "open_rate": {
+        "low": 13,
+        "high": 21,
+        "median": 17
+      },
+      "reply_rate": {
+        "low": 1.4,
+        "high": 3.5,
+        "median": 2.1
+      },
+      "click_rate": {
+        "low": 1.2,
+        "high": 2.8,
+        "median": 1.8
+      },
+      "hard_bounce_target": 4,
+      "soft_bounce_rate": {
+        "low": 2,
+        "high": 4
+      },
+      "unsubscribe_rate": {
+        "low": 0.12,
+        "high": 0.45
+      },
+      "best_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "French",
+      "personalization_index": 7,
+      "sample_note": "Decree 8987 framework. French and Arabic both used in B2B. Beirut professional services.",
+      "data_quality_note": "Variable quality. Target professional services and financial sectors.",
+      "data_year": 2026
+    },
+    "ghana": {
+      "country": "Ghana",
+      "region": "Africa",
+      "compliance_tier": "permissive",
+      "open_rate": {
+        "low": 15,
+        "high": 23,
+        "median": 19
+      },
+      "reply_rate": {
+        "low": 1.6,
+        "high": 4,
+        "median": 2.5
+      },
+      "click_rate": {
+        "low": 1.4,
+        "high": 3.2,
+        "median": 2
+      },
+      "hard_bounce_target": 4.5,
+      "soft_bounce_rate": {
+        "low": 2.2,
+        "high": 4.5
+      },
+      "unsubscribe_rate": {
+        "low": 0.12,
+        "high": 0.45
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "English",
+      "personalization_index": 6,
+      "sample_note": "Data Protection Act 2012 — minimal enforcement. English dominant. Accra concentration.",
+      "data_quality_note": "Emerging market. Target verified enterprise lists for better deliverability.",
+      "data_year": 2026
+    },
+    "iceland": {
+      "country": "Iceland",
+      "region": "Europe",
+      "compliance_tier": "strict",
+      "open_rate": {
+        "low": 14,
+        "high": 22,
+        "median": 18
+      },
+      "reply_rate": {
+        "low": 1.5,
+        "high": 3.8,
+        "median": 2.4
+      },
+      "click_rate": {
+        "low": 1.3,
+        "high": 3,
+        "median": 1.9
+      },
+      "hard_bounce_target": 2.5,
+      "soft_bounce_rate": {
+        "low": 1.2,
+        "high": 2.8
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.5
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "8:30-10:30am",
+      "weekly_window": "Mon-Fri",
+      "language": "Icelandic",
+      "personalization_index": 7,
+      "sample_note": "Personuvernd enforces GDPR. Small market — high personalisation essential. Reykjavik concentration.",
+      "data_quality_note": "93% verification achievable. Very small but quality enterprise data market.",
+      "data_year": 2026
+    },
+    "malta": {
+      "country": "Malta",
+      "region": "Europe",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 13,
+        "high": 21,
+        "median": 17
+      },
+      "reply_rate": {
+        "low": 1.3,
+        "high": 3.2,
+        "median": 2
+      },
+      "click_rate": {
+        "low": 1.1,
+        "high": 2.8,
+        "median": 1.7
+      },
+      "hard_bounce_target": 2.8,
+      "soft_bounce_rate": {
+        "low": 1.4,
+        "high": 3
+      },
+      "unsubscribe_rate": {
+        "low": 0.13,
+        "high": 0.48
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "English",
+      "personalization_index": 7,
+      "sample_note": "IDPC enforces GDPR. Financial services and iGaming hub. English dominant in B2B.",
+      "data_quality_note": "92% verification achievable. Small but high-value enterprise market.",
+      "data_year": 2026
+    },
+    "slovenia": {
+      "country": "Slovenia",
+      "region": "Europe",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 13,
+        "high": 21,
+        "median": 17
+      },
+      "reply_rate": {
+        "low": 1.3,
+        "high": 3.2,
+        "median": 2
+      },
+      "click_rate": {
+        "low": 1.1,
+        "high": 2.8,
+        "median": 1.7
+      },
+      "hard_bounce_target": 2.8,
+      "soft_bounce_rate": {
+        "low": 1.4,
+        "high": 3
+      },
+      "unsubscribe_rate": {
+        "low": 0.13,
+        "high": 0.48
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Slovenian",
+      "personalization_index": 7,
+      "sample_note": "IP RS enforces GDPR. Growing tech sector. Ljubljana concentration.",
+      "data_quality_note": "91% verification achievable on Ljubljana enterprise lists.",
+      "data_year": 2026
+    },
+    "montenegro": {
+      "country": "Montenegro",
+      "region": "Europe",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 11,
+        "high": 18,
+        "median": 14
+      },
+      "reply_rate": {
+        "low": 1.1,
+        "high": 2.8,
+        "median": 1.7
+      },
+      "click_rate": {
+        "low": 0.9,
+        "high": 2.2,
+        "median": 1.4
+      },
+      "hard_bounce_target": 3.5,
+      "soft_bounce_rate": {
+        "low": 1.8,
+        "high": 3.8
+      },
+      "unsubscribe_rate": {
+        "low": 0.13,
+        "high": 0.48
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Montenegrin",
+      "personalization_index": 6,
+      "sample_note": "AZLP enforces GDPR-aligned law. Small market. Tourism and real estate sectors dominant.",
+      "data_quality_note": "88% verification achievable. Podgorica concentration.",
+      "data_year": 2026
+    },
+    "sri-lanka": {
+      "country": "Sri Lanka",
+      "region": "Asia-Pacific",
+      "compliance_tier": "permissive",
+      "open_rate": {
+        "low": 14,
+        "high": 22,
+        "median": 18
+      },
+      "reply_rate": {
+        "low": 1.5,
+        "high": 3.8,
+        "median": 2.4
+      },
+      "click_rate": {
+        "low": 1.3,
+        "high": 3,
+        "median": 1.9
+      },
+      "hard_bounce_target": 4.5,
+      "soft_bounce_rate": {
+        "low": 2.2,
+        "high": 4.5
+      },
+      "unsubscribe_rate": {
+        "low": 0.12,
+        "high": 0.45
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "English",
+      "personalization_index": 6,
+      "sample_note": "PDPB framework emerging. English widely used in B2B. IT and outsourcing sectors. Colombo concentration.",
+      "data_quality_note": "Emerging market. 85% verification achievable on enterprise lists.",
+      "data_year": 2026
+    },
+    "togo": {
+      "country": "Togo",
+      "region": "Africa",
+      "compliance_tier": "permissive",
+      "open_rate": {
+        "low": 12,
+        "high": 19,
+        "median": 15
+      },
+      "reply_rate": {
+        "low": 1.2,
+        "high": 3,
+        "median": 1.8
+      },
+      "click_rate": {
+        "low": 1,
+        "high": 2.5,
+        "medium": 1.5
+      },
+      "hard_bounce_target": 5.5,
+      "soft_bounce_rate": {
+        "low": 2.8,
+        "high": 5.5
+      },
+      "unsubscribe_rate": {
+        "low": 0.1,
+        "high": 0.4
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "French",
+      "personalization_index": 6,
+      "sample_note": "LCEN framework. French dominant in B2B. Lome commercial hub. Emerging data market.",
+      "data_quality_note": "Emerging market — very limited enterprise data availability. Low verification rates expected.",
+      "data_year": 2026
+    },
+    "bulgaria": {
+      "country": "Bulgaria",
+      "region": "Europe",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 12,
+        "high": 19,
+        "median": 15
+      },
+      "reply_rate": {
+        "low": 1.2,
+        "high": 3,
+        "median": 1.8
+      },
+      "click_rate": {
+        "low": 1,
+        "high": 2.5,
+        "median": 1.5
+      },
+      "hard_bounce_target": 3.2,
+      "soft_bounce_rate": {
+        "low": 1.6,
+        "high": 3.5
+      },
+      "unsubscribe_rate": {
+        "low": 0.15,
+        "high": 0.5
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "9:00-11:00am",
+      "weekly_window": "Mon-Fri",
+      "language": "Bulgarian",
+      "personalization_index": 7,
+      "sample_note": "CPDP enforces GDPR. IT outsourcing sector growing. Sofia concentration.",
+      "data_quality_note": "90% verification achievable on Sofia enterprise lists.",
+      "data_year": 2026
+    },
+    "belarus": {
+      "country": "Belarus",
+      "region": "Europe",
+      "compliance_tier": "moderate",
+      "open_rate": {
+        "low": 10,
+        "high": 17,
+        "median": 13
+      },
+      "reply_rate": {
+        "low": 0.9,
+        "high": 2.5,
+        "median": 1.4
+      },
+      "click_rate": {
+        "low": 0.8,
+        "high": 2,
+        "median": 1.2
+      },
+      "hard_bounce_target": 4.5,
+      "soft_bounce_rate": {
+        "low": 2.2,
+        "high": 4.5
+      },
+      "unsubscribe_rate": {
+        "low": 0.1,
+        "high": 0.4
+      },
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_time_local": "10:00am-12:00pm",
+      "weekly_window": "Mon-Fri",
+      "language": "Russian",
+      "personalization_index": 8,
+      "sample_note": "Law on Personal Data. Complex geopolitical environment. IT sector strong. Minsk concentration.",
+      "data_quality_note": "Variable quality. Sanctions and compliance considerations apply for international campaigns.",
+      "data_year": 2026
+    }
+  },
+  "by_industry": {
+    "technology-software": {
+      "label": "Technology & Software",
+      "open_rate": {
+        "low": 22,
+        "high": 32,
+        "median": 26
+      },
+      "reply_rate": {
+        "low": 3.5,
+        "high": 7.5,
+        "median": 5
+      },
+      "click_rate": {
+        "low": 3,
+        "high": 6.5,
+        "median": 4.5
+      },
+      "hard_bounce_target": 2,
+      "best_send_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_send_time": "7:30-9:30am local",
+      "buying_cycle_days": 21,
+      "personalization_required": "High — reference specific tech stack",
+      "decision_maker_titles": [
+        "CTO",
+        "VP Engineering",
+        "IT Director",
+        "Head of Technology",
+        "CISO"
+      ],
+      "open_rate_note": "Highest open rates across all B2B verticals. Tech buyers are solution-oriented.",
+      "reply_rate_note": "Tech decision-makers respond well to peer-to-peer technical framing.",
+      "subject_approach": "Specific technical problem + metric or integration reference",
+      "data_year": 2026
+    },
+    "healthcare-medical": {
+      "label": "Healthcare & Medical",
+      "open_rate": {
+        "low": 18,
+        "high": 26,
+        "median": 22
+      },
+      "reply_rate": {
+        "low": 2,
+        "high": 4.5,
+        "median": 3
+      },
+      "click_rate": {
+        "low": 1.8,
+        "high": 3.8,
+        "median": 2.6
+      },
+      "hard_bounce_target": 2.5,
+      "best_send_days": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "best_send_time": "7:00-9:00am local (before rounds)",
+      "buying_cycle_days": 60,
+      "personalization_required": "Very High — compliance and patient context essential",
+      "decision_maker_titles": [
+        "CMO",
+        "Practice Manager",
+        "CIO",
+        "Hospital Administrator",
+        "VP Clinical Operations"
+      ],
+      "open_rate_note": "Moderate opens. Healthcare buyers are cautious but respond to ROI and compliance framing.",
+      "reply_rate_note": "Compliance-led messaging with ROI data drives replies. Avoid overly salesy tone.",
+      "subject_approach": "Compliance improvement or patient outcome metric",
+      "data_year": 2026
+    },
+    "manufacturing-engineering": {
+      "label": "Manufacturing & Engineering",
+      "open_rate": {
+        "low": 16,
+        "high": 24,
+        "median": 20
+      },
+      "reply_rate": {
+        "low": 1.8,
+        "high": 4,
+        "median": 2.6
+      },
+      "click_rate": {
+        "low": 1.5,
+        "high": 3.2,
+        "median": 2.2
+      },
+      "hard_bounce_target": 3,
+      "best_send_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_send_time": "6:30-8:30am local (before production shift)",
+      "buying_cycle_days": 90,
+      "personalization_required": "High — reference specific machinery, process, or sector",
+      "decision_maker_titles": [
+        "VP Operations",
+        "Plant Manager",
+        "COO",
+        "Director of Engineering",
+        "Procurement Manager"
+      ],
+      "open_rate_note": "Steady opens. Manufacturing buyers respond to efficiency and cost reduction framing.",
+      "reply_rate_note": "Longer buying cycles. Focus on ROI evidence and operational improvement.",
+      "subject_approach": "Operational efficiency or downtime/waste reduction",
+      "data_year": 2026
+    },
+    "finance-banking": {
+      "label": "Finance & Banking",
+      "open_rate": {
+        "low": 14,
+        "high": 22,
+        "median": 18
+      },
+      "reply_rate": {
+        "low": 1.5,
+        "high": 3.5,
+        "median": 2.2
+      },
+      "click_rate": {
+        "low": 1.2,
+        "high": 3,
+        "median": 1.9
+      },
+      "hard_bounce_target": 2,
+      "best_send_days": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "best_send_time": "7:30-9:30am local",
+      "buying_cycle_days": 90,
+      "personalization_required": "Very High — regulatory and risk context mandatory",
+      "decision_maker_titles": [
+        "CFO",
+        "Treasurer",
+        "VP Finance",
+        "Chief Risk Officer",
+        "Head of Compliance"
+      ],
+      "open_rate_note": "Conservative open rates. Financial buyers have high spam filters and compliance gatekeepers.",
+      "reply_rate_note": "Risk reduction and regulatory compliance framing drives replies. Numbers-led messaging.",
+      "subject_approach": "Regulatory compliance + risk reduction or cost saving",
+      "data_year": 2026
+    },
+    "professional-services": {
+      "label": "Professional Services",
+      "open_rate": {
+        "low": 18,
+        "high": 28,
+        "median": 23
+      },
+      "reply_rate": {
+        "low": 2.5,
+        "high": 6,
+        "median": 4
+      },
+      "click_rate": {
+        "low": 2,
+        "high": 5,
+        "median": 3.2
+      },
+      "hard_bounce_target": 2,
+      "best_send_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_send_time": "8:00-10:00am local",
+      "buying_cycle_days": 21,
+      "personalization_required": "High — sector specialisation reference valuable",
+      "decision_maker_titles": [
+        "Managing Partner",
+        "Director",
+        "Principal",
+        "Founder",
+        "Head of Practice"
+      ],
+      "open_rate_note": "Above-average opens. Professional services buyers are selective but responsive to peer framing.",
+      "reply_rate_note": "Referral and peer comparison framing drives highest reply rates.",
+      "subject_approach": "Peer firm results or specific practice area improvement",
+      "data_year": 2026
+    },
+    "real-estate": {
+      "label": "Real Estate",
+      "open_rate": {
+        "low": 17,
+        "high": 27,
+        "median": 22
+      },
+      "reply_rate": {
+        "low": 2,
+        "high": 5,
+        "median": 3.2
+      },
+      "click_rate": {
+        "low": 1.8,
+        "high": 4.2,
+        "median": 2.8
+      },
+      "hard_bounce_target": 2.5,
+      "best_send_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_send_time": "8:00-10:00am local",
+      "buying_cycle_days": 21,
+      "personalization_required": "Moderate — market-specific data and local reference",
+      "decision_maker_titles": [
+        "Property Manager",
+        "Broker",
+        "Owner",
+        "Development Director",
+        "Investor"
+      ],
+      "open_rate_note": "Strong opens especially for local market intelligence. Property buyers are deal-driven.",
+      "reply_rate_note": "Local market data and property-specific offers drive highest reply rates.",
+      "subject_approach": "Local market data point or portfolio improvement metric",
+      "data_year": 2026
+    },
+    "construction": {
+      "label": "Construction",
+      "open_rate": {
+        "low": 16,
+        "high": 24,
+        "median": 20
+      },
+      "reply_rate": {
+        "low": 1.8,
+        "high": 4.2,
+        "median": 2.8
+      },
+      "click_rate": {
+        "low": 1.5,
+        "high": 3.5,
+        "median": 2.3
+      },
+      "hard_bounce_target": 3,
+      "best_send_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "best_send_time": "6:00-8:00am local (pre-site)",
+      "buying_cycle_days": 45,
+      "personalization_required": "Moderate — project type and regional reference helpful",
+      "decision_maker_titles": [
+        "Project Manager",
+        "Owner",
+        "Director of Operations",
+        "Estimator",
+        "Procurement Manager"
+      ],
+      "open_rate_note": "Early morning send windows outperform. Construction buyers start early.",
+      "reply_rate_note": "Cost and timeline savings framing drives best results.",
+      "subject_approach": "Cost reduction or timeline improvement on specific project type",
+      "data_year": 2026
+    },
+    "legal": {
+      "label": "Legal",
+      "open_rate": {
+        "low": 17,
+        "high": 27,
+        "median": 22
+      },
+      "reply_rate": {
+        "low": 1.8,
+        "high": 4.5,
+        "median": 2.8
+      },
+      "click_rate": {
+        "low": 1.5,
+        "high": 3.8,
+        "median": 2.4
+      },
+      "hard_bounce_target": 2,
+      "best_send_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_send_time": "8:30-10:30am local",
+      "buying_cycle_days": 30,
+      "personalization_required": "Very High — practice area and jurisdiction specificity essential",
+      "decision_maker_titles": [
+        "Managing Partner",
+        "General Counsel",
+        "Partner",
+        "Practice Group Leader",
+        "COO"
+      ],
+      "open_rate_note": "Good opens when highly personalised to practice area. Generic messaging fails.",
+      "reply_rate_note": "Practice-area specific framing with peer firm references drives replies.",
+      "subject_approach": "Practice-specific efficiency or regulatory change reference",
+      "data_year": 2026
+    },
+    "ecommerce": {
+      "label": "E-commerce",
+      "open_rate": {
+        "low": 20,
+        "high": 30,
+        "median": 25
+      },
+      "reply_rate": {
+        "low": 3,
+        "high": 7,
+        "median": 4.8
+      },
+      "click_rate": {
+        "low": 2.5,
+        "high": 6,
+        "median": 4
+      },
+      "hard_bounce_target": 2.5,
+      "best_send_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_send_time": "8:00-10:00am local",
+      "buying_cycle_days": 14,
+      "personalization_required": "Moderate — platform and traffic context useful",
+      "decision_maker_titles": [
+        "Head of Growth",
+        "CMO",
+        "Founder",
+        "E-commerce Manager",
+        "VP Marketing"
+      ],
+      "open_rate_note": "Highest reply rates of any vertical. E-commerce buyers are fast-moving and ROI-driven.",
+      "reply_rate_note": "Revenue uplift and conversion rate improvements drive immediate replies.",
+      "subject_approach": "Revenue per visitor or conversion rate improvement metric",
+      "data_year": 2026
+    },
+    "oil-energy": {
+      "label": "Oil & Energy",
+      "open_rate": {
+        "low": 14,
+        "high": 22,
+        "median": 18
+      },
+      "reply_rate": {
+        "low": 1.5,
+        "high": 3.5,
+        "median": 2.2
+      },
+      "click_rate": {
+        "low": 1.2,
+        "high": 3,
+        "median": 1.9
+      },
+      "hard_bounce_target": 2.5,
+      "best_send_days": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "best_send_time": "8:00-10:00am local",
+      "buying_cycle_days": 120,
+      "personalization_required": "Very High — technical and regulatory specificity essential",
+      "decision_maker_titles": [
+        "VP Operations",
+        "Director of Procurement",
+        "HSE Manager",
+        "COO",
+        "Project Director"
+      ],
+      "open_rate_note": "Conservative opens. Energy buyers have long procurement cycles and technical gatekeepers.",
+      "reply_rate_note": "Safety, compliance, and operational efficiency framing. Patience required.",
+      "subject_approach": "HSE compliance improvement or operational efficiency metric",
+      "data_year": 2026
+    },
+    "education-training": {
+      "label": "Education & Training",
+      "open_rate": {
+        "low": 17,
+        "high": 26,
+        "median": 21
+      },
+      "reply_rate": {
+        "low": 1.8,
+        "high": 4.2,
+        "median": 2.8
+      },
+      "click_rate": {
+        "low": 1.5,
+        "high": 3.5,
+        "median": 2.4
+      },
+      "hard_bounce_target": 2.5,
+      "best_send_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_send_time": "8:30-10:30am local",
+      "buying_cycle_days": 60,
+      "personalization_required": "Moderate — institution type and learning outcome focus",
+      "decision_maker_titles": [
+        "Dean",
+        "Training Director",
+        "Head of L&D",
+        "VP Academic Affairs",
+        "CLO"
+      ],
+      "open_rate_note": "Good open rates. Education buyers respond to outcome and accreditation framing.",
+      "reply_rate_note": "Student outcome and accreditation improvement drives replies.",
+      "subject_approach": "Student outcome metric or accreditation improvement",
+      "data_year": 2026
+    },
+    "retail-commerce": {
+      "label": "Retail & Commerce",
+      "open_rate": {
+        "low": 14,
+        "high": 22,
+        "median": 18
+      },
+      "reply_rate": {
+        "low": 1.5,
+        "high": 3.5,
+        "median": 2.2
+      },
+      "click_rate": {
+        "low": 1.2,
+        "high": 3,
+        "median": 1.9
+      },
+      "hard_bounce_target": 3,
+      "best_send_days": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "best_send_time": "9:00-11:00am local",
+      "buying_cycle_days": 30,
+      "personalization_required": "Moderate — product category and channel context helpful",
+      "decision_maker_titles": [
+        "Buyer",
+        "Category Manager",
+        "CMO",
+        "Operations Director",
+        "Head of Digital"
+      ],
+      "open_rate_note": "Moderate opens. Retail buyers are price-sensitive and ROI-focused.",
+      "reply_rate_note": "Sales uplift and margin improvement messaging performs best.",
+      "subject_approach": "Category revenue uplift or margin improvement",
+      "data_year": 2026
+    },
+    "agriculture-food": {
+      "label": "Agriculture & Food",
+      "open_rate": {
+        "low": 15,
+        "high": 24,
+        "median": 19
+      },
+      "reply_rate": {
+        "low": 1.6,
+        "high": 3.8,
+        "median": 2.4
+      },
+      "click_rate": {
+        "low": 1.3,
+        "high": 3.2,
+        "median": 2
+      },
+      "hard_bounce_target": 3.5,
+      "best_send_days": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "best_send_time": "7:00-9:00am local (early operational hours)",
+      "buying_cycle_days": 45,
+      "personalization_required": "Moderate — crop type, processing stage, or geographic region",
+      "decision_maker_titles": [
+        "Farm Owner",
+        "Operations Manager",
+        "Procurement Manager",
+        "COO",
+        "Agronomist"
+      ],
+      "open_rate_note": "Seasonal variation significant. Early morning sends outperform. Practical, direct copy wins.",
+      "reply_rate_note": "Yield improvement, cost reduction, and weather/logistics framing drives replies.",
+      "subject_approach": "Yield improvement or cost reduction specific to crop/product type",
+      "data_year": 2026
+    },
+    "transportation-logistics": {
+      "label": "Transportation & Logistics",
+      "open_rate": {
+        "low": 16,
+        "high": 25,
+        "median": 20
+      },
+      "reply_rate": {
+        "low": 1.8,
+        "high": 4.2,
+        "median": 2.8
+      },
+      "click_rate": {
+        "low": 1.5,
+        "high": 3.5,
+        "median": 2.3
+      },
+      "hard_bounce_target": 3,
+      "best_send_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "best_send_time": "7:30-9:30am local",
+      "buying_cycle_days": 30,
+      "personalization_required": "Moderate — mode of transport and route/region reference",
+      "decision_maker_titles": [
+        "VP Logistics",
+        "Fleet Manager",
+        "Head of Supply Chain",
+        "Operations Director",
+        "COO"
+      ],
+      "open_rate_note": "Logistics buyers respond to real-time solutions. Speed and cost framing works.",
+      "reply_rate_note": "On-time delivery improvement and fuel/cost reduction drives strong replies.",
+      "subject_approach": "On-time delivery rate improvement or cost-per-shipment reduction",
+      "data_year": 2026
+    }
+  },
+  "by_job_level": {
+    "c_suite": {
+      "label": "C-Suite (CEO, CFO, CTO, CMO, COO)",
+      "open_rate": {
+        "low": 14,
+        "high": 22,
+        "median": 18
+      },
+      "reply_rate": {
+        "low": 0.8,
+        "high": 2.5,
+        "median": 1.4
+      },
+      "click_rate": {
+        "low": 0.8,
+        "high": 2,
+        "median": 1.2
+      },
+      "optimal_sequence_length": 3,
+      "sequence_cadence": "Day 1, Day 4, Day 8",
+      "personalization_required": "Maximum — must reference specific business outcome",
+      "copy_length": "Ultra-short (under 80 words). No pitch, one specific question.",
+      "best_subject_approach": "Company-specific observation or peer reference",
+      "volume_recommendation": "Under 500 per sequence. Quality over quantity.",
+      "note": "C-suite reply rates are low but conversion rates when replies happen are extremely high. One C-suite reply often converts to a six-figure deal.",
+      "data_year": 2026
+    },
+    "vp_director": {
+      "label": "VP / Director Level",
+      "open_rate": {
+        "low": 17,
+        "high": 26,
+        "median": 21
+      },
+      "reply_rate": {
+        "low": 1.5,
+        "high": 4,
+        "median": 2.5
+      },
+      "click_rate": {
+        "low": 1.3,
+        "high": 3.2,
+        "median": 2
+      },
+      "optimal_sequence_length": 4,
+      "sequence_cadence": "Day 1, Day 3, Day 7, Day 14",
+      "personalization_required": "High — reference team/department problem",
+      "copy_length": "Short-medium (80-120 words). Problem-framing with evidence.",
+      "best_subject_approach": "Team-specific pain point with metric",
+      "volume_recommendation": "500-2,000 per sequence. Good balance of volume and quality.",
+      "note": "VP and Director level is the sweet spot for most B2B campaigns. High enough to make decisions, approachable enough to reply.",
+      "data_year": 2026
+    },
+    "manager": {
+      "label": "Manager / Senior Manager",
+      "open_rate": {
+        "low": 20,
+        "high": 30,
+        "median": 25
+      },
+      "reply_rate": {
+        "low": 2.5,
+        "high": 6,
+        "median": 4
+      },
+      "click_rate": {
+        "low": 2,
+        "high": 5,
+        "median": 3.2
+      },
+      "optimal_sequence_length": 5,
+      "sequence_cadence": "Day 1, Day 3, Day 6, Day 10, Day 16",
+      "personalization_required": "Moderate — function and tool reference sufficient",
+      "copy_length": "Medium (100-150 words). More context acceptable.",
+      "best_subject_approach": "Specific tool or workflow problem they face",
+      "volume_recommendation": "2,000-10,000 per sequence. Can scale volume.",
+      "note": "Managers have the highest open and reply rates but may not have final budget authority. Best for top-of-funnel and qualification.",
+      "data_year": 2026
+    },
+    "owner_founder": {
+      "label": "Owner / Founder (SMB)",
+      "open_rate": {
+        "low": 22,
+        "high": 32,
+        "median": 27
+      },
+      "reply_rate": {
+        "low": 3,
+        "high": 8,
+        "median": 5.5
+      },
+      "click_rate": {
+        "low": 2.5,
+        "high": 6,
+        "median": 4.2
+      },
+      "optimal_sequence_length": 4,
+      "sequence_cadence": "Day 1, Day 4, Day 9, Day 16",
+      "personalization_required": "High — revenue/growth context essential",
+      "copy_length": "Short (60-100 words). Direct, ROI-focused.",
+      "best_subject_approach": "Revenue growth or time-saving specific to their business type",
+      "volume_recommendation": "1,000-5,000 per sequence. Segment by industry for best results.",
+      "note": "SMB owners have the highest reply rates and shortest decision cycles. They can say yes immediately. Best for offers with clear, fast ROI.",
+      "data_year": 2026
+    }
+  },
+  "by_list_type": {
+    "purchased_verified": {
+      "label": "Purchased — Verified B2B List",
+      "open_rate": {
+        "low": 18,
+        "high": 26,
+        "median": 22
+      },
+      "reply_rate": {
+        "low": 2,
+        "high": 5,
+        "median": 3.2
+      },
+      "click_rate": {
+        "low": 1.8,
+        "high": 4,
+        "median": 2.6
+      },
+      "hard_bounce_rate": {
+        "low": 1,
+        "high": 2.5,
+        "median": 1.5
+      },
+      "deliverability_score": 92,
+      "inbox_placement_rate": 88,
+      "typical_age_days": 30,
+      "verification_rate": 94,
+      "recommended_warm_up": true,
+      "warm_up_days": 14,
+      "gdpr_basis_available": "legitimate_interest",
+      "note": "Best balance of scale and quality. Verified lists from reputable providers achieve near-inbound deliverability when combined with domain warm-up and list cleaning.",
+      "use_cases": [
+        "Cold email campaigns",
+        "Market expansion",
+        "Trade show follow-up",
+        "Account-based marketing"
+      ],
+      "data_year": 2026
+    },
+    "scraped_unverified": {
+      "label": "Scraped — Unverified List",
+      "open_rate": {
+        "low": 4,
+        "high": 12,
+        "median": 7
+      },
+      "reply_rate": {
+        "low": 0.2,
+        "high": 1.2,
+        "median": 0.5
+      },
+      "click_rate": {
+        "low": 0.3,
+        "high": 1,
+        "median": 0.5
+      },
+      "hard_bounce_rate": {
+        "low": 8,
+        "high": 22,
+        "median": 14
+      },
+      "deliverability_score": 45,
+      "inbox_placement_rate": 38,
+      "typical_age_days": 180,
+      "verification_rate": 40,
+      "recommended_warm_up": true,
+      "warm_up_days": 21,
+      "gdpr_basis_available": "none",
+      "note": "Unverified scraped lists cause severe sender reputation damage. Hard bounce rates of 8-22% will trigger ESP account suspension. Domain blacklisting risk is high. Not recommended for any professional outreach.",
+      "use_cases": [
+        "Not recommended for cold email"
+      ],
+      "data_year": 2026
+    },
+    "opted_in": {
+      "label": "Opted-In / Consent-Based List",
+      "open_rate": {
+        "low": 28,
+        "high": 45,
+        "median": 36
+      },
+      "reply_rate": {
+        "low": 5,
+        "high": 14,
+        "median": 8.5
+      },
+      "click_rate": {
+        "low": 4.5,
+        "high": 12,
+        "median": 7.5
+      },
+      "hard_bounce_rate": {
+        "low": 0.2,
+        "high": 0.8,
+        "median": 0.4
+      },
+      "deliverability_score": 98,
+      "inbox_placement_rate": 96,
+      "typical_age_days": 7,
+      "verification_rate": 99,
+      "recommended_warm_up": false,
+      "warm_up_days": 0,
+      "gdpr_basis_available": "consent",
+      "note": "Opted-in lists achieve the highest performance metrics across all dimensions. The challenge is scale — opt-in lists are typically 10-50x smaller than purchased lists. Used for nurture sequences, newsletter campaigns, and re-engagement.",
+      "use_cases": [
+        "Email nurture sequences",
+        "Newsletter campaigns",
+        "Webinar promotion",
+        "Re-engagement campaigns"
+      ],
+      "data_year": 2026
+    }
+  },
+  "composite_scenarios": [
+    {
+      "id": "us-tech-csuite-verified",
+      "label": "USA · Technology · C-Suite · Verified List",
+      "open_rate": {
+        "low": 18,
+        "high": 26,
+        "median": 22
+      },
+      "reply_rate": {
+        "low": 1.2,
+        "high": 3.5,
+        "median": 2
+      },
+      "note": "Best combined scenario for high-value enterprise deals. Send Tue-Thu 7:30-9am. Personalise to CTO/VP Eng stack.",
+      "data_year": 2026
+    },
+    {
+      "id": "uk-fintech-vp-verified",
+      "label": "UK · Finance & Banking · VP/Director · Verified List",
+      "open_rate": {
+        "low": 14,
+        "high": 20,
+        "median": 17
+      },
+      "reply_rate": {
+        "low": 1.5,
+        "high": 3.5,
+        "median": 2.2
+      },
+      "note": "PECR compliance essential. FCA-regulated angle. In-persona personalisation to specific regulatory challenge.",
+      "data_year": 2026
+    },
+    {
+      "id": "us-ecom-owner-verified",
+      "label": "USA · E-commerce · Owner/Founder · Verified List",
+      "open_rate": {
+        "low": 22,
+        "high": 32,
+        "median": 27
+      },
+      "reply_rate": {
+        "low": 3.5,
+        "high": 9,
+        "median": 6
+      },
+      "note": "Highest reply rate scenario. Revenue-first messaging. Shopify/WooCommerce stack reference. Sub-80 word copy.",
+      "data_year": 2026
+    },
+    {
+      "id": "india-tech-manager-verified",
+      "label": "India · Technology · Manager · Verified List",
+      "open_rate": {
+        "low": 22,
+        "high": 32,
+        "median": 27
+      },
+      "reply_rate": {
+        "low": 3,
+        "high": 7,
+        "median": 4.8
+      },
+      "note": "High volume, high receptivity. English copy. Technical specificity valued. Bangalore/Mumbai focus.",
+      "data_year": 2026
+    },
+    {
+      "id": "de-manufacturing-vp-verified",
+      "label": "Germany · Manufacturing · VP/Director · Verified List",
+      "open_rate": {
+        "low": 10,
+        "high": 16,
+        "median": 13
+      },
+      "reply_rate": {
+        "low": 1,
+        "high": 2.5,
+        "median": 1.5
+      },
+      "note": "German-language copy essential. ROI-heavy, technical messaging. Compliance preamble required.",
+      "data_year": 2026
+    },
+    {
+      "id": "uae-professional-vp-verified",
+      "label": "UAE · Professional Services · VP/Director · Verified List",
+      "open_rate": {
+        "low": 17,
+        "high": 26,
+        "median": 21
+      },
+      "reply_rate": {
+        "low": 2,
+        "high": 4.8,
+        "median": 3.2
+      },
+      "note": "Mon-Thu sending window. Relationship-context opening. English accepted. Ramadan calendar awareness.",
+      "data_year": 2026
+    }
+  ]
+}

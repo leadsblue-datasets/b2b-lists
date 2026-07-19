@@ -1,0 +1,37 @@
+{
+  "name": "Argentina Consumer Email List",
+  "location": "Argentina",
+  "slug": "argentina-consumer-email-list",
+  "url": "https://b2bdataindex.com/consumer-data/argentina-consumer-email-list/",
+  "records": 55578831,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 11,
+      "25–34": 23,
+      "35–44": 22,
+      "45–54": 10,
+      "55–64": 10,
+      "65+": 24
+    },
+    "gender": {
+      "female": "56%",
+      "male": "44%"
+    }
+  },
+  "interests": {
+    "Education & Self-Improvement": 19,
+    "Shopping & Retail": 18,
+    "Travel & Leisure": 18,
+    "Home & Family": 17,
+    "Entertainment & Media": 14,
+    "Sports & Fitness": 14
+  },
+  "benchmarks": {
+    "open_rate": "25.7%",
+    "ctr": "7.7%"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/argentina-consumer-email-database/"
+}

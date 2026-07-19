@@ -1,0 +1,38 @@
+{
+  "name": "Belarus BB Database",
+  "location": "Belarus",
+  "slug": "belarus-bb-database",
+  "url": "https://b2bdataindex.com/data-pages/belarus-bb-database/",
+  "records": 374871,
+  "industries": {
+    "Retail & Commerce": 17,
+    "Manufacturing": 16,
+    "Transportation": 15,
+    "Construction": 14,
+    "Healthcare": 14,
+    "Technology": 14,
+    "Education": 10
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 51,
+    "SME (11–100 employees)": 25,
+    "Mid-market (101–500)": 11,
+    "Enterprise (500+)": 13
+  },
+  "benchmarks": {
+    "open_rate": "20.6%",
+    "reply_rate": "4.6%",
+    "ctr": "5.4%",
+    "bounce_rate": "1.3%"
+  },
+  "data_quality": {
+    "verification_rate": "98%",
+    "decision_maker_ratio": "44%",
+    "last_verified": "Q2-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/belarus-business-email-leads-database/"
+}

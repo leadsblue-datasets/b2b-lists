@@ -1,0 +1,38 @@
+{
+  "name": "Canada Business Contact List",
+  "location": "Canada",
+  "slug": "canada-business-contact-list",
+  "url": "https://b2bdataindex.com/data-pages/canada-business-contact-list/",
+  "records": 12517419,
+  "industries": {
+    "Professional Services": 28,
+    "Technology": 18,
+    "Finance & Banking": 11,
+    "Retail & Commerce": 15,
+    "Healthcare": 8,
+    "Manufacturing": 9,
+    "Natural Resources": 11
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 45,
+    "SME (11–100 employees)": 27,
+    "Mid-market (101–500)": 11,
+    "Enterprise (500+)": 17
+  },
+  "benchmarks": {
+    "open_rate": "23.4%",
+    "reply_rate": "5.1%",
+    "ctr": "5.3%",
+    "bounce_rate": "2%"
+  },
+  "data_quality": {
+    "verification_rate": "94%",
+    "decision_maker_ratio": "46%",
+    "last_verified": "Q1-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "CASL"
+  },
+  "product_url": "https://leadsblue.com/leads/canada-business-email-leads-database/"
+}

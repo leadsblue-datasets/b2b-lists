@@ -1,0 +1,38 @@
+{
+  "name": "Czech Republic BB Database",
+  "location": "Czech Republic",
+  "slug": "czech-republic-bb-database",
+  "url": "https://b2bdataindex.com/data-pages/czech-republic-bb-database/",
+  "records": 2467321,
+  "industries": {
+    "Manufacturing & Engineering": 18,
+    "Construction": 16,
+    "Finance & Banking": 16,
+    "Technology": 15,
+    "Professional Services": 12,
+    "Transportation": 12,
+    "Healthcare": 11
+  },
+  "company_sizes": {
+    "Micro (1–10 employees)": 49,
+    "SME (11–100 employees)": 28,
+    "Mid-market (101–500)": 9,
+    "Enterprise (500+)": 14
+  },
+  "benchmarks": {
+    "open_rate": "18.5%",
+    "reply_rate": "6.2%",
+    "ctr": "6.1%",
+    "bounce_rate": "1.4%"
+  },
+  "data_quality": {
+    "verification_rate": "95%",
+    "decision_maker_ratio": "48%",
+    "last_verified": "Q3-2026",
+    "format": "CSV,XLSX"
+  },
+  "compliance": {
+    "framework": "GDPR"
+  },
+  "product_url": "https://leadsblue.com/leads/czech-republic-business-email-leads-database/"
+}

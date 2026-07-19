@@ -1,0 +1,37 @@
+{
+  "name": "Turkey Consumer Email Database",
+  "location": "Turkey",
+  "slug": "turkey-consumer-email-database",
+  "url": "https://b2bdataindex.com/consumer-data/turkey-consumer-email-database/",
+  "records": 39554149,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 8,
+      "25–34": 19,
+      "35–44": 20,
+      "45–54": 23,
+      "55–64": 18,
+      "65+": 12
+    },
+    "gender": {
+      "female": "44%",
+      "male": "56%"
+    }
+  },
+  "interests": {
+    "Health & Wellness": 19,
+    "Sports & Fitness": 17,
+    "Shopping & Retail": 17,
+    "Beauty & Fashion": 16,
+    "Technology & Gadgets": 16,
+    "Home & Family": 15
+  },
+  "benchmarks": {
+    "open_rate": "23%",
+    "ctr": "6.8%"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/turkey-consumer-email-list-and-sales-leads-database/"
+}

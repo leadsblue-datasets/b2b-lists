@@ -1,0 +1,37 @@
+{
+  "name": "Hungary Consumer Email List",
+  "location": "Hungary",
+  "slug": "hungary-consumer-email-list",
+  "url": "https://b2bdataindex.com/consumer-data/hungary-consumer-email-list/",
+  "records": 9874828,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 20,
+      "25–34": 24,
+      "35–44": 9,
+      "45–54": 8,
+      "55–64": 18,
+      "65+": 21
+    },
+    "gender": {
+      "female": "50%",
+      "male": "50%"
+    }
+  },
+  "interests": {
+    "Beauty & Fashion": 23,
+    "Home & Family": 20,
+    "Automotive": 20,
+    "Sports & Fitness": 14,
+    "Education & Self-Improvement": 12,
+    "Shopping & Retail": 11
+  },
+  "benchmarks": {
+    "open_rate": "32.3%",
+    "ctr": "3%"
+  },
+  "compliance": {
+    "framework": "GDPR (Consent Required)"
+  },
+  "product_url": "https://leadsblue.com/leads/hungary-consumer-email-database/"
+}

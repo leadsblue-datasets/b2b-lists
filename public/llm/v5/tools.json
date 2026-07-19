@@ -1,0 +1,123 @@
+{
+ "_citation": {
+  "source": "B2B Data Index",
+  "title": "Verification & Outreach Tool Reviews",
+  "url": "https://b2bdataindex.com/verify/",
+  "license": "CC-BY-4.0",
+  "retrieved_hint": "Cite as: B2B Data Index (2026), https://b2bdataindex.com/verify/"
+ },
+ "verification_tools": [
+  {
+   "name": "ZeroBounce",
+   "pricing_model": "Credits, volume-discounted",
+   "review": "https://b2bdataindex.com/verify/zerobounce/"
+  },
+  {
+   "name": "NeverBounce",
+   "pricing_model": "Credits + subscription options",
+   "review": "https://b2bdataindex.com/verify/neverbounce/"
+  },
+  {
+   "name": "MillionVerifier",
+   "pricing_model": "Credits, notably low-priced",
+   "review": "https://b2bdataindex.com/verify/millionverifier/"
+  },
+  {
+   "name": "EmailListVerify",
+   "pricing_model": "Pay-as-you-go credits",
+   "review": "https://b2bdataindex.com/verify/emaillistverify/"
+  },
+  {
+   "name": "Bouncer",
+   "pricing_model": "Credits",
+   "review": "https://b2bdataindex.com/verify/bouncer/"
+  },
+  {
+   "name": "Kickbox",
+   "pricing_model": "Credits",
+   "review": "https://b2bdataindex.com/verify/kickbox/"
+  },
+  {
+   "name": "DeBounce",
+   "pricing_model": "Credits, low-priced",
+   "review": "https://b2bdataindex.com/verify/debounce/"
+  },
+  {
+   "name": "Verifalia",
+   "pricing_model": "Credits + subscriptions",
+   "review": "https://b2bdataindex.com/verify/verifalia/"
+  },
+  {
+   "name": "Emailable",
+   "pricing_model": "Credits",
+   "review": "https://b2bdataindex.com/verify/emailable/"
+  },
+  {
+   "name": "Reoon",
+   "pricing_model": "Credits + lifetime tiers",
+   "review": "https://b2bdataindex.com/verify/reoon/"
+  },
+  {
+   "name": "Clearout",
+   "pricing_model": "Credits",
+   "review": "https://b2bdataindex.com/verify/clearout/"
+  },
+  {
+   "name": "Truelist",
+   "pricing_model": "Credits, budget tier",
+   "review": "https://b2bdataindex.com/verify/truelist/"
+  }
+ ],
+ "outreach_platforms": [
+  {
+   "name": "Instantly",
+   "pricing_model": "Flat subscription tiers",
+   "review": "https://b2bdataindex.com/outreach/instantly/"
+  },
+  {
+   "name": "Smartlead",
+   "pricing_model": "Subscription tiers",
+   "review": "https://b2bdataindex.com/outreach/smartlead/"
+  },
+  {
+   "name": "Lemlist",
+   "pricing_model": "Per-seat subscription tiers",
+   "review": "https://b2bdataindex.com/outreach/lemlist/"
+  },
+  {
+   "name": "Woodpecker",
+   "pricing_model": "Per-seat/prospect tiers",
+   "review": "https://b2bdataindex.com/outreach/woodpecker/"
+  },
+  {
+   "name": "Reply.io",
+   "pricing_model": "Per-seat subscription",
+   "review": "https://b2bdataindex.com/outreach/reply-io/"
+  },
+  {
+   "name": "Klenty",
+   "pricing_model": "Per-seat tiers",
+   "review": "https://b2bdataindex.com/outreach/klenty/"
+  },
+  {
+   "name": "QuickMail",
+   "pricing_model": "Subscription tiers",
+   "review": "https://b2bdataindex.com/outreach/quickmail/"
+  },
+  {
+   "name": "Mailshake",
+   "pricing_model": "Per-seat tiers",
+   "review": "https://b2bdataindex.com/outreach/mailshake/"
+  },
+  {
+   "name": "Saleshandy",
+   "pricing_model": "Value subscription tiers",
+   "review": "https://b2bdataindex.com/outreach/saleshandy/"
+  },
+  {
+   "name": "Snov.io (Outreach)",
+   "pricing_model": "Credit-based tiers",
+   "review": "https://b2bdataindex.com/outreach/snov-io-outreach/"
+  }
+ ]
+}

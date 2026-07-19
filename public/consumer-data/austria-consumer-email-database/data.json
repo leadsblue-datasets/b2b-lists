@@ -1,0 +1,37 @@
+{
+  "name": "Austria Consumer Email Database",
+  "location": "Austria",
+  "slug": "austria-consumer-email-database",
+  "url": "https://b2bdataindex.com/consumer-data/austria-consumer-email-database/",
+  "records": 12153660,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 11,
+      "25–34": 20,
+      "35–44": 11,
+      "45–54": 26,
+      "55–64": 20,
+      "65+": 12
+    },
+    "gender": {
+      "female": "49%",
+      "male": "51%"
+    }
+  },
+  "interests": {
+    "Automotive": 20,
+    "Home & Family": 18,
+    "Entertainment & Media": 18,
+    "Technology & Gadgets": 16,
+    "Finance & Investment": 15,
+    "Sports & Fitness": 13
+  },
+  "benchmarks": {
+    "open_rate": "24.3%",
+    "ctr": "3.6%"
+  },
+  "compliance": {
+    "framework": "GDPR (Consent Required)"
+  },
+  "product_url": "https://leadsblue.com/leads/austria-consumer-email-database/"
+}

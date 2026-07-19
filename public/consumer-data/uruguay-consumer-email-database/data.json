@@ -1,0 +1,37 @@
+{
+  "name": "Uruguay Consumer Email Database",
+  "location": "Uruguay",
+  "slug": "uruguay-consumer-email-database",
+  "url": "https://b2bdataindex.com/consumer-data/uruguay-consumer-email-database/",
+  "records": 1149899,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 24,
+      "25–34": 24,
+      "35–44": 9,
+      "45–54": 16,
+      "55–64": 10,
+      "65+": 17
+    },
+    "gender": {
+      "female": "56%",
+      "male": "44%"
+    }
+  },
+  "interests": {
+    "Education & Self-Improvement": 21,
+    "Finance & Investment": 20,
+    "Food & Dining": 16,
+    "Travel & Leisure": 15,
+    "Entertainment & Media": 15,
+    "Shopping & Retail": 13
+  },
+  "benchmarks": {
+    "open_rate": "33.2%",
+    "ctr": "2.9%"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/uruguay-consumer-email-database/"
+}

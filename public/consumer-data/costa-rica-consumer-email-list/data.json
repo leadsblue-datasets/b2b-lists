@@ -1,0 +1,37 @@
+{
+  "name": "Costa Rica Consumer Email List",
+  "location": "Costa Rica",
+  "slug": "costa-rica-consumer-email-list",
+  "url": "https://b2bdataindex.com/consumer-data/costa-rica-consumer-email-list/",
+  "records": 6960320,
+  "demographics": {
+    "age_distribution": {
+      "18–24": 8,
+      "25–34": 10,
+      "35–44": 15,
+      "45–54": 23,
+      "55–64": 21,
+      "65+": 23
+    },
+    "gender": {
+      "female": "51%",
+      "male": "49%"
+    }
+  },
+  "interests": {
+    "Automotive": 22,
+    "Finance & Investment": 21,
+    "Entertainment & Media": 16,
+    "Beauty & Fashion": 15,
+    "Education & Self-Improvement": 14,
+    "Sports & Fitness": 12
+  },
+  "benchmarks": {
+    "open_rate": "23.3%",
+    "ctr": "5%"
+  },
+  "compliance": {
+    "framework": "CAN-SPAM + GDPR Best Practice"
+  },
+  "product_url": "https://leadsblue.com/leads/costarica-consumer-email-database/"
+}

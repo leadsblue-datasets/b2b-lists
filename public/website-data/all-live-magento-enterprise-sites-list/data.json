@@ -1,0 +1,24 @@
+{
+  "name": "All Live Magento Enterprise Sites List",
+  "tech_name": "Magento Enterprise",
+  "slug": "all-live-magento-enterprise-sites-list",
+  "type": "tech-sites",
+  "url": "https://b2bdataindex.com/website-data/all-live-magento-enterprise-sites-list/",
+  "sites": 287518,
+  "geo": {
+    "United States": 33,
+    "United Kingdom": 11,
+    "Canada": 4,
+    "Australia": 6,
+    "Germany": 6,
+    "Rest of World": 40
+  },
+  "traffic": {
+    "High Traffic (>100K/mo)": 12,
+    "Medium Traffic (10K–100K/mo)": 33,
+    "Low/New (<10K/mo)": 55
+  },
+  "verification_rate": "93%",
+  "last_verified": "Q3-2026",
+  "product_url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/"
+}
